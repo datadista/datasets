@@ -8,6 +8,8 @@ Fuente de los datos: Ministerio de Sanidad, Consumo y Bienestar Social https://w
 
 **uci_cccaa_FECHA_covid19:** número de personas en la UCI registrados por Comunidad Autónoma
 
+**nacional_FECHA_covid19:** Dato acumulado diario con el número de casos, fallecidos y recuperados a nivel nacional
+
 Puedes reutilizarlos para elaborar nuevas historias, análisis, proyectos o visualizaciones siempre y cuando nos cites.
 
 Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes ponerte en contacto con nosotros en hola@datadista.com o en Twitter en @datadista.
