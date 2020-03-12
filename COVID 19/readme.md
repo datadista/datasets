@@ -10,6 +10,8 @@ Fuente de los datos: Ministerio de Sanidad, Consumo y Bienestar Social https://w
 
 **nacional_FECHA_covid19:** Dato acumulado diario con el número de casos, fallecidos y recuperados a nivel nacional
 
-Puedes reutilizarlos para elaborar nuevas historias, análisis, proyectos o visualizaciones siempre y cuando nos cites.
+**nacional_FECHA_covid19:** Dato acumulado diario con el número de casos, fallecidos y recuperados a nivel nacional
+
+**PDFs originales de resumen de situación** Carpeta con los PDFs originales a los que se le realiza tareas de extracción de tablas, limpieza y normalización.
 
 Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes ponerte en contacto con nosotros en hola@datadista.com o en Twitter en @datadista.
