@@ -1,0 +1,38 @@
+---
+title: "Evolución casos COVID19 en España"
+author: "J. J. Merelo"
+date: "14 de marzo de 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(ggplot2)
+library(ggthemes)
+data <- read.csv("../nacional_covid19.csv")
+data$Fecha <- as.Date( data$Fecha, "%d/%m/%Y")
+data$Casos.nuevos <- c( NA, diff(data$Casos))
+data$Altas.nuevas <- c( NA, diff(data$Altas))
+data$Fallecimientos.nuevos <- c( NA, diff(data$Fallecimientos))
+```
+
+## Análisis inicial
+
+Trazando los casos nuevos
+
+```{r casos}
+ggplot(data,aes(x=Fecha,y=Casos.nuevos),na.rm = TRUE)+geom_line()+theme_tufte()
+```
+
+Las nuevas altas por día
+
+```{r altas}
+ggplot(data,aes(x=Fecha,y=Altas.nuevas),na.rm = TRUE)+geom_line()+theme_tufte()
+```
+
+
+Los nuevos fallecimientos por día
+
+```{r fallecimientos}
+ggplot(data,aes(x=Fecha,y=Fallecimientos.nuevos),na.rm = TRUE)+geom_line()+theme_tufte()
+```
