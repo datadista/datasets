@@ -8,7 +8,7 @@ Fuente de los datos: Ministerio de Sanidad, Consumo y Bienestar Social https://w
 
 **ccaa_covid19_uci.csv:** número de personas en la UCI registrados por Comunidad Autónoma
 
-**nacional_covid19.csv:** Dato acumulado diario con el número de casos, fallecidos y recuperados a nivel nacional
+**nacional_covid19.csv:** Dato acumulado diario con el número de casos, fallecidos, recuperados e ingresados en UCI a nivel nacional
 
 **PDFs originales de resumen de situación:** Carpeta con los PDFs originales a los que se le realiza tareas de extracción de tablas, limpieza y normalización.
 
