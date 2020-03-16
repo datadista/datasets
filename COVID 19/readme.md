@@ -8,6 +8,8 @@ Fuente de los datos: Ministerio de Sanidad, Consumo y Bienestar Social https://w
 
 [**ccaa_covid19_uci.csv:**](https://github.com/datadista/datasets/blob/master/COVID%2019/ccaa_covid19_uci.csv)  número de personas en la UCI registrados por Comunidad Autónoma
 
+[**ccaa_covid19_altas.csv:**](https://github.com/datadista/datasets/blob/master/COVID%2019/ccaa_covid19_altas.csv)  número de personas curadas registradas por Comunidad Autónoma
+
 [**nacional_covid19.csv:**](https://github.com/datadista/datasets/blob/master/COVID%2019/nacional_covid19.csv) número de casos, fallecidos, recuperados e ingresados en UCI a nivel nacional
 
 [**PDFs originales de resumen de situación:**](https://github.com/datadista/datasets/tree/master/COVID%2019/PDFs%20originales%20de%20resumen%20de%20situacio%CC%81n) carpeta con los PDFs originales a los que se le realiza tareas de extracción de tablas, limpieza y normalización.
