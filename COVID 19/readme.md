@@ -36,7 +36,7 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
 
 [**Ramiro Aznar: Python Scripts para desagregar y añadir geometrias a los datos del covid-19**](https://github.com/ramiroaznar/covid19-geom-by-date) 
 
-[**Computational Biology and Complex Systems. BIOCOMSC**](https://biocomsc.upc.edu/en/covid-19) - [**Daily Report**] (https://biocomsc.upc.edu/en/covid-19/daily-report)
+[**Computational Biology and Complex Systems. BIOCOMSC**](https://biocomsc.upc.edu/en/covid-19) - [**Daily Report**](https://biocomsc.upc.edu/en/covid-19/daily-report)
 
 [**Lucas Valentin: notebook de Google Colab**](https://colab.research.google.com/drive/1CxLXqJ7-7IcuXpkY0BSOqK54wZ4PBUgj)
 
