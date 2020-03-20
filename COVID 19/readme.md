@@ -38,6 +38,8 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
 
 [**Computational Biology and Complex Systems. BIOCOMSC**](https://biocomsc.upc.edu/en/covid-19) - [**Daily Report**](https://biocomsc.upc.edu/en/covid-19/daily-report)
 
+[**Carlos J. Gil Bellosta: Modelización de los casos en Madrid a partir de las defunciones**](https://github.com/cjgb/covid_madrid)
+
 [**Lucas Valentin: notebook de Google Colab**](https://colab.research.google.com/drive/1CxLXqJ7-7IcuXpkY0BSOqK54wZ4PBUgj)
 
 [**Ruben Diaz: CoronaApp**](https://coronapp-d660b.firebaseapp.com/)
