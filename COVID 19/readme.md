@@ -20,7 +20,7 @@ Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/prof
 
 [**nacional_covid19.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) número de casos, fallecidos, recuperados, ingresados en UCI y hospitalizados a nivel nacional
 
-[**nacional_covid19_reango_edad.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19_rango_edad.csv) número de casos, fallecidos, recuperados, ingresados en UCI y hospitalizados a nivel nacional por rango de edad. *Datos obtenidos del análisis sobre los casos notificados con información de edad.*
+[**nacional_covid19_rango_edad.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19_rango_edad.csv) número de casos, fallecidos, recuperados, ingresados en UCI y hospitalizados a nivel nacional por rango de edad. *Datos obtenidos del análisis sobre los casos notificados con información de edad.*
 
 [**PDFs originales de resumen de situación:**](https://github.com/datadista/datasets/tree/master/COVID%2019/PDFs%20originales%20de%20resumen%20de%20situacio%CC%81n) carpeta con los PDFs originales a los que se les realiza tareas de extracción de tablas, limpieza y normalización
 
