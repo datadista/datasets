@@ -9,8 +9,8 @@ Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/prof
  Departamento de Seguridad Nacional: https://www.dsn.gob.es/gl/current-affairs/press-room
  
  **Detalle de los datasets:**
-
-[**ccaa_covid19_casos.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_casos.csv) número de casos registrados por Comunidad Autónoma
+ 
+[**ccaa_covid19_casos.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_casos.csv) número de casos registrados por Comunidad Autónoma.
 
 [**ccaa_covid19_fallecidos.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos.csv) número de fallecidos registrados por Comunidad Autónoma
 
@@ -19,6 +19,12 @@ Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/prof
 [**ccaa_covid19_altas.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_altas.csv)  número de personas curadas registradas por Comunidad Autónoma
 
 [**nacional_covid19.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) número de casos, fallecidos, recuperados, ingresados en UCI y hospitalizados a nivel nacional
+
+[**nacional_covid19_rango_edad.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19_rango_edad.csv) número de casos, fallecidos, recuperados, ingresados en UCI y hospitalizados a nivel nacional por rango de edad. *Datos obtenidos del análisis sobre los casos notificados con información de edad.*
+
+[**ccaa_covid19_mascarillas.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_mascarillas.csv) Número acumulado de mascarillas repartidas por CCAA por el Ministerio de Sanidad desde 2020-03-10.
+
+[**ccaa_camas_uci_2017.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_camas_uci_2017.csv) Número de camas UCI por CCAA. Dato extraído de los microdatos de la [Estadística de Centros Sanitarios de Atención Especializada (SIAE)](https://www.mscbs.gob.es/estadEstudios/estadisticas/estHospiInternado/inforAnual/homeESCRI.htm) de 2017. Último dato oficial disponible. Utilizado en el articulo: [**Incidencia de la COVID-19 en las camas UCI en España**](https://datadista.com/coronavirus/camas-uci/)
 
 [**PDFs originales de resumen de situación:**](https://github.com/datadista/datasets/tree/master/COVID%2019/PDFs%20originales%20de%20resumen%20de%20situacio%CC%81n) carpeta con los PDFs originales a los que se les realiza tareas de extracción de tablas, limpieza y normalización
 
@@ -55,3 +61,7 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
 [**@gallir: predicción de nuevos casos con series temporales y datos oficiales**](https://twitter.com/gallir/status/1239563738522451969?s=20)
 
 [**@ALbertcarles: visualització de l'evolució de casos de #covid19 a #Catalunya,**](https://twitter.com/albertcarles/status/1239932470323273732?s=20)
+
+[**Belén Remacha/Ana Ordaz Eldiario.es: La gravedad de la epidemia en España la marcan las personas que acaban en el hospital: casi el 50% de los diagnosticados**](https://www.eldiario.es/sociedad/ingresos-UCIS-coronavirus_0_1007900310.html)
+
+[**neherlab.org/covid19, a planning tool based on an SIR model that simulates a COVID19 outbreak.**](https://neherlab.org/covid19/)
