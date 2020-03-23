@@ -69,3 +69,5 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
 [**neherlab.org/covid19, a planning tool based on an SIR model that simulates a COVID19 outbreak.**](https://neherlab.org/covid19/)
 
 [**José Luis Cañadas Reche: Corona virus dashboard**](https://canadasreche.shinyapps.io/dashboard_cvirus/)
+
+[**Danilo Delizia: Spain covid-19 dashboard.**](https://covid-19-es.herokuapp.com/)
