@@ -67,3 +67,9 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
 [**Belén Remacha/Ana Ordaz Eldiario.es: La gravedad de la epidemia en España la marcan las personas que acaban en el hospital: casi el 50% de los diagnosticados**](https://www.eldiario.es/sociedad/ingresos-UCIS-coronavirus_0_1007900310.html)
 
 [**neherlab.org/covid19, a planning tool based on an SIR model that simulates a COVID19 outbreak.**](https://neherlab.org/covid19/)
+
+[**José Luis Cañadas Reche: Corona virus dashboard**](https://canadasreche.shinyapps.io/dashboard_cvirus/)
+
+[**Danilo Delizia: Spain covid-19 dashboard.**](https://covid-19-es.herokuapp.com/)
+
+[**Carlos Cámara: COVID-19 in Spain**](https://ccamara.github.io/covid_spain/) - [**Code**](https://github.com/ccamara/covid_spain)
