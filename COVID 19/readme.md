@@ -24,7 +24,7 @@ Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/prof
 
 [**nacional_covid19.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) número de casos, fallecidos, recuperados, ingresados en UCI y hospitalizados a nivel nacional
 
-[**nacional_covid19_rango_edad.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19_rango_edad.csv) número de casos, fallecidos, recuperados, ingresados en UCI y hospitalizados a nivel nacional por rango de edad. *Datos obtenidos del análisis sobre los casos notificados con información de edad.*
+[**nacional_covid19_rango_edad.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19_rango_edad.csv) número de casos, fallecidos, recuperados, ingresados en UCI y hospitalizados a nivel nacional por rango de edad y sexo. *Datos 2020-03-22 obtenidos del análisis sobre los casos notificados con información de edad. Datos 2020-03-34 obtenidos del análisis sobre 20.471 casos notificados con información de edad y 20.459 con información de edad y sexo.*
 
 [**ccaa_camas_uci_2017.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_camas_uci_2017.csv) Número de camas UCI por CCAA. Dato extraído de los microdatos de la [Estadística de Centros Sanitarios de Atención Especializada (SIAE)](https://www.mscbs.gob.es/estadEstudios/estadisticas/estHospiInternado/inforAnual/homeESCRI.htm) de 2017. Último dato oficial disponible. Utilizado en el articulo: [**Incidencia de la COVID-19 en las camas UCI en España**](https://datadista.com/coronavirus/camas-uci/)
 
