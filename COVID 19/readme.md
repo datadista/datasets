@@ -73,3 +73,5 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
 [**Danilo Delizia: Spain covid-19 dashboard.**](https://covid-19-es.herokuapp.com/)
 
 [**Carlos Cámara: COVID-19 in Spain**](https://ccamara.github.io/covid_spain/) - [**Code**](https://github.com/ccamara/covid_spain)
+
+[**Maarten van Reek: Coronavirus COVID-19 in Spain, a Power BI report**](https://worktimesheet2014.blogspot.com/2020/03/coronavirus-covid-19-in-spain-power-bi.html)
