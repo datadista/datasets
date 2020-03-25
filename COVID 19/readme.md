@@ -10,19 +10,19 @@ Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/prof
  
  **Detalle de los datasets:**
  
-[**ccaa_covid19_casos.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_casos.csv) número de casos registrados por Comunidad Autónoma.
+[**ccaa_covid19_casos.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_casos.csv) Acumulado del número de casos confirmados registrados por Comunidad Autónoma.
 
-[**ccaa_covid19_fallecidos.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos.csv) número de fallecidos registrados por Comunidad Autónoma
+[**ccaa_covid19_fallecidos.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos.csv) Acumulado del número de fallecidos registrados por Comunidad Autónoma
 
-[**ccaa_covid19_uci.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_uci.csv) número de personas en la UCI registrados por Comunidad Autónoma
+[**ccaa_covid19_uci.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_uci.csv) Acumulado del número de pacientes que han precisado ingreso en la UCI registrados por Comunidad Autónoma
 
-[**ccaa_covid19_altas.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_altas.csv) número de personas curadas registradas por Comunidad Autónoma
+[**ccaa_covid19_altas.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_altas.csv) Acumulado del número de personas curadas registradas por Comunidad Autónoma
 
-[**ccaa_covid19_hospitalizados.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_hospitalizados.csv) número de personas hospitalizadas por Comunidad Autónoma
+[**ccaa_covid19_hospitalizados.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_hospitalizados.csv) Acumulado del número de pacientes que han precisado hospitalización (incluye UCI) por Comunidad Autónoma
 
 [**ccaa_covid19_mascarillas.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_mascarillas.csv) Número acumulado de mascarillas repartidas por CCAA por el Ministerio de Sanidad desde 2020-03-10 a 2020-03-22.
 
-[**nacional_covid19.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) número de casos, fallecidos, recuperados, ingresados en UCI y hospitalizados a nivel nacional
+[**nacional_covid19.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) número de casos, fallecidos, recuperados, pacientes que han precisado ingreso en UCI y pacientes que han precisado hospitalización (incluye UCI) a nivel nacional
 
 [**nacional_covid19_rango_edad.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19_rango_edad.csv) número de casos, fallecidos, recuperados, ingresados en UCI y hospitalizados a nivel nacional por rango de edad. *Datos obtenidos del análisis sobre los casos notificados con información de edad.*
 
@@ -73,3 +73,5 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
 [**Danilo Delizia: Spain covid-19 dashboard.**](https://covid-19-es.herokuapp.com/)
 
 [**Carlos Cámara: COVID-19 in Spain**](https://ccamara.github.io/covid_spain/) - [**Code**](https://github.com/ccamara/covid_spain)
+
+[**Maarten van Reek: Coronavirus COVID-19 in Spain, a Power BI report**](https://worktimesheet2014.blogspot.com/2020/03/coronavirus-covid-19-in-spain-power-bi.html)
