@@ -80,7 +80,8 @@ Descripción: Número acumulado de mascarillas repartidas por CCAA por el Minist
 **Año de publicación:** 2017<br>
 Descripción: Número de camas UCI por CCAA. Dato extraído de los microdatos de la [Estadística de Centros Sanitarios de Atención Especializada (SIAE)](https://www.mscbs.gob.es/estadEstudios/estadisticas/estHospiInternado/inforAnual/homeESCRI.htm) de 2017. Último dato oficial disponible. Utilizado en el articulo: [**Incidencia de la COVID-19 en las camas UCI en España**](https://datadista.com/coronavirus/camas-uci/)
 
-<br>
+
+
 **Licencia de uso:**
 
 Puedes reutilizarlos para elaborar nuevas historias, análisis, proyectos o visualizaciones siempre y cuando nos cites como fuente.
