@@ -1,0 +1,23 @@
+name: genera fechas
+on: push
+
+jobs:
+  genera_fechas:
+    runs-on: ubuntu-latest
+    name: Genera CSV
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Genera CSV
+        run: |
+          cat header.md > ../../fechas.md
+          git ls-tree -r --name-only HEAD COVID\ 19/*.csv | while read filename; do
+            echo "$(git log -1 --date=short --format="%ad" -- $filename), $filename" >> ../../fechas.md
+          done
+          git add ../../fechas.md
+          git commit -m "Fichero de fechas generado"
+      - name: Check in
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      
