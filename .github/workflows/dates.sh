@@ -7,5 +7,5 @@ git ls-tree -r --name-only HEAD COVID\ 19/*.csv | while read filename; do
     date=$(git log -1 --date=short --format="%cd" -- "$filename")
     echo "| $date  | $filename |" >>  COVID\ 19/fechas.md
 done
-git add fechas.md
+git add COVID\ 19/fechas.md
 git commit -m "Fichero de fechas generado"
