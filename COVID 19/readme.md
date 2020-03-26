@@ -9,7 +9,12 @@ Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/prof
  
  [**PDFs originales de resumen de situación:**](https://github.com/datadista/datasets/tree/master/COVID%2019/PDFs%20originales%20de%20resumen%20de%20situacio%CC%81n) Carpeta con los PDFs originales de los informes oficiales publicados por el Ministerio de Sanidad.
  
+
+ 
  **Formato de los datos:**
+ 
+  **IMPORTANTE:** [Tabla con las fechas de modificación de los archivos csv | Table with files modification dates](fechas.md)
+  
  
 **Nombre del archivo:** [nacional_covid19.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) <br>
 **Nivel administrativo:** Nacional
