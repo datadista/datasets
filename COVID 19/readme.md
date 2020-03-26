@@ -8,7 +8,22 @@ Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/prof
 
  Departamento de Seguridad Nacional: https://www.dsn.gob.es/gl/current-affairs/press-room
  
- **Detalle de los datasets:**
+ **Formato de los datos:**
+ 
+**Nombre del archivo:** [nacional_covid19.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) <br>
+**Nivel administrativo:** Nacional
+ 
+ | Campo          | Descripción                                                       | Description                                                                       | Formato    | Ejemplo |
+|----------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------|---------|
+| fecha          | Fecha de publicación                                              | Date of notification                                                              | YYYY-MM-DD | 25/3/20 |
+| casos          | Casos confirmados acumulados                                      | Accumulated confirmed cases                                                       | Número     | 7       |
+| altas          | Personas curadas acumuladas                                       | Accumulated recovered                                                             | Número     | 7       |
+| fallecimientos | Personas fallecidas acumuladas                                    | Accumulated deceased                                                              | Número     | 7       |
+| ingresos_uci   | Casos acumulados que han precisado hospitalización (incluyen UCI) | Accumulated cases that have required hospitalization (include admitted to the IC) | Número     | 7       |
+| hospitalizados | Casos acumulados que han precisado ingreso en UCI                 | Accumulated cases that have required admission to the IC                          | Número     | 7       |
+
+
+[**nacional_covid19_rango_edad.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19_rango_edad.csv) número de casos, fallecidos, recuperados, ingresados en UCI y hospitalizados a nivel nacional por rango de edad y sexo. *Datos 2020-03-22 Datos obtenidos del análisis sobre 18.959 casos notificados con información de edad. Datos 2020-03-34 obtenidos del análisis sobre 20.471 casos notificados con información de edad y 20.459 con información de edad y sexo.*
  
 [**ccaa_covid19_casos.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_casos.csv) Acumulado del número de casos confirmados registrados por Comunidad Autónoma.
 
@@ -21,10 +36,6 @@ Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/prof
 [**ccaa_covid19_hospitalizados.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_hospitalizados.csv) Acumulado del número de pacientes que han precisado hospitalización (incluye UCI) por Comunidad Autónoma
 
 [**ccaa_covid19_mascarillas.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_mascarillas.csv) Número acumulado de mascarillas repartidas por CCAA por el Ministerio de Sanidad desde 2020-03-10 a 2020-03-22.
-
-[**nacional_covid19.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) número de casos, fallecidos, recuperados, pacientes que han precisado ingreso en UCI y pacientes que han precisado hospitalización (incluye UCI) a nivel nacional
-
-[**nacional_covid19_rango_edad.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19_rango_edad.csv) número de casos, fallecidos, recuperados, ingresados en UCI y hospitalizados a nivel nacional por rango de edad y sexo. *Datos 2020-03-22 Datos obtenidos del análisis sobre 18.959 casos notificados con información de edad. Datos 2020-03-34 obtenidos del análisis sobre 20.471 casos notificados con información de edad y 20.459 con información de edad y sexo.*
 
 [**ccaa_camas_uci_2017.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_camas_uci_2017.csv) Número de camas UCI por CCAA. Dato extraído de los microdatos de la [Estadística de Centros Sanitarios de Atención Especializada (SIAE)](https://www.mscbs.gob.es/estadEstudios/estadisticas/estHospiInternado/inforAnual/homeESCRI.htm) de 2017. Último dato oficial disponible. Utilizado en el articulo: [**Incidencia de la COVID-19 en las camas UCI en España**](https://datadista.com/coronavirus/camas-uci/)
 
