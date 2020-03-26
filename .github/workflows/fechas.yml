@@ -1,0 +1,20 @@
+name: genera fechas
+on:
+  push:
+    paths:
+    - '**.csv'
+
+jobs:
+  genera_fechas:
+    runs-on: ubuntu-latest
+    name: Genera CSV
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Fechas
+        run: .github/workflows/dates.sh
+      - name: Check in
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      
