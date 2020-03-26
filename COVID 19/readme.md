@@ -32,13 +32,13 @@ Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/prof
 | fecha             | Fecha de publicación                                              | Date of notification                                                              | YYYY-MM-DD | 2020-03-25 |
 | rango_edad        | Grupos de edad                                                    | age range                                                                         | Texto      | 0-9     |
 | sexo              | Sexo                                                              | gender                                                                            | Texto      | Mujeres |
-| casos_confirmados | Casos confirmados acumulados                                      | Accumulated confirmed cases                                                       | Número     | 7       |
-| hospitalizados    | Casos acumulados que han precisado hospitalización (incluyen UCI) | Accumulated cases that have required hospitalization (include admitted to the IC) | Número     | 7       |
-| ingresos_uci      | Casos acumulados que han precisado ingreso en UCI                 | Accumulated cases that have required admission to the IC                          | Número     | 7       |
-| fallecidos        | Personas fallecidas acumuladas                                    | Accumulated deceased                                                              | Número     | 7       |
+| casos_confirmados | Casos confirmados acumulados                                      | Accumulated confirmed cases (Data obtained from the analysis of a daily variable percentage of cases reported)                                                       | Número     | 7       |
+| hospitalizados    | Casos acumulados que han precisado hospitalización (incluyen UCI) | Accumulated cases that have required hospitalization (include admitted to the IC) (Data obtained from the analysis of a daily variable percentage of cases reported) | Número     | 7       |
+| ingresos_uci      | Casos acumulados que han precisado ingreso en UCI                 | Accumulated cases that have required admission to the IC (Data obtained from the analysis of a daily variable percentage of cases reported)                         | Número     | 7       |
+| fallecidos        | Personas fallecidas acumuladas                                    | Accumulated deceased (Data obtained from the analysis of a daily variable percentage of cases reported)                                                              | Número     | 7       |
 
 
-| fecha      | Nota                                                                                                                         |
+| Fecha      | Nota sobre los datos publicados con infomración de edad y sexo                                                                                                                         |
 |------------|------------------------------------------------------------------------------------------------------------------------------|
 | 2020-03-22 | Datos obtenidos del análisis sobre 18.959 casos notificados con información de edad.                                         |
 | 2020-03-24 | Datos obtenidos del análisis sobre 20.471 casos notificados con información de edad y 20.459 con información de edad y sexo. |
