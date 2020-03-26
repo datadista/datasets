@@ -1,5 +1,8 @@
 name: genera fechas
-on: push
+on:
+  push:
+    paths:
+    - '**.csv'
 
 jobs:
   genera_fechas:
