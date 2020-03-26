@@ -38,7 +38,7 @@ Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/prof
 | fallecidos        | Personas fallecidas acumuladas                                    | Accumulated deceased (Data obtained from the analysis of a daily variable percentage of cases reported)                                                              | Número     | 7       |
 
 
-| Fecha      | Nota sobre los datos publicados con infomración de edad y sexo                                                                                                                         |
+| Fecha      | Nota sobre los datos publicados con información de edad y sexo                                                                                                                         |
 |------------|------------------------------------------------------------------------------------------------------------------------------|
 | 2020-03-22 | Datos obtenidos del análisis sobre 18.959 casos notificados con información de edad.                                         |
 | 2020-03-24 | Datos obtenidos del análisis sobre 20.471 casos notificados con información de edad y 20.459 con información de edad y sexo. |
