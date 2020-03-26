@@ -2,5 +2,5 @@
 
 > Fichero generado automáticamente, no editar.
 
-| Fecha              | Fichero                  |
-|--------------------|--------------------------|
+| Fecha                           | Fichero                  |
+|---------------------------------|--------------------------|
