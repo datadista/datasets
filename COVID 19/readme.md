@@ -1,12 +1,11 @@
 Extracción, limpieza y normalización de las tablas de la situación diaria acumulada de la enfermedad por el coronavirus SARS-CoV-2 (COVID-19) en España en un formato accesible y reutilizable. Datos actualizados diariamente según el calendario y ritmo de publicación del Ministerio de Sanidad. 
 
-Los datos para los días [29 de febrero](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-29-febrero-2020), [1 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-01-marzo-2020), [7 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-07-marzo-2020) y [8 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-08-marzo-2020) provienen de las notas de prensa del Departamento de Seguridad Nacional y del gabinete de prensa del Ministerio de Sanidad.
-
 **Fuente de los datos:**
 
-Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm  y gabinete de prensa del Ministerio de Sanidad.
-
+Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm  y gabinete de prensa del Ministerio de Sanidad. <br>
  Departamento de Seguridad Nacional: https://www.dsn.gob.es/gl/current-affairs/press-room
+ 
+ Los datos para los días [29 de febrero](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-29-febrero-2020), [1 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-01-marzo-2020), [7 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-07-marzo-2020) y [8 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-08-marzo-2020) provienen de las notas de prensa del Departamento de Seguridad Nacional y del gabinete de prensa del Ministerio de Sanidad.
  
  **Formato de los datos:**
  
@@ -15,7 +14,7 @@ Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/prof
  
  | Campo          | Descripción                                                       | Description                                                                       | Formato    | Ejemplo |
 |----------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------|---------|
-| fecha          | Fecha de publicación                                              | Date of notification                                                              | YYYY-MM-DD | 25/3/20 |
+| fecha          | Fecha de publicación                                              | Date of notification                                                              | YYYY-MM-DD | 2020-03-25 |
 | casos          | Casos confirmados acumulados                                      | Accumulated confirmed cases                                                       | Número     | 7       |
 | altas          | Personas curadas acumuladas                                       | Accumulated recovered                                                             | Número     | 7       |
 | fallecimientos | Personas fallecidas acumuladas                                    | Accumulated deceased                                                              | Número     | 7       |
@@ -23,7 +22,26 @@ Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/prof
 | hospitalizados | Casos acumulados que han precisado ingreso en UCI                 | Accumulated cases that have required admission to the IC                          | Número     | 7       |
 
 
-[**nacional_covid19_rango_edad.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19_rango_edad.csv) número de casos, fallecidos, recuperados, ingresados en UCI y hospitalizados a nivel nacional por rango de edad y sexo. *Datos 2020-03-22 Datos obtenidos del análisis sobre 18.959 casos notificados con información de edad. Datos 2020-03-34 obtenidos del análisis sobre 20.471 casos notificados con información de edad y 20.459 con información de edad y sexo.*
+**Nombre del archivo:** [nacional_covid19_rango_edad.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19_rango_edad.csv) <br>
+**Nivel administrativo:** Nacional
+
+| Campo             | Descripción                                                       | Description                                                                       | Formato    | Ejemplo |
+|-------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------|---------|
+| fecha             | Fecha de publicación                                              | Date of notification                                                              | YYYY-MM-DD | 2020-03-25 |
+| rango_edad        | Grupos de edad                                                    | age range                                                                         | Texto      | 0-9     |
+| sexo              | Sexo                                                              | gender                                                                            | Texto      | Mujeres |
+| casos_confirmados | Casos confirmados acumulados                                      | Accumulated confirmed cases                                                       | Número     | 7       |
+| hospitalizados    | Casos acumulados que han precisado hospitalización (incluyen UCI) | Accumulated cases that have required hospitalization (include admitted to the IC) | Número     | 7       |
+| ingresos_uci      | Casos acumulados que han precisado ingreso en UCI                 | Accumulated cases that have required admission to the IC                          | Número     | 7       |
+| fallecidos        | Personas fallecidas acumuladas                                    | Accumulated deceased                                                              | Número     | 7       |
+
+
+| fecha      | Nota                                                                                                                         |
+|------------|------------------------------------------------------------------------------------------------------------------------------|
+| 2020-03-22 | Datos obtenidos del análisis sobre 18.959 casos notificados con información de edad.                                         |
+| 2020-03-24 | Datos obtenidos del análisis sobre 20.471 casos notificados con información de edad y 20.459 con información de edad y sexo. |
+| 2020-03-25 | Datos obtenidos del análisis sobre 21.872 casos notificados con información de edad y 21.851 con información de edad y sexo. |
+
  
 [**ccaa_covid19_casos.csv:**](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_casos.csv) Acumulado del número de casos confirmados registrados por Comunidad Autónoma.
 
