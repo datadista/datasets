@@ -3,7 +3,7 @@
 cat .github/workflows/header.md > fechas.md
 git config --global user.email "jjmerelo@gmail.com"
 git config --global user.name "FechaActionBot"
-test=$(git log --date=short --format="%ad")
+test=$(git log --date=short --format="%ad" -- COVID\ 19/nacional_covid19.csv)
 echo "Test $test"
 git ls-tree -r --name-only HEAD COVID\ 19/*.csv | while read filename; do
     date=$(git log -1 --date=short --format="%ad" -- $filename)
