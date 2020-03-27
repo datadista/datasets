@@ -5,7 +5,7 @@
 | Fecha                           | Fichero                  |
 |---------------------------------|--------------------------|
 | Mon, 23 Mar 2020 08:55:52 +0100  | COVID 19/ccaa_camas_uci_2017.csv |
-| Thu, 26 Mar 2020 11:56:32 +0100  | COVID 19/ccaa_covid19_altas.csv |
+| Fri, 27 Mar 2020 12:13:23 +0100  | COVID 19/ccaa_covid19_altas.csv |
 | Thu, 26 Mar 2020 12:04:57 +0100  | COVID 19/ccaa_covid19_altas_long.csv |
 | Fri, 27 Mar 2020 12:09:49 +0100  | COVID 19/ccaa_covid19_casos.csv |
 | Thu, 26 Mar 2020 12:04:57 +0100  | COVID 19/ccaa_covid19_casos_long.csv |
