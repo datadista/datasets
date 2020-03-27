@@ -143,3 +143,5 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
 [**David Jimeno: global pandemic study**](https://github.com/djinasarre/covid_19)
 
 [**Evolución COVID-19 en Canarias**](https://jorgelopezperez.shinyapps.io/covid_canarias/)
+
+[**Javier Álvarez Medina (tinybird.co): API endpoints**](https://ui.tinybird.co/snapshot/41dc2636e8c64aa59bd17ad3d33ce7e3)
