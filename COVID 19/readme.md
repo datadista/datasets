@@ -141,3 +141,5 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
 [**Dashboard COVID-19 #yomequedoencasa**](https://covid19.inapp.io/)
 
 [**David Jimeno: global pandemic study**](https://github.com/djinasarre/covid_19)
+
+[**Evolución COVID-19 en Canarias**](https://jorgelopezperez.shinyapps.io/covid_canarias/)
