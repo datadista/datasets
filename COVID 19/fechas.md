@@ -17,4 +17,4 @@
 | Sat, 28 Mar 2020 14:27:33 +0100  | COVID 19/ccaa_covid19_uci.csv |
 | Sat, 28 Mar 2020 14:27:33 +0100  | COVID 19/ccaa_covid19_uci_long.csv |
 | Sat, 28 Mar 2020 11:45:57 +0100  | COVID 19/nacional_covid19.csv |
-| Fri, 27 Mar 2020 12:21:56 +0100  | COVID 19/nacional_covid19_rango_edad.csv |
+| Sat, 28 Mar 2020 14:51:53 +0100  | COVID 19/nacional_covid19_rango_edad.csv |
