@@ -53,6 +53,7 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 | 2020-03-25 | Datos obtenidos del análisis sobre 21.872 casos notificados con información de edad y 21.851 con información de edad y sexo. |
 | 2020-03-26 | Datos obtenidos del análisis sobre 32.816 casos notificados con información de edad y 32.807 con información de edad y sexo. |
 | 2020-03-27 | Datos obtenidos del análisis sobre 34.240 casos notificados con información de edad y sexo |
+| 2020-03-28 | Datos obtenidos del análisis sobre 36.197 casos notificados con información de edad y sexo |
 
  
 <br><br>
