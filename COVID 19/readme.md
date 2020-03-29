@@ -224,3 +224,5 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
 [**Javier Álvarez Medina (tinybird.co): API endpoints**](https://ui.tinybird.co/snapshot/41dc2636e8c64aa59bd17ad3d33ce7e3c
 
 [**Pedro del Río Marrón: Data from Spain of COVID-19 (by Datadista) as a service**](hhttps://github.com/pedelriomarron/spanish-api-covid19)
+
+[**@alvarospm: COVID-19 Situación en Castilla y León**](https://comunidadcovid.maps.arcgis.com/apps/opsdashboard/index.html#/c2d5e0da802944979728925a35868fe9)
