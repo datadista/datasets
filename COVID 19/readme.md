@@ -35,7 +35,7 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 <br><br>
 **Nombre del archivo:** [nacional_covid19_rango_edad.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19_rango_edad.csv) <br>
 **Nivel administrativo:** Nacional<br>
-**IMPORTANTE:** Datos obtenidos sobre los casos notificados con información de edad y sexo. [Dataset con las notas de los casos analizados cada día por rango de edad y sexo](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nota_nacional_covid19_rango_edad.csv)
+**IMPORTANTE:** Datos obtenidos sobre los casos notificados con información de edad y sexo. [Dataset con las notas de los casos analizados cada día por rango de edad y sexo](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nota_nacional_covid_19_rango_edad.csv)
 
 | Campo             | Descripción                                                       | Description                                                                       | Formato    | Ejemplo |
 |-------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------|---------|
