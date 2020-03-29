@@ -226,3 +226,5 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
 [**Pedro del Río Marrón: Data from Spain of COVID-19 (by Datadista) as a service**](hhttps://github.com/pedelriomarron/spanish-api-covid19)
 
 [**@alvarospm: COVID-19 Situación en Castilla y León**](https://comunidadcovid.maps.arcgis.com/apps/opsdashboard/index.html#/c2d5e0da802944979728925a35868fe9)
+
+[**Roke Alvarez Masso: Resumen de la Situación en España**](https://cultureofinsight.shinyapps.io/covid-19/)
