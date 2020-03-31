@@ -177,8 +177,8 @@ Descripción: Número de camas UCI por CCAA. Dato extraído de los microdatos de
 <br><br>
 **Nivel administrativo:** Municipio<br>
 Descripción: Alojamientos turísticos declarados servicio esencial por COVID-19. Destinados al alojamiento del personal sanitario, de abastecimiento, mantenimiento, reparación y obras 
-de interés general y todos los ligados a las actividades consideradas esenciales.
-**Fuente:** [Orden TMA/305/2020](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4194)
+de interés general y todos los ligados a las actividades consideradas esenciales.<br>
+**Fuente:** [Orden TMA/305/2020](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4194)<br>
 **Nombre del archivo:** [alojamientos_turisticos_boe_2020_4194.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/alojamientos_turisticos_boe_2020_4194.csvv) <br>
 
 <br><br>
