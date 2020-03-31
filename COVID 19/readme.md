@@ -161,26 +161,25 @@ Description: Accumulated number of accumulated recovered cases registered by Aut
 | CCAA    | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
 | total   | Personas curadas | Accumulated recovered cases                                               | Número     | 7          |
 
-<br><br>
+<br>
 **Nivel administrativo:** Comunidad Autónoma<br>
 Descripción: Número acumulado de mascarillas repartidas por CCAA por el Ministerio de Sanidad desde 2020-03-10 a 2020-03-22.
 **Nombre del archivo:** [ccaa_covid19_mascarillas.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_mascarillas.csv) <br>
 
-<br><br>
+<br>
 **Nombre del archivo:** [ccaa_camas_uci_2017.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_camas_uci_2017.csv) <br>
 **Nivel administrativo:** Comunidad Autónoma<br>
 **Año de publicación:** 2017<br>
 Descripción: Número de camas UCI por CCAA. Dato extraído de los microdatos de la [Estadística de Centros Sanitarios de Atención Especializada (SIAE)](https://www.mscbs.gob.es/estadEstudios/estadisticas/estHospiInternado/inforAnual/homeESCRI.htm) de 2017. Último dato oficial disponible. Utilizado en el articulo: [**Incidencia de la COVID-19 en las camas UCI en España**](https://datadista.com/coronavirus/camas-uci/)
 
-<br><br>
+<br>
 **Nivel administrativo:** Municipio<br>
 Descripción: Alojamientos turísticos declarados servicio esencial por COVID-19. Destinados al alojamiento del personal sanitario, de abastecimiento, mantenimiento, reparación y obras 
 de interés general y todos los ligados a las actividades consideradas esenciales.
 **Fuente:** [Orden TMA/305/2020](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4194)
 **Nombre del archivo:** [alojamientos_turisticos_boe_2020_4194.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/alojamientos_turisticos_boe_2020_4194.csvv) <br>
 
-
-
+<br><br>
 **Listado de reutilizaciones, análisis, visualizaciones y artículos realizados:**
 
 [**Numeroteca: R Scripts for COVID-19 analysis Plots**](https://github.com/numeroteca/covid19) - [**Propagación del COVID-19 en España. Análisis por comunidades autónomas**](https://lab.montera34.com/covid19/index.html)
@@ -229,7 +228,7 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 
 [**Javier Álvarez Medina (tinybird.co): API endpoints**](https://ui.tinybird.co/snapshot/41dc2636e8c64aa59bd17ad3d33ce7e3)
 
-[**Pedro del Río Marrón: Data from Spain of COVID-19 (by Datadista) as a service**](hhttps://github.com/pedelriomarron/spanish-api-covid19)
+[**Pedro del Río Marrón: Data from Spain of COVID-19 (by Datadista) as a service**](https://github.com/pedelriomarron/spanish-api-covid19)
 
 [**@alvarospm: COVID-19 Situación en Castilla y León**](https://comunidadcovid.maps.arcgis.com/apps/opsdashboard/index.html#/c2d5e0da802944979728925a35868fe9)
 
