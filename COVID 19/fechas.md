@@ -17,6 +17,6 @@
 | Sun, 22 Mar 2020 18:13:35 +0100  | COVID 19/ccaa_covid19_mascarillas.csv |
 | Mon, 30 Mar 2020 11:52:44 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Mon, 30 Mar 2020 11:52:44 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
-| Mon, 30 Mar 2020 11:43:28 +0200  | COVID 19/nacional_covid19.csv |
+| Tue, 31 Mar 2020 11:40:24 +0200  | COVID 19/nacional_covid19.csv |
 | Mon, 30 Mar 2020 13:16:38 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Mon, 30 Mar 2020 13:16:38 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
