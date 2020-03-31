@@ -18,5 +18,5 @@
 | Tue, 31 Mar 2020 11:54:21 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Tue, 31 Mar 2020 11:54:21 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Tue, 31 Mar 2020 11:45:14 +0200  | COVID 19/nacional_covid19.csv |
-| Mon, 30 Mar 2020 13:16:38 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
-| Mon, 30 Mar 2020 13:16:38 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
+| Tue, 31 Mar 2020 12:00:07 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
+| Tue, 31 Mar 2020 12:00:07 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
