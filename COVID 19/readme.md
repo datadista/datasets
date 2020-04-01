@@ -251,3 +251,5 @@ Descripción: Listado con los puntos de restauración y tiendas con venta de com
 [**El Confidencial: El mapa de la ocupación de las UCI: las camas crecen un 73% para combatir el colapso**](https://www.elconfidencial.com/espana/2020-03-29/coronavirus-covid-19-camas-uci-hospitales_2523031/)  y [**El colapso del sistema sanitario**](https://www.elconfidencial.com/espana/2020-03-30/coronavirus-colapso-sanitario-ccaa_2521703/)
 
 [**Elnacional.cat: Las UCI de Catalunya, saturadas y al 200% por el coronavirus**](https://www.elnacional.cat/es/salud/coronavirus-uci-catalunya-saturadas_486900_102.html)
+
+[**COVID-19 TRACKER**](https://ubidi.shinyapps.io/covid19)
