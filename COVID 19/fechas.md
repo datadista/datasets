@@ -4,7 +4,7 @@
 
 | Fecha                           | Fichero                  |
 |---------------------------------|--------------------------|
-| Tue, 31 Mar 2020 09:50:53 +0200  | COVID 19/alojamientos_turisticos_boe_2020_4194.csv |
+| Wed, 1 Apr 2020 13:32:42 +0200  | COVID 19/alojamientos_turisticos_boe_2020_4194.csv |
 | Mon, 23 Mar 2020 08:55:52 +0100  | COVID 19/ccaa_camas_uci_2017.csv |
 | Wed, 1 Apr 2020 11:57:27 +0200  | COVID 19/ccaa_covid19_altas.csv |
 | Wed, 1 Apr 2020 11:57:27 +0200  | COVID 19/ccaa_covid19_altas_long.csv |
