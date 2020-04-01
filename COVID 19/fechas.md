@@ -18,6 +18,6 @@
 | Wed, 1 Apr 2020 11:57:27 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Wed, 1 Apr 2020 11:57:27 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Wed, 1 Apr 2020 11:43:30 +0200  | COVID 19/nacional_covid19.csv |
-| Wed, 1 Apr 2020 12:45:00 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
+| Wed, 1 Apr 2020 20:37:50 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Wed, 1 Apr 2020 12:45:00 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Wed, 1 Apr 2020 17:51:35 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
