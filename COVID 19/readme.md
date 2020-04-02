@@ -1,11 +1,13 @@
 Extracción, limpieza y normalización de las tablas de la situación diaria acumulada de la enfermedad por el coronavirus SARS-CoV-2 (COVID-19) en España en un formato accesible y reutilizable. Datos actualizados diariamente según el calendario y ritmo de publicación del Ministerio de Sanidad. 
 
-Otros datasets accesorios para cubrir la crisis por COVID-19 en España
+- También tienes disponibles otros datasets accesorios para cubrir la crisis por COVID-19 en España
 
 **Fuente de los datos:**
 
-Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm  y gabinete de prensa del Ministerio de Sanidad. <br>
- Departamento de Seguridad Nacional: https://www.dsn.gob.es/gl/current-affairs/press-room
+- Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm  y gabinete de prensa del Ministerio de Sanidad. <br>
+- Departamento de Seguridad Nacional: https://www.dsn.gob.es/gl/current-affairs/press-room<br>
+- BOE: Crisis Sanitaria COVID-19 https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=355&modo=2&nota=0&tab=2<br>
+- Ministerio de Transportes, Movilidad y Agenda Urbana https://www.mitma.gob.es/transporte-terrestre/punto-de-informacion-de-servicios-de-restauracion
  
  Los datos para los días [29 de febrero](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-29-febrero-2020), [1 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-01-marzo-2020), [7 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-07-marzo-2020) y [8 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-08-marzo-2020) provienen de las notas de prensa del Departamento de Seguridad Nacional y del gabinete de prensa del Ministerio de Sanidad.
  
@@ -25,6 +27,8 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
   
  **NOTA PUBLICADA POR SANIDAD SOBRE LOS DATOS:** Los casos confirmados no provienen de la suma de pacientes hospitalizados, curados y fallecidos, ya que no son excluyentes. Pacientes fallecidos y curados pueden haber precisado hospitalización y por tanto computar en ambos
 grupos. Los pacientes que han precisado UCI también computan en los pacientes que han requerido hospitalización
+
+ **NOTA PUBLICADA POR SANIDAD SOBRE LOS DATOS (02/04/2020):** Indican que los datos de hospitalización y UCI en Madrid, hospitalizados en Castilla La Mancha y Comunidad Valenciana son datos de prevalencia.
   
  
 **Nombre del archivo:** [nacional_covid19.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) <br>
@@ -182,6 +186,14 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 **Nombre del archivo:** [alojamientos_turisticos_boe_2020_4194.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/alojamientos_turisticos_boe_2020_4194.csv)
 
 <br><br>
+**Nivel administrativo:** Municipio<br>
+Descripción: Listado con los puntos de restauración y tiendas con venta de comida preparada para llevar para trabajadores cuyo trabajo es básico para mantener servicios esenciales y de abastecimiento.<br>
+**Fuente:** [Ministerio de Transportes, Movilidad y Agenda Urbana](https://www.mitma.gob.es/transporte-terrestre/punto-de-informacion-de-servicios-de-restauracion)<br>
+**Nombre del archivo:** [puntos_restauracion_comida_para_llevar.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/puntos_restauracion_comida_para_llevar.csv)
+
+
+
+<br><br>
 **Listado de reutilizaciones, análisis, visualizaciones y artículos realizados:**
 
 [**Numeroteca: R Scripts for COVID-19 analysis Plots**](https://github.com/numeroteca/covid19) - [**Propagación del COVID-19 en España. Análisis por comunidades autónomas**](https://lab.montera34.com/covid19/index.html)
@@ -241,3 +253,5 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 [**El Confidencial: El mapa de la ocupación de las UCI: las camas crecen un 73% para combatir el colapso**](https://www.elconfidencial.com/espana/2020-03-29/coronavirus-covid-19-camas-uci-hospitales_2523031/)  y [**El colapso del sistema sanitario**](https://www.elconfidencial.com/espana/2020-03-30/coronavirus-colapso-sanitario-ccaa_2521703/)
 
 [**Elnacional.cat: Las UCI de Catalunya, saturadas y al 200% por el coronavirus**](https://www.elnacional.cat/es/salud/coronavirus-uci-catalunya-saturadas_486900_102.html)
+
+[**COVID-19 TRACKER**](https://ubidi.shinyapps.io/covid19)
