@@ -257,3 +257,5 @@ Descripción: Listado con los puntos de restauración y tiendas con venta de com
 [**Elnacional.cat: Las UCI de Catalunya, saturadas y al 200% por el coronavirus**](https://www.elnacional.cat/es/salud/coronavirus-uci-catalunya-saturadas_486900_102.html)
 
 [**COVID-19 TRACKER**](https://ubidi.shinyapps.io/covid19)
+
+[**COVID-19 by BiGeek**](https://covid19.bi-geek.com/)
