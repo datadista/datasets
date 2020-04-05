@@ -8,8 +8,8 @@
 | Mon, 23 Mar 2020 08:55:52 +0100  | COVID 19/ccaa_camas_uci_2017.csv |
 | Sun, 5 Apr 2020 11:56:45 +0200  | COVID 19/ccaa_covid19_altas.csv |
 | Sun, 5 Apr 2020 11:56:45 +0200  | COVID 19/ccaa_covid19_altas_long.csv |
-| Sun, 5 Apr 2020 11:56:45 +0200  | COVID 19/ccaa_covid19_casos.csv |
-| Sun, 5 Apr 2020 11:56:45 +0200  | COVID 19/ccaa_covid19_casos_long.csv |
+| Sun, 5 Apr 2020 12:06:07 +0200  | COVID 19/ccaa_covid19_casos.csv |
+| Sun, 5 Apr 2020 12:06:07 +0200  | COVID 19/ccaa_covid19_casos_long.csv |
 | Sun, 5 Apr 2020 11:56:45 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Sun, 5 Apr 2020 11:56:45 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
 | Sun, 5 Apr 2020 11:56:45 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
