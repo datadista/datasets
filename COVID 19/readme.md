@@ -42,8 +42,8 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 | casos          | Casos confirmados acumulados                                      | Accumulated confirmed cases                                                       | Número     | 7       |
 | altas          | Personas curadas acumuladas                                       | Accumulated recovered                                                             | Número     | 7       |
 | fallecimientos | Personas fallecidas acumuladas                                    | Accumulated deceased                                                              | Número     | 7       |
-| ingresos_uci   | Casos acumulados que han precisado hospitalización (incluyen UCI) | Accumulated cases that have required hospitalization (include admitted to the IC) | Número     | 7       |
-| hospitalizados | Casos acumulados que han precisado ingreso en UCI                 | Accumulated cases that have required admission to the IC                          | Número     | 7       |
+| ingresos_uci   | Casos acumulados que han precisado ingreso en UCI | Accumulated cases that have required admission to the IC | Número     | 7       |
+| hospitalizados | Casos acumulados que han precisado hospitalización (incluyen UCI)                 | Accumulated cases that have required hospitalization (include admitted to the IC)                          | Número     | 7       |
 
 
 <br><br>
