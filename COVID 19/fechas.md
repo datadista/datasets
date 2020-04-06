@@ -17,7 +17,7 @@
 | Sun, 22 Mar 2020 18:13:35 +0100  | COVID 19/ccaa_covid19_mascarillas.csv |
 | Sun, 5 Apr 2020 11:56:45 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Sun, 5 Apr 2020 11:56:45 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
-| Sun, 5 Apr 2020 11:39:53 +0200  | COVID 19/nacional_covid19.csv |
+| Mon, 6 Apr 2020 11:37:19 +0200  | COVID 19/nacional_covid19.csv |
 | Sun, 5 Apr 2020 12:10:41 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Sun, 5 Apr 2020 12:10:41 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Wed, 1 Apr 2020 17:51:35 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
