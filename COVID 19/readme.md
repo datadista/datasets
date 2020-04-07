@@ -6,6 +6,7 @@ Extracción, limpieza y normalización de las tablas de la situación diaria acu
 
 - Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm  y gabinete de prensa del Ministerio de Sanidad. <br>
 - Departamento de Seguridad Nacional: https://www.dsn.gob.es/gl/current-affairs/press-room<br>
+- Instituto de Salud Carlos III. Situación de COVID-19 en España https://covid19.isciii.es/
 - BOE: Crisis Sanitaria COVID-19 https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=355&modo=2&nota=0&tab=2<br>
 - Ministerio de Transportes, Movilidad y Agenda Urbana https://www.mitma.gob.es/transporte-terrestre/punto-de-informacion-de-servicios-de-restauracion
  
@@ -34,6 +35,8 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
  
  **(\*\*)NOTA SOBRE LOS DATOS (07/04/2020)**: Los datos de Hospitalizados de Castilla La Mancha, Comunidad Valenciana y Madrid son datos de prevalencia. Los datos de ingresos UCI de Castilla La Mancha, Castilla y León, Comunidad Valenciana, Galicia y Madrid son datos de prevalencia. Por este motivo, desde 07/04/2020 los datos de hospitalizados de Castilla y León son el acumulado mientras que en fechas anteriores es el dato de prevalencia.
   
+ **NOTA SOBRE LOS DATOS PUBLICADA POR DEL INSTITUTO DE SALUD CARLOS III(07/04/2020)**: El objetivo de los datos que se publican en [esta web](https://covid19.isciii.es/) (Basada en la notificación diaria de casos agregados de COVID-19 al Ministerio de Sanidad) es saber el número de casos acumulados a la fecha y que por tanto no se puede deducir que la diferencia entre un día y el anterior es el número de casos nuevos ya que esos casos pueden haber sido recuperados de fechas anteriores. Cualquier inferencia que se haga sobre las diferencias de un día para otro deben hacerse con precaución y son únicamente la responsabilidad el autor. Los datos de estas comunidades son datos de prevalencia (personas ingresadas a fecha de hoy) No reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI  a lo largo del periodo de notificación(CL-CM-MD-VC-MC)
+
  
 **Nombre del archivo:** [nacional_covid19.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) <br>
 **Nivel administrativo:** Nacional
