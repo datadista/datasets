@@ -6,17 +6,17 @@
 |---------------------------------|--------------------------|
 | Wed, 1 Apr 2020 13:41:08 +0200  | COVID 19/alojamientos_turisticos_boe_2020_4194.csv |
 | Mon, 23 Mar 2020 08:55:52 +0100  | COVID 19/ccaa_camas_uci_2017.csv |
-| Mon, 6 Apr 2020 11:58:51 +0200  | COVID 19/ccaa_covid19_altas.csv |
-| Mon, 6 Apr 2020 11:58:51 +0200  | COVID 19/ccaa_covid19_altas_long.csv |
-| Mon, 6 Apr 2020 11:58:51 +0200  | COVID 19/ccaa_covid19_casos.csv |
-| Mon, 6 Apr 2020 11:58:51 +0200  | COVID 19/ccaa_covid19_casos_long.csv |
-| Mon, 6 Apr 2020 11:58:51 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
-| Mon, 6 Apr 2020 11:58:51 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
+| Tue, 7 Apr 2020 11:49:19 +0200  | COVID 19/ccaa_covid19_altas.csv |
+| Tue, 7 Apr 2020 11:49:19 +0200  | COVID 19/ccaa_covid19_altas_long.csv |
+| Tue, 7 Apr 2020 11:49:19 +0200  | COVID 19/ccaa_covid19_casos.csv |
+| Tue, 7 Apr 2020 11:49:19 +0200  | COVID 19/ccaa_covid19_casos_long.csv |
+| Tue, 7 Apr 2020 11:49:19 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
+| Tue, 7 Apr 2020 11:49:19 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
 | Mon, 6 Apr 2020 11:58:51 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
 | Mon, 6 Apr 2020 11:58:51 +0200  | COVID 19/ccaa_covid19_hospitalizados_long.csv |
 | Sun, 22 Mar 2020 18:13:35 +0100  | COVID 19/ccaa_covid19_mascarillas.csv |
-| Mon, 6 Apr 2020 11:58:51 +0200  | COVID 19/ccaa_covid19_uci.csv |
-| Mon, 6 Apr 2020 11:58:51 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
+| Tue, 7 Apr 2020 11:49:19 +0200  | COVID 19/ccaa_covid19_uci.csv |
+| Tue, 7 Apr 2020 11:49:19 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Tue, 7 Apr 2020 11:35:25 +0200  | COVID 19/nacional_covid19.csv |
 | Mon, 6 Apr 2020 17:00:24 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Mon, 6 Apr 2020 12:07:01 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
