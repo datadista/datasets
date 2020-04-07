@@ -174,31 +174,31 @@ Description: Accumulated number of accumulated recovered cases registered by Aut
 <br><br>
 **Nombre del archivo:** [ccaa_covid19_mascarillas.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_mascarillas.csv) <br>
 **Nivel administrativo:** Comunidad Autónoma<br>
-Descripción: Número acumulado de mascarillas repartidas por CCAA por el Ministerio de Sanidad desde 2020-03-10 a 2020-03-22.
+**Descripción:** Número acumulado de mascarillas repartidas por CCAA por el Ministerio de Sanidad desde 2020-03-10 a 2020-03-22.
 
 <br><br>
 **Nombre del archivo:** [ccaa_camas_uci_2017.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_camas_uci_2017.csv) <br>
 **Nivel administrativo:** Comunidad Autónoma<br>
 **Año de publicación:** 2017<br>
-Descripción: Número de camas UCI por CCAA. Dato extraído de los microdatos de la [Estadística de Centros Sanitarios de Atención Especializada (SIAE)](https://www.mscbs.gob.es/estadEstudios/estadisticas/estHospiInternado/inforAnual/homeESCRI.htm) de 2017. Último dato oficial disponible. Utilizado en el articulo: [**Incidencia de la COVID-19 en las camas UCI en España**](https://datadista.com/coronavirus/camas-uci/)
+**Descripción:** Número de camas UCI por CCAA. Dato extraído de los microdatos de la [Estadística de Centros Sanitarios de Atención Especializada (SIAE)](https://www.mscbs.gob.es/estadEstudios/estadisticas/estHospiInternado/inforAnual/homeESCRI.htm) de 2017. Último dato oficial disponible. Utilizado en el articulo: [**Incidencia de la COVID-19 en las camas UCI en España**](https://datadista.com/coronavirus/camas-uci/)
 
 <br><br>
 **Nombre del archivo:** [distritos_madrid_casos.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/distritos_madrid_casos.csv)<br>
 **Nivel administrativo:** Distritos de Madrid<br>
-Descripción: Situación epidemiológica actual en los distritos de la ciudad de Madrid<br>
+**Descripción:** Situación epidemiológica actual en los distritos de la ciudad de Madrid<br>
 **Fuente:** [Consejería de Sanidad de la Comunidad de Madrid](https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus)
 
 <br><br>
 **Nombre del archivo:** [alojamientos_turisticos_boe_2020_4194.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/alojamientos_turisticos_boe_2020_4194.csv)<br>
 **Nivel administrativo:** Municipio<br>
-Descripción: Alojamientos turísticos declarados servicio esencial por COVID-19. Destinados al alojamiento del personal sanitario, de abastecimiento, mantenimiento, reparación y obras 
+**Descripción:** Alojamientos turísticos declarados servicio esencial por COVID-19. Destinados al alojamiento del personal sanitario, de abastecimiento, mantenimiento, reparación y obras 
 de interés general y todos los ligados a las actividades consideradas esenciales.<br>
 **Fuente:** [Orden TMA/305/2020](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4194)
 
 <br><br>
 **Nombre del archivo:** [puntos_restauracion_comida_para_llevar.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/puntos_restauracion_comida_para_llevar.csv)<br>
 **Nivel administrativo:** Municipio<br>
-Descripción: Listado con los puntos de restauración y tiendas con venta de comida preparada para llevar para trabajadores cuyo trabajo es básico para mantener servicios esenciales y de abastecimiento.<br>
+**Descripción:** Listado con los puntos de restauración y tiendas con venta de comida preparada para llevar para trabajadores cuyo trabajo es básico para mantener servicios esenciales y de abastecimiento.<br>
 **Fuente:** [Ministerio de Transportes, Movilidad y Agenda Urbana](https://www.mitma.gob.es/transporte-terrestre/punto-de-informacion-de-servicios-de-restauracion)
 
 <br><br>
