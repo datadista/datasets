@@ -43,7 +43,7 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
  
  | Campo          | Descripción                                                       | Description                                                                       | Formato    | Ejemplo |
 |----------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------|---------|
-| fecha          | Fecha de publicación                                              | Date of notification                                                              | YYYY-MM-DD | 2020-03-25 |
+| fecha          | Fecha de publicación                                              | Publication date                                                              | YYYY-MM-DD | 2020-03-25 |
 | casos          | Casos confirmados acumulados                                      | Accumulated confirmed cases                                                       | Número     | 7       |
 | altas          | Personas curadas acumuladas                                       | Accumulated recovered                                                             | Número     | 7       |
 | fallecimientos | Personas fallecidas acumuladas                                    | Accumulated deceased                                                              | Número     | 7       |
@@ -58,7 +58,7 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 
 | Campo             | Descripción                                                       | Description                                                                       | Formato    | Ejemplo |
 |-------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------|---------|
-| fecha             | Fecha de publicación                                              | Date of notification                                                              | YYYY-MM-DD | 2020-03-25 |
+| fecha             | Fecha de publicación                                              | Publication date                                                              | YYYY-MM-DD | 2020-03-25 |
 | rango_edad        | Grupos de edad                                                    | age range                                                                         | Texto      | 0-9     |
 | sexo              | Sexo                                                              | gender                                                                            | Texto      | Mujeres |
 | casos_confirmados | Casos confirmados acumulados                                      | Accumulated confirmed cases (Data obtained from the analysis of a daily variable percentage of cases reported)                                                       | Número     | 7       |
@@ -77,13 +77,13 @@ Description: Accumulated number of confirmed cases registered by Autonomous Comm
 |------------|----------------------|----------------------------------------------------------------------|------------|------------|
 | cod_ine    | Código INE de CCAA   | National Statistics Institute code of the autonomous community | Texto      | 01         |
 | CCAA       | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
-| 2020-03-25 | Fecha de publicación | Date of notification                                                 | YYYY-MM-DD | 2020-03-25 |
+| 2020-03-25 | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
 
 **Nombre del archivo (long format):** [ccaa_covid19_casos_long.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_casos_long.csv) <br>
 
 | Campo   | Descripción          | Description                                                          | Formato    | Ejemplo    |
 |---------|----------------------|----------------------------------------------------------------------|------------|------------|
-| fecha   | Fecha de publicación | Date of notification                                                 | YYYY-MM-DD | 2020-03-25 |
+| fecha   | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
 | cod_ine | Código INE de CCAA   | National Statistics Institute (INE) code of the autonomous community | Texto      | 01         |
 | CCAA    | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
 | total   | Casos confirmados | confirmed cases registered                                               | Número     | 7          |
@@ -99,13 +99,13 @@ Description: Accumulated number of deceased cases registered by Autonomous Commu
 |------------|----------------------|----------------------------------------------------------------------|------------|------------|
 | cod_ine    | Código INE de CCAA   | National Statistics Institute code of the autonomous community | Texto      | 01         |
 | CCAA       | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
-| 2020-03-25 | Fecha de publicación | Date of notification                                                 | YYYY-MM-DD | 2020-03-25 |
+| 2020-03-25 | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
 
 **Nombre del archivo:** [ccaa_covid19_fallecidos_long.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_long.csv) <br>
 
 | Campo   | Descripción          | Description                                                          | Formato    | Ejemplo    |
 |---------|----------------------|----------------------------------------------------------------------|------------|------------|
-| fecha   | Fecha de publicación | Date of notification                                                 | YYYY-MM-DD | 2020-03-25 |
+| fecha   | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
 | cod_ine | Código INE de CCAA   | National Statistics Institute (INE) code of the autonomous community | Texto      | 01         |
 | CCAA    | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
 | total   | Fallecidos | Deceased cases registered                                               | Número     | 7          |
@@ -120,13 +120,13 @@ Description: Accumulated number of deceased cases registered by Autonomous Commu
 |------------|----------------------|----------------------------------------------------------------------|------------|------------|
 | cod_ine    | Código INE de CCAA   | National Statistics Institute code of the autonomous community | Texto      | 01         |
 | CCAA       | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
-| 2020-03-25 | Fecha de publicación | Date of notification                                                 | YYYY-MM-DD | 2020-03-25 |
+| 2020-03-25 | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
 
 **Nombre del archivo:** [ccaa_covid19_hospitalizados_long.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_hospitalizados_long.csv) <br>
 
 | Campo   | Descripción          | Description                                                          | Formato    | Ejemplo    |
 |---------|----------------------|----------------------------------------------------------------------|------------|------------|
-| fecha   | Fecha de publicación | Date of notification                                                 | YYYY-MM-DD | 2020-03-25 |
+| fecha   | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
 | cod_ine | Código INE de CCAA   | National Statistics Institute (INE) code of the autonomous community | Texto      | 01         |
 | CCAA    | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
 | total   | Pacientes que han precisado hospitalización (incluye UCI)(\*\*) | Cases that have required hospitalization (include admitted to the IC)(\*\*)                                              | Número     | 7          |
@@ -142,13 +142,13 @@ Description:Accumulated cases that have required admission to the IC by Autonomo
 |------------|----------------------|----------------------------------------------------------------------|------------|------------|
 | cod_ine    | Código INE de CCAA   | National Statistics Institute code of the autonomous community | Texto      | 01         |
 | CCAA       | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
-| 2020-03-25 | Fecha de publicación | Date of notification                                                 | YYYY-MM-DD | 2020-03-25 |
+| 2020-03-25 | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
 
 **Nombre del archivo:** [ccaa_covid19_uci_long.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_uci_long.csv) <br>
 
 | Campo   | Descripción          | Description                                                          | Formato    | Ejemplo    |
 |---------|----------------------|----------------------------------------------------------------------|------------|------------|
-| fecha   | Fecha de publicación | Date of notification                                                 | YYYY-MM-DD | 2020-03-25 |
+| fecha   | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
 | cod_ine | Código INE de CCAA   | National Statistics Institute (INE) code of the autonomous community | Texto      | 01         |
 | CCAA    | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
 | total   | Pacientes que han precisado ingreso en la UCI(\*\*) | Cases that have required admission to the IC(\*\*)                                              | Número     | 7          |
@@ -163,16 +163,33 @@ Description: Accumulated number of accumulated recovered cases registered by Aut
 |------------|----------------------|----------------------------------------------------------------------|------------|------------|
 | cod_ine    | Código INE de CCAA   | National Statistics Institute code of the autonomous community | Texto      | 01         |
 | CCAA       | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
-| 2020-03-25 | Fecha de publicación | Date of notification                                                 | YYYY-MM-DD | 2020-03-25 |
+| 2020-03-25 | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
 
 **Nombre del archivo:** [ccaa_covid19_altas_long.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_altas_long.csv) <br>
 
 | Campo   | Descripción          | Description                                                          | Formato    | Ejemplo    |
 |---------|----------------------|----------------------------------------------------------------------|------------|------------|
-| fecha   | Fecha de publicación | Date of notification                                                 | YYYY-MM-DD | 2020-03-25 |
+| fecha   | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
 | cod_ine | Código INE de CCAA   | National Statistics Institute (INE) code of the autonomous community | Texto      | 01         |
 | CCAA    | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
 | total   | Personas curadas | Accumulated recovered cases                                               | Número     | 7          |
+
+
+<br><br>
+**Nivel administrativo:** Comunidad Autónoma<br>
+Descripción: Número de casos registradas por Comunidad Autónoma.<br>
+Description: Accumulated number of cases registered by Autonomous Community<br>
+**Nombre del archivo:** [ccaa_covid19_datos_isciii.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_datos_isciii.csv) <br>
+| Campo          | Descripción                                                           | Description                                                                           | Formato    | Ejemplo    |
+|----------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------|------------|------------|
+| fecha          | Fecha de notificación                                                 | Date of notification                                                                  | YYYY-MM-DD | 2020-03-20 |
+| cod_ine        | Código INE de CCAA                                                    | National Statistics Institute (INE) code of the autonomous community                  | Texto      | 11         |
+| CCAA           | Comunidad autónoma                                                    | Autonomous community                                                                  | Texto      | Madrid     |
+| Casos          | Casos confirmados acumulados                                          | Accumulated confirmed cases                                                           | Número     | 7          |
+| Hospitalizados | Casos acumulados que han precisado hospitalización (incluyen UCI)(**) | Accumulated cases that have required hospitalization (include admitted to the IC)(**) | Número     | 7          |
+| UCI            | Casos acumulados que han precisado ingreso en UCI(**)                 | Accumulated cases that have required admission to the IC(**)                          | Número     | 7          |
+| Fallecidos     | Personas fallecidas acumuladas                                        | Accumulated deceased                                                                  | Número     | 7          |
+| Recuperados    | Personas curadas acumuladas	                                          | Accumulated recovered                                                           | Número     | 7          |
 
 <br><br>
 **Nombre del archivo:** [ccaa_covid19_mascarillas.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_mascarillas.csv) <br>
