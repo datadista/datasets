@@ -30,7 +30,7 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 
  **NOTA PUBLICADA POR SANIDAD SOBRE LOS DATOS (02/04/2020):** Indican que los datos de hospitalización y UCI en Madrid, hospitalizados en Castilla La Mancha y Comunidad Valenciana son datos de prevalencia.
  
- **NOTA PUBLICADA POR SANIDAD SOBRE LOS DATOS (03/04/2020):** Indican que los datos UCI de Castilla La Mancha, Castilla y León, Comunidad Valenciana, Galicia y Madrid son datos de prevalencia. Es decir, personas ingresadas en UCI a día de hoy.
+ **(\*\*)NOTA PUBLICADA POR SANIDAD SOBRE LOS DATOS (03/04/2020):** Indican que los datos UCI de Castilla La Mancha, Castilla y León, Comunidad Valenciana, Galicia y Madrid son datos de prevalencia. Es decir, personas ingresadas en UCI a día de hoy.
   
  
 **Nombre del archivo:** [nacional_covid19.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) <br>
@@ -42,8 +42,8 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 | casos          | Casos confirmados acumulados                                      | Accumulated confirmed cases                                                       | Número     | 7       |
 | altas          | Personas curadas acumuladas                                       | Accumulated recovered                                                             | Número     | 7       |
 | fallecimientos | Personas fallecidas acumuladas                                    | Accumulated deceased                                                              | Número     | 7       |
-| ingresos_uci   | Casos acumulados que han precisado ingreso en UCI | Accumulated cases that have required admission to the IC | Número     | 7       |
-| hospitalizados | Casos acumulados que han precisado hospitalización (incluyen UCI)                 | Accumulated cases that have required hospitalization (include admitted to the IC)                          | Número     | 7       |
+| ingresos_uci   | Casos acumulados que han precisado ingreso en UCI | Accumulated cases that have required admission to the IC(\*\*) | Número     | 7       |
+| hospitalizados | Casos acumulados que han precisado hospitalización (incluyen UCI)                 | Accumulated cases that have required hospitalization (include admitted to the IC)(\*\*)                          | Número     | 7       |
 
 
 <br><br>
@@ -179,6 +179,12 @@ Descripción: Número acumulado de mascarillas repartidas por CCAA por el Minist
 **Nivel administrativo:** Comunidad Autónoma<br>
 **Año de publicación:** 2017<br>
 Descripción: Número de camas UCI por CCAA. Dato extraído de los microdatos de la [Estadística de Centros Sanitarios de Atención Especializada (SIAE)](https://www.mscbs.gob.es/estadEstudios/estadisticas/estHospiInternado/inforAnual/homeESCRI.htm) de 2017. Último dato oficial disponible. Utilizado en el articulo: [**Incidencia de la COVID-19 en las camas UCI en España**](https://datadista.com/coronavirus/camas-uci/)
+
+<br><br>
+**Nivel administrativo:** Distritos de Madrid<br>
+Descripción: Situación epidemiológica actual en los distritos de la ciudad de Madrid<br>
+**Fuente:** [Consejería de Sanidad de la Comunidad de Madrid](https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus)<br>
+**Nombre del archivo:** [distritos_madrid_casos.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/distritos_madrid_casos.csv)
 
 <br><br>
 **Nivel administrativo:** Municipio<br>
