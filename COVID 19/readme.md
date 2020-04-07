@@ -32,7 +32,7 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
  
  **NOTA PUBLICADA POR SANIDAD SOBRE LOS DATOS (03/04/2020):** Indican que los datos UCI de Castilla La Mancha, Castilla y León, Comunidad Valenciana, Galicia y Madrid son datos de prevalencia. Es decir, personas ingresadas en UCI a día de hoy.
  
- **(\*\*)NOTA SOBRE LOS DATOS (07/04/2020)**: Los datos de Hospitalizados de Castilla La Mancha, Comunidad Valenciana y Madrid son datos de prevalencia. Los datos de ingresos UCI de Castilla La Mancha, Castilla y León, Comunidad Valenciana, Galicia y Madrid son datos de prevalencia.
+ **(\*\*)NOTA SOBRE LOS DATOS (07/04/2020)**: Los datos de Hospitalizados de Castilla La Mancha, Comunidad Valenciana y Madrid son datos de prevalencia. Los datos de ingresos UCI de Castilla La Mancha, Castilla y León, Comunidad Valenciana, Galicia y Madrid son datos de prevalencia. Por este motivo, desde 07/04/2020 los datos de hospitalizados de Castilla y León son el acumulado mientras que en fechas anteriores es el dato de prevalencia.
   
  
 **Nombre del archivo:** [nacional_covid19.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) <br>
