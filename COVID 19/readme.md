@@ -214,9 +214,9 @@ Description: Accumulated number of cases registered by Autonomous Community<br>
 **Descripción:** Número de camas UCI por CCAA. Dato extraído de los microdatos de la [Estadística de Centros Sanitarios de Atención Especializada (SIAE)](https://www.mscbs.gob.es/estadEstudios/estadisticas/estHospiInternado/inforAnual/homeESCRI.htm) de 2017. Último dato oficial disponible. Utilizado en el articulo: [**Incidencia de la COVID-19 en las camas UCI en España**](https://datadista.com/coronavirus/camas-uci/)
 
 <br><br>
-**Nombre del archivo:** [distritos_madrid_casos.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/distritos_madrid_casos.csv)<br>
+**Nombre del archivo:** [municipios_distritos_madrid_casos.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/municipios_distritos_madrid_casos.csv)<br>
 **Nivel administrativo:** Distritos de Madrid<br>
-**Descripción:** Situación epidemiológica actual en los distritos de la ciudad de Madrid<br>
+**Descripción:** Situación epidemiológica actual en los municipios y distritos de la ciudad de Madrid. Casos confirmados y tasas de incidencia acumulada por cada 100.000 habitantes<br>
 **Fuente:** [Consejería de Sanidad de la Comunidad de Madrid](https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus)
 
 <br><br>
