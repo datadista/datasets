@@ -16,8 +16,8 @@
 | Tue, 7 Apr 2020 12:16:53 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
 | Tue, 7 Apr 2020 12:16:53 +0200  | COVID 19/ccaa_covid19_hospitalizados_long.csv |
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
-| Tue, 7 Apr 2020 11:49:19 +0200  | COVID 19/ccaa_covid19_uci.csv |
-| Tue, 7 Apr 2020 11:49:19 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
+| Wed, 8 Apr 2020 11:52:31 +0200  | COVID 19/ccaa_covid19_uci.csv |
+| Wed, 8 Apr 2020 11:52:31 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Tue, 7 Apr 2020 12:00:23 +0200  | COVID 19/distritos_madrid_casos.csv |
 | Wed, 8 Apr 2020 11:38:09 +0200  | COVID 19/nacional_covid19.csv |
 | Tue, 7 Apr 2020 12:22:46 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
