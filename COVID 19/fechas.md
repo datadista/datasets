@@ -10,7 +10,7 @@
 | Thu, 9 Apr 2020 12:04:40 +0200  | COVID 19/ccaa_covid19_altas_long.csv |
 | Thu, 9 Apr 2020 12:04:40 +0200  | COVID 19/ccaa_covid19_casos.csv |
 | Thu, 9 Apr 2020 12:04:40 +0200  | COVID 19/ccaa_covid19_casos_long.csv |
-| Wed, 8 Apr 2020 19:46:05 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
+| Thu, 9 Apr 2020 13:45:52 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
 | Thu, 9 Apr 2020 12:04:40 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Thu, 9 Apr 2020 12:04:40 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
 | Thu, 9 Apr 2020 12:04:40 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
