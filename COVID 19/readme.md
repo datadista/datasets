@@ -43,8 +43,8 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 | Hospitalizados                     | Ingresos UCI         |
 |------------------------------------|----------------------|
 | Castilla La Mancha                 | Castilla La Mancha   |
-| Comunidad Valenciana               | Castilla y León      |
-| Madrid                             | Comunidad Valenciana |
+| Comunidad Valenciana (hasta 2020-04-08)               | Castilla y León      |
+| Madrid                             | Comunidad Valenciana (hasta 2020-04-08) |
 | Castilla y León (hasta 2020-04-06) | Galicia              |
 |                                    | Madrid               |
 
