@@ -235,6 +235,8 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 <br><br>
 **Listado de reutilizaciones, análisis, visualizaciones y artículos realizados:**
 
+[**Dataverse. Harvard University. Coronavirus Disease 2019 (COVID-19) in Spain**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GPFFAQ)
+
 [**Numeroteca: R Scripts for COVID-19 analysis Plots**](https://github.com/numeroteca/covid19) - [**Propagación del COVID-19 en España. Análisis por comunidades autónomas**](https://lab.montera34.com/covid19/index.html)
 
 [**JJ Merelo: Working on covid timeseries and trying to find stuff about them**](https://github.com/JJ/covid-reports) - [**Evolución casos COVID19 en España**](https://rpubs.com/jjmerelo/585182) - [**Filling the gaps: trying to predict cases in the weekendof March 7-8th in Spain**](https://figshare.com/articles/Filling_the_gaps_trying_to_predict_cases_in_the_weekend_of_March_7-8th_in_Spain/11993973/1)
