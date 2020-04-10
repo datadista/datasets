@@ -13,8 +13,8 @@
 | Thu, 9 Apr 2020 13:45:52 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
 | Fri, 10 Apr 2020 11:46:45 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Fri, 10 Apr 2020 11:46:45 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
-| Thu, 9 Apr 2020 12:04:40 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
-| Thu, 9 Apr 2020 12:04:40 +0200  | COVID 19/ccaa_covid19_hospitalizados_long.csv |
+| Fri, 10 Apr 2020 12:07:42 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
+| Fri, 10 Apr 2020 12:07:42 +0200  | COVID 19/ccaa_covid19_hospitalizados_long.csv |
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
 | Fri, 10 Apr 2020 11:46:45 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Fri, 10 Apr 2020 11:46:45 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
