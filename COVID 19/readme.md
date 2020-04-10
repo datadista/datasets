@@ -296,3 +296,9 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 [**COVID-19 TRACKER**](https://ubidi.shinyapps.io/covid19)
 
 [**COVID-19 by BiGeek**](https://covid19.bi-geek.com/)
+
+[**COVID19 - Plataforma de Bioestadística y Epidemiología del ISPA**](http://www.epi-ispa.org/covid19/)
+
+[**SARS-CoV-2 Análisis de datos (ESPAÑA)**](https://davidsamperio.com/es/sars-cov-2-espana/)
+
+[**COVID-19 por el Departamento de Matemática Aplicada de la Universidad de Valencia*](https://indicame.upv.es/coviddata-19/)
