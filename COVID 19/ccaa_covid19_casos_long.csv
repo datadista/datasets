@@ -42,6 +42,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,01,Andalucía,8767
 2020-04-08,01,Andalucía,8997
 2020-04-09,01,Andalucía,9261
+2020-04-10,01,Andalucía,9510
 2020-02-27,02,Aragón,0
 2020-02-28,02,Aragón,1
 2020-02-29,02,Aragón,1
@@ -85,6 +86,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,02,Aragón,3449
 2020-04-08,02,Aragón,3549
 2020-04-09,02,Aragón,3685
+2020-04-10,02,Aragón,3831
 2020-02-27,03,Asturias,0
 2020-02-28,03,Asturias,0
 2020-02-29,03,Asturias,0
@@ -128,6 +130,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,03,Asturias,1679
 2020-04-08,03,Asturias,1705
 2020-04-09,03,Asturias,1737
+2020-04-10,03,Asturias,1799
 2020-02-27,04,Baleares,1
 2020-02-28,04,Baleares,1
 2020-02-29,04,Baleares,2
@@ -171,6 +174,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,04,Baleares,1369
 2020-04-08,04,Baleares,1412
 2020-04-09,04,Baleares,1448
+2020-04-10,04,Baleares,1488
 2020-02-27,05,Canarias,6
 2020-02-28,05,Canarias,6
 2020-02-29,05,Canarias,6
@@ -214,6 +218,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,05,Canarias,1725
 2020-04-08,05,Canarias,1762
 2020-04-09,05,Canarias,1834
+2020-04-10,05,Canarias,1858
 2020-02-27,06,Cantabria,0
 2020-02-28,06,Cantabria,0
 2020-02-29,06,Cantabria,0
@@ -257,6 +262,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,06,Cantabria,1501
 2020-04-08,06,Cantabria,1572
 2020-04-09,06,Cantabria,1619
+2020-04-10,06,Cantabria,1659
 2020-02-27,08,Castilla-La Mancha,0
 2020-02-28,08,Castilla-La Mancha,0
 2020-02-29,08,Castilla-La Mancha,0
@@ -300,6 +306,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,08,Castilla-La Mancha,11077
 2020-04-08,08,Castilla-La Mancha,11788
 2020-04-09,08,Castilla-La Mancha,12489
+2020-04-10,08,Castilla-La Mancha,13063
 2020-02-27,07,Castilla y León,0
 2020-02-28,07,Castilla y León,2
 2020-02-29,07,Castilla y León,2
@@ -343,6 +350,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,07,Castilla y León,9581
 2020-04-08,07,Castilla y León,10058
 2020-04-09,07,Castilla y León,10518
+2020-04-10,07,Castilla y León,11102
 2020-02-27,09,Cataluña,2
 2020-02-28,09,Cataluña,3
 2020-02-29,09,Cataluña,5
@@ -386,6 +394,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,09,Cataluña,28323
 2020-04-08,09,Cataluña,29647
 2020-04-09,09,Cataluña,31043
+2020-04-10,09,Cataluña,31824
 2020-02-27,18,Ceuta,0
 2020-02-28,18,Ceuta,0
 2020-02-29,18,Ceuta,0
@@ -429,6 +438,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,18,Ceuta,83
 2020-04-08,18,Ceuta,84
 2020-04-09,18,Ceuta,84
+2020-04-10,18,Ceuta,91
 2020-02-27,10,C. Valenciana,2
 2020-02-28,10,C. Valenciana,8
 2020-02-29,10,C. Valenciana,10
@@ -472,6 +482,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,10,C. Valenciana,7443
 2020-04-08,10,C. Valenciana,7655
 2020-04-09,10,C. Valenciana,7964
+2020-04-10,10,C. Valenciana,8331
 2020-02-27,11,Extremadura,0
 2020-02-28,11,Extremadura,0
 2020-02-29,11,Extremadura,0
@@ -515,6 +526,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,11,Extremadura,2116
 2020-04-08,11,Extremadura,2184
 2020-04-09,11,Extremadura,2273
+2020-04-10,11,Extremadura,2332
 2020-02-27,12,Galicia,0
 2020-02-28,12,Galicia,0
 2020-02-29,12,Galicia,0
@@ -558,6 +570,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,12,Galicia,6331
 2020-04-08,12,Galicia,6538
 2020-04-09,12,Galicia,6758
+2020-04-10,12,Galicia,6946
 2020-02-27,13,Madrid,4
 2020-02-28,13,Madrid,5
 2020-02-29,13,Madrid,8
@@ -601,6 +614,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,13,Madrid,40469
 2020-04-08,13,Madrid,42450
 2020-04-09,13,Madrid,43877
+2020-04-10,13,Madrid,44783
 2020-02-27,19,Melilla,0
 2020-02-28,19,Melilla,0
 2020-02-29,19,Melilla,0
@@ -644,6 +658,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,19,Melilla,92
 2020-04-08,19,Melilla,93
 2020-04-09,19,Melilla,93
+2020-04-10,19,Melilla,95
 2020-02-27,14,Murcia,0
 2020-02-28,14,Murcia,0
 2020-02-29,14,Murcia,0
@@ -687,6 +702,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,14,Murcia,1283
 2020-04-08,14,Murcia,1326
 2020-04-09,14,Murcia,1356
+2020-04-10,14,Murcia,1383
 2020-02-27,15,Navarra,0
 2020-02-28,15,Navarra,0
 2020-02-29,15,Navarra,0
@@ -730,6 +746,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,15,Navarra,3355
 2020-04-08,15,Navarra,3467
 2020-04-09,15,Navarra,3575
+2020-04-10,15,Navarra,3748
 2020-02-27,16,País Vasco,0
 2020-02-28,16,País Vasco,0
 2020-02-29,16,País Vasco,2
@@ -773,6 +790,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,16,País Vasco,9021
 2020-04-08,16,País Vasco,9452
 2020-04-09,16,País Vasco,9806
+2020-04-10,16,País Vasco,10103
 2020-02-27,17,La Rioja,0
 2020-02-28,17,La Rioja,0
 2020-02-29,17,La Rioja,0
@@ -816,6 +834,7 @@ fecha,cod_ine,CCAA,total
 2020-04-07,17,La Rioja,2846
 2020-04-08,17,La Rioja,2951
 2020-04-09,17,La Rioja,3026
+2020-04-10,17,La Rioja,3076
 2020-02-27,00,Total,16
 2020-02-28,00,Total,32
 2020-02-29,00,Total,44
@@ -859,3 +878,4 @@ fecha,cod_ine,CCAA,total
 2020-04-07,00,Total,140510
 2020-04-08,00,Total,146690
 2020-04-09,00,Total,152446
+2020-04-10,00,Total,157022
