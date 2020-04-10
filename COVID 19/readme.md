@@ -301,4 +301,4 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 
 [**SARS-CoV-2 Análisis de datos (ESPAÑA)**](https://davidsamperio.com/es/sars-cov-2-espana/)
 
-[**COVID-19 por el Departamento de Matemática Aplicada de la Universidad de Valencia*](https://indicame.upv.es/coviddata-19/)
+[**COVID-19 por el Departamento de Matemática Aplicada de la Universidad de Valencia**](https://indicame.upv.es/coviddata-19/)
