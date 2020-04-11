@@ -22,4 +22,4 @@
 | Sat, 11 Apr 2020 11:34:55 +0200  | COVID 19/nacional_covid19.csv |
 | Sat, 11 Apr 2020 11:56:19 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Sat, 11 Apr 2020 11:56:19 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
-| Wed, 1 Apr 2020 17:51:35 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
+| Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
