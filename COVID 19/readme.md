@@ -42,7 +42,7 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 **(\*\*)COMUNIDADES AUTONÓMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
 |------------------------------------|----------------------|
-| Castilla La Mancha                 | Castilla La Mancha   |
+| Castilla La Mancha (hasta 2020-04-11)                 | Castilla La Mancha   |
 | Comunidad Valenciana (hasta 2020-04-08)               | Castilla y León      |
 | Madrid                             | Comunidad Valenciana (hasta 2020-04-08) |
 | Castilla y León (hasta 2020-04-06) | Galicia              |
