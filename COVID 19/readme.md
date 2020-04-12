@@ -233,6 +233,12 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 **Fuente:** [Ministerio de Transportes, Movilidad y Agenda Urbana](https://www.mitma.gob.es/transporte-terrestre/punto-de-informacion-de-servicios-de-restauracion)
 
 <br><br>
+**Nombre del archivo:** [EESS_horario_flexible_habitual.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/EESS_horario_flexible_habitual.csv)<br>
+**Nivel administrativo:** Municipio<br>
+**Descripción:** Gasolineras abiertas durante el estado de alarma. Listado de estaciones de servicio con horario habitual y estaciones de servicio que pueden flexibilizar* sus horarios durante el estado de alarma.<br>
+**Fuente:** [Ministerio para la Transición Ecológica y el Reto Demográfico](https://www.miteco.gob.es/es/ministerio/medidas-covid19/)
+
+<br><br>
 **Listado de reutilizaciones, análisis, visualizaciones y artículos realizados:**
 
 [**Dataverse. Harvard University. Coronavirus Disease 2019 (COVID-19) in Spain**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GPFFAQ)
