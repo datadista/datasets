@@ -11,11 +11,11 @@
 | Mon, 13 Apr 2020 12:11:39 +0200  | COVID 19/ccaa_covid19_altas_long.csv |
 | Mon, 13 Apr 2020 12:11:39 +0200  | COVID 19/ccaa_covid19_casos.csv |
 | Mon, 13 Apr 2020 12:11:39 +0200  | COVID 19/ccaa_covid19_casos_long.csv |
-| Sun, 12 Apr 2020 15:46:01 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
+| Mon, 13 Apr 2020 12:23:44 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
 | Mon, 13 Apr 2020 12:11:39 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Mon, 13 Apr 2020 12:11:39 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
-| Sun, 12 Apr 2020 12:11:49 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
-| Sun, 12 Apr 2020 12:11:49 +0200  | COVID 19/ccaa_covid19_hospitalizados_long.csv |
+| Mon, 13 Apr 2020 12:23:44 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
+| Mon, 13 Apr 2020 12:23:44 +0200  | COVID 19/ccaa_covid19_hospitalizados_long.csv |
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
 | Mon, 13 Apr 2020 12:11:39 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Mon, 13 Apr 2020 12:11:39 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
