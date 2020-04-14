@@ -313,4 +313,4 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 
 [**#COVIDobservatorioMAD**](https://covid-observatorio-mad.herokuapp.com/)
 
-[**COVID-19 Evolución global basada en fallecimientos**](https://covid-19-evolution-dashboard.web.app/)
+[**Dashboard Evolución COVID-19 por Samnuel Moreno*](https://covid-19-evolution-dashboard.web.app/)
