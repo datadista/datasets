@@ -11,7 +11,7 @@
 | Wed, 15 Apr 2020 11:38:38 +0200  | COVID 19/ccaa_covid19_altas_long.csv |
 | Wed, 15 Apr 2020 11:38:38 +0200  | COVID 19/ccaa_covid19_casos.csv |
 | Wed, 15 Apr 2020 11:38:38 +0200  | COVID 19/ccaa_covid19_casos_long.csv |
-| Tue, 14 Apr 2020 11:35:38 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
+| Wed, 15 Apr 2020 11:59:18 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
 | Wed, 15 Apr 2020 11:38:38 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Wed, 15 Apr 2020 11:38:38 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
 | Wed, 15 Apr 2020 11:47:57 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
