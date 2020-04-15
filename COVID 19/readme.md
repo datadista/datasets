@@ -41,6 +41,8 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
  
  **NOTA PUBLICADA POR SANIDAD SOBRE LOS DATOS (15/04/2020)**: Andalucía ha notificado un total de 169 positivos asintomáticos incluidos en el total de confirmados.
  
+  **NOTA SOBRE LOS DATOS PUBLICADA POR DEL INSTITUTO DE SALUD CARLOS III(15/04/2020)**: Andalucía (AN) ha notificado un total de 169 positivos asintomáticos incluidos en el total de confirmados. Los casos nuevos de hoy (14/04/2020) se han calculado teniendo en cuenta los 114 nuevos asintomáticos de ayer.
+ 
 **(\*\*)COMUNIDADES AUTONÓMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
 |------------------------------------|----------------------|
