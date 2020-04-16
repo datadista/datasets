@@ -23,6 +23,6 @@
 | Thu, 16 Apr 2020 12:24:54 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Wed, 8 Apr 2020 19:24:09 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
 | Thu, 16 Apr 2020 12:05:41 +0200  | COVID 19/nacional_covid19.csv |
-| Wed, 15 Apr 2020 11:55:12 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
-| Wed, 15 Apr 2020 11:55:12 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
+| Thu, 16 Apr 2020 12:55:53 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
+| Thu, 16 Apr 2020 12:55:53 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
