@@ -362,3 +362,5 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 [**#COVIDobservatorioMAD**](https://covid-observatorio-mad.herokuapp.com/)
 
 [**Dashboard Evolución COVID-19 por Samnuel Moreno**](https://covid-19-evolution-dashboard.web.app/)
+
+[**Análisis de casos COVID-19 en España por edad y sexo por Agustí Perez**](https://msit.powerbi.com/view?r=eyJrIjoiOWIzNWE2OGQtNDdkZS00MWUyLTk1YTktYzlhMGU5NzY3NmIzIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9)
