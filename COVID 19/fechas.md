@@ -11,8 +11,10 @@
 | Thu, 16 Apr 2020 12:24:54 +0200  | COVID 19/ccaa_covid19_altas_long.csv |
 | Thu, 16 Apr 2020 12:24:54 +0200  | COVID 19/ccaa_covid19_casos.csv |
 | Thu, 16 Apr 2020 12:24:54 +0200  | COVID 19/ccaa_covid19_casos_long.csv |
-| Thu, 16 Apr 2020 12:37:30 +0200  | COVID 19/ccaa_covid19_confirmados_pcr.csv |
-| Thu, 16 Apr 2020 12:37:30 +0200  | COVID 19/ccaa_covid19_confirmados_test.csv |
+| Thu, 16 Apr 2020 13:04:20 +0200  | COVID 19/ccaa_covid19_confirmados_pcr.csv |
+| Thu, 16 Apr 2020 13:04:20 +0200  | COVID 19/ccaa_covid19_confirmados_pcr_long.csv |
+| Thu, 16 Apr 2020 13:04:20 +0200  | COVID 19/ccaa_covid19_confirmados_test.csv |
+| Thu, 16 Apr 2020 13:04:20 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
 | Thu, 16 Apr 2020 12:58:07 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
 | Thu, 16 Apr 2020 12:24:54 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Thu, 16 Apr 2020 12:24:54 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
