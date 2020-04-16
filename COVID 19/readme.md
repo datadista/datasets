@@ -104,6 +104,50 @@ Description: Accumulated number of confirmed cases registered by Autonomous Comm
 | total   | Casos confirmados | confirmed cases registered                                               | Número     | 7          |
 
 <br><br>
+Descripción: Acumulado del número de casos confirmados registrados mediante una prueba PCR por Comunidad Autónoma. 
+Description: Accumulated number of confirmed cases registered by a PCR test by Autonomous Community<br>
+**Nivel administrativo:** Comunidad Autónoma<br>
+**Nombre del archivo:** [ccaa_covid19_confirmados_pcr.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_confirmados_pcr.csv) <br>
+
+| Campo   | Descripción          | Description                                                          | Formato    | Ejemplo    |
+|---------|----------------------|----------------------------------------------------------------------|------------|------------|
+| fecha   | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
+| cod_ine | Código INE de CCAA   | National Statistics Institute (INE) code of the autonomous community | Texto      | 01         |
+| CCAA    | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
+| total   | Casos confirmados | confirmed cases registered                                               | Número     | 7          |
+
+**Nombre del archivo (long format):** [ccaa_covid19_confirmados_pcr_long.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_casos_long.csv) <br>
+
+| Campo   | Descripción          | Description                                                          | Formato    | Ejemplo    |
+|---------|----------------------|----------------------------------------------------------------------|------------|------------|
+| fecha   | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
+| cod_ine | Código INE de CCAA   | National Statistics Institute (INE) code of the autonomous community | Texto      | 01         |
+| CCAA    | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
+| total   | Casos confirmados | confirmed cases registered                                               | Número     | 7          |
+
+<br><br>
+Descripción: Acumulado del número de casos confirmados registrados por un test rápido por Comunidad Autónoma. 
+Description: Accumulated number of confirmed cases registered by rapid test by Autonomous Community<br>
+**Nivel administrativo:** Comunidad Autónoma<br>
+**Nombre del archivo:** [ccaa_covid19_confirmados_test.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_confirmados_test.csv) <br>
+
+| Campo   | Descripción          | Description                                                          | Formato    | Ejemplo    |
+|---------|----------------------|----------------------------------------------------------------------|------------|------------|
+| fecha   | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
+| cod_ine | Código INE de CCAA   | National Statistics Institute (INE) code of the autonomous community | Texto      | 01         |
+| CCAA    | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
+| total   | Casos confirmados | confirmed cases registered                                               | Número     | 7          |
+
+**Nombre del archivo (long format):** [ccaa_covid19_confirmados_test_long.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_confirmados_test_long.csv) <br>
+
+| Campo   | Descripción          | Description                                                          | Formato    | Ejemplo    |
+|---------|----------------------|----------------------------------------------------------------------|------------|------------|
+| fecha   | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
+| cod_ine | Código INE de CCAA   | National Statistics Institute (INE) code of the autonomous community | Texto      | 01         |
+| CCAA    | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
+| total   | Casos confirmados | confirmed cases registered                                               | Número     | 7          |
+
+<br><br>
 **Nivel administrativo:** Comunidad Autónoma<br>
 Descripción: Acumulado del número de fallecidos registrados por Comunidad Autónoma.<br>
 Description: Accumulated number of deceased cases registered by Autonomous Community<br>
