@@ -45,6 +45,7 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
   
   **NOTA DE DATADISTA SOBRE LOS DATOS (17/04/2020)**: Fernando Simón indica que el dato correcto que debemos utilizar de nuevos fallecidos es de 585 y no los 348 si descontamos los de ayer. Sanidad está corrigiendo la serie histórica. Observamos que la variación en la serie entre 16/04/2020 y 17/047/2020 (y días anteriores) en altas y fallecimientos se produce con los datos de Cataluña. Baja de los 3.855 fallecidos notificados el 16/04/2020 a 3.752. Tambien cae de 17.297 altas notificadas el 16/04/2020 a 12.787. La corrección de la serie histórica la realizará Sanidad en el dataset mantenido por el Instituto de Salud Carlos III también disponible en este repositorio en [ccaa_covid19_datos_isciii.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_datos_isciii.csv) <br>
 
+ **NOTA SOBRE LOS DATOS PUBLICADA POR DEL INSTITUTO DE SALUD CARLOS III(17/04/2020)**: La serie histórica de Cataluña se ha eliminado porque está en revisión por dicha comunidad autónoma. Solo se muestra la de casos.
   
   
 **(\*\*)COMUNIDADES AUTONÓMAS QUE PUBLICAN DATOS DE PREVALENCIA**
