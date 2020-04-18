@@ -11,8 +11,8 @@
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_altas_long.csv |
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_casos.csv |
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_casos_long.csv |
-| Thu, 16 Apr 2020 13:04:20 +0200  | COVID 19/ccaa_covid19_confirmados_pcr.csv |
-| Thu, 16 Apr 2020 13:04:20 +0200  | COVID 19/ccaa_covid19_confirmados_pcr_long.csv |
+| Sat, 18 Apr 2020 14:01:42 +0200  | COVID 19/ccaa_covid19_confirmados_pcr.csv |
+| Sat, 18 Apr 2020 14:01:42 +0200  | COVID 19/ccaa_covid19_confirmados_pcr_long.csv |
 | Sat, 18 Apr 2020 13:41:32 +0200  | COVID 19/ccaa_covid19_confirmados_test.csv |
 | Sat, 18 Apr 2020 13:41:32 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
