@@ -109,7 +109,7 @@ Description: Accumulated number of confirmed cases registered by Autonomous Comm
 | total   | Casos confirmados | confirmed cases registered                                               | Número     | 7          |
 
 <br><br>
-Descripción: Acumulado del número de casos confirmados registrados mediante una prueba PCR por Comunidad Autónoma. 
+Descripción: Acumulado del número de casos confirmados registrados mediante una prueba PCR por Comunidad Autónoma.<br> 
 Description: Accumulated number of confirmed cases registered by a PCR test by Autonomous Community<br>
 **Nivel administrativo:** Comunidad Autónoma<br>
 **Nombre del archivo:** [ccaa_covid19_confirmados_pcr.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_confirmados_pcr.csv) <br>
@@ -131,7 +131,7 @@ Description: Accumulated number of confirmed cases registered by a PCR test by A
 | total   | Casos confirmados | confirmed cases registered                                               | Número     | 7          |
 
 <br><br>
-Descripción: Acumulado del número de casos confirmados registrados por un test rápido por Comunidad Autónoma. 
+Descripción: Acumulado del número de casos confirmados registrados por un test rápido por Comunidad Autónoma.<br> 
 Description: Accumulated number of confirmed cases registered by rapid test by Autonomous Community<br>
 **Nivel administrativo:** Comunidad Autónoma<br>
 **Nombre del archivo:** [ccaa_covid19_confirmados_test.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_confirmados_test.csv) <br>
@@ -153,7 +153,7 @@ Description: Accumulated number of confirmed cases registered by rapid test by A
 | total   | Casos confirmados | confirmed cases registered                                               | Número     | 7          |
 
 <br><br>
-Descripción: Acumulado del número de personas con anticuerpos positivos sin síntomas en el momento de realización de la prueba  por Comunidad Autónoma. 
+Descripción: Acumulado del número de personas con anticuerpos positivos sin síntomas en el momento de realización de la prueba  por Comunidad Autónoma.<br>
 Description: Accumulated number of people with positive antibodies without symptoms at the time of the test by Autonomous Community<br>
 **Nivel administrativo:** Comunidad Autónoma<br>
 **Nombre del archivo:** [ccaa_covid19_positivos_test_anticuerpos.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_positivos_test_anticuerpos.csv) <br>
