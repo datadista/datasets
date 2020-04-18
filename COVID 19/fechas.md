@@ -21,6 +21,8 @@
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_hospitalizados_long.csv |
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
+| Sat, 18 Apr 2020 13:52:07 +0200  | COVID 19/ccaa_covid19_positivos_test_anticuerpos.csv |
+| Sat, 18 Apr 2020 13:52:07 +0200  | COVID 19/ccaa_covid19_positivos_test_anticuerpos_long.csv |
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Sat, 18 Apr 2020 13:41:32 +0200  | COVID 19/ccaa_covid_confirmados_pcr.csv |
