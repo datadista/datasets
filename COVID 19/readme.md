@@ -47,7 +47,8 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 
  **NOTA SOBRE LOS DATOS PUBLICADA POR DEL INSTITUTO DE SALUD CARLOS III(17/04/2020)**: La serie histórica de Cataluña se ha eliminado porque está en revisión por dicha comunidad autónoma. Solo se muestra la de casos.
  
- **NOTA SOBRE LOS DATOS PUBLICADA POR DEL INSTITUTO DE SALUD CARLOS III(18/04/2020)**: Aragón ha notificado menos curados hoy respecto a días previos por lo que no se ha podido calcular el número de casos nuevos.
+ **NOTA DE DATADISTA SOBRE LOS DATOS (18/04/2020)**: Sanidad ha empezado a publicar una serie con las personas con anticuerpos positivos sin síntomas en el momento de realización de la prueba en los que no se puede establecer un momento de contagio ni si han padecido o no
+la enfermedad. Por este motivo ha corregido el cálculo de nuevos casos COVID-19 separando estos casos. Tienes disponible este nuevo dataset en [ccaa_covid19_positivos_test_anticuerpos.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_positivos_test_anticuerpos.csv). Según Sanidad, Aragón ha notificado menos curados hoy respecto a días previos por lo que no se ha podido calcular el número de casos nuevos.
   
   
 **(\*\*)COMUNIDADES AUTONÓMAS QUE PUBLICAN DATOS DE PREVALENCIA**
