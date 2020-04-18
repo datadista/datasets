@@ -88,7 +88,7 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 
 
 <br><br>
-Descripción: Acumulado del número de casos confirmados registrados por Comunidad Autónoma. 
+Descripción: Acumulado del número de casos confirmados registrados por Comunidad Autónoma.<br> 
 Description: Accumulated number of confirmed cases registered by Autonomous Community<br>
 **Nivel administrativo:** Comunidad Autónoma<br>
 **Nombre del archivo:** [ccaa_covid19_casos.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_casos.csv) <br>
