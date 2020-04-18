@@ -13,8 +13,8 @@
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_casos_long.csv |
 | Thu, 16 Apr 2020 13:04:20 +0200  | COVID 19/ccaa_covid19_confirmados_pcr.csv |
 | Thu, 16 Apr 2020 13:04:20 +0200  | COVID 19/ccaa_covid19_confirmados_pcr_long.csv |
-| Fri, 17 Apr 2020 12:56:29 +0200  | COVID 19/ccaa_covid19_confirmados_test.csv |
-| Fri, 17 Apr 2020 12:56:29 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
+| Sat, 18 Apr 2020 13:41:32 +0200  | COVID 19/ccaa_covid19_confirmados_test.csv |
+| Sat, 18 Apr 2020 13:41:32 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
@@ -23,7 +23,7 @@
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Sat, 18 Apr 2020 13:33:17 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
-| Fri, 17 Apr 2020 12:56:29 +0200  | COVID 19/ccaa_covid_confirmados_pcr.csv |
+| Sat, 18 Apr 2020 13:41:32 +0200  | COVID 19/ccaa_covid_confirmados_pcr.csv |
 | Wed, 8 Apr 2020 19:24:09 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
 | Sat, 18 Apr 2020 12:53:15 +0200  | COVID 19/nacional_covid19.csv |
 | Fri, 17 Apr 2020 13:58:42 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
