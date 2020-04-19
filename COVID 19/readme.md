@@ -158,7 +158,7 @@ Description: Accumulated number of confirmed cases registered by rapid test by A
 Descripción: Acumulado del número de personas con anticuerpos positivos sin síntomas en el momento de realización de la prueba  por Comunidad Autónoma.<br>
 Description: Accumulated number of people with positive antibodies without symptoms at the time of the test by Autonomous Community<br>
 **Nivel administrativo:** Comunidad Autónoma<br>
-**Nombre del archivo:** [ccaa_covid19_positivos_test_anticuerpos.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_positivos_test_anticuerpos.csv) <br>
+**Nombre del archivo:** [ccaa_covid19_positivos_asintomaticos.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_positivos_asintomaticos.csv) <br>
 
 | Campo   | Descripción          | Description                                                          | Formato    | Ejemplo    |
 |---------|----------------------|----------------------------------------------------------------------|------------|------------|
@@ -167,7 +167,7 @@ Description: Accumulated number of people with positive antibodies without sympt
 | CCAA    | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
 | total   | Casos confirmados | confirmed cases registered                                               | Número     | 7          |
 
-**Nombre del archivo (long format):** [ccaa_covid19_positivos_test_anticuerpos_long.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_positivos_test_anticuerpos_long.csv) <br>
+**Nombre del archivo (long format):** [ccaa_covid19_positivos_asintomaticos_long.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_positivos_asintomaticos_long.csv) <br>
 
 | Campo   | Descripción          | Description                                                          | Formato    | Ejemplo    |
 |---------|----------------------|----------------------------------------------------------------------|------------|------------|
