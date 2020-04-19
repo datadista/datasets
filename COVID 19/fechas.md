@@ -25,7 +25,7 @@
 | Sun, 19 Apr 2020 12:05:04 +0200  | COVID 19/ccaa_covid19_positivos_asintomaticos_long.csv |
 | Sun, 19 Apr 2020 12:05:04 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Sun, 19 Apr 2020 12:05:04 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
-| Wed, 8 Apr 2020 19:24:09 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
+| Sun, 19 Apr 2020 14:06:31 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
 | Sun, 19 Apr 2020 11:18:59 +0200  | COVID 19/nacional_covid19.csv |
 | Sun, 19 Apr 2020 12:12:27 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Sun, 19 Apr 2020 12:12:27 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
