@@ -23,8 +23,6 @@
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
 | Sun, 19 Apr 2020 12:05:04 +0200  | COVID 19/ccaa_covid19_positivos_asintomaticos.csv |
 | Sun, 19 Apr 2020 12:05:04 +0200  | COVID 19/ccaa_covid19_positivos_asintomaticos_long.csv |
-| Sat, 18 Apr 2020 13:52:07 +0200  | COVID 19/ccaa_covid19_positivos_test_anticuerpos.csv |
-| Sat, 18 Apr 2020 13:52:07 +0200  | COVID 19/ccaa_covid19_positivos_test_anticuerpos_long.csv |
 | Sun, 19 Apr 2020 12:05:04 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Sun, 19 Apr 2020 12:05:04 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Wed, 8 Apr 2020 19:24:09 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
