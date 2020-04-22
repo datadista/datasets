@@ -28,6 +28,6 @@
 | Wed, 22 Apr 2020 09:39:26 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Tue, 21 Apr 2020 14:20:17 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
 | Tue, 21 Apr 2020 11:45:30 +0200  | COVID 19/nacional_covid19.csv |
-| Tue, 21 Apr 2020 12:12:15 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
-| Tue, 21 Apr 2020 12:12:15 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
+| Wed, 22 Apr 2020 12:05:08 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
+| Wed, 22 Apr 2020 12:05:08 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
