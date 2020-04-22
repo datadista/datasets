@@ -53,6 +53,10 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 **NOTA DE DATADISTA SOBRE LOS DATOS (19/04/2020)**: Sanidad ha cambiado la la nomenclatura de la columna de "Positivos por test de anticuerpos positivos" a "Asintomáticos por test de anticuerpos", por ese motivo hemos cambiado el nombre del dataset con estos datos a [ccaa_covid19_positivos_asintomaticos.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_positivos_asintomaticos.csv). Los datos de altas por CCAA no están completos debido a que Galicia ha remitido solo altas hospitalarias y no altas epidemiológicas.
 
 **NOTA DE DATADISTA SOBRE LOS DATOS (20/04/2020)**: Sanidad ha actualizados los datos de altas de Galicia que estaban pendientes. Son  1536 el 18/04/20 y 1507 el 17/04/20. Estos datos juntos con el total han sido actualizados en el dataset de la serie histórica [ccaa_covid19_altas.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_altas.csv). Sanidad también ha añadido 1.385 casos en Madrid correspondientes a "casos que iniciaron síntomas más de 14 días antes de la realización de la prueba diagnóstica y que no corresponden con nuevos contagios".
+
+
+
+**NOTA DE DATADISTA SOBRE LOS DATOS (22/04/2020)**: El Instituto de Salud Carlos III ha actualizado la serie histórica de Cataluña en el dataset [ccaa_covid19_datos_isciii.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_datos_isciii.csv). 
   
   
 **(\*\*)COMUNIDADES AUTONÓMAS QUE PUBLICAN DATOS DE PREVALENCIA**
