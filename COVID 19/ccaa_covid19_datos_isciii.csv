@@ -7,7 +7,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-02-20,06,Cantabria,,,,,
 2020-02-20,08,Castilla La Mancha,,,,,
 2020-02-20,07,Castilla y León,0,,,,
-2020-02-20,09,Cataluña,,,,,
+2020-02-20,09,Cataluña,0,,,,
 2020-02-20,18,Ceuta,,,,,
 2020-02-20,10,C. Valenciana,,26,0,,
 2020-02-20,11,Extremadura,,,,,
@@ -26,7 +26,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-02-21,06,Cantabria,,,,,
 2020-02-21,08,Castilla La Mancha,,,,,
 2020-02-21,07,Castilla y León,0,,,,
-2020-02-21,09,Cataluña,,,,,
+2020-02-21,09,Cataluña,0,,,,
 2020-02-21,18,Ceuta,,,,,
 2020-02-21,10,C. Valenciana,,30,1,,
 2020-02-21,11,Extremadura,,,,,
@@ -45,7 +45,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-02-22,06,Cantabria,,,,,
 2020-02-22,08,Castilla La Mancha,,,,,
 2020-02-22,07,Castilla y León,0,,,,
-2020-02-22,09,Cataluña,,,,,
+2020-02-22,09,Cataluña,0,,,,
 2020-02-22,18,Ceuta,,,,,
 2020-02-22,10,C. Valenciana,,33,1,,
 2020-02-22,11,Extremadura,,,,,
@@ -64,7 +64,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-02-23,06,Cantabria,,,,,
 2020-02-23,08,Castilla La Mancha,,,,,
 2020-02-23,07,Castilla y León,0,,,,
-2020-02-23,09,Cataluña,,,,,
+2020-02-23,09,Cataluña,0,,,,
 2020-02-23,18,Ceuta,,,,,
 2020-02-23,10,C. Valenciana,,38,2,,
 2020-02-23,11,Extremadura,,,,,
@@ -83,7 +83,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-02-24,06,Cantabria,,,,,
 2020-02-24,08,Castilla La Mancha,,,,,
 2020-02-24,07,Castilla y León,0,,,,
-2020-02-24,09,Cataluña,,,,,
+2020-02-24,09,Cataluña,0,,,,
 2020-02-24,18,Ceuta,,,,,
 2020-02-24,10,C. Valenciana,,49,2,,
 2020-02-24,11,Extremadura,,,,,
@@ -330,7 +330,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-08,06,Cantabria,12,,0,0,
 2020-03-08,08,Castilla La Mancha,26,,2,0,2
 2020-03-08,07,Castilla y León,30,,2,0,
-2020-03-08,09,Cataluña,75,,,,
+2020-03-08,09,Cataluña,59,16,5,2,2
 2020-03-08,18,Ceuta,0,,0,0,
 2020-03-08,10,C. Valenciana,37,153,9,1,1
 2020-03-08,11,Extremadura,7,,0,0,1
@@ -349,7 +349,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-09,06,Cantabria,12,,0,0,
 2020-03-09,08,Castilla La Mancha,39,,3,0,2
 2020-03-09,07,Castilla y León,40,,2,0,
-2020-03-09,09,Cataluña,124,,,,
+2020-03-09,09,Cataluña,82,31,7,2,5
 2020-03-09,18,Ceuta,,,0,0,
 2020-03-09,10,C. Valenciana,50,171,10,1,1
 2020-03-09,11,Extremadura,8,,0,0,1
@@ -368,7 +368,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-10,06,Cantabria,12,0,0,0,0
 2020-03-10,08,Castilla La Mancha,71,0,5,0,2
 2020-03-10,07,Castilla y León,64,14,2,0,0
-2020-03-10,09,Cataluña,156,,,,
+2020-03-10,09,Cataluña,123,50,8,3,6
 2020-03-10,18,Ceuta,0,0,0,0,0
 2020-03-10,10,C. Valenciana,65,200,12,1,1
 2020-03-10,11,Extremadura,9,2,1,1,1
@@ -387,7 +387,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-11,06,Cantabria,16,3,0,0,6
 2020-03-11,08,Castilla La Mancha,115,39,9,1,2
 2020-03-11,07,Castilla y León,71,24,2,0,0
-2020-03-11,09,Cataluña,260,,,,
+2020-03-11,09,Cataluña,202,74,16,6,12
 2020-03-11,18,Ceuta,0,0,0,0,0
 2020-03-11,10,C. Valenciana,76,232,15,1,1
 2020-03-11,11,Extremadura,19,2,1,1,3
@@ -406,7 +406,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-12,06,Cantabria,29,3,0,0,7
 2020-03-12,08,Castilla La Mancha,194,78,10,5,1
 2020-03-12,07,Castilla y León,92,25,4,0,1
-2020-03-12,09,Cataluña,316,,,,
+2020-03-12,09,Cataluña,349,137,22,9,19
 2020-03-12,18,Ceuta,0,0,0,0,0
 2020-03-12,10,C. Valenciana,94,271,22,1,2
 2020-03-12,11,Extremadura,39,3,1,1,3
@@ -425,7 +425,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-13,06,Cantabria,31,3,0,0,7
 2020-03-13,08,Castilla La Mancha,289,78,10,6,5
 2020-03-13,07,Castilla y León,169,25,8,1,2
-2020-03-13,09,Cataluña,509,,,,
+2020-03-13,09,Cataluña,558,200,29,13,32
 2020-03-13,18,Ceuta,0,0,0,0,0
 2020-03-13,10,C. Valenciana,130,307,29,4,2
 2020-03-13,11,Extremadura,66,3,1,2,4
@@ -444,7 +444,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-14,06,Cantabria,51,3,0,0,10
 2020-03-14,08,Castilla La Mancha,401,78,10,10,5
 2020-03-14,07,Castilla y León,223,45,8,3,3
-2020-03-14,09,Cataluña,715,,,,
+2020-03-14,09,Cataluña,742,287,40,15,39
 2020-03-14,18,Ceuta,1,0,0,0,0
 2020-03-14,10,C. Valenciana,409,339,37,5,2
 2020-03-14,11,Extremadura,95,8,1,2,4
@@ -463,7 +463,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-15,06,Cantabria,58,18,2,0,10
 2020-03-15,08,Castilla La Mancha,567,207,23,17,12
 2020-03-15,07,Castilla y León,292,45,8,6,5
-2020-03-15,09,Cataluña,903,,,,
+2020-03-15,09,Cataluña,1017,375,52,20,45
 2020-03-15,18,Ceuta,1,0,0,0,0
 2020-03-15,10,C. Valenciana,409,390,47,5,2
 2020-03-15,11,Extremadura,111,9,1,2,4
@@ -482,7 +482,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-16,06,Cantabria,58,18,2,0,10
 2020-03-16,08,Castilla La Mancha,567,207,23,17,12
 2020-03-16,07,Castilla y León,431,95,24,12,5
-2020-03-16,09,Cataluña,1394,,,,
+2020-03-16,09,Cataluña,1414,525,73,23,58
 2020-03-16,18,Ceuta,1,0,0,0,0
 2020-03-16,10,C. Valenciana,541,456,52,13,12
 2020-03-16,11,Extremadura,153,18,2,3,5
@@ -501,7 +501,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-17,06,Cantabria,68,25,3,1,10
 2020-03-17,08,Castilla La Mancha,675,277,29,28,15
 2020-03-17,07,Castilla y León,668,281,43,22,5
-2020-03-17,09,Cataluña,1866,,,,
+2020-03-17,09,Cataluña,1866,679,101,33,79
 2020-03-17,18,Ceuta,1,0,0,0,0
 2020-03-17,10,C. Valenciana,726,530,65,22,16
 2020-03-17,11,Extremadura,194,27,3,6,6
@@ -520,7 +520,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-18,06,Cantabria,83,40,4,1,10
 2020-03-18,08,Castilla La Mancha,801,313,37,42,27
 2020-03-18,07,Castilla y León,868,362,54,29,27
-2020-03-18,09,Cataluña,2702,,,,
+2020-03-18,09,Cataluña,2702,825,118,53,103
 2020-03-18,18,Ceuta,1,0,0,0,0
 2020-03-18,10,C. Valenciana,921,647,85,24,19
 2020-03-18,11,Extremadura,241,36,3,8,6
@@ -539,7 +539,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-19,06,Cantabria,144,61,7,1,10
 2020-03-19,08,Castilla La Mancha,1044,313,37,42,27
 2020-03-19,07,Castilla y León,1147,476,69,43,37
-2020-03-19,09,Cataluña,3270,,,,
+2020-03-19,09,Cataluña,3270,994,175,93,147
 2020-03-19,18,Ceuta,5,0,0,0,0
 2020-03-19,10,C. Valenciana,1105,777,101,33,20
 2020-03-19,11,Extremadura,297,44,4,10,7
@@ -558,7 +558,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-20,06,Cantabria,215,92,9,2,11
 2020-03-20,08,Castilla La Mancha,1423,635,65,84,38
 2020-03-20,07,Castilla y León,1466,629,85,55,54
-2020-03-20,09,Cataluña,4203,,,,
+2020-03-20,09,Cataluña,4203,1681,271,122,192
 2020-03-20,18,Ceuta,5,0,0,0,0
 2020-03-20,10,C. Valenciana,1363,947,129,50,25
 2020-03-20,11,Extremadura,354,65,6,12,8
@@ -577,7 +577,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-21,06,Cantabria,282,116,9,5,11
 2020-03-21,08,Castilla La Mancha,1819,838,76,112,48
 2020-03-21,07,Castilla y León,1744,798,106,74,89
-2020-03-21,09,Cataluña,4704,,,,
+2020-03-21,09,Cataluña,5046,1917,290,143,247
 2020-03-21,18,Ceuta,5,0,0,0,0
 2020-03-21,10,C. Valenciana,1604,1136,152,69,30
 2020-03-21,11,Extremadura,384,87,8,14,8
@@ -596,7 +596,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-22,06,Cantabria,347,157,14,6,11
 2020-03-22,08,Castilla La Mancha,2078,1547,142,145,51
 2020-03-22,07,Castilla y León,2055,977,120,102,117
-2020-03-22,09,Cataluña,5925,,,,
+2020-03-22,09,Cataluña,5747,2158,308,199,402
 2020-03-22,18,Ceuta,6,0,0,0,0
 2020-03-22,10,C. Valenciana,1901,1311,181,94,36
 2020-03-22,11,Extremadura,493,131,13,18,6
@@ -615,7 +615,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-23,06,Cantabria,425,200,16,9,12
 2020-03-23,08,Castilla La Mancha,2465,1826,182,216,53
 2020-03-23,07,Castilla y León,2460,1197,137,124,140
-2020-03-23,09,Cataluña,7864,,,,
+2020-03-23,09,Cataluña,7864,3209,471,293,631
 2020-03-23,18,Ceuta,6,0,0,0,0
 2020-03-23,10,C. Valenciana,2167,1562,222,115,37
 2020-03-23,11,Extremadura,636,161,20,26,8
@@ -634,7 +634,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-24,06,Cantabria,510,241,18,14,12
 2020-03-24,08,Castilla La Mancha,2780,2162,210,263,71
 2020-03-24,07,Castilla y León,2940,1457,170,165,213
-2020-03-24,09,Cataluña,9937,,,,
+2020-03-24,09,Cataluña,9937,4349,713,385,961
 2020-03-24,18,Ceuta,9,2,1,0,0
 2020-03-24,10,C. Valenciana,2616,1842,255,143,44
 2020-03-24,11,Extremadura,742,209,28,39,8
@@ -653,7 +653,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-25,06,Cantabria,671,300,26,17,14
 2020-03-25,08,Castilla La Mancha,3383,2162,243,316,95
 2020-03-25,07,Castilla y León,3488,1823,202,206,308
-2020-03-25,09,Cataluña,11592,,,,
+2020-03-25,09,Cataluña,11592,5371,764,501,1008
 2020-03-25,18,Ceuta,10,2,2,0,0
 2020-03-25,10,C. Valenciana,3200,2097,289,167,57
 2020-03-25,11,Extremadura,969,241,34,58,24
@@ -672,7 +672,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-26,06,Cantabria,810,355,29,21,19
 2020-03-26,08,Castilla La Mancha,3934,2707,273,367,153
 2020-03-26,07,Castilla y León,4132,2214,228,252,423
-2020-03-26,09,Cataluña,12940,,,,
+2020-03-26,09,Cataluña,12940,6714,972,685,1482
 2020-03-26,18,Ceuta,17,2,2,0,0
 2020-03-26,10,C. Valenciana,3532,2357,325,198,73
 2020-03-26,11,Extremadura,1231,277,41,69,33
@@ -691,7 +691,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-27,06,Cantabria,937,406,37,22,21
 2020-03-27,08,Castilla La Mancha,4512,2977,289,448,197
 2020-03-27,07,Castilla y León,4791,2648,249,321,585
-2020-03-27,09,Cataluña,14263,,,,
+2020-03-27,09,Cataluña,14263,7954,1036,827,1717
 2020-03-27,18,Ceuta,17,2,2,1,0
 2020-03-27,10,C. Valenciana,4034,2606,348,234,92
 2020-03-27,11,Extremadura,1394,312,40,88,49
@@ -710,7 +710,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-28,06,Cantabria,1023,449,40,26,24
 2020-03-28,08,Castilla La Mancha,5246,3018,299,539,236
 2020-03-28,07,Castilla y León,5414,3160,278,380,752
-2020-03-28,09,Cataluña,15026,,,,
+2020-03-28,09,Cataluña,15025,8447,1080,904,1966
 2020-03-28,18,Ceuta,21,2,2,1,0
 2020-03-28,10,C. Valenciana,4784,2773,375,267,161
 2020-03-28,11,Extremadura,1456,313,41,100,51
@@ -729,7 +729,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-29,06,Cantabria,1100,481,46,27,24
 2020-03-29,08,Castilla La Mancha,5858,3134,302,622,252
 2020-03-29,07,Castilla y León,5801,3411,307,442,871
-2020-03-29,09,Cataluña,16157,,,,
+2020-03-29,09,Cataluña,16104,9126,1150,983,2168
 2020-03-29,18,Ceuta,25,2,2,1,0
 2020-03-29,10,C. Valenciana,5110,2914,393,310,185
 2020-03-29,11,Extremadura,1560,353,43,106,60
@@ -748,7 +748,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-30,06,Cantabria,1171,522,50,37,35
 2020-03-30,08,Castilla La Mancha,6424,3225,344,708,296
 2020-03-30,07,Castilla y León,6211,3629,325,516,1028
-2020-03-30,09,Cataluña,18773,,,,
+2020-03-30,09,Cataluña,18520,9925,1218,1216,2633
 2020-03-30,18,Ceuta,34,3,3,1,0
 2020-03-30,10,C. Valenciana,5508,3111,416,339,200
 2020-03-30,11,Extremadura,1628,371,51,133,91
@@ -767,7 +767,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-03-31,06,Cantabria,1213,543,54,54,43
 2020-03-31,08,Castilla La Mancha,7047,3230,353,774,397
 2020-03-31,07,Castilla y León,6847,3951,345,585,1259
-2020-03-31,09,Cataluña,19991,,,,
+2020-03-31,09,Cataluña,19991,11446,1345,1458,3077
 2020-03-31,18,Ceuta,51,6,3,1,0
 2020-03-31,10,C. Valenciana,5922,3253,434,395,240
 2020-03-31,11,Extremadura,1679,372,58,152,113
@@ -786,7 +786,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-01,06,Cantabria,1268,567,57,60,60
 2020-04-01,08,Castilla La Mancha,7682,3230,355,854,494
 2020-04-01,07,Castilla y León,7355,4207,353,641,1498
-2020-04-01,09,Cataluña,21804,,,,
+2020-04-01,09,Cataluña,21804,12398,1415,1629,3683
 2020-04-01,18,Ceuta,55,7,3,1,0
 2020-04-01,10,C. Valenciana,6308,3389,449,443,432
 2020-04-01,11,Extremadura,1837,412,62,181,139
@@ -805,7 +805,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-02,06,Cantabria,1321,592,59,64,74
 2020-04-02,08,Castilla La Mancha,8523,3168,355,916,579
 2020-04-02,07,Castilla y León,7875,4472,355,723,1759
-2020-04-02,09,Cataluña,23460,,,,
+2020-04-02,09,Cataluña,23460,13101,1482,1784,3876
 2020-04-02,18,Ceuta,62,8,3,1,2
 2020-04-02,10,C. Valenciana,6624,3492,460,511,592
 2020-04-02,11,Extremadura,1893,415,64,200,164
@@ -824,7 +824,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-03,06,Cantabria,1384,619,60,68,99
 2020-04-03,08,Castilla La Mancha,9324,3133,360,989,657
 2020-04-03,07,Castilla y León,8332,4685,348,786,2021
-2020-04-03,09,Cataluña,24734,,,,
+2020-04-03,09,Cataluña,24734,14251,1569,1928,4589
 2020-04-03,18,Ceuta,73,8,4,1,2
 2020-04-03,10,C. Valenciana,6901,3560,470,571,695
 2020-04-03,11,Extremadura,1979,453,64,208,205
@@ -843,7 +843,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-04,06,Cantabria,1441,639,62,68,113
 2020-04-04,08,Castilla La Mancha,10031,2950,357,1055,1149
 2020-04-04,07,Castilla y León,8749,4905,351,847,2331
-2020-04-04,09,Cataluña,26032,,,,
+2020-04-04,09,Cataluña,26032,14798,1653,2053,5149
 2020-04-04,18,Ceuta,83,9,4,2,2
 2020-04-04,10,C. Valenciana,7184,3620,478,613,812
 2020-04-04,11,Extremadura,2047,417,66,218,215
@@ -862,7 +862,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-05,06,Cantabria,1483,658,65,77,118
 2020-04-05,08,Castilla La Mancha,10602,2901,354,1132,1259
 2020-04-05,07,Castilla y León,9116,5041,348,919,2533
-2020-04-05,09,Cataluña,26824,,,,
+2020-04-05,09,Cataluña,26824,15258,1685,2167,5374
 2020-04-05,18,Ceuta,83,9,4,3,2
 2020-04-05,10,C. Valenciana,7334,3668,487,637,930
 2020-04-05,11,Extremadura,2068,453,66,228,223
@@ -881,7 +881,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-06,06,Cantabria,1501,677,66,85,129
 2020-04-06,08,Castilla La Mancha,11077,2908,360,1177,1353
 2020-04-06,07,Castilla y León,9581,5180,346,982,2711
-2020-04-06,09,Cataluña,28323,,,,
+2020-04-06,09,Cataluña,28323,15643,1740,2329,6150
 2020-04-06,18,Ceuta,83,9,4,4,2
 2020-04-06,10,C. Valenciana,7443,3698,492,672,1103
 2020-04-06,11,Extremadura,2116,686,70,258,282
@@ -900,7 +900,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-07,06,Cantabria,1572,700,69,92,175
 2020-04-07,08,Castilla La Mancha,11788,2731,354,1255,1557
 2020-04-07,07,Castilla y León,10058,5322,342,1028,2988
-2020-04-07,09,Cataluña,29647,,,,
+2020-04-07,09,Cataluña,29647,16235,1829,2462,7320
 2020-04-07,18,Ceuta,84,9,4,4,7
 2020-04-07,10,C. Valenciana,7655,3713,496,724,1344
 2020-04-07,11,Extremadura,2184,898,98,271,328
@@ -919,7 +919,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-08,06,Cantabria,1619,720,71,98,214
 2020-04-08,08,Castilla La Mancha,12489,2575,342,1322,1766
 2020-04-08,07,Castilla y León,10518,5523,338,1082,3242
-2020-04-08,09,Cataluña,31043,,,,
+2020-04-08,09,Cataluña,31043,16970,1946,2667,8014
 2020-04-08,18,Ceuta,84,9,4,4,7
 2020-04-08,10,C. Valenciana,7964,3815,541,767,1772
 2020-04-08,11,Extremadura,2273,958,99,283,381
@@ -938,7 +938,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-09,06,Cantabria,1659,747,73,102,265
 2020-04-09,08,Castilla La Mancha,13063,2359,329,1431,1982
 2020-04-09,07,Castilla y León,11102,5674,332,1129,3506
-2020-04-09,09,Cataluña,31824,,,,
+2020-04-09,09,Cataluña,31824,17780,1966,2787,8705
 2020-04-09,18,Ceuta,91,9,4,4,12
 2020-04-09,10,C. Valenciana,8331,3987,561,796,2085
 2020-04-09,11,Extremadura,2332,1003,101,288,397
@@ -957,7 +957,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-10,06,Cantabria,1719,773,75,107,281
 2020-04-10,08,Castilla La Mancha,13456,2198,316,1483,2205
 2020-04-10,07,Castilla y León,11543,5817,327,1180,3757
-2020-04-10,09,Cataluña,32984,,,,
+2020-04-10,09,Cataluña,32984,18194,1989,2877,9267
 2020-04-10,18,Ceuta,93,9,4,4,17
 2020-04-10,10,C. Valenciana,8578,4132,565,818,2289
 2020-04-10,11,Extremadura,2486,1052,104,303,462
@@ -976,7 +976,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-11,06,Cantabria,1752,805,75,110,297
 2020-04-11,08,Castilla La Mancha,13698,6838,316,1543,2365
 2020-04-11,07,Castilla y León,12118,5957,323,1221,4010
-2020-04-11,09,Cataluña,34027,,,,
+2020-04-11,09,Cataluña,34027,18772,2018,2975,9610
 2020-04-11,18,Ceuta,93,9,4,4,17
 2020-04-11,10,C. Valenciana,8841,4149,567,838,2624
 2020-04-11,11,Extremadura,2580,1074,106,312,481
@@ -995,7 +995,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-12,06,Cantabria,1777,827,75,117,317
 2020-04-12,08,Castilla La Mancha,14054,7782,475,1626,2532
 2020-04-12,07,Castilla y León,12628,6077,312,1263,4154
-2020-04-12,09,Cataluña,34726,,,,
+2020-04-12,09,Cataluña,34726,18963,2084,3105,10040
 2020-04-12,18,Ceuta,95,9,4,4,20
 2020-04-12,10,C. Valenciana,9060,4269,576,876,2803
 2020-04-12,11,Extremadura,2658,1096,108,321,511
@@ -1014,7 +1014,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-13,06,Cantabria,1796,853,76,120,323
 2020-04-13,08,Castilla La Mancha,14329,7830,486,1714,2943
 2020-04-13,07,Castilla y León,13180,6175,308,1299,4266
-2020-04-13,09,Cataluña,35197,,,,
+2020-04-13,09,Cataluña,35197,19224,2102,3201,10387
 2020-04-13,18,Ceuta,96,9,4,4,22
 2020-04-13,10,C. Valenciana,9213,4397,581,907,3069
 2020-04-13,11,Extremadura,2684,1114,108,334,578
@@ -1033,7 +1033,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-14,06,Cantabria,1823,873,76,132,363
 2020-04-14,08,Castilla La Mancha,14680,7896,495,1755,2998
 2020-04-14,07,Castilla y León,13697,6306,306,1337,4521
-2020-04-14,09,Cataluña,36505,,,,
+2020-04-14,09,Cataluña,36505,20264,2189,3453,11480
 2020-04-14,18,Ceuta,98,9,4,4,30
 2020-04-14,10,C. Valenciana,9424,4465,588,945,3360
 2020-04-14,11,Extremadura,2762,1155,109,342,615
@@ -1052,7 +1052,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-15,06,Cantabria,1845,890,77,137,442
 2020-04-15,08,Castilla La Mancha,15151,7987,503,1796,3378
 2020-04-15,07,Castilla y León,14380,6449,307,1372,4725
-2020-04-15,09,Cataluña,37354,,,,
+2020-04-15,09,Cataluña,37354,20553,2252,3618,11961
 2020-04-15,18,Ceuta,100,9,4,4,41
 2020-04-15,10,C. Valenciana,9615,4524,625,972,3702
 2020-04-15,11,Extremadura,2881,1186,110,359,649
@@ -1071,7 +1071,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-16,06,Cantabria,1884,903,78,144,510
 2020-04-16,08,Castilla La Mancha,15997,8018,511,1852,3600
 2020-04-16,07,Castilla y León,14903,6518,297,1401,4924
-2020-04-16,09,Cataluña,38316,,,,
+2020-04-16,09,Cataluña,38316,21242,2305,3752,12787
 2020-04-16,18,Ceuta,101,9,4,4,44
 2020-04-16,10,C. Valenciana,9719,4605,632,999,4024
 2020-04-16,11,Extremadura,3019,1212,110,372,707
@@ -1090,7 +1090,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-17,06,Cantabria,1990,911,78,149,534
 2020-04-17,08,Castilla La Mancha,16349,8093,514,1913,3838
 2020-04-17,07,Castilla y León,15293,6831,495,1429,5103
-2020-04-17,09,Cataluña,39943,,,,
+2020-04-17,09,Cataluña,39943,22013,2349,3879,13275
 2020-04-17,18,Ceuta,108,9,4,4,53
 2020-04-17,10,C. Valenciana,9795,4708,636,1042,4306
 2020-04-17,11,Extremadura,3081,1240,112,380,736
@@ -1109,7 +1109,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-18,06,Cantabria,2050,924,78,153,610
 2020-04-18,08,Castilla La Mancha,16625,8137,518,1963,3963
 2020-04-18,07,Castilla y León,15621,6981,498,1458,5262
-2020-04-18,09,Cataluña,40600,,,,
+2020-04-18,09,Cataluña,40600,22235,2395,3933,13691
 2020-04-18,18,Ceuta,109,9,4,4,59
 2020-04-18,10,C. Valenciana,9937,4781,643,1065,4547
 2020-04-18,11,Extremadura,3136,1278,112,384,767
@@ -1128,7 +1128,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-19,06,Cantabria,2083,934,78,158,626
 2020-04-19,08,Castilla La Mancha,16796,8173,531,2021,4178
 2020-04-19,07,Castilla y León,15857,7080,501,1493,5366
-2020-04-19,09,Cataluña,41676,,,,
+2020-04-19,09,Cataluña,41676,22375,2409,4009,13934
 2020-04-19,18,Ceuta,111,9,4,4,74
 2020-04-19,10,C. Valenciana,10018,4827,646,1079,4629
 2020-04-19,11,Extremadura,3186,1306,112,389,858
@@ -1147,7 +1147,7 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-20,06,Cantabria,2123,948,78,165,646
 2020-04-20,08,Castilla La Mancha,17045,8199,534,2075,4242
 2020-04-20,07,Castilla y León,16259,7174,503,1521,5429
-2020-04-20,09,Cataluña,43112,,,,
+2020-04-20,09,Cataluña,43112,22796,2437,4152,14446
 2020-04-20,18,Ceuta,111,9,4,4,73
 2020-04-20,10,C. Valenciana,10084,4866,648,1089,4719
 2020-04-20,11,Extremadura,3196,1327,112,397,921
@@ -1158,3 +1158,22 @@ Fecha,cod_ine,CCAA,Casos,Hospitalizados,UCI,Fallecidos,Recuperados
 2020-04-20,15,Navarra,4781,1877,128,397,1190
 2020-04-20,16,País Vasco,12810,6141,507,1103,7277
 2020-04-20,17,La Rioja,3763,1297,81,294,1866
+2020-04-21,01,Andalucía,11610,5565,696,1050,3569
+2020-04-21,02,Aragón,5054,2304,252,656,1530
+2020-04-21,03,Asturias,2419,1665,128,211,642
+2020-04-21,04,Baleares,1836,1005,166,164,1017
+2020-04-21,05,Canarias,2094,841,164,121,927
+2020-04-21,06,Cantabria,2160,956,78,167,718
+2020-04-21,08,Castilla La Mancha,17321,8243,537,2140,4337
+2020-04-21,07,Castilla y León,16839,7264,505,1554,5614
+2020-04-21,09,Cataluña,43802,23295,2460,4247,15089
+2020-04-21,18,Ceuta,118,9,4,4,76
+2020-04-21,10,C. Valenciana,10538,4896,649,1106,5011
+2020-04-21,11,Extremadura,3230,1349,112,404,1051
+2020-04-21,12,Galicia,8634,2674,96,368,1625
+2020-04-21,13,Madrid,59199,7464,1024,7577,33032
+2020-04-21,19,Melilla,105,44,3,2,50
+2020-04-21,14,Murcia,1695,622,104,123,761
+2020-04-21,15,Navarra,4899,1894,128,401,1316
+2020-04-21,16,País Vasco,13044,6201,513,1124,7651
+2020-04-21,17,La Rioja,3792,1318,81,298,1899
