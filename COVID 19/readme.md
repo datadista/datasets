@@ -422,3 +422,5 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 [**COVID-19 en España**](https://covid19sp.herokuapp.com/)
 
 [**El Independiente: Compras de Sanidad: 726 millones de mascarillas, 115 millones de guantes, 2.500 respiradores...**](https://www.elindependiente.com/politica/2020/04/22/compras-de-sanidad-713-millones-de-mascarillas-115-millones-de-guantes-2-500-respiradores/)
+
+[**COVID-19 Spain**](https://nachomcapella.shinyapps.io/covid-19/)
