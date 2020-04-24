@@ -56,8 +56,9 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 **NOTA DE DATADISTA SOBRE LOS DATOS (20/04/2020)**: Sanidad ha actualizados los datos de altas de Galicia que estaban pendientes. Son  1536 el 18/04/20 y 1507 el 17/04/20. Estos datos juntos con el total han sido actualizados en el dataset de la serie histórica [ccaa_covid19_altas.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_altas.csv). Sanidad también ha añadido 1.385 casos en Madrid correspondientes a "casos que iniciaron síntomas más de 14 días antes de la realización de la prueba diagnóstica y que no corresponden con nuevos contagios".
 
 
-
 **NOTA DE DATADISTA SOBRE LOS DATOS (22/04/2020)**: El Instituto de Salud Carlos III ha actualizado la serie histórica de Cataluña en el dataset [ccaa_covid19_datos_isciii.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_datos_isciii.csv). 
+
+**NOTA DE DATADISTA SOBRE LOS DATOS (24/04/2020)**: Sanidad ha empezado a publicitar hoy como el dato de casos confirmados por COVID-19 solo el dato de confirmados positivos mediante un test PCR. Los últimos 9 días, Sanidad incluía en casos totales la suma de confirmados por PCR y confirmados por test rápido, sin incluir los casos de positivos asintomáticos. Estos datos se siguen ofreciendo en la nueva tabla 4 de los PDFs de informes diarios de Sanidad. El Instituto de Salud Carlos III está manteniendo la serie histórica de casos confirmados incluyendo la suma de PCR y test rápidos sin incluir asintomáticos. Todos estos datasets los tienes disponibles en este mismo repositorio. Recordamos también que la fecha de los datasets que provienen del Ministerio de Sanidad es la de publicación mientras que la fecha del dataset del Instituto de Salud Carlos III es la de notificación. Es decir, el día anterior a la de publicación.
   
   
 **(\*\*)COMUNIDADES AUTONÓMAS QUE PUBLICAN DATOS DE PREVALENCIA**
