@@ -331,6 +331,14 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 **Descripción:** Gasolineras abiertas durante el estado de alarma. Listado de estaciones de servicio con horario habitual y estaciones de servicio que pueden flexibilizar* sus horarios durante el estado de alarma.<br>
 **Fuente:** [Ministerio para la Transición Ecológica y el Reto Demográfico](https://www.miteco.gob.es/es/ministerio/medidas-covid19/)
 
+
+<br><br>
+**Nombre del archivo:** [talleres_reparacion_vehiculos_industriales.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/talleres_reparacion_vehiculos_industriales.csv)<br>
+**Nivel administrativo:** Municipio<br>
+**Descripción:** Listado de los talleres abiertos para vehículos industriales durante el estado de alarma.<br>
+**Fuente:** [Ministerio de Transportes, Movilidad y Agenda Urbana](https://www.mitma.gob.es)
+
+
 <br><br>
 **Nombre del archivo:** [contratos_emergencia_sanidad.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/contratos_emergencia_sanidad.csv)<br>
 **Nivel administrativo:** Nacional<br>
