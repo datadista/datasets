@@ -65,7 +65,7 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 **ACTUALIZACIÓN DE LA NOTA DE DATADISTA SOBRE LOS DATOS (24/04/2020)**: Nos indica el Ministerio de Sanidad que en los datos de hoy también ha habido un ajuste por parte de las CCAA en la serie de positivos por PCR respecto a las cifras de ayer. Por tanto, según ellos, los casos nuevos por PCR son los 2.796. También sea va corregir en los próximos días la serie histórica por parte del Instituto de Salud Carlos III de casos confirmados para incluir solo confirmados por PCR. Los datos de casos confirmados incluyendo positivos por test de anticuerpos se empezó a contabilizar el pasado 16 de abril. Por tanto, pensamos que el ajuste que hara el ISCIII será de los datos de casos confirmados de los últimos 9 días.
 
   
-**(\*\*)COMUNIDADES AUTONÓMAS QUE PUBLICAN DATOS DE PREVALENCIA**
+**(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
 |------------------------------------|----------------------|
 | Castilla La Mancha (hasta 2020-04-11)                 | Castilla La Mancha (hasta 2020-04-12)   |
