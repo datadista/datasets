@@ -300,6 +300,12 @@ Description: Accumulated number of cases registered by Autonomous Community<br>
 | Fallecidos     | Personas fallecidas acumuladas                                        | Accumulated deceased                                                                  | Número     | 7          |
 | Recuperados    | Personas curadas acumuladas	                                          | Accumulated recovered                                                           | Número     | 7          |
 
+
+<br><br>
+**Nombre del archivo:** [ccaa_covid19_test_realizados.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_test_realizados.csv) <br>
+**Nivel administrativo:** Comunidad Autónoma<br>
+**Descripción:** Número acumulado de test PCR y test de anticuerpos realizados por comunidad autonoma hasta el 2020-04-23.
+
 <br><br>
 **Nombre del archivo:** [ccaa_covid19_mascarillas.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_mascarillas.csv) <br>
 **Nivel administrativo:** Comunidad Autónoma<br>
