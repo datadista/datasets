@@ -302,6 +302,11 @@ Description: Accumulated number of cases registered by Autonomous Community<br>
 
 
 <br><br>
+**Nombre del archivo:** [nacional_casos_personal_sanitario.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_casos_personal_sanitario.csv) <br>
+**Nivel administrativo:** Nacional<br>
+**Descripción:** Número de casos confirmados por COVID-19 entre el personal sanitario.
+
+<br><br>
 **Nombre del archivo:** [ccaa_covid19_test_realizados.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_test_realizados.csv) <br>
 **Nivel administrativo:** Comunidad Autónoma<br>
 **Descripción:** Número acumulado de test PCR y test de anticuerpos realizados por comunidad autonoma hasta el 2020-04-23.
