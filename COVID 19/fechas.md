@@ -27,7 +27,7 @@
 | Sun, 26 Apr 2020 12:03:17 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Wed, 22 Apr 2020 21:49:19 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Fri, 24 Apr 2020 19:22:43 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
-| Mon, 27 Apr 2020 11:23:48 +0200  | COVID 19/nacional_covid19.csv |
+| Mon, 27 Apr 2020 11:35:28 +0200  | COVID 19/nacional_covid19.csv |
 | Sun, 26 Apr 2020 12:03:17 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Sun, 26 Apr 2020 12:03:17 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
