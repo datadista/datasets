@@ -66,6 +66,9 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 
 **NOTA DE DATADISTA SOBRE LOS DATOS (26/04/2020)**: El Ministerio de Sanidad ha dejado de ofrecer las tablas de positivos por test de anticuerpos y positivos por test de anticuerpos asintomáticos. En palabras de Fernando Simón: "No vamos a quitar las tablas serológicas, vamos a espaciar su periodicidad. Próximamente vamos a cambiar los indicadores de interés. Hemos pensado que mejor no distraer con datos de más difícil interpretación". <strike>También hemos observado que el ISCIII no ha actualizado hoy el csv que mantiene de la serie histórica, por tanto, no es posible conocer el número de casos totales detectados en España</strike>. **ACTUALIZACIÓN 15:50H** EL ISCIII acaba de añadir el csv con la serie histórica disponiendo de los datos de test PCR y test de anticcuerpos, lo que nos ha permitido poder actualizar los siguientes datasets: nacional_covid19.csv, ccaa_covid19_casos.csv, ccaa_covid19_casos_long.csv, ccaa_covid19_confirmados_test.csv, ccaa_covid19_confirmados_test_long.csv. Quedan pendientes de poder actualizar los datasets: ccaa_covid19_positivos_asintomaticos.csv y ccaa_covid19_positivos_asintomaticos_long.csv
 
+
+**NOTA DE DATADISTA SOBRE LOS DATOS (27/04/2020)**: Desde hoy, los datos publicados de Madrid en hospitalizados y UCI son el acumulado y no el dato de prevalencia.
+
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
