@@ -9,12 +9,12 @@
 | Mon, 23 Mar 2020 08:55:52 +0100  | COVID 19/ccaa_camas_uci_2017.csv |
 | Mon, 27 Apr 2020 11:47:15 +0200  | COVID 19/ccaa_covid19_altas.csv |
 | Mon, 27 Apr 2020 11:47:15 +0200  | COVID 19/ccaa_covid19_altas_long.csv |
-| Mon, 27 Apr 2020 11:47:15 +0200  | COVID 19/ccaa_covid19_casos.csv |
-| Mon, 27 Apr 2020 11:47:15 +0200  | COVID 19/ccaa_covid19_casos_long.csv |
+| Mon, 27 Apr 2020 13:46:03 +0200  | COVID 19/ccaa_covid19_casos.csv |
+| Mon, 27 Apr 2020 13:46:03 +0200  | COVID 19/ccaa_covid19_casos_long.csv |
 | Mon, 27 Apr 2020 11:47:15 +0200  | COVID 19/ccaa_covid19_confirmados_pcr.csv |
 | Mon, 27 Apr 2020 11:47:15 +0200  | COVID 19/ccaa_covid19_confirmados_pcr_long.csv |
-| Mon, 27 Apr 2020 11:47:15 +0200  | COVID 19/ccaa_covid19_confirmados_test.csv |
-| Mon, 27 Apr 2020 11:47:15 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
+| Mon, 27 Apr 2020 13:46:03 +0200  | COVID 19/ccaa_covid19_confirmados_test.csv |
+| Mon, 27 Apr 2020 13:46:03 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
 | Mon, 27 Apr 2020 11:47:15 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
 | Mon, 27 Apr 2020 11:47:15 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Mon, 27 Apr 2020 11:47:15 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
@@ -27,7 +27,7 @@
 | Mon, 27 Apr 2020 11:47:15 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Wed, 22 Apr 2020 21:49:19 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Fri, 24 Apr 2020 19:22:43 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
-| Mon, 27 Apr 2020 11:35:28 +0200  | COVID 19/nacional_covid19.csv |
+| Mon, 27 Apr 2020 13:46:03 +0200  | COVID 19/nacional_covid19.csv |
 | Mon, 27 Apr 2020 12:38:36 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Mon, 27 Apr 2020 12:38:36 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
