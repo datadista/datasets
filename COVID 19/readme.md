@@ -72,9 +72,9 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 |------------------------------------|----------------------|
 | Castilla La Mancha (hasta 2020-04-11)                 | Castilla La Mancha (hasta 2020-04-12)   |
 | Comunidad Valenciana (hasta 2020-04-08)               | Castilla y León  (hasta 2020-04-17)    |
-| Madrid                             | Comunidad Valenciana (hasta 2020-04-08) |
+| Madrid (hasta 2020-04-26)                             | Comunidad Valenciana (hasta 2020-04-08) |
 | Castilla y León (hasta 2020-04-06) | Galicia              |
-|                                    | Madrid               |
+|                                    | Madrid (hasta 2020-04-26)              |
 
  
 **Nombre del archivo:** [nacional_covid19.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) <br>
