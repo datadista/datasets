@@ -69,6 +69,10 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 
 **NOTA DE DATADISTA SOBRE LOS DATOS (27/04/2020)**: Desde hoy, los datos publicados de Madrid en hospitalizados y UCI son el acumulado y no el dato de prevalencia.
 
+**NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (29/04/2020)**: Galicia ha notificado desde hoy los casos acumulados de UCI y ha validado los casos que han requerido hospitalización hasta la fecha (resultando en un valor menor al previamente notificado) por lo que no se han podido calcular los casos nuevos e incrementos correspondientes. Además de los 7 nuevos fallecidos de hoy, ha notificado otras 128 defunciones correspondientes a centros sociosanitarios que no corresponden a defunciones actuales y por tanto no se reflejan en la columna “Nuevos fallecidos” pero se han incluido en el total. También ha consolidado datos de altas domiciliarias lo que explica el gran incremento de los curados.
+
+**NOTA DE DATADISTA SOBRE LOS DATOS (29/04/2020)**: Desde hoy, todos los datos de hospitalizados e ingresados UCI son el acumulado.
+
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
@@ -76,7 +80,7 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 | Castilla La Mancha (hasta 2020-04-11)                 | Castilla La Mancha (hasta 2020-04-12)   |
 | Comunidad Valenciana (hasta 2020-04-08)               | Castilla y León  (hasta 2020-04-17)    |
 | Madrid (hasta 2020-04-26)                             | Comunidad Valenciana (hasta 2020-04-08) |
-| Castilla y León (hasta 2020-04-06) | Galicia              |
+| Castilla y León (hasta 2020-04-06) | Galicia (hasta 2020-04-29)              |
 |                                    | Madrid (hasta 2020-04-26)              |
 
  
