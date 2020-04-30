@@ -28,7 +28,7 @@
 | Wed, 29 Apr 2020 12:15:05 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Tue, 28 Apr 2020 12:39:29 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
-| Tue, 28 Apr 2020 11:26:06 +0200  | COVID 19/nacional_casos_personal_sanitario.csv |
+| Thu, 30 Apr 2020 11:33:59 +0200  | COVID 19/nacional_casos_personal_sanitario.csv |
 | Thu, 30 Apr 2020 11:31:17 +0200  | COVID 19/nacional_covid19.csv |
 | Wed, 29 Apr 2020 13:41:41 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Wed, 29 Apr 2020 12:30:07 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
