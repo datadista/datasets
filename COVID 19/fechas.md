@@ -6,6 +6,7 @@
 |---------------------------------|--------------------------|
 | Sat, 18 Apr 2020 14:59:48 +0200  | COVID 19/EESS_horario_flexible_habitual.csv |
 | Wed, 1 Apr 2020 13:41:08 +0200  | COVID 19/alojamientos_turisticos_boe_2020_4194.csv |
+| Thu, 30 Apr 2020 12:47:09 +0200  | COVID 19/areas_descanso_carreteras.csv |
 | Mon, 23 Mar 2020 08:55:52 +0100  | COVID 19/ccaa_camas_uci_2017.csv |
 | Thu, 30 Apr 2020 11:44:46 +0200  | COVID 19/ccaa_covid19_altas.csv |
 | Thu, 30 Apr 2020 11:44:46 +0200  | COVID 19/ccaa_covid19_altas_long.csv |
