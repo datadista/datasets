@@ -31,7 +31,6 @@
 | Thu, 30 Apr 2020 12:46:32 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
 | Fri, 1 May 2020 11:42:53 +0200  | COVID 19/nacional_casos_personal_sanitario.csv |
 | Thu, 30 Apr 2020 11:31:17 +0200  | COVID 19/nacional_covid19.csv |
-| Fri, 1 May 2020 12:52:17 +0200  | COVID 19/nacional_covid19_old.csv |
 | Thu, 30 Apr 2020 20:10:45 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Thu, 30 Apr 2020 12:04:55 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
