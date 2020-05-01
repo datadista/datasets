@@ -363,6 +363,12 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 **Descripción:** Listado de los talleres abiertos para vehículos industriales durante el estado de alarma.<br>
 **Fuente:** [Ministerio de Transportes, Movilidad y Agenda Urbana](https://www.mitma.gob.es)
 
+<br><br>
+**Nombre del archivo:** [areas_descanso_carreteras.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/areas_descanso_carreteras.csv)<br>
+**Nivel administrativo:** Municipio<br>
+**Descripción:** Listado áreas de descanso en carreteras disponibles durante el estado de alarma.<br>
+**Fuente:** [Ministerio de Transportes, Movilidad y Agenda Urbana](https://www.mitma.gob.es)
+
 
 <br><br>
 **Nombre del archivo:** [contratos_emergencia_sanidad.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/contratos_emergencia_sanidad.csv)<br>
