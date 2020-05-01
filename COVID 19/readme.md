@@ -73,6 +73,10 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 
 **NOTA DE DATADISTA SOBRE LOS DATOS (29/04/2020)**: Desde hoy, todos los datos de hospitalizados e ingresados UCI son el acumulado.
 
+**NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (01/05/2020)**: La Comunidad de Madrid ha consolidado los datos y ajustado la serie de casos confirmados por PCR por retraso de varias semanas en la recepción de resultados. El total de casos confirmados acumulados consolidados a 29/04/2020 es de 61.777. Esto afecta al total de casos confirmados en España siendo el total de casos confirmados acumulados consolidados a 29/04/2020 de 214.041.
+
+**NOTA DE DATADISTA SOBRE LOS DATOS (01/05/2020)**: Modificado el dataset [nacional_covid19.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) para corregir la serie histórica en casos, fallecidos, altas, hospitalizados e ingresos UCI y se han incluido dos nuevas columnas: casos_pcr y casos_test. También se ha eliminado el agregado de hospitalizados e ingresos UCI de la serie histórica que estaba sumando casos de prevalencia y acumulado. El dataset anterior sin actualizar hasta el 2020-04-30 está disponible en: [nacional_covid19_old.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/old_series/nacional_covid19_old.csv) 
+
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
@@ -86,16 +90,17 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
  
 **Nombre del archivo:** [nacional_covid19.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) <br>
 **Nivel administrativo:** Nacional
- 
- | Campo          | Descripción                                                       | Description                                                                       | Formato    | Ejemplo |
-|----------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------|---------|
-| fecha          | Fecha de publicación                                              | Publication date                                                              | YYYY-MM-DD | 2020-03-25 |
-| casos          | Total de casos confirmados acumulados (PCR + Test de anticuerpos)                                      | Accumulated total confirmed cases (PCR + Antibody test)                                                      | Número     | 7       |
-| altas          | Personas curadas acumuladas                                       | Accumulated recovered                                                             | Número     | 7       |
-| fallecimientos | Personas fallecidas acumuladas                                    | Accumulated deceased                                                              | Número     | 7       |
-| ingresos_uci   | Casos acumulados que han precisado ingreso en UCI(\*\*) | Accumulated cases that have required admission to the IC(\*\*) | Número     | 7       |
-| hospitalizados | Casos acumulados que han precisado hospitalización (incluyen UCI)(\*\*)                 | Accumulated cases that have required hospitalization (include admitted to the IC)(\*\*)                          | Número     | 7       |
 
+| Campo          | Descripción                                                                | Description                                                                             | Formato    | Ejemplo    |
+|----------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------|------------|
+|       fecha    | Fecha de publicación                                                       | Publication date                                                                        | YYYY-MM-DD | 2020-03-25 |
+| casos_total    | Total de casos confirmados acumulados incluye PCR y Test de   anticuerpos  | Accumulated total confirmed cases (included PCR and Antibody test)                      | Número     | 7          |
+| casos_prc      | Total de casos confirmados acumulados por PCR                              | Accumulated total confirmed cases by PCR                                                | Número     | 7          |
+| casos_test     | Total de casos confirmados acumulados por test de   anticuerpos            | Accumulated total confirmed cases by Antibody test)                                     | Número     | 7          |
+| altas          | Personas curadas acumuladas                                                | Accumulated recovered                                                                   | Número     | 7          |
+| fallecimientos | Personas fallecidas acumuladas                                             | Accumulated deceased                                                                    | Número     | 7          |
+| ingresos_uci   | Casos acumulados que han precisado ingreso en UCI(**)                      | Accumulated cases that have required admission to the IC(**)                            | Número     | 7          |
+| hospitalizados | Casos acumulados que han precisado hospitalización (incluyen UCI)(**)      | Accumulated cases that have required hospitalization (include admitted   to the IC)(**) | Número     | 7          |
 
 <br><br>
 **Nombre del archivo:** [nacional_covid19_rango_edad.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19_rango_edad.csv) <br>
