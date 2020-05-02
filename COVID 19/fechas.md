@@ -25,7 +25,7 @@
 | Sat, 25 Apr 2020 13:54:25 +0200  | COVID 19/ccaa_covid19_positivos_asintomaticos.csv |
 | Sat, 25 Apr 2020 13:54:25 +0200  | COVID 19/ccaa_covid19_positivos_asintomaticos_long.csv |
 | Mon, 27 Apr 2020 15:14:50 +0200  | COVID 19/ccaa_covid19_test_realizados.csv |
-| Thu, 30 Apr 2020 11:44:46 +0200  | COVID 19/ccaa_covid19_uci.csv |
+| Sat, 2 May 2020 10:46:21 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Fri, 1 May 2020 17:46:11 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Fri, 1 May 2020 18:07:49 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
