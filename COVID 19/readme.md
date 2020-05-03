@@ -14,6 +14,8 @@ Extracción, limpieza y normalización de las tablas de la situación diaria acu
  Los datos para los días [29 de febrero](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-29-febrero-2020), [1 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-01-marzo-2020), [7 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-07-marzo-2020) y [8 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-08-marzo-2020) provienen de las notas de prensa del Departamento de Seguridad Nacional y del gabinete de prensa del Ministerio de Sanidad.
  
  [**PDFs originales de resumen de situación:**](https://github.com/datadista/datasets/tree/master/COVID%2019/PDFs%20originales%20de%20resumen%20de%20situacio%CC%81n) Carpeta con los PDFs originales de los informes oficiales publicados por el Ministerio de Sanidad.
+ 
+  [**Serie antigua de datasets:**](https://github.com/datadista/datasets/tree/master/COVID%2019/old_series) Carpeta con la serie de datasets mantenida hasta el 2020-04-30. A partir del 2020-05-01 la serie histórica es permanentemente corregida según los datos facilitados periódicamente por las CCAA al Ministerio de Sanidad.
 
 
 **Licencia de uso:**
