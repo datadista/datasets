@@ -31,7 +31,7 @@
 | Sun, 3 May 2020 12:52:48 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
 | Mon, 4 May 2020 12:06:18 +0200  | COVID 19/nacional_casos_personal_sanitario.csv |
 | Mon, 4 May 2020 11:46:34 +0200  | COVID 19/nacional_covid19.csv |
-| Sun, 3 May 2020 12:50:35 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
-| Sun, 3 May 2020 12:50:35 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
+| Mon, 4 May 2020 15:35:05 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
+| Mon, 4 May 2020 15:35:05 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
 | Thu, 30 Apr 2020 13:45:21 +0200  | COVID 19/talleres_reparacion_vehiculos_industriales.csv |
