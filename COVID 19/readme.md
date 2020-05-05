@@ -1,6 +1,8 @@
-Extracción, limpieza y normalización de las tablas de la situación diaria acumulada de la enfermedad por el coronavirus SARS-CoV-2 (COVID-19) en España en un formato accesible y reutilizable. Datos actualizados diariamente según el calendario y ritmo de publicación del Ministerio de Sanidad. 
+**Datasets relacionados con la incidencia de la COVID-19 en España**
 
-- También tienes disponibles otros datasets accesorios para cubrir la crisis por COVID-19 en España
+- Extracción, limpieza y normalización de las tablas de la situación diaria acumulada de la enfermedad por el coronavirus SARS-CoV-2 (COVID-19) en España en un formato accesible y reutilizable. Datos actualizados diariamente según el calendario y ritmo de publicación del Ministerio de Sanidad. 
+
+- Datasets accesorios para cubrir la crisis por COVID-19 en España
 
 **Fuente de los datos:**
 
