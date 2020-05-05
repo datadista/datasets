@@ -10,6 +10,7 @@ Extracción, limpieza y normalización de las tablas de la situación diaria acu
 - BOE: Crisis Sanitaria COVID-19 https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=355&modo=2&nota=0&tab=2<br>
 - Ministerio de Transportes, Movilidad y Agenda Urbana https://www.mitma.gob.es/transporte-terrestre/punto-de-informacion-de-servicios-de-restauracion
 - Plataforma de Contratación del Estado: [Dirección General de Cartera común de servicios del Sistema Nacional de Salud y Farmacia](https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtClKL0jJznPPzSooSSxLzSlL1w_Wj9KMyU5wK9CMjQ1M9TRM9y7NzTQK9jUJc0yLcK7UdbW31C3JzHQEtJPOu/) e [INGESA](https://contrataciondelestado.es/wps/portal/!ut/p/b0/DccxCoAwDADAJ2UtgoMt-APRZgsYNdimoYS-X287QDgAlYbc5NKUyv98MlsRfSfjfklJTb2TkzrDDggoZzTIMa2xhfHQFmawWpcP0GJGAA!!/)
+- Ministerio de Inclusión, Seguridad Social y Migraciones: http://prensa.mitramiss.gob.es/WebPrensa/noticias/seguridadsocial/detalle/3798
  
  Los datos para los días [29 de febrero](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-29-febrero-2020), [1 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-01-marzo-2020), [7 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-07-marzo-2020) y [8 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-08-marzo-2020) provienen de las notas de prensa del Departamento de Seguridad Nacional y del gabinete de prensa del Ministerio de Sanidad.
  
