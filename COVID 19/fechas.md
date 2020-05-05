@@ -35,5 +35,6 @@
 | Tue, 5 May 2020 11:33:36 +0200  | COVID 19/nacional_covid19.csv |
 | Tue, 5 May 2020 17:46:59 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Tue, 5 May 2020 17:46:59 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
+| Tue, 5 May 2020 18:24:41 +0200  | COVID 19/provincia_covid19_ERTE.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
 | Thu, 30 Apr 2020 13:45:21 +0200  | COVID 19/talleres_reparacion_vehiculos_industriales.csv |
