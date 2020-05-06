@@ -18,7 +18,7 @@
 | Tue, 5 May 2020 14:11:05 +0200  | COVID 19/ccaa_covid19_confirmados_pcr_long.csv |
 | Tue, 5 May 2020 14:11:05 +0200  | COVID 19/ccaa_covid19_confirmados_test.csv |
 | Tue, 5 May 2020 14:11:05 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
-| Tue, 5 May 2020 11:20:14 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
+| Wed, 6 May 2020 11:32:10 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
 | Tue, 5 May 2020 14:11:05 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Tue, 5 May 2020 14:11:05 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
 | Mon, 4 May 2020 13:03:39 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
@@ -31,7 +31,7 @@
 | Tue, 5 May 2020 14:11:05 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Mon, 4 May 2020 15:38:49 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
-| Tue, 5 May 2020 11:20:14 +0200  | COVID 19/nacional_casos_personal_sanitario.csv |
+| Wed, 6 May 2020 11:32:10 +0200  | COVID 19/nacional_casos_personal_sanitario.csv |
 | Tue, 5 May 2020 11:33:36 +0200  | COVID 19/nacional_covid19.csv |
 | Tue, 5 May 2020 17:46:59 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Tue, 5 May 2020 17:46:59 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
