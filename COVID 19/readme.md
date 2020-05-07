@@ -492,3 +492,13 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 [**El Independiente: Compras de Sanidad: 726 millones de mascarillas, 115 millones de guantes, 2.500 respiradores...**](https://www.elindependiente.com/politica/2020/04/22/compras-de-sanidad-713-millones-de-mascarillas-115-millones-de-guantes-2-500-respiradores/)
 
 [**COVID-19 Spain**](https://nachomcapella.shinyapps.io/covid-19/)
+
+[**Worldmeters Spain**](https://www.worldometers.info/coronavirus/country/spain/)
+
+[**SAN ROQUE FONTACIERA Covid-19 en España**](http://sanroquefontaciera.es/covid19/)
+
+[**nosquedamosencasa.es**](https://nosquedamosencasa.ushahidi.io/views/map)
+
+[**Análisis del COVID-19 en España por edad y sexo**](https://public.tableau.com/profile/iv.n.carballeira#!/vizhome/AnlisisCOVID-19Espaa/Dashboardedadysexo)
+
+[**COVID-19 (SARS-CoV-2): Datos Nacionales, por CCAA, mundiales y simulación epidemiológica**](https://baguadoramirez.shinyapps.io/covid/)
