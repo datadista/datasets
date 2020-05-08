@@ -14,7 +14,7 @@
 | Thu, 7 May 2020 12:40:39 +0200  | COVID 19/ccaa_covid19_altas_long.csv |
 | Thu, 7 May 2020 17:46:03 +0200  | COVID 19/ccaa_covid19_casos.csv |
 | Thu, 7 May 2020 12:40:39 +0200  | COVID 19/ccaa_covid19_casos_long.csv |
-| Thu, 7 May 2020 12:40:39 +0200  | COVID 19/ccaa_covid19_confirmados_pcr.csv |
+| Fri, 8 May 2020 11:37:43 +0200  | COVID 19/ccaa_covid19_confirmados_pcr.csv |
 | Thu, 7 May 2020 12:40:39 +0200  | COVID 19/ccaa_covid19_confirmados_pcr_long.csv |
 | Thu, 7 May 2020 12:40:39 +0200  | COVID 19/ccaa_covid19_confirmados_test.csv |
 | Thu, 7 May 2020 12:40:39 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
