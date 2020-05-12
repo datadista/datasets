@@ -85,6 +85,9 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 **NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (03/05/2020)**: Andalucía ha consolidado su serie de casos y ha reclasificado 69 casos PCR+ como positivos por test de anticuerpos. La Comunidad de Madrid consolida diariamente la serie de casos confirmados por PCR, asignando a los casos nuevos notificados la fecha en la que se toma la muestra o se emite el resultado. Se realiza una actualización diaria de la serie de casos.
 
 **NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (11/05/2020)**: Cataluña ha informado el día 10.05.2020 de 2.721 casos más respecto al 09.05.2020 de los cuales 83 son casos nuevos, la serie histórica será actualizada en los próximos días.
+
+**NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (12/05/2020)**: Andalucía ha revisado sus casos confirmados por PCR y ha actualizado la información. En los totales acumulados de hoy figuran 48 caso menos respecto que ayer debido a la depuración de
+datos. Cataluña ha notificado 337 casos más respecto ayer, de los cuales 184 corresponden a casos nuevos. La serie de casos se está revisando.
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
