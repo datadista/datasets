@@ -88,6 +88,8 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 
 **NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (12/05/2020)**: Andalucía ha revisado sus casos confirmados por PCR y ha actualizado la información. En los totales acumulados de hoy figuran 48 caso menos respecto que ayer debido a la depuración de
 datos. Cataluña ha notificado 337 casos más respecto ayer, de los cuales 184 corresponden a casos nuevos. La serie de casos se está revisando.
+
+**NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (13/05/2020)**: De los 136 nuevos casos notificados por Cataluña, 26 casos corresponden a casos antiguos. La serie de casos se está revisando. 
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
