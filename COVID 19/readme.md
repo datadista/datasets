@@ -412,6 +412,15 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 
 
 <br><br>
+**Nombre del archivo:** [provincias_estudio_prevalencia_anticuerpos_primera_ronda.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/provincias_estudio_prevalencia_anticuerpos_primera_ronda.csv)<br>
+**Nivel administrativo:** Provincial<br>
+**Descripción:** Estudio de seroprevalencia. Datos de la primera ronda. Prevalencia de anticuerpos IgG anti SARS-COv2 por provincia<br>
+**Fuente:**  La Moncloa: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/sanidad14/Paginas/2020/130520-seroprevalencia.aspx
+
+
+
+
+<br><br>
 **Listado de reutilizaciones, análisis, visualizaciones y artículos realizados:**
 
 [**Dataverse. Harvard University. Coronavirus Disease 2019 (COVID-19) in Spain**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GPFFAQ)
