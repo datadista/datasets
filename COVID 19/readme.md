@@ -90,6 +90,8 @@ grupos. Los pacientes que han precisado UCI también computan en los pacientes q
 datos. Cataluña ha notificado 337 casos más respecto ayer, de los cuales 184 corresponden a casos nuevos. La serie de casos se está revisando.
 
 **NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (13/05/2020)**: De los 136 nuevos casos notificados por Cataluña, 26 casos corresponden a casos antiguos. La serie de casos se está revisando. 
+
+**NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (15/05/2020)**: Extremadura ha actualizado su histórico de positivos por PCR y ha añadido dos casos más a los datos de ayer y otros dos a los del día anterior.
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
