@@ -1,6 +1,6 @@
 **LEA DETENIDAMENTE ESTE README ANTES DE UTILIZAR LOS DATOS**
 
-**Datasets relacionados con la incidencia de la COVID-19 en España**
+**Datasets relacionados con la incidencia de la COVID-19 en España realizado por DATADISTA, medio especializado en periodismo de investigación y datos para salir del ruido.**
 
 - Extracción, limpieza y normalización de las tablas de la situación diaria acumulada de la enfermedad por el coronavirus SARS-CoV-2 (COVID-19) en España en un formato accesible y reutilizable. Datos actualizados diariamente según el calendario y ritmo de publicación del Ministerio de Sanidad y el Instituto de Salud Carlos III. 
 
