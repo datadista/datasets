@@ -95,6 +95,9 @@ datos. Cataluña ha notificado 337 casos más respecto ayer, de los cuales 184 c
 
 **NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (16/05/2020)**:  Cataluña ha notificado además de los 123 casos nuevos, 98 casos antiguos. La serie de casos se está revisando. Galicia ha realizado una revisión de sus casos y ha actualizado la información. Se continuará revisando la serie. La Comunidad de Madrid consolida diariamente la serie de casos confirmados por PCR, asignando a los casos nuevos notificados la fecha en la que se toma la muestra o se emite el resultado. Se realiza una actualización diaria de la serie de casos.
 
+
+**NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (17/05/2020)**: Cataluña ha notificado además de los 116 casos nuevos, 23 casos antiguos. La serie de casos se está revisando. País Vasco ha notificado además de los 16 casos nuevos, 100 casos antiguos. La serie de casos se está revisando. La Comunidad de Madrid consolida diariamente la serie de casos confirmados por PCR, asignando a los casos nuevos notificados la fecha en la que se toma la muestra o se emite el resultado. Se realiza una actualización diaria de la serie de casos.
+
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
