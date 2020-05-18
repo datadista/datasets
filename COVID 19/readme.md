@@ -524,3 +524,5 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 [**Análisis del COVID-19 en España por edad y sexo**](https://public.tableau.com/profile/iv.n.carballeira#!/vizhome/AnlisisCOVID-19Espaa/Dashboardedadysexo)
 
 [**COVID-19 (SARS-CoV-2): Datos Nacionales, por CCAA, mundiales y simulación epidemiológica**](https://baguadoramirez.shinyapps.io/covid/)
+
+[**COVID19-Tracker: una aplicación Shiny para analizar datos de la epidemia de SARS-CoV-2 en España**](https://www.gacetasanitaria.org/es-covid19-tracker-una-aplicacion-shiny-analizar-avance-S0213911120300856?fbclid=IwAR3RweA81af9iQ_ivFE0bZSAT2m4AzQSTYr-0wTs5HATmigCmlJuTY_LGEM)
