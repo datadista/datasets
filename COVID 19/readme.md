@@ -534,3 +534,5 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 [**COVID19-Tracker: una aplicación Shiny para analizar datos de la epidemia de SARS-CoV-2 en España DOI: 10.1016/j.gaceta.2020.04.002**](https://www.gacetasanitaria.org/es-covid19-tracker-una-aplicacion-shiny-analizar-avance-S0213911120300856?fbclid=IwAR3RweA81af9iQ_ivFE0bZSAT2m4AzQSTYr-0wTs5HATmigCmlJuTY_LGEM)
 
 [**COVID-19 Modeling: Predicciones del alcance del COVID-19**](https://covid19-modeling.github.io/)
+
+[**COVID-19 Spain**](https://covid19spain.org/)
