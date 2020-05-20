@@ -104,6 +104,9 @@ datos. Cataluña ha notificado 337 casos más respecto ayer, de los cuales 184 c
 **NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (19/05/2020)**: Cataluña, Extremadura y País Vasco han validado sus casos por lo que el dato acumulado de hoy puede ser menor que el notificado ayer. Los casos nuevos no provienen de la resta de los notificados ayer respecto a hoy. Las series se están revisando. La Comunidad de Madrid consolida diariamente la serie de casos confirmados por PCR, asignando a los casos nuevos notificados la fecha en la que se toma la muestra o se emite el
 resultado. Se realiza una actualización diaria de la serie de casos.
 
+**NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (20/05/2020)**: La Comunidad de Madrid ha notificado 217 casos nuevos de los cuales 112 son nuevos diagnósticos. Esta comunidad consolida diariamente la serie de casos confirmados por PCR,
+asignando a los casos nuevos notificados la fecha en la que se toma la muestra o se emite el resultado. Se realiza una actualización diaria de la serie de casos.Las CCAA están validando y depurando las series de datos por lo que los casos totales pueden sufrir variaciones de un día a otro. El total de pacientes en hospitalizados, en UCI y fallecidos puede variar respecto a días previos debido a que algunas Andalucía, Aragón, Asturias, C. Valenciana y Extremadura están depurando sus datos.
+
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
