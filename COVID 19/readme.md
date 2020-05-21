@@ -109,6 +109,8 @@ asignando a los casos nuevos notificados la fecha en la que se toma la muestra o
 
 **NOTA ACLARATORIA DE DATADISTA (21/05/2020)**: Sanidad ha dejado de publicar en sus informes diarios los datos de recuperados, testAC y casos confirmados por rango de edad desde 18/05/2020. El ISCIII llevaba desde el 18/05/2020 sin actualizar la serie histórica. El 21/05/2020 ha actualizado eliminando la columna de personas recuperadas. Por este motivo, no podemos actualizar los datasets nacional_covid19_rango_edad.csv y ccaa_covid19_altas.csv y sus versiones larga.
 
+**NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (22/05/2020)**: A partir de esta semana los datos como personal sanitario contagiado y personas recuperadas se ofrecerán una vez a la semana.
+
 
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
