@@ -109,6 +109,8 @@ asignando a los casos nuevos notificados la fecha en la que se toma la muestra o
 
 **NOTA ACLARATORIA DE DATADISTA (21/05/2020)**: Sanidad ha dejado de publicar en sus informes diarios los datos de recuperados, testAC y casos confirmados por rango de edad desde 18/05/2020. El ISCIII llevaba desde el 18/05/2020 sin actualizar la serie histórica. El 21/05/2020 ha actualizado eliminando la columna de personas recuperadas. Por este motivo, no podemos actualizar los datasets nacional_covid19_rango_edad.csv y ccaa_covid19_altas.csv y sus versiones larga. Indica Sanidad que a partir de esta semana los datos como personal sanitario contagiado y personas recuperadas se ofrecerán una vez a la semana. Hoy Sanidad no ha publicados los datos de Cataluña por ser imprecisos. Estarán disponible en breve.
 
+**NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (22/05/2020)**:Cataluña ha notificado más casos confirmados de días previos pendientes de asignación fecha de diagnóstico. La serie se está revisando. La Comunidad de Madrid ha notificado 376 casos nuevos de los cuales 53 son nuevos diagnósticos. El País Vasco ha notificado 33 casos nuevos de los cuales 13 son nuevos diagnósticos. Cataluña ha notificado más fallecidos de días previos pendientes de asignación fecha de defunción. La serie se está revisando.
+
 
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
