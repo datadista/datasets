@@ -26,13 +26,13 @@
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
 | Sat, 25 Apr 2020 13:54:25 +0200  | COVID 19/ccaa_covid19_positivos_asintomaticos.csv |
 | Sat, 25 Apr 2020 13:54:25 +0200  | COVID 19/ccaa_covid19_positivos_asintomaticos_long.csv |
-| Sun, 17 May 2020 18:14:01 +0200  | COVID 19/ccaa_covid19_test_realizados.csv |
+| Sat, 23 May 2020 17:45:37 +0200  | COVID 19/ccaa_covid19_test_realizados.csv |
 | Thu, 21 May 2020 21:14:22 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Thu, 21 May 2020 21:14:22 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Wed, 13 May 2020 13:33:11 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
 | Mon, 18 May 2020 18:01:22 +0200  | COVID 19/nacional_casos_personal_sanitario.csv |
-| Thu, 21 May 2020 20:54:03 +0200  | COVID 19/nacional_covid19.csv |
+| Fri, 22 May 2020 17:22:06 +0200  | COVID 19/nacional_covid19.csv |
 | Sat, 16 May 2020 12:44:44 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Sat, 16 May 2020 12:44:44 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Tue, 5 May 2020 18:24:41 +0200  | COVID 19/provincia_covid19_ERTE.csv |
