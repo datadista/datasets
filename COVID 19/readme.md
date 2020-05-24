@@ -111,6 +111,8 @@ asignando a los casos nuevos notificados la fecha en la que se toma la muestra o
 
 **NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (22/05/2020)**:Cataluña ha notificado más casos confirmados de días previos pendientes de asignación fecha de diagnóstico. La serie se está revisando. La Comunidad de Madrid ha notificado 376 casos nuevos de los cuales 53 son nuevos diagnósticos. El País Vasco ha notificado 33 casos nuevos de los cuales 13 son nuevos diagnósticos. Cataluña ha notificado más fallecidos de días previos pendientes de asignación fecha de defunción. La serie se está revisando.
 
+**NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (24/05/2020)**: Cataluña ha notificado 52 casos de nuevo diagnóstico. La serie histórica está siendo revisada. La Comunidad de Madrid ha notificado 261 casos nuevos de los cuales 26 son nuevos diagnósticos. Murcia ha notificado 4 casos nuevos de los cuales sólo 1 es nuevo diagnóstico.No hay datos actualizados en Cataluña de pacientes que han presidado hospitalización e ingresado en UCI, serie pendiente de actualización.
+
 
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
