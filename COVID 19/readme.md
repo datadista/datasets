@@ -114,6 +114,12 @@ asignando a los casos nuevos notificados la fecha en la que se toma la muestra o
 **NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (24/05/2020)**: Cataluña ha notificado 52 casos de nuevo diagnóstico. La serie histórica está siendo revisada. La Comunidad de Madrid ha notificado 261 casos nuevos de los cuales 26 son nuevos diagnósticos. Murcia ha notificado 4 casos nuevos de los cuales sólo 1 es nuevo diagnóstico.No hay datos actualizados en Cataluña de pacientes que han presidado hospitalización e ingresado en UCI, serie pendiente de actualización.
 
 
+**NOTA ACLARATORIA DEL MINISTERIO DE SANIDAD (25/05/2020)**: El presente informe se ha realizado, hasta el 10 de mayo de 2020, con los datos notificados diariamente de forma agregada por las comunidades autónomas. El pasado 11 de mayo de 2020 entró en vigor la nueva estrategia de diagnóstico, vigilancia y control en la fase de transición de la pandemia de COVID-19, por la que las comunidades autónomas deben notificar los casos confirmados de forma individualizada y diariamente al nivel estatal. Por lo tanto, a partir del 11 de mayo de 2020 se utiliza dicha información para la elaboración de este informe diario. Una vez combinados los datos de ambos métodos de vigilancia, en España hasta el momento se han notificado un total de 235.400 casos confirmados de COVID-19 y 26.837 fallecidos. Las discrepancias que puedan aparecer respecto a los datos de casos totales notificados previamente son resultado de la validación de los mismos por las comunidades autónomas y a la transición a la nueva estrategia de vigilancia. Esta discrepancia podría persistir aun varios días.
+
+
+**NOTA ACLARATORIA DEL ISCII (25/05/2020)**: DEBIDO A LA ENTRADA EN VIGOR DE LA NUEVA ESTRATEGIA DE VIGILANCIA Y CONTROL EN LA FASE DE TRANSICIÓN DE LA PANDEMIA DE COVID-19, HAY UN CAMBIO EN LA NOTIFICACIÓN DE LAS CCAA AL MINISTERIO DE SANIDAD QUE AFECTA A LA INFORMACIÓN DE ESTE PANEL. LAS SERIES DE CASOS DIARIOS ESTÁN EN REVISIÓN POR LAS CCAA. CUANDO SE CONSOLIDE LA INFORMACIÓN, SE PROCEDERÁ A LA ACTUALIZACIÓN DEL PANEL DE COVID-19.
+
+
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
