@@ -554,3 +554,5 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 [**COVID-19 Modeling: Predicciones del alcance del COVID-19**](https://covid19-modeling.github.io/)
 
 [**COVID-19 Spain**](https://covid19spain.org/)
+
+[**COnVIDa - Monitorización de datos de COVID19 en España**](https://convida.inf.um.es/)
