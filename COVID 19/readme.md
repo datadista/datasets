@@ -122,6 +122,8 @@ asignando a los casos nuevos notificados la fecha en la que se toma la muestra o
 
 **NOTA ACLARATORIA DE DATADISTA (DESDE 21/05/2020)**: Debido a la ruptura de la serie histórica por parte de Sanidad debido a la entrada en vigor de la nueva estrategia de vigilancia y control, los datasets de CCAA no serán actualizados hasta que el Instituto de Salud Carlos III actualice la serie histórica. No es comparable la serie anterior con la nueva hasta que no sean corregidos.
 
+**NOTA ACLARATORIA DE DATADISTA (29/05/2020)**: Fernando Simón indica que posiblemente el miércoles se publiquen los datos con la serie histórica corregida. Explica, por ejemplo, que se van a tener los datos por la fecha de fallecimiento y no la de notificación como hasta ahora.
+
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
