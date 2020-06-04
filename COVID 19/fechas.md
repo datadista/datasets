@@ -38,5 +38,6 @@
 | Sat, 23 May 2020 18:06:50 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Tue, 5 May 2020 18:24:41 +0200  | COVID 19/provincia_covid19_ERTE.csv |
 | Thu, 14 May 2020 10:38:36 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_ronda.csv |
+| Thu, 4 Jun 2020 18:55:56 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_y_segunda_ronda.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
 | Thu, 30 Apr 2020 13:45:21 +0200  | COVID 19/talleres_reparacion_vehiculos_industriales.csv |
