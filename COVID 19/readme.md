@@ -448,9 +448,15 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 <br><br>
 **Nombre del archivo:** [provincias_estudio_prevalencia_anticuerpos_primera_ronda.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/provincias_estudio_prevalencia_anticuerpos_primera_ronda.csv)<br>
 **Nivel administrativo:** Provincial<br>
-**Descripción:** Estudio de seroprevalencia. Datos de la primera ronda. Prevalencia de anticuerpos IgG anti SARS-COv2 por provincia<br>
+**Descripción:** Estudio de seroprevalencia. Datos de la primera ronda (preliminares). Prevalencia de anticuerpos IgG anti SARS-COv2 por provincia<br>
 **Fuente:**  La Moncloa: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/sanidad14/Paginas/2020/130520-seroprevalencia.aspx
 
+
+<br><br>
+**Nombre del archivo:** [provincias_estudio_prevalencia_anticuerpos_primera_y_segunda_ronda.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/provincias_estudio_prevalencia_anticuerpos_primera_y_segunda_ronda.csv)<br>
+**Nivel administrativo:** Provincial<br>
+**Descripción:** Estudio de seroprevalencia. Datos de la primera y segunda ronda. Prevalencia de anticuerpos IgG anti SARS-COv2 por provincia.<br>
+**Fuente:**  La Moncloa: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/sanidad14/Paginas/2020/040620-seroprevalencia.aspx
 
 
 
