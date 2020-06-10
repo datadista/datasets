@@ -573,4 +573,4 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 
 [**A scaling approach to estimate the COVID-19 infection fatality ratio from incomplete data | arXiv:2006.02757 [q-bio.PE]**](https://arxiv.org/abs/2006.02757)
 
-[**A Spatio‐Temporal Analysis of the Environmental Correlates of COVID‐19 Incidence in Spain | doi.org/10.1111/gean.12241]**](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12241)
+[**A Spatio‐Temporal Analysis of the Environmental Correlates of COVID‐19 Incidence in Spain | doi.org/10.1111/gean.12241**](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12241)
