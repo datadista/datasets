@@ -164,6 +164,44 @@ asignando a los casos nuevos notificados la fecha en la que se toma la muestra o
 | ingresos_uci      | Casos acumulados que han precisado ingreso en UCI                 | Accumulated cases that have required admission to the IC (Data obtained from the analysis of a daily variable percentage of cases reported)                         | Número     | 7       |
 | fallecidos        | Personas fallecidas acumuladas                                    | Accumulated deceased (Data obtained from the analysis of a daily variable percentage of cases reported)                                                              | Número     | 7       |
 
+<br><br>
+
+Descripción: Número de casos confirmados registrados registrados diarios por Comunidad Autónoma y tipo de prueba.<br> 
+Description: Number of confirmed cases recorded recorded daily by Autonomous Community and type of test.<br>
+**Nivel administrativo:** Comunidad Autónoma<br>
+**Nombre del archivo:** [ccaa_covid19_datos_isciii_nueva_serie.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_datos_isciii_nueva_serie.csv) <br>
+
+
+|            Campo             |     Descripción                                                                                                |     Description                                                                               | Formato       | Ejemplo    |
+|------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|------------|
+|     fecha                    |     Fecha de publicación                                                                                       |     Publication date                                                                          | YYYY-MM-DD    | 2020-05-01 |
+| cod_ine                      | Código INE de CCAA                                                                                             | National Statistics Institute code of the autonomous community                                | Texto         | 1          |
+| ccaa                         | Comunidad autónoma                                                                                             | Autonomous community                                                                          | Texto         | Madrid     |
+| num_casos                    | número de casos totales, confirmados o probables                                                               | number of total confirmed or probable cases                                                   |        Número | 7          |
+| num_casos_prueba_pcr         | número de casos con prueba de laboratorio PCR o técnicas moleculares                                           | number of cases with PCR laboratory test or molecular techniques                              | Número        | 8          |
+| num_casos_prueba_test_ac     | número de casos con prueba de laboratorio de test rápido de anticuerpos                                        | number of cases with laboratory rapid antibody test                                           | Número        | 9          |
+| num_casos_prueba_otras       | número de casos con otras pruebas de laboratorio, mayoritariamente por   detección de antígeno o técnica Elisa | number of cases with other laboratory tests, mostly by antigen detection   or Elisa technique | Número        | 10         |
+| num_casos_prueba_desconocida | número de casos con una prueba desconocida (sin información)                                                   | number of cases with an unknown test (no information)                                         | Número        | 11         |
+
+<br><br>
+<br><br>
+
+Descripción: Número de casos confirmados registrados registrados diarios por provincia y tipo de prueba.<br> 
+Description: Number of confirmed cases recorded recorded daily by province and type of test.<br>
+**Nivel administrativo:** Provincia<br>
+**Nombre del archivo:** [provincias_covid19_datos_isciii_nueva_serie.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/provincias_covid19_datos_isciii_nueva_serie.csv) <br>
+
+
+|            Campo             |     Descripción                                                                                                |     Description                                                                               | Formato       | Ejemplo    |
+|------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|------------|
+|     fecha                    |     Fecha de publicación                                                                                       |     Publication date                                                                          | YYYY-MM-DD    | 2020-05-01 |
+| cod_ine                      | Código INE de provincia                                                                                            | National Statistics Institute code of the province                               | Texto         | 1          |
+| provincia                         | Provincia                                                                                           | Province                                                                         | Texto         | Madrid     |
+| num_casos                    | número de casos totales, confirmados o probables                                                               | number of total confirmed or probable cases                                                   |        Número | 7          |
+| num_casos_prueba_pcr         | número de casos con prueba de laboratorio PCR o técnicas moleculares                                           | number of cases with PCR laboratory test or molecular techniques                              | Número        | 8          |
+| num_casos_prueba_test_ac     | número de casos con prueba de laboratorio de test rápido de anticuerpos                                        | number of cases with laboratory rapid antibody test                                           | Número        | 9          |
+| num_casos_prueba_otras       | número de casos con otras pruebas de laboratorio, mayoritariamente por   detección de antígeno o técnica Elisa | number of cases with other laboratory tests, mostly by antigen detection   or Elisa technique | Número        | 10         |
+| num_casos_prueba_desconocida | número de casos con una prueba desconocida (sin información)                                                   | number of cases with an unknown test (no information)                                         | Número        | 11         |
 
 <br><br>
 Descripción: Acumulado del número de casos confirmados totales (PCR + Test de anticuerpos) registrados por Comunidad Autónoma.<br> 
