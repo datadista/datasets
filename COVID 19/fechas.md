@@ -27,7 +27,7 @@
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
 | Sat, 25 Apr 2020 13:54:25 +0200  | COVID 19/ccaa_covid19_positivos_asintomaticos.csv |
 | Sat, 25 Apr 2020 13:54:25 +0200  | COVID 19/ccaa_covid19_positivos_asintomaticos_long.csv |
-| Tue, 23 Jun 2020 15:34:51 +0200  | COVID 19/ccaa_covid19_test_realizados.csv |
+| Mon, 29 Jun 2020 14:59:57 +0200  | COVID 19/ccaa_covid19_test_realizados.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
