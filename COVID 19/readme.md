@@ -8,8 +8,9 @@
 
 **Fuente de los datos:**
 
-- Ministerio de Sanidad, Consumo y Bienestar Social: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm  y gabinete de prensa del Ministerio de Sanidad. <br>
+- Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm  y gabinete de prensa del Ministerio de Sanidad. <br>
 - Instituto de Salud Carlos III. Situación de COVID-19 en España. CSV serie histórica: https://cnecovid.isciii.es/covid19/resources/agregados.csv<br>
+- Excel con la fecha de fallecidos por la fecha de defunción publiccado por el Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx<br>
 - Departamento de Seguridad Nacional: https://www.dsn.gob.es/gl/current-affairs/press-room<br>
 - BOE: Crisis Sanitaria COVID-19 https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=355&modo=2&nota=0&tab=2<br>
 - Ministerio de Transportes, Movilidad y Agenda Urbana https://www.mitma.gob.es/transporte-terrestre/punto-de-informacion-de-servicios-de-restauracion
@@ -123,6 +124,9 @@ asignando a los casos nuevos notificados la fecha en la que se toma la muestra o
 **NOTA ACLARATORIA DE DATADISTA (DESDE 21/05/2020)**: Debido a la ruptura de la serie histórica por parte de Sanidad debido a la entrada en vigor de la nueva estrategia de vigilancia y control, los datasets de CCAA no serán actualizados hasta que el Instituto de Salud Carlos III actualice la serie histórica. No es comparable la serie anterior con la nueva hasta que no sean corregidos.
 
 **NOTA ACLARATORIA DE DATADISTA (29/05/2020)**: Fernando Simón indica que posiblemente el miércoles se publiquen los datos con la serie histórica corregida. Explica, por ejemplo, que se van a tener los datos por la fecha de fallecimiento y no la de notificación como hasta ahora.
+
+
+**NOTA ACLARATORIA DE DATADISTA (4/03/2020)**: Publicado la serie histórica de fallecidos por fecha de defunción. Sanidad indica en una nota que no se dispone de la fecha de defunción en 209 casos en el momento de publicar [este fichero](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx).
 
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
@@ -293,8 +297,33 @@ Description: Accumulated number of people with positive antibodies without sympt
 
 <br><br>
 **Nivel administrativo:** Comunidad Autónoma<br>
-Descripción: Acumulado del número de fallecidos registrados por Comunidad Autónoma.<br>
-Description: Accumulated number of deceased cases registered by Autonomous Community<br>
+Descripción: Acumulado del número de fallecidos registrados por Comunidad Autónoma y fecha de defunción. (NUEVA SERIE)<br>
+Description: Accumulated number of deceased cases registered by Autonomous Community and deceased date (NEW SERIES)<br>
+**Archivo original normalizado:** [ccaa_covid19_fallecidos_nueva_serie_original.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_nueva_serie_original.csv) <br>
+
+**Nombre del archivo:** [ccaa_covid19_fallecidos_nueva_serie.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_nueva_serie.csv) <br>
+
+| Campo      | Descripción          | Description                                                          | Formato    | Ejemplo    |
+|------------|----------------------|----------------------------------------------------------------------|------------|------------|
+| cod_ine    | Código INE de CCAA   | National Statistics Institute code of the autonomous community | Texto      | 01         |
+| CCAA       | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
+| 2020-03-25 | Fecha de defunción | Deceased date                                                 | YYYY-MM-DD | 2020-03-25 |
+
+**Nombre del archivo:** [ccaa_covid19_fallecidos_nueva_serie_long.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_nueva_serie_long.csv) <br>
+
+| Campo   | Descripción          | Description                                                          | Formato    | Ejemplo    |
+|---------|----------------------|----------------------------------------------------------------------|------------|------------|
+| fecha   | Fecha de publicación | Publication date                                                 | YYYY-MM-DD | 2020-03-25 |
+| cod_ine | Código INE de CCAA   | National Statistics Institute (INE) code of the autonomous community | Texto      | 01         |
+| CCAA    | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
+| total   | Fallecidos por fecha de defunción | Deceased by date of death                                           | Número     | 7          |
+
+<br><br>
+
+<br><br>
+**Nivel administrativo:** Comunidad Autónoma<br>
+Descripción: Acumulado del número de fallecidos registrados por Comunidad Autónoma y fecha de notificación. (SERIE ANTIGUA)<br>
+Description: Accumulated number of deceased cases registered by Autonomous Community and notification date (OLD SERIES)<br>
 
 **Nombre del archivo:** [ccaa_covid19_fallecidos.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos.csv) <br>
 
