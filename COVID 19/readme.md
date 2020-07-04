@@ -10,7 +10,7 @@
 
 - Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm  y gabinete de prensa del Ministerio de Sanidad. <br>
 - Instituto de Salud Carlos III. Situación de COVID-19 en España. CSV serie histórica: https://cnecovid.isciii.es/covid19/resources/agregados.csv<br>
-- Excel con la fecha de fallecidos por la fecha de defunción publiccado por el Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx<br>
+- Excel con la fecha de fallecidos por la fecha de defunción publicado por el Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx<br>
 - Departamento de Seguridad Nacional: https://www.dsn.gob.es/gl/current-affairs/press-room<br>
 - BOE: Crisis Sanitaria COVID-19 https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=355&modo=2&nota=0&tab=2<br>
 - Ministerio de Transportes, Movilidad y Agenda Urbana https://www.mitma.gob.es/transporte-terrestre/punto-de-informacion-de-servicios-de-restauracion
