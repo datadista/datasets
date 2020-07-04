@@ -126,7 +126,7 @@ asignando a los casos nuevos notificados la fecha en la que se toma la muestra o
 **NOTA ACLARATORIA DE DATADISTA (29/05/2020)**: Fernando Simón indica que posiblemente el miércoles se publiquen los datos con la serie histórica corregida. Explica, por ejemplo, que se van a tener los datos por la fecha de fallecimiento y no la de notificación como hasta ahora.
 
 
-**NOTA ACLARATORIA DE DATADISTA (4/03/2020)**: Publicado la serie histórica de fallecidos por fecha de defunción. Sanidad indica en una nota que no se dispone de la fecha de defunción en 209 casos en el momento de publicar [este fichero](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx).
+**NOTA ACLARATORIA DE DATADISTA (04/07/2020)**: Publicado la serie histórica de fallecidos por fecha de defunción. Sanidad indica en una nota que no se dispone de la fecha de defunción en 209 casos en el momento de publicar [este fichero](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx).
 
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
@@ -299,9 +299,9 @@ Description: Accumulated number of people with positive antibodies without sympt
 **Nivel administrativo:** Comunidad Autónoma<br>
 Descripción: Acumulado del número de fallecidos registrados por Comunidad Autónoma y fecha de defunción. (NUEVA SERIE)<br>
 Description: Accumulated number of deceased cases registered by Autonomous Community and deceased date (NEW SERIES)<br>
-**Archivo original normalizado:** [ccaa_covid19_fallecidos_nueva_serie_original.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_nueva_serie_original.csv) <br>
+**Archivo original normalizado:** [ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv) <br>
 
-**Nombre del archivo:** [ccaa_covid19_fallecidos_nueva_serie.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_nueva_serie.csv) <br>
+**Nombre del archivo:** [ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv) <br>
 
 | Campo      | Descripción          | Description                                                          | Formato    | Ejemplo    |
 |------------|----------------------|----------------------------------------------------------------------|------------|------------|
@@ -309,7 +309,7 @@ Description: Accumulated number of deceased cases registered by Autonomous Commu
 | CCAA       | Comunidad autónoma   | Autonomous community                                                 | Texto      | Madrid     |
 | 2020-03-25 | Fecha de defunción | Deceased date                                                 | YYYY-MM-DD | 2020-03-25 |
 
-**Nombre del archivo:** [ccaa_covid19_fallecidos_nueva_serie_long.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_nueva_serie_long.csv) <br>
+**Nombre del archivo:** [ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv) <br>
 
 | Campo   | Descripción          | Description                                                          | Formato    | Ejemplo    |
 |---------|----------------------|----------------------------------------------------------------------|------------|------------|
