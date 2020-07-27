@@ -22,9 +22,9 @@
 | Fri, 24 Jul 2020 20:00:03 +0200  | COVID 19/ccaa_covid19_datos_isciii_nueva_serie.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
-| Fri, 24 Jul 2020 20:00:03 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
-| Fri, 24 Jul 2020 20:00:03 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv |
-| Fri, 24 Jul 2020 20:00:03 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv |
+| Mon, 27 Jul 2020 20:59:25 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
+| Mon, 27 Jul 2020 20:59:25 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv |
+| Mon, 27 Jul 2020 20:59:25 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_hospitalizados_long.csv |
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
@@ -44,4 +44,6 @@
 | Thu, 14 May 2020 10:38:36 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_ronda.csv |
 | Thu, 4 Jun 2020 18:55:56 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_y_segunda_ronda.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
+| Mon, 27 Jul 2020 20:59:25 +0200  | COVID 19/serie_agregados_ccaa_nueva_serie_2707_iscii.csv |
+| Mon, 27 Jul 2020 20:59:25 +0200  | COVID 19/serie_agregados_prov_nueva_serie_2707_iscii.csv |
 | Thu, 30 Apr 2020 13:45:21 +0200  | COVID 19/talleres_reparacion_vehiculos_industriales.csv |
