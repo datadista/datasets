@@ -19,7 +19,7 @@
 | Thu, 21 May 2020 21:14:22 +0200  | COVID 19/ccaa_covid19_confirmados_test.csv |
 | Thu, 21 May 2020 21:14:22 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
 | Thu, 21 May 2020 20:45:05 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
-| Fri, 24 Jul 2020 20:00:03 +0200  | COVID 19/ccaa_covid19_datos_isciii_nueva_serie.csv |
+| Thu, 30 Jul 2020 17:02:21 +0200  | COVID 19/ccaa_covid19_datos_isciii_nueva_serie.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
 | Tue, 28 Jul 2020 18:20:30 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
@@ -30,7 +30,7 @@
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
 | Sat, 25 Apr 2020 13:54:25 +0200  | COVID 19/ccaa_covid19_positivos_asintomaticos.csv |
 | Sat, 25 Apr 2020 13:54:25 +0200  | COVID 19/ccaa_covid19_positivos_asintomaticos_long.csv |
-| Mon, 20 Jul 2020 19:12:22 +0200  | COVID 19/ccaa_covid19_test_realizados.csv |
+| Thu, 30 Jul 2020 17:02:21 +0200  | COVID 19/ccaa_covid19_test_realizados.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
@@ -40,7 +40,7 @@
 | Sat, 23 May 2020 18:06:50 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Sat, 23 May 2020 18:06:50 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Tue, 5 May 2020 18:24:41 +0200  | COVID 19/provincia_covid19_ERTE.csv |
-| Fri, 24 Jul 2020 20:00:03 +0200  | COVID 19/provincias_covid19_datos_isciii_nueva_serie.csv |
+| Thu, 30 Jul 2020 17:02:21 +0200  | COVID 19/provincias_covid19_datos_isciii_nueva_serie.csv |
 | Thu, 14 May 2020 10:38:36 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_ronda.csv |
 | Thu, 4 Jun 2020 18:55:56 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_y_segunda_ronda.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
