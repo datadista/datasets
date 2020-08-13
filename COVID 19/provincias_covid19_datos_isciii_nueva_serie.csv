@@ -3,7 +3,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-01-31,02,Albacete,0,0,0,0,0
 2020-01-31,04,Almería,0,0,0,0,0
 2020-01-31,05,Ávila,0,0,0,0,0
-2020-01-31,08,Barcelona,0,0,0,0,0
+2020-01-31,08,Barcelona,1,1,0,0,0
 2020-01-31,06,Badajoz,0,0,0,0,0
 2020-01-31,48,Bizkaia,0,0,0,0,0
 2020-01-31,09,Burgos,0,0,0,0,0
@@ -98,7 +98,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-02-01,44,Teruel,0,0,0,0,0
 2020-02-01,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-02-01,45,Toledo,0,0,0,0,0
-2020-02-01,46,Valencia/València,2,2,0,0,0
+2020-02-01,46,Valencia/València,1,1,0,0,0
 2020-02-01,47,Valladolid,0,0,0,0,0
 2020-02-01,01,Araba/Álava,0,0,0,0,0
 2020-02-01,50,Zaragoza,0,0,0,0,0
@@ -367,7 +367,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-02-07,02,Albacete,0,0,0,0,0
 2020-02-07,04,Almería,0,0,0,0,0
 2020-02-07,05,Ávila,0,0,0,0,0
-2020-02-07,08,Barcelona,1,1,0,0,0
+2020-02-07,08,Barcelona,2,2,0,0,0
 2020-02-07,06,Badajoz,0,0,0,0,0
 2020-02-07,48,Bizkaia,0,0,0,0,0
 2020-02-07,09,Burgos,0,0,0,0,0
@@ -598,7 +598,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-02-11,24,León,0,0,0,0,0
 2020-02-11,26,La Rioja,0,0,0,0,0
 2020-02-11,27,Lugo,0,0,0,0,0
-2020-02-11,28,Madrid,8,8,0,0,0
+2020-02-11,28,Madrid,9,9,0,0,0
 2020-02-11,29,Málaga,0,0,0,0,0
 2020-02-11,52,Melilla,0,0,0,0,0
 2020-02-11,30,Murcia,0,0,0,0,0
@@ -930,7 +930,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-02-17,44,Teruel,0,0,0,0,0
 2020-02-17,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-02-17,45,Toledo,0,0,0,0,0
-2020-02-17,46,Valencia/València,3,1,2,0,0
+2020-02-17,46,Valencia/València,4,2,2,0,0
 2020-02-17,47,Valladolid,0,0,0,0,0
 2020-02-17,01,Araba/Álava,2,2,0,0,0
 2020-02-17,50,Zaragoza,1,1,0,0,0
@@ -1817,7 +1817,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-05,46,Valencia/València,24,21,2,0,1
 2020-03-05,47,Valladolid,9,8,1,0,0
 2020-03-05,01,Araba/Álava,43,43,0,0,0
-2020-03-05,50,Zaragoza,9,9,0,0,0
+2020-03-05,50,Zaragoza,10,10,0,0,0
 2020-03-05,49,Zamora,4,3,1,0,0
 2020-03-06,03,Alicante/Alacant,30,24,6,0,0
 2020-03-06,02,Albacete,14,5,0,0,9
@@ -1875,7 +1875,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-07,02,Albacete,25,6,0,0,19
 2020-03-07,04,Almería,1,1,0,0,0
 2020-03-07,05,Ávila,3,2,1,0,0
-2020-03-07,08,Barcelona,254,229,0,3,22
+2020-03-07,08,Barcelona,255,230,0,3,22
 2020-03-07,06,Badajoz,2,2,0,0,0
 2020-03-07,48,Bizkaia,21,18,0,0,3
 2020-03-07,09,Burgos,16,16,0,0,0
@@ -1939,7 +1939,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-08,13,Ciudad Real,44,5,0,0,39
 2020-03-08,12,Castellón/Castelló,8,6,1,0,1
 2020-03-08,16,Cuenca,23,5,0,0,18
-2020-03-08,35,Las Palmas,14,13,0,0,1
+2020-03-08,35,Las Palmas,15,14,0,0,1
 2020-03-08,17,Girona,16,11,0,0,5
 2020-03-08,18,Granada,14,14,0,0,0
 2020-03-08,19,Guadalajara,26,3,0,0,23
@@ -2002,7 +2002,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-09,24,León,25,23,2,0,0
 2020-03-09,26,La Rioja,60,59,1,0,0
 2020-03-09,27,Lugo,8,8,0,0,0
-2020-03-09,28,Madrid,1520,1514,0,0,6
+2020-03-09,28,Madrid,1521,1515,0,0,6
 2020-03-09,29,Málaga,48,43,5,0,0
 2020-03-09,52,Melilla,2,2,0,0,0
 2020-03-09,30,Murcia,34,24,9,0,1
@@ -2016,7 +2016,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-09,37,Salamanca,27,26,1,0,0
 2020-03-09,41,Sevilla,36,36,0,0,0
 2020-03-09,40,Segovia,29,25,4,0,0
-2020-03-09,42,Soria,22,17,5,0,0
+2020-03-09,42,Soria,21,16,5,0,0
 2020-03-09,20,Gipuzkoa,23,23,0,0,0
 2020-03-09,43,Tarragona,13,9,0,0,4
 2020-03-09,44,Teruel,5,5,0,0,0
@@ -2343,9 +2343,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-16,02,Albacete,147,37,1,0,109
 2020-03-16,04,Almería,24,23,1,0,0
 2020-03-16,05,Ávila,46,37,9,0,0
-2020-03-16,08,Barcelona,1413,1305,0,7,101
+2020-03-16,08,Barcelona,1414,1305,0,8,101
 2020-03-16,06,Badajoz,33,32,1,0,0
-2020-03-16,48,Bizkaia,340,327,0,0,13
+2020-03-16,48,Bizkaia,341,328,0,0,13
 2020-03-16,09,Burgos,76,68,8,0,0
 2020-03-16,15,A Coruña,162,161,1,0,0
 2020-03-16,11,Cádiz,70,64,6,0,0
@@ -2441,7 +2441,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-17,46,Valencia/València,293,264,25,0,4
 2020-03-17,47,Valladolid,144,142,2,0,0
 2020-03-17,01,Araba/Álava,144,144,0,0,0
-2020-03-17,50,Zaragoza,118,117,0,1,0
+2020-03-17,50,Zaragoza,117,116,0,1,0
 2020-03-17,49,Zamora,26,20,6,0,0
 2020-03-18,03,Alicante/Alacant,194,168,19,0,7
 2020-03-18,02,Albacete,153,33,1,2,117
@@ -2537,7 +2537,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-19,41,Sevilla,123,113,10,0,0
 2020-03-19,40,Segovia,137,126,11,0,0
 2020-03-19,42,Soria,82,73,9,0,0
-2020-03-19,20,Gipuzkoa,77,74,0,0,3
+2020-03-19,20,Gipuzkoa,78,75,0,0,3
 2020-03-19,43,Tarragona,60,57,0,0,3
 2020-03-19,44,Teruel,22,22,0,0,0
 2020-03-19,38,Santa Cruz de Tenerife,53,48,0,0,5
@@ -2597,7 +2597,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-20,46,Valencia/València,276,240,34,0,2
 2020-03-20,47,Valladolid,146,138,8,0,0
 2020-03-20,01,Araba/Álava,173,172,0,0,1
-2020-03-20,50,Zaragoza,182,182,0,0,0
+2020-03-20,50,Zaragoza,183,183,0,0,0
 2020-03-20,49,Zamora,33,22,11,0,0
 2020-03-21,03,Alicante/Alacant,166,148,15,0,3
 2020-03-21,02,Albacete,141,36,1,0,104
@@ -2649,7 +2649,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-21,46,Valencia/València,223,206,14,0,3
 2020-03-21,47,Valladolid,96,95,1,0,0
 2020-03-21,01,Araba/Álava,107,107,0,0,0
-2020-03-21,50,Zaragoza,149,149,0,0,0
+2020-03-21,50,Zaragoza,148,148,0,0,0
 2020-03-21,49,Zamora,24,19,5,0,0
 2020-03-22,03,Alicante/Alacant,163,145,15,0,3
 2020-03-22,02,Albacete,130,27,2,0,101
@@ -2657,7 +2657,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-22,05,Ávila,63,59,4,0,0
 2020-03-22,08,Barcelona,1090,1047,0,0,43
 2020-03-22,06,Badajoz,53,51,2,0,0
-2020-03-22,48,Bizkaia,226,222,0,0,4
+2020-03-22,48,Bizkaia,225,221,0,0,4
 2020-03-22,09,Burgos,61,49,12,0,0
 2020-03-22,15,A Coruña,114,114,0,0,0
 2020-03-22,11,Cádiz,41,38,3,0,0
@@ -2730,7 +2730,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-23,24,León,129,113,16,0,0
 2020-03-23,26,La Rioja,158,155,3,0,0
 2020-03-23,27,Lugo,50,49,1,0,0
-2020-03-23,28,Madrid,2133,2128,0,0,5
+2020-03-23,28,Madrid,2134,2129,0,0,5
 2020-03-23,29,Málaga,105,95,10,0,0
 2020-03-23,52,Melilla,5,4,0,0,1
 2020-03-23,30,Murcia,128,100,28,0,0
@@ -2753,7 +2753,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-23,46,Valencia/València,262,228,32,0,2
 2020-03-23,47,Valladolid,130,123,7,0,0
 2020-03-23,01,Araba/Álava,99,98,0,0,1
-2020-03-23,50,Zaragoza,218,218,0,0,0
+2020-03-23,50,Zaragoza,217,217,0,0,0
 2020-03-23,49,Zamora,24,15,9,0,0
 2020-03-24,03,Alicante/Alacant,121,112,8,0,1
 2020-03-24,02,Albacete,141,48,3,0,90
@@ -2834,7 +2834,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-25,24,León,95,82,13,0,0
 2020-03-25,26,La Rioja,133,132,1,0,0
 2020-03-25,27,Lugo,39,39,0,0,0
-2020-03-25,28,Madrid,1779,1778,0,0,1
+2020-03-25,28,Madrid,1781,1780,0,0,1
 2020-03-25,29,Málaga,107,99,8,0,0
 2020-03-25,52,Melilla,4,3,1,0,0
 2020-03-25,30,Murcia,84,65,17,0,2
@@ -2848,7 +2848,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-25,37,Salamanca,123,111,12,0,0
 2020-03-25,41,Sevilla,127,118,9,0,0
 2020-03-25,40,Segovia,90,79,11,0,0
-2020-03-25,42,Soria,66,53,13,0,0
+2020-03-25,42,Soria,65,52,13,0,0
 2020-03-25,20,Gipuzkoa,76,74,0,0,2
 2020-03-25,43,Tarragona,51,43,0,0,8
 2020-03-25,44,Teruel,26,26,0,0,0
@@ -2857,7 +2857,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-25,46,Valencia/València,210,184,22,0,4
 2020-03-25,47,Valladolid,106,97,9,0,0
 2020-03-25,01,Araba/Álava,96,94,0,0,2
-2020-03-25,50,Zaragoza,142,142,0,0,0
+2020-03-25,50,Zaragoza,143,143,0,0,0
 2020-03-25,49,Zamora,27,14,13,0,0
 2020-03-26,03,Alicante/Alacant,117,109,8,0,0
 2020-03-26,02,Albacete,148,42,1,0,105
@@ -2880,7 +2880,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-26,18,Granada,83,79,4,0,0
 2020-03-26,19,Guadalajara,33,7,0,0,26
 2020-03-26,21,Huelva,13,13,0,0,0
-2020-03-26,22,Huesca,30,30,0,0,0
+2020-03-26,22,Huesca,31,31,0,0,0
 2020-03-26,23,Jaén,50,42,7,1,0
 2020-03-26,25,Lleida,56,47,0,0,9
 2020-03-26,24,León,58,46,12,0,0
@@ -2909,13 +2909,13 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-26,46,Valencia/València,143,118,21,0,4
 2020-03-26,47,Valladolid,91,89,2,0,0
 2020-03-26,01,Araba/Álava,99,97,0,0,2
-2020-03-26,50,Zaragoza,110,110,0,0,0
+2020-03-26,50,Zaragoza,111,111,0,0,0
 2020-03-26,49,Zamora,22,17,5,0,0
 2020-03-27,03,Alicante/Alacant,119,100,15,0,4
-2020-03-27,02,Albacete,101,28,2,1,70
+2020-03-27,02,Albacete,101,29,2,0,70
 2020-03-27,04,Almería,19,18,1,0,0
 2020-03-27,05,Ávila,64,60,4,0,0
-2020-03-27,08,Barcelona,1006,969,0,4,33
+2020-03-27,08,Barcelona,1008,971,0,4,33
 2020-03-27,06,Badajoz,22,22,0,0,0
 2020-03-27,48,Bizkaia,262,257,0,0,5
 2020-03-27,09,Burgos,41,34,7,0,0
@@ -2924,7 +2924,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-27,10,Cáceres,86,68,18,0,0
 2020-03-27,51,Ceuta,2,0,1,0,1
 2020-03-27,14,Córdoba,63,60,3,0,0
-2020-03-27,13,Ciudad Real,191,87,2,4,98
+2020-03-27,13,Ciudad Real,191,88,2,3,98
 2020-03-27,12,Castellón/Castelló,33,28,3,0,2
 2020-03-27,16,Cuenca,57,17,3,0,37
 2020-03-27,35,Las Palmas,25,24,0,0,1
@@ -2961,7 +2961,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-27,46,Valencia/València,178,163,9,0,6
 2020-03-27,47,Valladolid,78,74,4,0,0
 2020-03-27,01,Araba/Álava,65,61,0,0,4
-2020-03-27,50,Zaragoza,161,161,0,0,0
+2020-03-27,50,Zaragoza,162,162,0,0,0
 2020-03-27,49,Zamora,22,17,5,0,0
 2020-03-28,03,Alicante/Alacant,100,90,9,0,1
 2020-03-28,02,Albacete,80,17,6,0,57
@@ -3117,7 +3117,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-03-30,46,Valencia/València,157,135,15,0,7
 2020-03-30,47,Valladolid,132,130,2,0,0
 2020-03-30,01,Araba/Álava,82,81,0,0,1
-2020-03-30,50,Zaragoza,95,95,0,0,0
+2020-03-30,50,Zaragoza,96,96,0,0,0
 2020-03-30,49,Zamora,17,7,10,0,0
 2020-03-31,03,Alicante/Alacant,77,65,10,0,2
 2020-03-31,02,Albacete,93,28,5,0,60
@@ -3175,7 +3175,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-01,02,Albacete,75,32,7,0,36
 2020-04-01,04,Almería,16,14,2,0,0
 2020-04-01,05,Ávila,55,47,8,0,0
-2020-04-01,08,Barcelona,1050,1011,0,6,33
+2020-04-01,08,Barcelona,1051,1012,0,6,33
 2020-04-01,06,Badajoz,38,34,4,0,0
 2020-04-01,48,Bizkaia,170,155,0,0,15
 2020-04-01,09,Burgos,53,38,15,0,0
@@ -3192,7 +3192,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-01,18,Granada,76,69,7,0,0
 2020-04-01,19,Guadalajara,39,17,2,0,20
 2020-04-01,21,Huelva,12,11,1,0,0
-2020-04-01,22,Huesca,18,18,0,0,0
+2020-04-01,22,Huesca,19,19,0,0,0
 2020-04-01,23,Jaén,54,49,4,0,1
 2020-04-01,25,Lleida,54,47,0,1,6
 2020-04-01,24,León,54,32,22,0,0
@@ -3216,7 +3216,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-01,20,Gipuzkoa,66,63,0,0,3
 2020-04-01,43,Tarragona,64,51,0,0,13
 2020-04-01,44,Teruel,22,22,0,0,0
-2020-04-01,38,Santa Cruz de Tenerife,46,45,0,0,1
+2020-04-01,38,Santa Cruz de Tenerife,47,46,0,0,1
 2020-04-01,45,Toledo,156,65,11,0,80
 2020-04-01,46,Valencia/València,132,111,17,1,3
 2020-04-01,47,Valladolid,133,120,13,0,0
@@ -3250,7 +3250,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-02,24,León,51,46,5,0,0
 2020-04-02,26,La Rioja,100,99,1,0,0
 2020-04-02,27,Lugo,14,14,0,0,0
-2020-04-02,28,Madrid,1004,1004,0,0,0
+2020-04-02,28,Madrid,1005,1005,0,0,0
 2020-04-02,29,Málaga,50,40,10,0,0
 2020-04-02,52,Melilla,3,3,0,0,0
 2020-04-02,30,Murcia,30,21,9,0,0
@@ -3313,7 +3313,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-03,07,Balears,47,43,3,0,1
 2020-04-03,36,Pontevedra,53,53,0,0,0
 2020-04-03,39,Cantabria,34,34,0,0,0
-2020-04-03,37,Salamanca,65,52,13,0,0
+2020-04-03,37,Salamanca,67,54,13,0,0
 2020-04-03,41,Sevilla,51,40,11,0,0
 2020-04-03,40,Segovia,65,60,5,0,0
 2020-04-03,42,Soria,29,17,12,0,0
@@ -3322,7 +3322,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-03,44,Teruel,16,16,0,0,0
 2020-04-03,38,Santa Cruz de Tenerife,11,11,0,0,0
 2020-04-03,45,Toledo,97,51,7,0,39
-2020-04-03,46,Valencia/València,121,104,14,0,3
+2020-04-03,46,Valencia/València,122,105,14,0,3
 2020-04-03,47,Valladolid,169,165,4,0,0
 2020-04-03,01,Araba/Álava,70,61,0,0,9
 2020-04-03,50,Zaragoza,77,77,0,0,0
@@ -3331,7 +3331,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-04,02,Albacete,112,28,14,0,70
 2020-04-04,04,Almería,5,3,2,0,0
 2020-04-04,05,Ávila,37,24,13,0,0
-2020-04-04,08,Barcelona,813,798,0,2,13
+2020-04-04,08,Barcelona,814,799,0,2,13
 2020-04-04,06,Badajoz,29,17,12,0,0
 2020-04-04,48,Bizkaia,150,139,0,0,11
 2020-04-04,09,Burgos,44,32,12,0,0
@@ -3502,7 +3502,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-07,35,Las Palmas,5,4,0,0,1
 2020-04-07,17,Girona,89,70,0,0,19
 2020-04-07,18,Granada,45,37,8,0,0
-2020-04-07,19,Guadalajara,25,12,1,1,11
+2020-04-07,19,Guadalajara,25,13,1,0,11
 2020-04-07,21,Huelva,12,10,2,0,0
 2020-04-07,22,Huesca,19,19,0,0,0
 2020-04-07,23,Jaén,32,17,15,0,0
@@ -3558,7 +3558,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-08,21,Huelva,4,4,0,0,0
 2020-04-08,22,Huesca,10,10,0,0,0
 2020-04-08,23,Jaén,25,11,14,0,0
-2020-04-08,25,Lleida,39,36,0,1,2
+2020-04-08,25,Lleida,38,35,0,1,2
 2020-04-08,24,León,40,34,6,0,0
 2020-04-08,26,La Rioja,45,39,6,0,0
 2020-04-08,27,Lugo,9,9,0,0,0
@@ -3566,7 +3566,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-08,29,Málaga,104,33,71,0,0
 2020-04-08,52,Melilla,0,0,0,0,0
 2020-04-08,30,Murcia,40,16,24,0,0
-2020-04-08,31,Navarra,118,92,26,0,0
+2020-04-08,31,Navarra,119,93,26,0,0
 2020-04-08,33,Asturias,48,48,0,0,0
 2020-04-08,32,Ourense,35,35,0,0,0
 2020-04-08,34,Palencia,33,13,20,0,0
@@ -3578,7 +3578,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-08,40,Segovia,69,60,9,0,0
 2020-04-08,42,Soria,40,15,24,1,0
 2020-04-08,20,Gipuzkoa,35,30,0,0,5
-2020-04-08,43,Tarragona,50,39,0,0,11
+2020-04-08,43,Tarragona,51,40,0,0,11
 2020-04-08,44,Teruel,12,12,0,0,0
 2020-04-08,38,Santa Cruz de Tenerife,7,7,0,0,0
 2020-04-08,45,Toledo,71,16,5,0,50
@@ -3591,9 +3591,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-09,02,Albacete,144,21,2,0,121
 2020-04-09,04,Almería,6,3,3,0,0
 2020-04-09,05,Ávila,58,17,41,0,0
-2020-04-09,08,Barcelona,848,822,0,1,25
+2020-04-09,08,Barcelona,849,823,0,1,25
 2020-04-09,06,Badajoz,17,3,14,0,0
-2020-04-09,48,Bizkaia,136,123,0,0,13
+2020-04-09,48,Bizkaia,137,124,0,0,13
 2020-04-09,09,Burgos,136,80,56,0,0
 2020-04-09,15,A Coruña,71,65,5,0,1
 2020-04-09,11,Cádiz,7,7,0,0,0
@@ -3603,7 +3603,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-09,13,Ciudad Real,101,16,1,2,82
 2020-04-09,12,Castellón/Castelló,30,28,1,0,1
 2020-04-09,16,Cuenca,24,8,1,0,15
-2020-04-09,35,Las Palmas,7,5,0,0,2
+2020-04-09,35,Las Palmas,8,6,0,0,2
 2020-04-09,17,Girona,70,62,0,0,8
 2020-04-09,18,Granada,24,16,8,0,0
 2020-04-09,19,Guadalajara,15,3,1,0,11
@@ -3643,7 +3643,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-10,02,Albacete,53,16,3,0,34
 2020-04-10,04,Almería,5,4,1,0,0
 2020-04-10,05,Ávila,65,30,35,0,0
-2020-04-10,08,Barcelona,845,815,0,1,29
+2020-04-10,08,Barcelona,846,816,0,1,29
 2020-04-10,06,Badajoz,18,10,8,0,0
 2020-04-10,48,Bizkaia,126,114,0,0,12
 2020-04-10,09,Burgos,67,48,19,0,0
@@ -3682,14 +3682,14 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-10,40,Segovia,30,24,6,0,0
 2020-04-10,42,Soria,55,17,38,0,0
 2020-04-10,20,Gipuzkoa,53,42,0,0,11
-2020-04-10,43,Tarragona,43,34,0,0,9
+2020-04-10,43,Tarragona,44,35,0,0,9
 2020-04-10,44,Teruel,4,4,0,0,0
 2020-04-10,38,Santa Cruz de Tenerife,8,8,0,0,0
 2020-04-10,45,Toledo,92,34,5,0,53
 2020-04-10,46,Valencia/València,85,47,37,0,1
 2020-04-10,47,Valladolid,56,51,5,0,0
 2020-04-10,01,Araba/Álava,20,20,0,0,0
-2020-04-10,50,Zaragoza,64,60,0,0,4
+2020-04-10,50,Zaragoza,63,59,0,0,4
 2020-04-10,49,Zamora,19,13,6,0,0
 2020-04-11,03,Alicante/Alacant,27,15,10,0,2
 2020-04-11,02,Albacete,32,7,1,0,24
@@ -3713,7 +3713,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-11,19,Guadalajara,19,5,4,0,10
 2020-04-11,21,Huelva,7,5,2,0,0
 2020-04-11,22,Huesca,8,8,0,0,0
-2020-04-11,23,Jaén,24,14,10,0,0
+2020-04-11,23,Jaén,25,15,10,0,0
 2020-04-11,25,Lleida,37,34,0,0,3
 2020-04-11,24,León,154,122,32,0,0
 2020-04-11,26,La Rioja,25,23,2,0,0
@@ -3799,7 +3799,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-13,02,Albacete,74,18,4,0,52
 2020-04-13,04,Almería,5,2,3,0,0
 2020-04-13,05,Ávila,32,23,9,0,0
-2020-04-13,08,Barcelona,481,450,0,2,29
+2020-04-13,08,Barcelona,482,451,0,2,29
 2020-04-13,06,Badajoz,29,9,20,0,0
 2020-04-13,48,Bizkaia,87,78,0,0,9
 2020-04-13,09,Burgos,121,35,86,0,0
@@ -3837,7 +3837,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-13,41,Sevilla,21,15,6,0,0
 2020-04-13,40,Segovia,42,12,30,0,0
 2020-04-13,42,Soria,103,39,64,0,0
-2020-04-13,20,Gipuzkoa,33,22,0,0,11
+2020-04-13,20,Gipuzkoa,34,23,0,0,11
 2020-04-13,43,Tarragona,30,25,0,0,5
 2020-04-13,44,Teruel,6,5,0,0,1
 2020-04-13,38,Santa Cruz de Tenerife,11,10,0,0,1
@@ -3885,7 +3885,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-14,07,Balears,10,8,2,0,0
 2020-04-14,36,Pontevedra,16,15,0,0,1
 2020-04-14,39,Cantabria,14,14,0,0,0
-2020-04-14,37,Salamanca,81,20,61,0,0
+2020-04-14,37,Salamanca,82,21,61,0,0
 2020-04-14,41,Sevilla,20,10,10,0,0
 2020-04-14,40,Segovia,53,12,41,0,0
 2020-04-14,42,Soria,75,7,68,0,0
@@ -3897,7 +3897,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-14,46,Valencia/València,46,31,11,0,4
 2020-04-14,47,Valladolid,52,43,9,0,0
 2020-04-14,01,Araba/Álava,4,4,0,0,0
-2020-04-14,50,Zaragoza,41,37,0,0,4
+2020-04-14,50,Zaragoza,42,38,0,0,4
 2020-04-14,49,Zamora,14,6,8,0,0
 2020-04-15,03,Alicante/Alacant,38,19,19,0,0
 2020-04-15,02,Albacete,35,9,4,0,22
@@ -3913,7 +3913,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-15,51,Ceuta,0,0,0,0,0
 2020-04-15,14,Córdoba,43,17,26,0,0
 2020-04-15,13,Ciudad Real,77,29,2,0,46
-2020-04-15,12,Castellón/Castelló,22,16,5,0,1
+2020-04-15,12,Castellón/Castelló,21,15,5,0,1
 2020-04-15,16,Cuenca,7,2,0,0,5
 2020-04-15,35,Las Palmas,5,5,0,0,0
 2020-04-15,17,Girona,100,96,0,0,4
@@ -4082,7 +4082,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-18,24,León,6,5,1,0,0
 2020-04-18,26,La Rioja,17,17,0,0,0
 2020-04-18,27,Lugo,13,12,1,0,0
-2020-04-18,28,Madrid,467,467,0,0,0
+2020-04-18,28,Madrid,469,469,0,0,0
 2020-04-18,29,Málaga,47,9,38,0,0
 2020-04-18,52,Melilla,0,0,0,0,0
 2020-04-18,30,Murcia,5,0,5,0,0
@@ -4105,13 +4105,13 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-18,46,Valencia/València,109,29,76,0,4
 2020-04-18,47,Valladolid,25,19,5,1,0
 2020-04-18,01,Araba/Álava,6,3,0,0,3
-2020-04-18,50,Zaragoza,55,53,0,0,2
+2020-04-18,50,Zaragoza,54,52,0,0,2
 2020-04-18,49,Zamora,6,3,3,0,0
 2020-04-19,03,Alicante/Alacant,16,1,15,0,0
 2020-04-19,02,Albacete,52,5,0,0,47
 2020-04-19,04,Almería,9,1,8,0,0
 2020-04-19,05,Ávila,9,8,1,0,0
-2020-04-19,08,Barcelona,217,215,0,0,2
+2020-04-19,08,Barcelona,218,216,0,0,2
 2020-04-19,06,Badajoz,7,1,5,1,0
 2020-04-19,48,Bizkaia,35,33,0,0,2
 2020-04-19,09,Burgos,30,30,0,0,0
@@ -4338,7 +4338,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-23,21,Huelva,8,0,8,0,0
 2020-04-23,22,Huesca,3,3,0,0,0
 2020-04-23,23,Jaén,21,4,17,0,0
-2020-04-23,25,Lleida,17,15,0,0,2
+2020-04-23,25,Lleida,18,16,0,0,2
 2020-04-23,24,León,29,15,14,0,0
 2020-04-23,26,La Rioja,13,13,0,0,0
 2020-04-23,27,Lugo,17,1,15,0,1
@@ -4365,7 +4365,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-23,46,Valencia/València,72,20,46,0,6
 2020-04-23,47,Valladolid,21,15,6,0,0
 2020-04-23,01,Araba/Álava,4,3,0,0,1
-2020-04-23,50,Zaragoza,24,18,0,0,6
+2020-04-23,50,Zaragoza,25,19,0,0,6
 2020-04-23,49,Zamora,5,2,3,0,0
 2020-04-24,03,Alicante/Alacant,127,18,109,0,0
 2020-04-24,02,Albacete,36,7,0,0,29
@@ -4475,7 +4475,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-26,02,Albacete,53,1,1,0,51
 2020-04-26,04,Almería,0,0,0,0,0
 2020-04-26,05,Ávila,6,3,3,0,0
-2020-04-26,08,Barcelona,123,120,0,0,3
+2020-04-26,08,Barcelona,124,121,0,0,3
 2020-04-26,06,Badajoz,4,4,0,0,0
 2020-04-26,48,Bizkaia,40,30,0,0,10
 2020-04-26,09,Burgos,19,10,9,0,0
@@ -4527,7 +4527,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-27,02,Albacete,69,14,0,0,55
 2020-04-27,04,Almería,3,2,0,1,0
 2020-04-27,05,Ávila,2,1,1,0,0
-2020-04-27,08,Barcelona,110,96,0,0,14
+2020-04-27,08,Barcelona,111,97,0,0,14
 2020-04-27,06,Badajoz,8,2,6,0,0
 2020-04-27,48,Bizkaia,27,25,0,0,2
 2020-04-27,09,Burgos,11,9,2,0,0
@@ -4550,7 +4550,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-27,24,León,36,15,21,0,0
 2020-04-27,26,La Rioja,4,4,0,0,0
 2020-04-27,27,Lugo,3,0,2,0,1
-2020-04-27,28,Madrid,184,184,0,0,0
+2020-04-27,28,Madrid,185,185,0,0,0
 2020-04-27,29,Málaga,9,0,9,0,0
 2020-04-27,52,Melilla,0,0,0,0,0
 2020-04-27,30,Murcia,1,0,1,0,0
@@ -4602,7 +4602,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-28,24,León,38,17,21,0,0
 2020-04-28,26,La Rioja,10,10,0,0,0
 2020-04-28,27,Lugo,6,3,3,0,0
-2020-04-28,28,Madrid,230,230,0,0,0
+2020-04-28,28,Madrid,231,231,0,0,0
 2020-04-28,29,Málaga,37,2,35,0,0
 2020-04-28,52,Melilla,0,0,0,0,0
 2020-04-28,30,Murcia,16,0,16,0,0
@@ -4706,7 +4706,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-04-30,24,León,23,11,12,0,0
 2020-04-30,26,La Rioja,2,2,0,0,0
 2020-04-30,27,Lugo,5,1,4,0,0
-2020-04-30,28,Madrid,173,173,0,0,0
+2020-04-30,28,Madrid,174,174,0,0,0
 2020-04-30,29,Málaga,21,5,16,0,0
 2020-04-30,52,Melilla,1,1,0,0,0
 2020-04-30,30,Murcia,25,1,24,0,0
@@ -4810,7 +4810,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-02,24,León,32,13,19,0,0
 2020-05-02,26,La Rioja,2,1,1,0,0
 2020-05-02,27,Lugo,2,2,0,0,0
-2020-05-02,28,Madrid,166,166,0,0,0
+2020-05-02,28,Madrid,165,165,0,0,0
 2020-05-02,29,Málaga,34,4,30,0,0
 2020-05-02,52,Melilla,0,0,0,0,0
 2020-05-02,30,Murcia,17,1,16,0,0
@@ -4820,7 +4820,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-02,34,Palencia,12,3,9,0,0
 2020-05-02,07,Balears,3,1,2,0,0
 2020-05-02,36,Pontevedra,9,4,5,0,0
-2020-05-02,39,Cantabria,1,1,0,0,0
+2020-05-02,39,Cantabria,0,0,0,0,0
 2020-05-02,37,Salamanca,134,6,128,0,0
 2020-05-02,41,Sevilla,13,5,8,0,0
 2020-05-02,40,Segovia,39,4,35,0,0
@@ -4839,7 +4839,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-03,02,Albacete,22,2,0,0,20
 2020-05-03,04,Almería,3,2,1,0,0
 2020-05-03,05,Ávila,7,5,2,0,0
-2020-05-03,08,Barcelona,119,113,0,0,6
+2020-05-03,08,Barcelona,120,114,0,0,6
 2020-05-03,06,Badajoz,1,0,1,0,0
 2020-05-03,48,Bizkaia,21,15,0,0,6
 2020-05-03,09,Burgos,14,5,9,0,0
@@ -4888,10 +4888,10 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-03,50,Zaragoza,15,13,0,2,0
 2020-05-03,49,Zamora,24,22,2,0,0
 2020-05-04,03,Alicante/Alacant,18,1,17,0,0
-2020-05-04,02,Albacete,5,1,0,3,1
+2020-05-04,02,Albacete,5,3,0,1,1
 2020-05-04,04,Almería,4,3,1,0,0
 2020-05-04,05,Ávila,5,1,4,0,0
-2020-05-04,08,Barcelona,91,88,0,0,3
+2020-05-04,08,Barcelona,96,93,0,0,3
 2020-05-04,06,Badajoz,9,5,4,0,0
 2020-05-04,48,Bizkaia,16,11,0,0,5
 2020-05-04,09,Burgos,3,1,2,0,0
@@ -4910,7 +4910,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-04,21,Huelva,9,0,9,0,0
 2020-05-04,22,Huesca,11,11,0,0,0
 2020-05-04,23,Jaén,14,8,6,0,0
-2020-05-04,25,Lleida,12,10,0,1,1
+2020-05-04,25,Lleida,13,11,0,1,1
 2020-05-04,24,León,4,4,0,0,0
 2020-05-04,26,La Rioja,2,2,0,0,0
 2020-05-04,27,Lugo,3,1,1,0,1
@@ -4960,13 +4960,13 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-05,18,Granada,3,2,1,0,0
 2020-05-05,19,Guadalajara,3,3,0,0,0
 2020-05-05,21,Huelva,8,0,8,0,0
-2020-05-05,22,Huesca,10,2,0,0,8
+2020-05-05,22,Huesca,11,3,0,0,8
 2020-05-05,23,Jaén,9,3,6,0,0
 2020-05-05,25,Lleida,7,6,0,0,1
 2020-05-05,24,León,1,1,0,0,0
 2020-05-05,26,La Rioja,0,0,0,0,0
 2020-05-05,27,Lugo,3,0,3,0,0
-2020-05-05,28,Madrid,57,56,0,0,1
+2020-05-05,28,Madrid,58,57,0,0,1
 2020-05-05,29,Málaga,30,0,30,0,0
 2020-05-05,52,Melilla,0,0,0,0,0
 2020-05-05,30,Murcia,2,1,1,0,0
@@ -4995,7 +4995,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-06,02,Albacete,0,0,0,0,0
 2020-05-06,04,Almería,0,0,0,0,0
 2020-05-06,05,Ávila,1,1,0,0,0
-2020-05-06,08,Barcelona,36,33,0,1,2
+2020-05-06,08,Barcelona,37,33,0,1,3
 2020-05-06,06,Badajoz,9,1,8,0,0
 2020-05-06,48,Bizkaia,23,12,0,0,11
 2020-05-06,09,Burgos,1,0,1,0,0
@@ -5013,7 +5013,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-06,19,Guadalajara,2,2,0,0,0
 2020-05-06,21,Huelva,4,0,4,0,0
 2020-05-06,22,Huesca,14,2,0,0,12
-2020-05-06,23,Jaén,1,1,0,0,0
+2020-05-06,23,Jaén,0,0,0,0,0
 2020-05-06,25,Lleida,3,3,0,0,0
 2020-05-06,24,León,5,5,0,0,0
 2020-05-06,26,La Rioja,0,0,0,0,0
@@ -5034,7 +5034,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-06,40,Segovia,2,1,1,0,0
 2020-05-06,42,Soria,0,0,0,0,0
 2020-05-06,20,Gipuzkoa,1,1,0,0,0
-2020-05-06,43,Tarragona,1,1,0,0,0
+2020-05-06,43,Tarragona,2,2,0,0,0
 2020-05-06,44,Teruel,1,0,0,0,1
 2020-05-06,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-05-06,45,Toledo,1,1,0,0,0
@@ -5099,7 +5099,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-08,02,Albacete,1,1,0,0,0
 2020-05-08,04,Almería,0,0,0,0,0
 2020-05-08,05,Ávila,4,3,1,0,0
-2020-05-08,08,Barcelona,55,50,0,2,3
+2020-05-08,08,Barcelona,56,51,0,2,3
 2020-05-08,06,Badajoz,12,0,11,1,0
 2020-05-08,48,Bizkaia,22,14,0,0,8
 2020-05-08,09,Burgos,4,0,4,0,0
@@ -5113,7 +5113,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-08,16,Cuenca,1,1,0,0,0
 2020-05-08,35,Las Palmas,0,0,0,0,0
 2020-05-08,17,Girona,5,4,0,0,1
-2020-05-08,18,Granada,3,3,0,0,0
+2020-05-08,18,Granada,2,2,0,0,0
 2020-05-08,19,Guadalajara,1,1,0,0,0
 2020-05-08,21,Huelva,0,0,0,0,0
 2020-05-08,22,Huesca,3,3,0,0,0
@@ -5122,7 +5122,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-08,24,León,2,1,1,0,0
 2020-05-08,26,La Rioja,1,1,0,0,0
 2020-05-08,27,Lugo,3,1,2,0,0
-2020-05-08,28,Madrid,87,87,0,0,0
+2020-05-08,28,Madrid,88,88,0,0,0
 2020-05-08,29,Málaga,1,0,1,0,0
 2020-05-08,52,Melilla,0,0,0,0,0
 2020-05-08,30,Murcia,1,1,0,0,0
@@ -5174,7 +5174,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-09,24,León,5,1,4,0,0
 2020-05-09,26,La Rioja,0,0,0,0,0
 2020-05-09,27,Lugo,0,0,0,0,0
-2020-05-09,28,Madrid,60,60,0,0,0
+2020-05-09,28,Madrid,59,59,0,0,0
 2020-05-09,29,Málaga,3,0,3,0,0
 2020-05-09,52,Melilla,0,0,0,0,0
 2020-05-09,30,Murcia,1,1,0,0,0
@@ -5203,7 +5203,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-10,02,Albacete,0,0,0,0,0
 2020-05-10,04,Almería,2,2,0,0,0
 2020-05-10,05,Ávila,0,0,0,0,0
-2020-05-10,08,Barcelona,55,54,0,0,1
+2020-05-10,08,Barcelona,56,55,0,0,1
 2020-05-10,06,Badajoz,1,0,1,0,0
 2020-05-10,48,Bizkaia,9,5,0,0,4
 2020-05-10,09,Burgos,1,1,0,0,0
@@ -5245,7 +5245,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-10,43,Tarragona,6,4,0,0,2
 2020-05-10,44,Teruel,0,0,0,0,0
 2020-05-10,38,Santa Cruz de Tenerife,0,0,0,0,0
-2020-05-10,45,Toledo,5,4,0,1,0
+2020-05-10,45,Toledo,4,4,0,0,0
 2020-05-10,46,Valencia/València,1,1,0,0,0
 2020-05-10,47,Valladolid,2,2,0,0,0
 2020-05-10,01,Araba/Álava,0,0,0,0,0
@@ -5255,9 +5255,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-11,02,Albacete,0,0,0,0,0
 2020-05-11,04,Almería,0,0,0,0,0
 2020-05-11,05,Ávila,1,1,0,0,0
-2020-05-11,08,Barcelona,87,61,0,26,0
+2020-05-11,08,Barcelona,89,63,0,26,0
 2020-05-11,06,Badajoz,4,3,1,0,0
-2020-05-11,48,Bizkaia,17,17,0,0,0
+2020-05-11,48,Bizkaia,8,8,0,0,0
 2020-05-11,09,Burgos,5,4,1,0,0
 2020-05-11,15,A Coruña,4,4,0,0,0
 2020-05-11,11,Cádiz,2,1,1,0,0
@@ -5270,15 +5270,15 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-11,35,Las Palmas,0,0,0,0,0
 2020-05-11,17,Girona,14,14,0,0,0
 2020-05-11,18,Granada,4,4,0,0,0
-2020-05-11,19,Guadalajara,3,3,0,0,0
+2020-05-11,19,Guadalajara,2,2,0,0,0
 2020-05-11,21,Huelva,3,1,2,0,0
-2020-05-11,22,Huesca,3,3,0,0,0
+2020-05-11,22,Huesca,2,2,0,0,0
 2020-05-11,23,Jaén,7,7,0,0,0
 2020-05-11,25,Lleida,9,9,0,0,0
 2020-05-11,24,León,3,3,0,0,0
 2020-05-11,26,La Rioja,4,3,0,1,0
 2020-05-11,27,Lugo,1,0,0,0,1
-2020-05-11,28,Madrid,159,158,0,1,0
+2020-05-11,28,Madrid,160,159,0,1,0
 2020-05-11,29,Málaga,3,3,0,0,0
 2020-05-11,52,Melilla,0,0,0,0,0
 2020-05-11,30,Murcia,2,2,0,0,0
@@ -5300,7 +5300,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-11,45,Toledo,7,3,0,4,0
 2020-05-11,46,Valencia/València,7,7,0,0,0
 2020-05-11,47,Valladolid,11,11,0,0,0
-2020-05-11,01,Araba/Álava,5,4,0,0,1
+2020-05-11,01,Araba/Álava,4,3,0,0,1
 2020-05-11,50,Zaragoza,6,5,0,1,0
 2020-05-11,49,Zamora,2,2,0,0,0
 2020-05-12,03,Alicante/Alacant,8,8,0,0,0
@@ -5309,7 +5309,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-12,05,Ávila,1,1,0,0,0
 2020-05-12,08,Barcelona,87,59,0,27,1
 2020-05-12,06,Badajoz,12,3,9,0,0
-2020-05-12,48,Bizkaia,12,10,0,0,2
+2020-05-12,48,Bizkaia,8,6,0,0,2
 2020-05-12,09,Burgos,4,3,0,1,0
 2020-05-12,15,A Coruña,7,7,0,0,0
 2020-05-12,11,Cádiz,4,4,0,0,0
@@ -5325,12 +5325,12 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-12,19,Guadalajara,2,2,0,0,0
 2020-05-12,21,Huelva,0,0,0,0,0
 2020-05-12,22,Huesca,6,6,0,0,0
-2020-05-12,23,Jaén,8,7,1,0,0
+2020-05-12,23,Jaén,9,8,1,0,0
 2020-05-12,25,Lleida,19,19,0,0,0
 2020-05-12,24,León,6,6,0,0,0
 2020-05-12,26,La Rioja,3,3,0,0,0
 2020-05-12,27,Lugo,0,0,0,0,0
-2020-05-12,28,Madrid,175,175,0,0,0
+2020-05-12,28,Madrid,176,176,0,0,0
 2020-05-12,29,Málaga,4,3,1,0,0
 2020-05-12,52,Melilla,0,0,0,0,0
 2020-05-12,30,Murcia,3,3,0,0,0
@@ -5345,23 +5345,23 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-12,41,Sevilla,1,1,0,0,0
 2020-05-12,40,Segovia,2,2,0,0,0
 2020-05-12,42,Soria,1,0,0,1,0
-2020-05-12,20,Gipuzkoa,4,4,0,0,0
+2020-05-12,20,Gipuzkoa,2,2,0,0,0
 2020-05-12,43,Tarragona,2,2,0,0,0
 2020-05-12,44,Teruel,0,0,0,0,0
 2020-05-12,38,Santa Cruz de Tenerife,2,2,0,0,0
 2020-05-12,45,Toledo,6,6,0,0,0
 2020-05-12,46,Valencia/València,9,9,0,0,0
 2020-05-12,47,Valladolid,16,16,0,0,0
-2020-05-12,01,Araba/Álava,6,4,0,0,2
+2020-05-12,01,Araba/Álava,4,2,0,0,2
 2020-05-12,50,Zaragoza,6,6,0,0,0
 2020-05-12,49,Zamora,1,1,0,0,0
 2020-05-13,03,Alicante/Alacant,4,4,0,0,0
-2020-05-13,02,Albacete,4,3,0,1,0
+2020-05-13,02,Albacete,4,4,0,0,0
 2020-05-13,04,Almería,0,0,0,0,0
 2020-05-13,05,Ávila,4,4,0,0,0
-2020-05-13,08,Barcelona,111,80,0,31,0
+2020-05-13,08,Barcelona,113,82,0,31,0
 2020-05-13,06,Badajoz,16,2,14,0,0
-2020-05-13,48,Bizkaia,19,17,0,0,2
+2020-05-13,48,Bizkaia,8,6,0,0,2
 2020-05-13,09,Burgos,3,3,0,0,0
 2020-05-13,15,A Coruña,5,5,0,0,0
 2020-05-13,11,Cádiz,3,3,0,0,0
@@ -5372,17 +5372,17 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-13,12,Castellón/Castelló,3,3,0,0,0
 2020-05-13,16,Cuenca,1,1,0,0,0
 2020-05-13,35,Las Palmas,2,2,0,0,0
-2020-05-13,17,Girona,18,17,0,1,0
+2020-05-13,17,Girona,19,18,0,1,0
 2020-05-13,18,Granada,3,3,0,0,0
 2020-05-13,19,Guadalajara,6,6,0,0,0
 2020-05-13,21,Huelva,0,0,0,0,0
-2020-05-13,22,Huesca,11,11,0,0,0
+2020-05-13,22,Huesca,8,8,0,0,0
 2020-05-13,23,Jaén,0,0,0,0,0
 2020-05-13,25,Lleida,13,13,0,0,0
 2020-05-13,24,León,11,11,0,0,0
 2020-05-13,26,La Rioja,5,4,0,1,0
 2020-05-13,27,Lugo,0,0,0,0,0
-2020-05-13,28,Madrid,116,115,0,0,1
+2020-05-13,28,Madrid,118,117,0,0,1
 2020-05-13,29,Málaga,4,3,1,0,0
 2020-05-13,52,Melilla,0,0,0,0,0
 2020-05-13,30,Murcia,5,5,0,0,0
@@ -5397,23 +5397,23 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-13,41,Sevilla,2,1,1,0,0
 2020-05-13,40,Segovia,0,0,0,0,0
 2020-05-13,42,Soria,1,0,0,1,0
-2020-05-13,20,Gipuzkoa,3,3,0,0,0
+2020-05-13,20,Gipuzkoa,2,2,0,0,0
 2020-05-13,43,Tarragona,9,9,0,0,0
 2020-05-13,44,Teruel,2,2,0,0,0
 2020-05-13,38,Santa Cruz de Tenerife,3,3,0,0,0
-2020-05-13,45,Toledo,11,10,0,1,0
+2020-05-13,45,Toledo,11,11,0,0,0
 2020-05-13,46,Valencia/València,5,5,0,0,0
 2020-05-13,47,Valladolid,5,5,0,0,0
-2020-05-13,01,Araba/Álava,3,2,0,0,1
+2020-05-13,01,Araba/Álava,1,0,0,0,1
 2020-05-13,50,Zaragoza,12,12,0,0,0
 2020-05-13,49,Zamora,15,15,0,0,0
 2020-05-14,03,Alicante/Alacant,10,10,0,0,0
-2020-05-14,02,Albacete,3,2,0,1,0
+2020-05-14,02,Albacete,2,2,0,0,0
 2020-05-14,04,Almería,0,0,0,0,0
 2020-05-14,05,Ávila,2,2,0,0,0
-2020-05-14,08,Barcelona,109,63,0,46,0
+2020-05-14,08,Barcelona,110,64,0,46,0
 2020-05-14,06,Badajoz,12,1,11,0,0
-2020-05-14,48,Bizkaia,11,10,0,0,1
+2020-05-14,48,Bizkaia,5,4,0,0,1
 2020-05-14,09,Burgos,4,4,0,0,0
 2020-05-14,15,A Coruña,4,3,1,0,0
 2020-05-14,11,Cádiz,2,2,0,0,0
@@ -5425,16 +5425,16 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-14,16,Cuenca,8,8,0,0,0
 2020-05-14,35,Las Palmas,0,0,0,0,0
 2020-05-14,17,Girona,24,24,0,0,0
-2020-05-14,18,Granada,0,0,0,0,0
+2020-05-14,18,Granada,1,1,0,0,0
 2020-05-14,19,Guadalajara,2,2,0,0,0
 2020-05-14,21,Huelva,0,0,0,0,0
-2020-05-14,22,Huesca,10,10,0,0,0
+2020-05-14,22,Huesca,11,11,0,0,0
 2020-05-14,23,Jaén,4,4,0,0,0
 2020-05-14,25,Lleida,14,14,0,0,0
 2020-05-14,24,León,8,8,0,0,0
 2020-05-14,26,La Rioja,4,4,0,0,0
 2020-05-14,27,Lugo,1,1,0,0,0
-2020-05-14,28,Madrid,131,131,0,0,0
+2020-05-14,28,Madrid,132,132,0,0,0
 2020-05-14,29,Málaga,1,1,0,0,0
 2020-05-14,52,Melilla,0,0,0,0,0
 2020-05-14,30,Murcia,2,2,0,0,0
@@ -5456,16 +5456,16 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-14,45,Toledo,11,11,0,0,0
 2020-05-14,46,Valencia/València,7,7,0,0,0
 2020-05-14,47,Valladolid,5,4,0,1,0
-2020-05-14,01,Araba/Álava,5,2,0,0,3
-2020-05-14,50,Zaragoza,4,4,0,0,0
+2020-05-14,01,Araba/Álava,3,0,0,0,3
+2020-05-14,50,Zaragoza,3,3,0,0,0
 2020-05-14,49,Zamora,8,8,0,0,0
 2020-05-15,03,Alicante/Alacant,2,2,0,0,0
-2020-05-15,02,Albacete,5,5,0,0,0
+2020-05-15,02,Albacete,3,3,0,0,0
 2020-05-15,04,Almería,0,0,0,0,0
 2020-05-15,05,Ávila,1,1,0,0,0
-2020-05-15,08,Barcelona,158,118,0,40,0
+2020-05-15,08,Barcelona,159,119,0,40,0
 2020-05-15,06,Badajoz,12,0,12,0,0
-2020-05-15,48,Bizkaia,11,10,0,0,1
+2020-05-15,48,Bizkaia,4,3,0,0,1
 2020-05-15,09,Burgos,8,8,0,0,0
 2020-05-15,15,A Coruña,4,4,0,0,0
 2020-05-15,11,Cádiz,1,0,1,0,0
@@ -5486,7 +5486,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-15,24,León,2,2,0,0,0
 2020-05-15,26,La Rioja,3,1,0,2,0
 2020-05-15,27,Lugo,0,0,0,0,0
-2020-05-15,28,Madrid,109,109,0,0,0
+2020-05-15,28,Madrid,111,111,0,0,0
 2020-05-15,29,Málaga,1,0,1,0,0
 2020-05-15,52,Melilla,0,0,0,0,0
 2020-05-15,30,Murcia,0,0,0,0,0
@@ -5508,7 +5508,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-15,45,Toledo,11,11,0,0,0
 2020-05-15,46,Valencia/València,5,5,0,0,0
 2020-05-15,47,Valladolid,7,5,0,2,0
-2020-05-15,01,Araba/Álava,3,1,0,0,2
+2020-05-15,01,Araba/Álava,2,0,0,0,2
 2020-05-15,50,Zaragoza,6,6,0,0,0
 2020-05-15,49,Zamora,2,2,0,0,0
 2020-05-16,03,Alicante/Alacant,5,5,0,0,0
@@ -5533,12 +5533,12 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-16,19,Guadalajara,0,0,0,0,0
 2020-05-16,21,Huelva,0,0,0,0,0
 2020-05-16,22,Huesca,6,6,0,0,0
-2020-05-16,23,Jaén,3,2,1,0,0
+2020-05-16,23,Jaén,2,1,1,0,0
 2020-05-16,25,Lleida,16,16,0,0,0
 2020-05-16,24,León,7,7,0,0,0
 2020-05-16,26,La Rioja,2,2,0,0,0
 2020-05-16,27,Lugo,0,0,0,0,0
-2020-05-16,28,Madrid,70,70,0,0,0
+2020-05-16,28,Madrid,71,71,0,0,0
 2020-05-16,29,Málaga,1,1,0,0,0
 2020-05-16,52,Melilla,0,0,0,0,0
 2020-05-16,30,Murcia,1,1,0,0,0
@@ -5553,21 +5553,21 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-16,41,Sevilla,0,0,0,0,0
 2020-05-16,40,Segovia,1,1,0,0,0
 2020-05-16,42,Soria,1,1,0,0,0
-2020-05-16,20,Gipuzkoa,2,1,0,0,1
+2020-05-16,20,Gipuzkoa,1,0,0,0,1
 2020-05-16,43,Tarragona,6,6,0,0,0
 2020-05-16,44,Teruel,1,1,0,0,0
 2020-05-16,38,Santa Cruz de Tenerife,4,4,0,0,0
 2020-05-16,45,Toledo,6,6,0,0,0
 2020-05-16,46,Valencia/València,3,3,0,0,0
 2020-05-16,47,Valladolid,12,11,1,0,0
-2020-05-16,01,Araba/Álava,6,2,0,0,4
+2020-05-16,01,Araba/Álava,5,1,0,0,4
 2020-05-16,50,Zaragoza,2,2,0,0,0
 2020-05-16,49,Zamora,0,0,0,0,0
 2020-05-17,03,Alicante/Alacant,2,2,0,0,0
 2020-05-17,02,Albacete,0,0,0,0,0
 2020-05-17,04,Almería,0,0,0,0,0
 2020-05-17,05,Ávila,0,0,0,0,0
-2020-05-17,08,Barcelona,61,61,0,0,0
+2020-05-17,08,Barcelona,62,62,0,0,0
 2020-05-17,06,Badajoz,3,2,1,0,0
 2020-05-17,48,Bizkaia,4,4,0,0,0
 2020-05-17,09,Burgos,0,0,0,0,0
@@ -5590,7 +5590,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-17,24,León,0,0,0,0,0
 2020-05-17,26,La Rioja,0,0,0,0,0
 2020-05-17,27,Lugo,0,0,0,0,0
-2020-05-17,28,Madrid,75,75,0,0,0
+2020-05-17,28,Madrid,76,76,0,0,0
 2020-05-17,29,Málaga,1,1,0,0,0
 2020-05-17,52,Melilla,0,0,0,0,0
 2020-05-17,30,Murcia,1,1,0,0,0
@@ -5609,19 +5609,19 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-17,43,Tarragona,3,3,0,0,0
 2020-05-17,44,Teruel,1,1,0,0,0
 2020-05-17,38,Santa Cruz de Tenerife,1,1,0,0,0
-2020-05-17,45,Toledo,1,1,0,0,0
+2020-05-17,45,Toledo,2,2,0,0,0
 2020-05-17,46,Valencia/València,4,4,0,0,0
 2020-05-17,47,Valladolid,3,3,0,0,0
-2020-05-17,01,Araba/Álava,2,2,0,0,0
-2020-05-17,50,Zaragoza,6,6,0,0,0
+2020-05-17,01,Araba/Álava,1,1,0,0,0
+2020-05-17,50,Zaragoza,5,5,0,0,0
 2020-05-17,49,Zamora,0,0,0,0,0
 2020-05-18,03,Alicante/Alacant,3,3,0,0,0
 2020-05-18,02,Albacete,2,2,0,0,0
 2020-05-18,04,Almería,0,0,0,0,0
 2020-05-18,05,Ávila,9,9,0,0,0
-2020-05-18,08,Barcelona,131,97,0,34,0
+2020-05-18,08,Barcelona,132,98,0,34,0
 2020-05-18,06,Badajoz,2,1,1,0,0
-2020-05-18,48,Bizkaia,12,11,0,0,1
+2020-05-18,48,Bizkaia,5,4,0,0,1
 2020-05-18,09,Burgos,6,6,0,0,0
 2020-05-18,15,A Coruña,4,4,0,0,0
 2020-05-18,11,Cádiz,2,2,0,0,0
@@ -5636,7 +5636,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-18,18,Granada,1,1,0,0,0
 2020-05-18,19,Guadalajara,2,2,0,0,0
 2020-05-18,21,Huelva,1,1,0,0,0
-2020-05-18,22,Huesca,2,2,0,0,0
+2020-05-18,22,Huesca,4,4,0,0,0
 2020-05-18,23,Jaén,3,3,0,0,0
 2020-05-18,25,Lleida,27,26,0,0,1
 2020-05-18,24,León,6,6,0,0,0
@@ -5664,16 +5664,16 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-18,45,Toledo,9,9,0,0,0
 2020-05-18,46,Valencia/València,5,5,0,0,0
 2020-05-18,47,Valladolid,4,4,0,0,0
-2020-05-18,01,Araba/Álava,4,2,0,0,2
-2020-05-18,50,Zaragoza,7,7,0,0,0
+2020-05-18,01,Araba/Álava,2,0,0,0,2
+2020-05-18,50,Zaragoza,6,6,0,0,0
 2020-05-18,49,Zamora,1,1,0,0,0
 2020-05-19,03,Alicante/Alacant,4,4,0,0,0
-2020-05-19,02,Albacete,2,1,0,1,0
+2020-05-19,02,Albacete,1,0,0,1,0
 2020-05-19,04,Almería,0,0,0,0,0
 2020-05-19,05,Ávila,0,0,0,0,0
-2020-05-19,08,Barcelona,164,117,0,47,0
+2020-05-19,08,Barcelona,165,118,0,47,0
 2020-05-19,06,Badajoz,4,0,4,0,0
-2020-05-19,48,Bizkaia,3,3,0,0,0
+2020-05-19,48,Bizkaia,2,2,0,0,0
 2020-05-19,09,Burgos,3,3,0,0,0
 2020-05-19,15,A Coruña,5,5,0,0,0
 2020-05-19,11,Cádiz,0,0,0,0,0
@@ -5709,23 +5709,23 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-19,41,Sevilla,2,2,0,0,0
 2020-05-19,40,Segovia,1,1,0,0,0
 2020-05-19,42,Soria,0,0,0,0,0
-2020-05-19,20,Gipuzkoa,1,1,0,0,0
+2020-05-19,20,Gipuzkoa,0,0,0,0,0
 2020-05-19,43,Tarragona,0,0,0,0,0
 2020-05-19,44,Teruel,6,6,0,0,0
 2020-05-19,38,Santa Cruz de Tenerife,6,6,0,0,0
 2020-05-19,45,Toledo,8,8,0,0,0
 2020-05-19,46,Valencia/València,6,6,0,0,0
 2020-05-19,47,Valladolid,10,9,1,0,0
-2020-05-19,01,Araba/Álava,8,8,0,0,0
-2020-05-19,50,Zaragoza,9,9,0,0,0
+2020-05-19,01,Araba/Álava,0,0,0,0,0
+2020-05-19,50,Zaragoza,10,10,0,0,0
 2020-05-19,49,Zamora,2,2,0,0,0
 2020-05-20,03,Alicante/Alacant,6,6,0,0,0
-2020-05-20,02,Albacete,7,5,0,2,0
+2020-05-20,02,Albacete,5,3,0,2,0
 2020-05-20,04,Almería,0,0,0,0,0
 2020-05-20,05,Ávila,0,0,0,0,0
-2020-05-20,08,Barcelona,132,82,0,49,1
+2020-05-20,08,Barcelona,133,83,0,49,1
 2020-05-20,06,Badajoz,4,1,3,0,0
-2020-05-20,48,Bizkaia,6,4,0,0,2
+2020-05-20,48,Bizkaia,3,1,0,0,2
 2020-05-20,09,Burgos,4,4,0,0,0
 2020-05-20,15,A Coruña,6,6,0,0,0
 2020-05-20,11,Cádiz,4,4,0,0,0
@@ -5768,7 +5768,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-20,45,Toledo,4,4,0,0,0
 2020-05-20,46,Valencia/València,3,3,0,0,0
 2020-05-20,47,Valladolid,8,8,0,0,0
-2020-05-20,01,Araba/Álava,4,4,0,0,0
+2020-05-20,01,Araba/Álava,1,1,0,0,0
 2020-05-20,50,Zaragoza,7,6,0,1,0
 2020-05-20,49,Zamora,0,0,0,0,0
 2020-05-21,03,Alicante/Alacant,3,3,0,0,0
@@ -5777,7 +5777,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-21,05,Ávila,1,1,0,0,0
 2020-05-21,08,Barcelona,159,95,0,64,0
 2020-05-21,06,Badajoz,6,1,5,0,0
-2020-05-21,48,Bizkaia,8,7,0,0,1
+2020-05-21,48,Bizkaia,3,2,0,0,1
 2020-05-21,09,Burgos,9,9,0,0,0
 2020-05-21,15,A Coruña,10,10,0,0,0
 2020-05-21,11,Cádiz,2,2,0,0,0
@@ -5798,7 +5798,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-21,24,León,12,12,0,0,0
 2020-05-21,26,La Rioja,4,3,0,1,0
 2020-05-21,27,Lugo,1,1,0,0,0
-2020-05-21,28,Madrid,86,86,0,0,0
+2020-05-21,28,Madrid,88,88,0,0,0
 2020-05-21,29,Málaga,0,0,0,0,0
 2020-05-21,52,Melilla,0,0,0,0,0
 2020-05-21,30,Murcia,1,1,0,0,0
@@ -5817,10 +5817,10 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-21,43,Tarragona,10,9,0,1,0
 2020-05-21,44,Teruel,4,4,0,0,0
 2020-05-21,38,Santa Cruz de Tenerife,4,4,0,0,0
-2020-05-21,45,Toledo,3,3,0,0,0
+2020-05-21,45,Toledo,4,4,0,0,0
 2020-05-21,46,Valencia/València,3,3,0,0,0
 2020-05-21,47,Valladolid,3,2,0,1,0
-2020-05-21,01,Araba/Álava,3,2,0,0,1
+2020-05-21,01,Araba/Álava,1,0,0,0,1
 2020-05-21,50,Zaragoza,5,5,0,0,0
 2020-05-21,49,Zamora,1,1,0,0,0
 2020-05-22,03,Alicante/Alacant,8,8,0,0,0
@@ -5829,7 +5829,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-22,05,Ávila,3,3,0,0,0
 2020-05-22,08,Barcelona,234,161,0,72,1
 2020-05-22,06,Badajoz,7,3,4,0,0
-2020-05-22,48,Bizkaia,4,2,0,0,2
+2020-05-22,48,Bizkaia,2,0,0,0,2
 2020-05-22,09,Burgos,4,4,0,0,0
 2020-05-22,15,A Coruña,0,0,0,0,0
 2020-05-22,11,Cádiz,0,0,0,0,0
@@ -5867,28 +5867,28 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-22,42,Soria,3,3,0,0,0
 2020-05-22,20,Gipuzkoa,0,0,0,0,0
 2020-05-22,43,Tarragona,1,1,0,0,0
-2020-05-22,44,Teruel,2,2,0,0,0
+2020-05-22,44,Teruel,3,3,0,0,0
 2020-05-22,38,Santa Cruz de Tenerife,1,1,0,0,0
 2020-05-22,45,Toledo,7,7,0,0,0
 2020-05-22,46,Valencia/València,9,9,0,0,0
 2020-05-22,47,Valladolid,12,11,1,0,0
-2020-05-22,01,Araba/Álava,5,4,0,0,1
+2020-05-22,01,Araba/Álava,4,3,0,0,1
 2020-05-22,50,Zaragoza,7,7,0,0,0
 2020-05-22,49,Zamora,1,1,0,0,0
 2020-05-23,03,Alicante/Alacant,1,1,0,0,0
 2020-05-23,02,Albacete,1,1,0,0,0
 2020-05-23,04,Almería,1,1,0,0,0
 2020-05-23,05,Ávila,4,4,0,0,0
-2020-05-23,08,Barcelona,83,79,0,4,0
+2020-05-23,08,Barcelona,85,81,0,4,0
 2020-05-23,06,Badajoz,3,0,3,0,0
-2020-05-23,48,Bizkaia,6,5,0,0,1
+2020-05-23,48,Bizkaia,4,3,0,0,1
 2020-05-23,09,Burgos,0,0,0,0,0
 2020-05-23,15,A Coruña,5,5,0,0,0
 2020-05-23,11,Cádiz,0,0,0,0,0
 2020-05-23,10,Cáceres,4,0,4,0,0
 2020-05-23,51,Ceuta,5,5,0,0,0
 2020-05-23,14,Córdoba,0,0,0,0,0
-2020-05-23,13,Ciudad Real,13,8,0,5,0
+2020-05-23,13,Ciudad Real,13,9,0,4,0
 2020-05-23,12,Castellón/Castelló,4,4,0,0,0
 2020-05-23,16,Cuenca,6,6,0,0,0
 2020-05-23,35,Las Palmas,0,0,0,0,0
@@ -5924,16 +5924,16 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-23,45,Toledo,10,10,0,0,0
 2020-05-23,46,Valencia/València,3,3,0,0,0
 2020-05-23,47,Valladolid,0,0,0,0,0
-2020-05-23,01,Araba/Álava,1,1,0,0,0
-2020-05-23,50,Zaragoza,4,4,0,0,0
+2020-05-23,01,Araba/Álava,0,0,0,0,0
+2020-05-23,50,Zaragoza,5,5,0,0,0
 2020-05-23,49,Zamora,0,0,0,0,0
 2020-05-24,03,Alicante/Alacant,0,0,0,0,0
 2020-05-24,02,Albacete,4,3,0,1,0
 2020-05-24,04,Almería,1,1,0,0,0
 2020-05-24,05,Ávila,5,5,0,0,0
-2020-05-24,08,Barcelona,90,89,0,0,1
+2020-05-24,08,Barcelona,91,90,0,0,1
 2020-05-24,06,Badajoz,1,1,0,0,0
-2020-05-24,48,Bizkaia,3,2,0,0,1
+2020-05-24,48,Bizkaia,2,1,0,0,1
 2020-05-24,09,Burgos,1,1,0,0,0
 2020-05-24,15,A Coruña,4,4,0,0,0
 2020-05-24,11,Cádiz,0,0,0,0,0
@@ -5983,9 +5983,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-25,02,Albacete,7,7,0,0,0
 2020-05-25,04,Almería,2,2,0,0,0
 2020-05-25,05,Ávila,4,4,0,0,0
-2020-05-25,08,Barcelona,151,92,0,59,0
+2020-05-25,08,Barcelona,153,94,0,59,0
 2020-05-25,06,Badajoz,1,1,0,0,0
-2020-05-25,48,Bizkaia,5,5,0,0,0
+2020-05-25,48,Bizkaia,3,3,0,0,0
 2020-05-25,09,Burgos,4,4,0,0,0
 2020-05-25,15,A Coruña,2,1,1,0,0
 2020-05-25,11,Cádiz,2,2,0,0,0
@@ -6006,7 +6006,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-25,24,León,5,5,0,0,0
 2020-05-25,26,La Rioja,4,3,0,1,0
 2020-05-25,27,Lugo,2,2,0,0,0
-2020-05-25,28,Madrid,139,139,0,0,0
+2020-05-25,28,Madrid,144,144,0,0,0
 2020-05-25,29,Málaga,4,4,0,0,0
 2020-05-25,52,Melilla,0,0,0,0,0
 2020-05-25,30,Murcia,0,0,0,0,0
@@ -6025,7 +6025,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-25,43,Tarragona,4,4,0,0,0
 2020-05-25,44,Teruel,4,4,0,0,0
 2020-05-25,38,Santa Cruz de Tenerife,1,1,0,0,0
-2020-05-25,45,Toledo,7,7,0,0,0
+2020-05-25,45,Toledo,6,6,0,0,0
 2020-05-25,46,Valencia/València,3,3,0,0,0
 2020-05-25,47,Valladolid,9,8,0,1,0
 2020-05-25,01,Araba/Álava,1,1,0,0,0
@@ -6035,9 +6035,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-26,02,Albacete,5,5,0,0,0
 2020-05-26,04,Almería,2,2,0,0,0
 2020-05-26,05,Ávila,5,5,0,0,0
-2020-05-26,08,Barcelona,152,98,0,53,1
+2020-05-26,08,Barcelona,155,101,0,53,1
 2020-05-26,06,Badajoz,6,0,6,0,0
-2020-05-26,48,Bizkaia,5,5,0,0,0
+2020-05-26,48,Bizkaia,2,2,0,0,0
 2020-05-26,09,Burgos,2,2,0,0,0
 2020-05-26,15,A Coruña,1,1,0,0,0
 2020-05-26,11,Cádiz,3,3,0,0,0
@@ -6058,7 +6058,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-26,24,León,3,3,0,0,0
 2020-05-26,26,La Rioja,0,0,0,0,0
 2020-05-26,27,Lugo,0,0,0,0,0
-2020-05-26,28,Madrid,122,122,0,0,0
+2020-05-26,28,Madrid,123,123,0,0,0
 2020-05-26,29,Málaga,0,0,0,0,0
 2020-05-26,52,Melilla,0,0,0,0,0
 2020-05-26,30,Murcia,0,0,0,0,0
@@ -6080,11 +6080,11 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-26,45,Toledo,6,6,0,0,0
 2020-05-26,46,Valencia/València,3,3,0,0,0
 2020-05-26,47,Valladolid,6,6,0,0,0
-2020-05-26,01,Araba/Álava,4,3,0,0,1
+2020-05-26,01,Araba/Álava,2,1,0,0,1
 2020-05-26,50,Zaragoza,5,5,0,0,0
 2020-05-26,49,Zamora,2,2,0,0,0
 2020-05-27,03,Alicante/Alacant,3,3,0,0,0
-2020-05-27,02,Albacete,6,3,0,3,0
+2020-05-27,02,Albacete,6,4,0,2,0
 2020-05-27,04,Almería,3,3,0,0,0
 2020-05-27,05,Ávila,4,4,0,0,0
 2020-05-27,08,Barcelona,113,70,0,43,0
@@ -6110,7 +6110,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-27,24,León,7,7,0,0,0
 2020-05-27,26,La Rioja,1,1,0,0,0
 2020-05-27,27,Lugo,0,0,0,0,0
-2020-05-27,28,Madrid,67,67,0,0,0
+2020-05-27,28,Madrid,68,68,0,0,0
 2020-05-27,29,Málaga,2,2,0,0,0
 2020-05-27,52,Melilla,0,0,0,0,0
 2020-05-27,30,Murcia,4,4,0,0,0
@@ -6125,7 +6125,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-27,41,Sevilla,0,0,0,0,0
 2020-05-27,40,Segovia,0,0,0,0,0
 2020-05-27,42,Soria,0,0,0,0,0
-2020-05-27,20,Gipuzkoa,1,1,0,0,0
+2020-05-27,20,Gipuzkoa,0,0,0,0,0
 2020-05-27,43,Tarragona,2,2,0,0,0
 2020-05-27,44,Teruel,0,0,0,0,0
 2020-05-27,38,Santa Cruz de Tenerife,1,1,0,0,0
@@ -6139,9 +6139,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-28,02,Albacete,2,2,0,0,0
 2020-05-28,04,Almería,1,1,0,0,0
 2020-05-28,05,Ávila,2,2,0,0,0
-2020-05-28,08,Barcelona,159,102,0,57,0
+2020-05-28,08,Barcelona,160,103,0,57,0
 2020-05-28,06,Badajoz,0,0,0,0,0
-2020-05-28,48,Bizkaia,4,3,0,0,1
+2020-05-28,48,Bizkaia,2,1,0,0,1
 2020-05-28,09,Burgos,5,5,0,0,0
 2020-05-28,15,A Coruña,1,1,0,0,0
 2020-05-28,11,Cádiz,1,1,0,0,0
@@ -6184,14 +6184,14 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-28,45,Toledo,17,17,0,0,0
 2020-05-28,46,Valencia/València,4,4,0,0,0
 2020-05-28,47,Valladolid,11,11,0,0,0
-2020-05-28,01,Araba/Álava,2,1,0,0,1
+2020-05-28,01,Araba/Álava,1,0,0,0,1
 2020-05-28,50,Zaragoza,4,4,0,0,0
 2020-05-28,49,Zamora,2,2,0,0,0
 2020-05-29,03,Alicante/Alacant,2,2,0,0,0
-2020-05-29,02,Albacete,9,5,0,4,0
+2020-05-29,02,Albacete,9,9,0,0,0
 2020-05-29,04,Almería,2,2,0,0,0
 2020-05-29,05,Ávila,2,2,0,0,0
-2020-05-29,08,Barcelona,132,89,0,42,1
+2020-05-29,08,Barcelona,133,90,0,42,1
 2020-05-29,06,Badajoz,4,0,4,0,0
 2020-05-29,48,Bizkaia,0,0,0,0,0
 2020-05-29,09,Burgos,2,2,0,0,0
@@ -6214,7 +6214,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-29,24,León,10,10,0,0,0
 2020-05-29,26,La Rioja,2,2,0,0,0
 2020-05-29,27,Lugo,0,0,0,0,0
-2020-05-29,28,Madrid,110,110,0,0,0
+2020-05-29,28,Madrid,112,112,0,0,0
 2020-05-29,29,Málaga,4,4,0,0,0
 2020-05-29,52,Melilla,0,0,0,0,0
 2020-05-29,30,Murcia,1,1,0,0,0
@@ -6233,19 +6233,19 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-29,43,Tarragona,4,4,0,0,0
 2020-05-29,44,Teruel,0,0,0,0,0
 2020-05-29,38,Santa Cruz de Tenerife,6,6,0,0,0
-2020-05-29,45,Toledo,8,8,0,0,0
+2020-05-29,45,Toledo,7,7,0,0,0
 2020-05-29,46,Valencia/València,4,4,0,0,0
 2020-05-29,47,Valladolid,13,13,0,0,0
-2020-05-29,01,Araba/Álava,2,2,0,0,0
+2020-05-29,01,Araba/Álava,1,1,0,0,0
 2020-05-29,50,Zaragoza,10,10,0,0,0
 2020-05-29,49,Zamora,2,2,0,0,0
 2020-05-30,03,Alicante/Alacant,0,0,0,0,0
 2020-05-30,02,Albacete,5,5,0,0,0
 2020-05-30,04,Almería,2,2,0,0,0
 2020-05-30,05,Ávila,12,12,0,0,0
-2020-05-30,08,Barcelona,63,59,0,4,0
+2020-05-30,08,Barcelona,64,60,0,4,0
 2020-05-30,06,Badajoz,2,0,2,0,0
-2020-05-30,48,Bizkaia,3,2,0,0,1
+2020-05-30,48,Bizkaia,2,1,0,0,1
 2020-05-30,09,Burgos,6,6,0,0,0
 2020-05-30,15,A Coruña,0,0,0,0,0
 2020-05-30,11,Cádiz,0,0,0,0,0
@@ -6260,10 +6260,10 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-30,18,Granada,2,2,0,0,0
 2020-05-30,19,Guadalajara,4,3,0,1,0
 2020-05-30,21,Huelva,0,0,0,0,0
-2020-05-30,22,Huesca,0,0,0,0,0
+2020-05-30,22,Huesca,1,1,0,0,0
 2020-05-30,23,Jaén,2,2,0,0,0
 2020-05-30,25,Lleida,12,12,0,0,0
-2020-05-30,24,León,3,3,0,0,0
+2020-05-30,24,León,4,4,0,0,0
 2020-05-30,26,La Rioja,1,1,0,0,0
 2020-05-30,27,Lugo,0,0,0,0,0
 2020-05-30,28,Madrid,62,62,0,0,0
@@ -6288,7 +6288,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-30,45,Toledo,6,6,0,0,0
 2020-05-30,46,Valencia/València,5,5,0,0,0
 2020-05-30,47,Valladolid,5,5,0,0,0
-2020-05-30,01,Araba/Álava,3,1,0,0,2
+2020-05-30,01,Araba/Álava,2,0,0,0,2
 2020-05-30,50,Zaragoza,2,2,0,0,0
 2020-05-30,49,Zamora,1,1,0,0,0
 2020-05-31,03,Alicante/Alacant,0,0,0,0,0
@@ -6304,7 +6304,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-31,10,Cáceres,1,1,0,0,0
 2020-05-31,51,Ceuta,1,1,0,0,0
 2020-05-31,14,Córdoba,0,0,0,0,0
-2020-05-31,13,Ciudad Real,5,2,0,3,0
+2020-05-31,13,Ciudad Real,5,3,0,2,0
 2020-05-31,12,Castellón/Castelló,3,3,0,0,0
 2020-05-31,16,Cuenca,3,3,0,0,0
 2020-05-31,35,Las Palmas,0,0,0,0,0
@@ -6318,7 +6318,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-31,24,León,1,1,0,0,0
 2020-05-31,26,La Rioja,0,0,0,0,0
 2020-05-31,27,Lugo,0,0,0,0,0
-2020-05-31,28,Madrid,66,66,0,0,0
+2020-05-31,28,Madrid,68,68,0,0,0
 2020-05-31,29,Málaga,3,3,0,0,0
 2020-05-31,52,Melilla,0,0,0,0,0
 2020-05-31,30,Murcia,0,0,0,0,0
@@ -6335,7 +6335,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-05-31,42,Soria,10,10,0,0,0
 2020-05-31,20,Gipuzkoa,0,0,0,0,0
 2020-05-31,43,Tarragona,2,2,0,0,0
-2020-05-31,44,Teruel,1,1,0,0,0
+2020-05-31,44,Teruel,2,2,0,0,0
 2020-05-31,38,Santa Cruz de Tenerife,1,1,0,0,0
 2020-05-31,45,Toledo,1,1,0,0,0
 2020-05-31,46,Valencia/València,4,4,0,0,0
@@ -6347,9 +6347,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-01,02,Albacete,5,4,0,1,0
 2020-06-01,04,Almería,2,2,0,0,0
 2020-06-01,05,Ávila,4,4,0,0,0
-2020-06-01,08,Barcelona,40,37,0,3,0
+2020-06-01,08,Barcelona,42,39,0,3,0
 2020-06-01,06,Badajoz,1,0,1,0,0
-2020-06-01,48,Bizkaia,4,4,0,0,0
+2020-06-01,48,Bizkaia,3,3,0,0,0
 2020-06-01,09,Burgos,6,6,0,0,0
 2020-06-01,15,A Coruña,1,1,0,0,0
 2020-06-01,11,Cádiz,2,2,0,0,0
@@ -6362,15 +6362,15 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-01,35,Las Palmas,1,1,0,0,0
 2020-06-01,17,Girona,16,16,0,0,0
 2020-06-01,18,Granada,2,2,0,0,0
-2020-06-01,19,Guadalajara,4,3,0,1,0
+2020-06-01,19,Guadalajara,4,4,0,0,0
 2020-06-01,21,Huelva,3,3,0,0,0
-2020-06-01,22,Huesca,3,3,0,0,0
+2020-06-01,22,Huesca,4,4,0,0,0
 2020-06-01,23,Jaén,2,2,0,0,0
-2020-06-01,25,Lleida,25,25,0,0,0
+2020-06-01,25,Lleida,26,26,0,0,0
 2020-06-01,24,León,2,2,0,0,0
 2020-06-01,26,La Rioja,3,3,0,0,0
 2020-06-01,27,Lugo,0,0,0,0,0
-2020-06-01,28,Madrid,125,125,0,0,0
+2020-06-01,28,Madrid,128,128,0,0,0
 2020-06-01,29,Málaga,4,4,0,0,0
 2020-06-01,52,Melilla,1,1,0,0,0
 2020-06-01,30,Murcia,4,4,0,0,0
@@ -6392,16 +6392,16 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-01,45,Toledo,4,4,0,0,0
 2020-06-01,46,Valencia/València,10,10,0,0,0
 2020-06-01,47,Valladolid,8,8,0,0,0
-2020-06-01,01,Araba/Álava,3,3,0,0,0
+2020-06-01,01,Araba/Álava,1,1,0,0,0
 2020-06-01,50,Zaragoza,5,5,0,0,0
 2020-06-01,49,Zamora,0,0,0,0,0
 2020-06-02,03,Alicante/Alacant,1,1,0,0,0
-2020-06-02,02,Albacete,5,3,0,2,0
+2020-06-02,02,Albacete,5,4,0,1,0
 2020-06-02,04,Almería,0,0,0,0,0
 2020-06-02,05,Ávila,2,2,0,0,0
 2020-06-02,08,Barcelona,62,48,0,14,0
 2020-06-02,06,Badajoz,1,0,1,0,0
-2020-06-02,48,Bizkaia,7,6,0,0,1
+2020-06-02,48,Bizkaia,5,4,0,0,1
 2020-06-02,09,Burgos,4,4,0,0,0
 2020-06-02,15,A Coruña,0,0,0,0,0
 2020-06-02,11,Cádiz,1,1,0,0,0
@@ -6416,13 +6416,13 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-02,18,Granada,0,0,0,0,0
 2020-06-02,19,Guadalajara,5,0,0,5,0
 2020-06-02,21,Huelva,0,0,0,0,0
-2020-06-02,22,Huesca,7,6,0,1,0
+2020-06-02,22,Huesca,6,6,0,0,0
 2020-06-02,23,Jaén,0,0,0,0,0
 2020-06-02,25,Lleida,21,21,0,0,0
 2020-06-02,24,León,2,2,0,0,0
 2020-06-02,26,La Rioja,1,1,0,0,0
-2020-06-02,27,Lugo,0,0,0,0,0
-2020-06-02,28,Madrid,98,98,0,0,0
+2020-06-02,27,Lugo,1,1,0,0,0
+2020-06-02,28,Madrid,99,99,0,0,0
 2020-06-02,29,Málaga,3,3,0,0,0
 2020-06-02,52,Melilla,0,0,0,0,0
 2020-06-02,30,Murcia,2,2,0,0,0
@@ -6444,16 +6444,16 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-02,45,Toledo,3,3,0,0,0
 2020-06-02,46,Valencia/València,18,18,0,0,0
 2020-06-02,47,Valladolid,3,3,0,0,0
-2020-06-02,01,Araba/Álava,5,5,0,0,0
-2020-06-02,50,Zaragoza,6,6,0,0,0
+2020-06-02,01,Araba/Álava,4,4,0,0,0
+2020-06-02,50,Zaragoza,7,7,0,0,0
 2020-06-02,49,Zamora,1,1,0,0,0
 2020-06-03,03,Alicante/Alacant,1,1,0,0,0
 2020-06-03,02,Albacete,3,3,0,0,0
 2020-06-03,04,Almería,3,3,0,0,0
 2020-06-03,05,Ávila,2,2,0,0,0
-2020-06-03,08,Barcelona,71,46,0,25,0
+2020-06-03,08,Barcelona,75,49,0,26,0
 2020-06-03,06,Badajoz,3,0,3,0,0
-2020-06-03,48,Bizkaia,7,4,0,0,3
+2020-06-03,48,Bizkaia,5,2,0,0,3
 2020-06-03,09,Burgos,3,3,0,0,0
 2020-06-03,15,A Coruña,0,0,0,0,0
 2020-06-03,11,Cádiz,3,3,0,0,0
@@ -6466,15 +6466,15 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-03,35,Las Palmas,3,3,0,0,0
 2020-06-03,17,Girona,24,24,0,0,0
 2020-06-03,18,Granada,3,3,0,0,0
-2020-06-03,19,Guadalajara,7,6,0,1,0
+2020-06-03,19,Guadalajara,6,5,0,1,0
 2020-06-03,21,Huelva,0,0,0,0,0
 2020-06-03,22,Huesca,0,0,0,0,0
-2020-06-03,23,Jaén,0,0,0,0,0
+2020-06-03,23,Jaén,1,1,0,0,0
 2020-06-03,25,Lleida,20,20,0,0,0
 2020-06-03,24,León,2,2,0,0,0
 2020-06-03,26,La Rioja,2,2,0,0,0
 2020-06-03,27,Lugo,0,0,0,0,0
-2020-06-03,28,Madrid,126,126,0,0,0
+2020-06-03,28,Madrid,127,127,0,0,0
 2020-06-03,29,Málaga,2,2,0,0,0
 2020-06-03,52,Melilla,0,0,0,0,0
 2020-06-03,30,Murcia,2,2,0,0,0
@@ -6493,20 +6493,20 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-03,43,Tarragona,4,4,0,0,0
 2020-06-03,44,Teruel,0,0,0,0,0
 2020-06-03,38,Santa Cruz de Tenerife,1,1,0,0,0
-2020-06-03,45,Toledo,7,7,0,0,0
+2020-06-03,45,Toledo,6,6,0,0,0
 2020-06-03,46,Valencia/València,8,8,0,0,0
 2020-06-03,47,Valladolid,2,2,0,0,0
-2020-06-03,01,Araba/Álava,3,3,0,0,0
-2020-06-03,50,Zaragoza,6,5,0,1,0
+2020-06-03,01,Araba/Álava,1,1,0,0,0
+2020-06-03,50,Zaragoza,6,6,0,0,0
 2020-06-03,49,Zamora,0,0,0,0,0
 2020-06-04,03,Alicante/Alacant,1,1,0,0,0
-2020-06-04,02,Albacete,6,5,0,1,0
+2020-06-04,02,Albacete,6,6,0,0,0
 2020-06-04,04,Almería,1,1,0,0,0
 2020-06-04,05,Ávila,2,2,0,0,0
-2020-06-04,08,Barcelona,84,53,0,31,0
+2020-06-04,08,Barcelona,85,54,0,31,0
 2020-06-04,06,Badajoz,2,1,1,0,0
 2020-06-04,48,Bizkaia,6,4,0,0,2
-2020-06-04,09,Burgos,5,4,0,1,0
+2020-06-04,09,Burgos,6,5,0,1,0
 2020-06-04,15,A Coruña,0,0,0,0,0
 2020-06-04,11,Cádiz,0,0,0,0,0
 2020-06-04,10,Cáceres,2,2,0,0,0
@@ -6520,13 +6520,13 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-04,18,Granada,0,0,0,0,0
 2020-06-04,19,Guadalajara,11,5,0,6,0
 2020-06-04,21,Huelva,0,0,0,0,0
-2020-06-04,22,Huesca,3,3,0,0,0
+2020-06-04,22,Huesca,4,4,0,0,0
 2020-06-04,23,Jaén,0,0,0,0,0
 2020-06-04,25,Lleida,22,22,0,0,0
 2020-06-04,24,León,0,0,0,0,0
 2020-06-04,26,La Rioja,1,1,0,0,0
 2020-06-04,27,Lugo,1,1,0,0,0
-2020-06-04,28,Madrid,88,88,0,0,0
+2020-06-04,28,Madrid,94,94,0,0,0
 2020-06-04,29,Málaga,3,3,0,0,0
 2020-06-04,52,Melilla,0,0,0,0,0
 2020-06-04,30,Murcia,2,2,0,0,0
@@ -6545,19 +6545,19 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-04,43,Tarragona,6,5,0,1,0
 2020-06-04,44,Teruel,1,1,0,0,0
 2020-06-04,38,Santa Cruz de Tenerife,0,0,0,0,0
-2020-06-04,45,Toledo,4,4,0,0,0
+2020-06-04,45,Toledo,5,5,0,0,0
 2020-06-04,46,Valencia/València,6,6,0,0,0
 2020-06-04,47,Valladolid,11,11,0,0,0
 2020-06-04,01,Araba/Álava,3,3,0,0,0
 2020-06-04,50,Zaragoza,4,4,0,0,0
 2020-06-04,49,Zamora,2,2,0,0,0
 2020-06-05,03,Alicante/Alacant,1,1,0,0,0
-2020-06-05,02,Albacete,5,4,0,1,0
+2020-06-05,02,Albacete,5,5,0,0,0
 2020-06-05,04,Almería,4,4,0,0,0
 2020-06-05,05,Ávila,6,6,0,0,0
-2020-06-05,08,Barcelona,108,88,0,20,0
+2020-06-05,08,Barcelona,109,89,0,20,0
 2020-06-05,06,Badajoz,0,0,0,0,0
-2020-06-05,48,Bizkaia,7,6,0,0,1
+2020-06-05,48,Bizkaia,6,5,0,0,1
 2020-06-05,09,Burgos,2,2,0,0,0
 2020-06-05,15,A Coruña,2,2,0,0,0
 2020-06-05,11,Cádiz,2,2,0,0,0
@@ -6572,13 +6572,13 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-05,18,Granada,2,2,0,0,0
 2020-06-05,19,Guadalajara,9,8,0,1,0
 2020-06-05,21,Huelva,0,0,0,0,0
-2020-06-05,22,Huesca,2,1,0,1,0
+2020-06-05,22,Huesca,1,1,0,0,0
 2020-06-05,23,Jaén,0,0,0,0,0
 2020-06-05,25,Lleida,37,36,0,1,0
 2020-06-05,24,León,5,5,0,0,0
 2020-06-05,26,La Rioja,2,2,0,0,0
 2020-06-05,27,Lugo,0,0,0,0,0
-2020-06-05,28,Madrid,104,104,0,0,0
+2020-06-05,28,Madrid,106,106,0,0,0
 2020-06-05,29,Málaga,3,3,0,0,0
 2020-06-05,52,Melilla,0,0,0,0,0
 2020-06-05,30,Murcia,1,1,0,0,0
@@ -6607,9 +6607,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-06,02,Albacete,1,1,0,0,0
 2020-06-06,04,Almería,0,0,0,0,0
 2020-06-06,05,Ávila,1,1,0,0,0
-2020-06-06,08,Barcelona,42,40,0,2,0
+2020-06-06,08,Barcelona,43,41,0,2,0
 2020-06-06,06,Badajoz,0,0,0,0,0
-2020-06-06,48,Bizkaia,6,4,0,0,2
+2020-06-06,48,Bizkaia,3,1,0,0,2
 2020-06-06,09,Burgos,2,2,0,0,0
 2020-06-06,15,A Coruña,0,0,0,0,0
 2020-06-06,11,Cádiz,0,0,0,0,0
@@ -6649,10 +6649,10 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-06,43,Tarragona,2,2,0,0,0
 2020-06-06,44,Teruel,0,0,0,0,0
 2020-06-06,38,Santa Cruz de Tenerife,4,4,0,0,0
-2020-06-06,45,Toledo,3,3,0,0,0
+2020-06-06,45,Toledo,4,4,0,0,0
 2020-06-06,46,Valencia/València,7,7,0,0,0
 2020-06-06,47,Valladolid,2,2,0,0,0
-2020-06-06,01,Araba/Álava,4,4,0,0,0
+2020-06-06,01,Araba/Álava,3,3,0,0,0
 2020-06-06,50,Zaragoza,6,6,0,0,0
 2020-06-06,49,Zamora,0,0,0,0,0
 2020-06-07,03,Alicante/Alacant,1,1,0,0,0
@@ -6661,7 +6661,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-07,05,Ávila,1,1,0,0,0
 2020-06-07,08,Barcelona,33,31,0,2,0
 2020-06-07,06,Badajoz,0,0,0,0,0
-2020-06-07,48,Bizkaia,16,9,0,0,7
+2020-06-07,48,Bizkaia,11,4,0,0,7
 2020-06-07,09,Burgos,2,2,0,0,0
 2020-06-07,15,A Coruña,1,0,0,0,1
 2020-06-07,11,Cádiz,0,0,0,0,0
@@ -6676,13 +6676,13 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-07,18,Granada,1,1,0,0,0
 2020-06-07,19,Guadalajara,2,2,0,0,0
 2020-06-07,21,Huelva,0,0,0,0,0
-2020-06-07,22,Huesca,2,1,0,1,0
+2020-06-07,22,Huesca,1,1,0,0,0
 2020-06-07,23,Jaén,0,0,0,0,0
 2020-06-07,25,Lleida,11,10,0,0,1
 2020-06-07,24,León,0,0,0,0,0
 2020-06-07,26,La Rioja,1,1,0,0,0
 2020-06-07,27,Lugo,0,0,0,0,0
-2020-06-07,28,Madrid,42,42,0,0,0
+2020-06-07,28,Madrid,43,43,0,0,0
 2020-06-07,29,Málaga,1,1,0,0,0
 2020-06-07,52,Melilla,0,0,0,0,0
 2020-06-07,30,Murcia,0,0,0,0,0
@@ -6696,12 +6696,12 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-07,37,Salamanca,4,4,0,0,0
 2020-06-07,41,Sevilla,0,0,0,0,0
 2020-06-07,40,Segovia,3,3,0,0,0
-2020-06-07,42,Soria,1,1,0,0,0
+2020-06-07,42,Soria,2,2,0,0,0
 2020-06-07,20,Gipuzkoa,1,1,0,0,0
 2020-06-07,43,Tarragona,3,3,0,0,0
 2020-06-07,44,Teruel,1,1,0,0,0
 2020-06-07,38,Santa Cruz de Tenerife,1,1,0,0,0
-2020-06-07,45,Toledo,7,6,0,1,0
+2020-06-07,45,Toledo,7,7,0,0,0
 2020-06-07,46,Valencia/València,6,6,0,0,0
 2020-06-07,47,Valladolid,1,1,0,0,0
 2020-06-07,01,Araba/Álava,3,2,0,0,1
@@ -6713,7 +6713,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-08,05,Ávila,2,2,0,0,0
 2020-06-08,08,Barcelona,73,59,0,14,0
 2020-06-08,06,Badajoz,0,0,0,0,0
-2020-06-08,48,Bizkaia,9,8,0,0,1
+2020-06-08,48,Bizkaia,6,5,0,0,1
 2020-06-08,09,Burgos,4,4,0,0,0
 2020-06-08,15,A Coruña,2,2,0,0,0
 2020-06-08,11,Cádiz,0,0,0,0,0
@@ -6728,13 +6728,13 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-08,18,Granada,0,0,0,0,0
 2020-06-08,19,Guadalajara,4,4,0,0,0
 2020-06-08,21,Huelva,0,0,0,0,0
-2020-06-08,22,Huesca,1,1,0,0,0
+2020-06-08,22,Huesca,2,2,0,0,0
 2020-06-08,23,Jaén,0,0,0,0,0
 2020-06-08,25,Lleida,26,25,0,1,0
 2020-06-08,24,León,6,6,0,0,0
 2020-06-08,26,La Rioja,0,0,0,0,0
 2020-06-08,27,Lugo,1,1,0,0,0
-2020-06-08,28,Madrid,111,111,0,0,0
+2020-06-08,28,Madrid,112,112,0,0,0
 2020-06-08,29,Málaga,1,1,0,0,0
 2020-06-08,52,Melilla,0,0,0,0,0
 2020-06-08,30,Murcia,2,2,0,0,0
@@ -6756,16 +6756,16 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-08,45,Toledo,11,11,0,0,0
 2020-06-08,46,Valencia/València,2,2,0,0,0
 2020-06-08,47,Valladolid,2,2,0,0,0
-2020-06-08,01,Araba/Álava,5,5,0,0,0
+2020-06-08,01,Araba/Álava,3,3,0,0,0
 2020-06-08,50,Zaragoza,3,3,0,0,0
 2020-06-08,49,Zamora,0,0,0,0,0
 2020-06-09,03,Alicante/Alacant,2,2,0,0,0
-2020-06-09,02,Albacete,1,0,0,1,0
+2020-06-09,02,Albacete,1,1,0,0,0
 2020-06-09,04,Almería,1,1,0,0,0
 2020-06-09,05,Ávila,1,1,0,0,0
 2020-06-09,08,Barcelona,72,43,0,29,0
 2020-06-09,06,Badajoz,0,0,0,0,0
-2020-06-09,48,Bizkaia,8,7,0,0,1
+2020-06-09,48,Bizkaia,4,3,0,0,1
 2020-06-09,09,Burgos,3,3,0,0,0
 2020-06-09,15,A Coruña,1,1,0,0,0
 2020-06-09,11,Cádiz,1,1,0,0,0
@@ -6781,12 +6781,12 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-09,19,Guadalajara,5,5,0,0,0
 2020-06-09,21,Huelva,0,0,0,0,0
 2020-06-09,22,Huesca,4,4,0,0,0
-2020-06-09,23,Jaén,2,2,0,0,0
+2020-06-09,23,Jaén,1,1,0,0,0
 2020-06-09,25,Lleida,10,9,0,1,0
 2020-06-09,24,León,4,4,0,0,0
 2020-06-09,26,La Rioja,1,1,0,0,0
 2020-06-09,27,Lugo,0,0,0,0,0
-2020-06-09,28,Madrid,79,79,0,0,0
+2020-06-09,28,Madrid,81,81,0,0,0
 2020-06-09,29,Málaga,2,2,0,0,0
 2020-06-09,52,Melilla,1,1,0,0,0
 2020-06-09,30,Murcia,2,2,0,0,0
@@ -6801,7 +6801,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-09,41,Sevilla,1,1,0,0,0
 2020-06-09,40,Segovia,2,2,0,0,0
 2020-06-09,42,Soria,3,3,0,0,0
-2020-06-09,20,Gipuzkoa,1,1,0,0,0
+2020-06-09,20,Gipuzkoa,0,0,0,0,0
 2020-06-09,43,Tarragona,1,1,0,0,0
 2020-06-09,44,Teruel,0,0,0,0,0
 2020-06-09,38,Santa Cruz de Tenerife,1,1,0,0,0
@@ -6815,9 +6815,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-10,02,Albacete,0,0,0,0,0
 2020-06-10,04,Almería,1,1,0,0,0
 2020-06-10,05,Ávila,1,1,0,0,0
-2020-06-10,08,Barcelona,89,48,0,41,0
+2020-06-10,08,Barcelona,90,49,0,41,0
 2020-06-10,06,Badajoz,0,0,0,0,0
-2020-06-10,48,Bizkaia,7,7,0,0,0
+2020-06-10,48,Bizkaia,2,2,0,0,0
 2020-06-10,09,Burgos,2,2,0,0,0
 2020-06-10,15,A Coruña,0,0,0,0,0
 2020-06-10,11,Cádiz,1,1,0,0,0
@@ -6838,7 +6838,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-10,24,León,0,0,0,0,0
 2020-06-10,26,La Rioja,0,0,0,0,0
 2020-06-10,27,Lugo,0,0,0,0,0
-2020-06-10,28,Madrid,90,90,0,0,0
+2020-06-10,28,Madrid,91,91,0,0,0
 2020-06-10,29,Málaga,3,3,0,0,0
 2020-06-10,52,Melilla,0,0,0,0,0
 2020-06-10,30,Murcia,1,1,0,0,0
@@ -6857,19 +6857,19 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-10,43,Tarragona,2,1,0,1,0
 2020-06-10,44,Teruel,1,1,0,0,0
 2020-06-10,38,Santa Cruz de Tenerife,0,0,0,0,0
-2020-06-10,45,Toledo,9,9,0,0,0
+2020-06-10,45,Toledo,8,8,0,0,0
 2020-06-10,46,Valencia/València,3,3,0,0,0
 2020-06-10,47,Valladolid,1,1,0,0,0
 2020-06-10,01,Araba/Álava,0,0,0,0,0
 2020-06-10,50,Zaragoza,1,1,0,0,0
 2020-06-10,49,Zamora,1,1,0,0,0
-2020-06-11,03,Alicante/Alacant,0,0,0,0,0
+2020-06-11,03,Alicante/Alacant,1,1,0,0,0
 2020-06-11,02,Albacete,0,0,0,0,0
 2020-06-11,04,Almería,0,0,0,0,0
 2020-06-11,05,Ávila,0,0,0,0,0
 2020-06-11,08,Barcelona,80,43,0,37,0
 2020-06-11,06,Badajoz,0,0,0,0,0
-2020-06-11,48,Bizkaia,8,8,0,0,0
+2020-06-11,48,Bizkaia,1,1,0,0,0
 2020-06-11,09,Burgos,0,0,0,0,0
 2020-06-11,15,A Coruña,1,1,0,0,0
 2020-06-11,11,Cádiz,1,1,0,0,0
@@ -6890,7 +6890,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-11,24,León,2,2,0,0,0
 2020-06-11,26,La Rioja,1,1,0,0,0
 2020-06-11,27,Lugo,1,1,0,0,0
-2020-06-11,28,Madrid,56,56,0,0,0
+2020-06-11,28,Madrid,57,57,0,0,0
 2020-06-11,29,Málaga,1,1,0,0,0
 2020-06-11,52,Melilla,0,0,0,0,0
 2020-06-11,30,Murcia,0,0,0,0,0
@@ -6916,12 +6916,12 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-11,50,Zaragoza,3,3,0,0,0
 2020-06-11,49,Zamora,1,1,0,0,0
 2020-06-12,03,Alicante/Alacant,3,3,0,0,0
-2020-06-12,02,Albacete,1,0,0,1,0
+2020-06-12,02,Albacete,1,1,0,0,0
 2020-06-12,04,Almería,0,0,0,0,0
 2020-06-12,05,Ávila,3,2,0,1,0
 2020-06-12,08,Barcelona,80,61,0,19,0
 2020-06-12,06,Badajoz,0,0,0,0,0
-2020-06-12,48,Bizkaia,7,7,0,0,0
+2020-06-12,48,Bizkaia,0,0,0,0,0
 2020-06-12,09,Burgos,0,0,0,0,0
 2020-06-12,15,A Coruña,1,1,0,0,0
 2020-06-12,11,Cádiz,1,1,0,0,0
@@ -6942,7 +6942,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-12,24,León,3,3,0,0,0
 2020-06-12,26,La Rioja,0,0,0,0,0
 2020-06-12,27,Lugo,1,1,0,0,0
-2020-06-12,28,Madrid,128,128,0,0,0
+2020-06-12,28,Madrid,130,130,0,0,0
 2020-06-12,29,Málaga,1,1,0,0,0
 2020-06-12,52,Melilla,0,0,0,0,0
 2020-06-12,30,Murcia,0,0,0,0,0
@@ -6957,36 +6957,36 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-12,41,Sevilla,1,1,0,0,0
 2020-06-12,40,Segovia,3,3,0,0,0
 2020-06-12,42,Soria,4,4,0,0,0
-2020-06-12,20,Gipuzkoa,8,8,0,0,0
+2020-06-12,20,Gipuzkoa,2,2,0,0,0
 2020-06-12,43,Tarragona,0,0,0,0,0
 2020-06-12,44,Teruel,0,0,0,0,0
 2020-06-12,38,Santa Cruz de Tenerife,1,1,0,0,0
-2020-06-12,45,Toledo,7,6,0,1,0
+2020-06-12,45,Toledo,8,8,0,0,0
 2020-06-12,46,Valencia/València,7,7,0,0,0
 2020-06-12,47,Valladolid,4,4,0,0,0
-2020-06-12,01,Araba/Álava,2,2,0,0,0
+2020-06-12,01,Araba/Álava,0,0,0,0,0
 2020-06-12,50,Zaragoza,1,1,0,0,0
 2020-06-12,49,Zamora,3,3,0,0,0
 2020-06-13,03,Alicante/Alacant,0,0,0,0,0
-2020-06-13,02,Albacete,3,1,0,2,0
+2020-06-13,02,Albacete,2,2,0,0,0
 2020-06-13,04,Almería,0,0,0,0,0
 2020-06-13,05,Ávila,2,2,0,0,0
-2020-06-13,08,Barcelona,20,17,0,3,0
+2020-06-13,08,Barcelona,21,18,0,3,0
 2020-06-13,06,Badajoz,1,1,0,0,0
-2020-06-13,48,Bizkaia,5,5,0,0,0
+2020-06-13,48,Bizkaia,1,1,0,0,0
 2020-06-13,09,Burgos,1,1,0,0,0
 2020-06-13,15,A Coruña,0,0,0,0,0
 2020-06-13,11,Cádiz,0,0,0,0,0
 2020-06-13,10,Cáceres,0,0,0,0,0
 2020-06-13,51,Ceuta,0,0,0,0,0
 2020-06-13,14,Córdoba,0,0,0,0,0
-2020-06-13,13,Ciudad Real,2,2,0,0,0
+2020-06-13,13,Ciudad Real,3,3,0,0,0
 2020-06-13,12,Castellón/Castelló,0,0,0,0,0
 2020-06-13,16,Cuenca,1,1,0,0,0
 2020-06-13,35,Las Palmas,0,0,0,0,0
 2020-06-13,17,Girona,0,0,0,0,0
 2020-06-13,18,Granada,1,1,0,0,0
-2020-06-13,19,Guadalajara,4,3,0,1,0
+2020-06-13,19,Guadalajara,4,4,0,0,0
 2020-06-13,21,Huelva,0,0,0,0,0
 2020-06-13,22,Huesca,2,2,0,0,0
 2020-06-13,23,Jaén,2,2,0,0,0
@@ -6994,7 +6994,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-13,24,León,1,1,0,0,0
 2020-06-13,26,La Rioja,2,2,0,0,0
 2020-06-13,27,Lugo,0,0,0,0,0
-2020-06-13,28,Madrid,21,21,0,0,0
+2020-06-13,28,Madrid,22,22,0,0,0
 2020-06-13,29,Málaga,1,1,0,0,0
 2020-06-13,52,Melilla,0,0,0,0,0
 2020-06-13,30,Murcia,1,1,0,0,0
@@ -7009,15 +7009,15 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-13,41,Sevilla,0,0,0,0,0
 2020-06-13,40,Segovia,0,0,0,0,0
 2020-06-13,42,Soria,2,2,0,0,0
-2020-06-13,20,Gipuzkoa,1,1,0,0,0
+2020-06-13,20,Gipuzkoa,0,0,0,0,0
 2020-06-13,43,Tarragona,0,0,0,0,0
 2020-06-13,44,Teruel,0,0,0,0,0
 2020-06-13,38,Santa Cruz de Tenerife,2,2,0,0,0
-2020-06-13,45,Toledo,2,2,0,0,0
+2020-06-13,45,Toledo,1,1,0,0,0
 2020-06-13,46,Valencia/València,3,3,0,0,0
 2020-06-13,47,Valladolid,4,3,0,1,0
 2020-06-13,01,Araba/Álava,2,2,0,0,0
-2020-06-13,50,Zaragoza,2,2,0,0,0
+2020-06-13,50,Zaragoza,1,1,0,0,0
 2020-06-13,49,Zamora,0,0,0,0,0
 2020-06-14,03,Alicante/Alacant,0,0,0,0,0
 2020-06-14,02,Albacete,1,1,0,0,0
@@ -7025,7 +7025,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-14,05,Ávila,0,0,0,0,0
 2020-06-14,08,Barcelona,20,19,0,1,0
 2020-06-14,06,Badajoz,0,0,0,0,0
-2020-06-14,48,Bizkaia,5,5,0,0,0
+2020-06-14,48,Bizkaia,1,1,0,0,0
 2020-06-14,09,Burgos,2,0,0,2,0
 2020-06-14,15,A Coruña,0,0,0,0,0
 2020-06-14,11,Cádiz,0,0,0,0,0
@@ -7068,16 +7068,16 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-14,45,Toledo,5,5,0,0,0
 2020-06-14,46,Valencia/València,1,1,0,0,0
 2020-06-14,47,Valladolid,4,4,0,0,0
-2020-06-14,01,Araba/Álava,1,1,0,0,0
+2020-06-14,01,Araba/Álava,0,0,0,0,0
 2020-06-14,50,Zaragoza,1,0,0,1,0
 2020-06-14,49,Zamora,0,0,0,0,0
 2020-06-15,03,Alicante/Alacant,2,2,0,0,0
 2020-06-15,02,Albacete,0,0,0,0,0
 2020-06-15,04,Almería,1,1,0,0,0
 2020-06-15,05,Ávila,2,2,0,0,0
-2020-06-15,08,Barcelona,46,29,0,17,0
+2020-06-15,08,Barcelona,47,30,0,17,0
 2020-06-15,06,Badajoz,3,3,0,0,0
-2020-06-15,48,Bizkaia,7,7,0,0,0
+2020-06-15,48,Bizkaia,3,3,0,0,0
 2020-06-15,09,Burgos,0,0,0,0,0
 2020-06-15,15,A Coruña,1,1,0,0,0
 2020-06-15,11,Cádiz,1,1,0,0,0
@@ -7090,7 +7090,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-15,35,Las Palmas,0,0,0,0,0
 2020-06-15,17,Girona,3,2,0,1,0
 2020-06-15,18,Granada,2,2,0,0,0
-2020-06-15,19,Guadalajara,3,2,0,1,0
+2020-06-15,19,Guadalajara,3,3,0,0,0
 2020-06-15,21,Huelva,0,0,0,0,0
 2020-06-15,22,Huesca,6,6,0,0,0
 2020-06-15,23,Jaén,0,0,0,0,0
@@ -7113,23 +7113,23 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-15,41,Sevilla,2,2,0,0,0
 2020-06-15,40,Segovia,1,1,0,0,0
 2020-06-15,42,Soria,1,1,0,0,0
-2020-06-15,20,Gipuzkoa,1,1,0,0,0
+2020-06-15,20,Gipuzkoa,0,0,0,0,0
 2020-06-15,43,Tarragona,0,0,0,0,0
 2020-06-15,44,Teruel,1,1,0,0,0
 2020-06-15,38,Santa Cruz de Tenerife,1,1,0,0,0
-2020-06-15,45,Toledo,3,3,0,0,0
+2020-06-15,45,Toledo,4,4,0,0,0
 2020-06-15,46,Valencia/València,8,8,0,0,0
 2020-06-15,47,Valladolid,4,4,0,0,0
-2020-06-15,01,Araba/Álava,7,7,0,0,0
+2020-06-15,01,Araba/Álava,3,3,0,0,0
 2020-06-15,50,Zaragoza,0,0,0,0,0
 2020-06-15,49,Zamora,0,0,0,0,0
 2020-06-16,03,Alicante/Alacant,1,1,0,0,0
 2020-06-16,02,Albacete,1,1,0,0,0
 2020-06-16,04,Almería,1,1,0,0,0
 2020-06-16,05,Ávila,2,2,0,0,0
-2020-06-16,08,Barcelona,53,40,0,13,0
+2020-06-16,08,Barcelona,54,41,0,13,0
 2020-06-16,06,Badajoz,2,2,0,0,0
-2020-06-16,48,Bizkaia,7,7,0,0,0
+2020-06-16,48,Bizkaia,2,2,0,0,0
 2020-06-16,09,Burgos,1,1,0,0,0
 2020-06-16,15,A Coruña,0,0,0,0,0
 2020-06-16,11,Cádiz,0,0,0,0,0
@@ -7138,7 +7138,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-16,14,Córdoba,0,0,0,0,0
 2020-06-16,13,Ciudad Real,5,5,0,0,0
 2020-06-16,12,Castellón/Castelló,0,0,0,0,0
-2020-06-16,16,Cuenca,2,1,0,1,0
+2020-06-16,16,Cuenca,2,2,0,0,0
 2020-06-16,35,Las Palmas,2,2,0,0,0
 2020-06-16,17,Girona,7,7,0,0,0
 2020-06-16,18,Granada,5,5,0,0,0
@@ -7150,7 +7150,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-16,24,León,1,1,0,0,0
 2020-06-16,26,La Rioja,1,1,0,0,0
 2020-06-16,27,Lugo,0,0,0,0,0
-2020-06-16,28,Madrid,54,54,0,0,0
+2020-06-16,28,Madrid,55,55,0,0,0
 2020-06-16,29,Málaga,1,1,0,0,0
 2020-06-16,52,Melilla,0,0,0,0,0
 2020-06-16,30,Murcia,1,1,0,0,0
@@ -7165,14 +7165,14 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-16,41,Sevilla,1,1,0,0,0
 2020-06-16,40,Segovia,3,3,0,0,0
 2020-06-16,42,Soria,0,0,0,0,0
-2020-06-16,20,Gipuzkoa,2,2,0,0,0
+2020-06-16,20,Gipuzkoa,1,1,0,0,0
 2020-06-16,43,Tarragona,0,0,0,0,0
 2020-06-16,44,Teruel,1,1,0,0,0
 2020-06-16,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-06-16,45,Toledo,11,11,0,0,0
 2020-06-16,46,Valencia/València,9,9,0,0,0
 2020-06-16,47,Valladolid,31,30,0,1,0
-2020-06-16,01,Araba/Álava,2,2,0,0,0
+2020-06-16,01,Araba/Álava,1,1,0,0,0
 2020-06-16,50,Zaragoza,3,3,0,0,0
 2020-06-16,49,Zamora,0,0,0,0,0
 2020-06-17,03,Alicante/Alacant,2,2,0,0,0
@@ -7181,7 +7181,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-17,05,Ávila,0,0,0,0,0
 2020-06-17,08,Barcelona,60,44,0,16,0
 2020-06-17,06,Badajoz,0,0,0,0,0
-2020-06-17,48,Bizkaia,6,6,0,0,0
+2020-06-17,48,Bizkaia,1,1,0,0,0
 2020-06-17,09,Burgos,1,1,0,0,0
 2020-06-17,15,A Coruña,2,2,0,0,0
 2020-06-17,11,Cádiz,2,2,0,0,0
@@ -7190,7 +7190,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-17,14,Córdoba,0,0,0,0,0
 2020-06-17,13,Ciudad Real,6,6,0,0,0
 2020-06-17,12,Castellón/Castelló,2,2,0,0,0
-2020-06-17,16,Cuenca,2,1,0,1,0
+2020-06-17,16,Cuenca,2,2,0,0,0
 2020-06-17,35,Las Palmas,14,14,0,0,0
 2020-06-17,17,Girona,2,2,0,0,0
 2020-06-17,18,Granada,6,6,0,0,0
@@ -7202,7 +7202,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-17,24,León,2,2,0,0,0
 2020-06-17,26,La Rioja,0,0,0,0,0
 2020-06-17,27,Lugo,1,1,0,0,0
-2020-06-17,28,Madrid,65,65,0,0,0
+2020-06-17,28,Madrid,64,64,0,0,0
 2020-06-17,29,Málaga,2,2,0,0,0
 2020-06-17,52,Melilla,0,0,0,0,0
 2020-06-17,30,Murcia,2,2,0,0,0
@@ -7233,7 +7233,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-18,05,Ávila,0,0,0,0,0
 2020-06-18,08,Barcelona,59,45,0,14,0
 2020-06-18,06,Badajoz,1,1,0,0,0
-2020-06-18,48,Bizkaia,8,8,0,0,0
+2020-06-18,48,Bizkaia,2,2,0,0,0
 2020-06-18,09,Burgos,2,1,0,1,0
 2020-06-18,15,A Coruña,0,0,0,0,0
 2020-06-18,11,Cádiz,13,13,0,0,0
@@ -7269,7 +7269,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-18,41,Sevilla,0,0,0,0,0
 2020-06-18,40,Segovia,0,0,0,0,0
 2020-06-18,42,Soria,1,1,0,0,0
-2020-06-18,20,Gipuzkoa,4,4,0,0,0
+2020-06-18,20,Gipuzkoa,3,3,0,0,0
 2020-06-18,43,Tarragona,1,1,0,0,0
 2020-06-18,44,Teruel,0,0,0,0,0
 2020-06-18,38,Santa Cruz de Tenerife,0,0,0,0,0
@@ -7277,7 +7277,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-18,46,Valencia/València,4,4,0,0,0
 2020-06-18,47,Valladolid,4,4,0,0,0
 2020-06-18,01,Araba/Álava,0,0,0,0,0
-2020-06-18,50,Zaragoza,8,8,0,0,0
+2020-06-18,50,Zaragoza,9,9,0,0,0
 2020-06-18,49,Zamora,1,1,0,0,0
 2020-06-19,03,Alicante/Alacant,1,1,0,0,0
 2020-06-19,02,Albacete,2,2,0,0,0
@@ -7285,7 +7285,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-19,05,Ávila,1,1,0,0,0
 2020-06-19,08,Barcelona,54,40,0,14,0
 2020-06-19,06,Badajoz,0,0,0,0,0
-2020-06-19,48,Bizkaia,9,9,0,0,0
+2020-06-19,48,Bizkaia,3,3,0,0,0
 2020-06-19,09,Burgos,1,0,0,1,0
 2020-06-19,15,A Coruña,0,0,0,0,0
 2020-06-19,11,Cádiz,1,1,0,0,0
@@ -7300,9 +7300,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-19,18,Granada,7,7,0,0,0
 2020-06-19,19,Guadalajara,2,2,0,0,0
 2020-06-19,21,Huelva,0,0,0,0,0
-2020-06-19,22,Huesca,16,16,0,0,0
+2020-06-19,22,Huesca,14,14,0,0,0
 2020-06-19,23,Jaén,0,0,0,0,0
-2020-06-19,25,Lleida,36,36,0,0,0
+2020-06-19,25,Lleida,35,35,0,0,0
 2020-06-19,24,León,0,0,0,0,0
 2020-06-19,26,La Rioja,0,0,0,0,0
 2020-06-19,27,Lugo,1,1,0,0,0
@@ -7328,7 +7328,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-19,45,Toledo,2,2,0,0,0
 2020-06-19,46,Valencia/València,9,9,0,0,0
 2020-06-19,47,Valladolid,7,7,0,0,0
-2020-06-19,01,Araba/Álava,2,2,0,0,0
+2020-06-19,01,Araba/Álava,1,1,0,0,0
 2020-06-19,50,Zaragoza,6,6,0,0,0
 2020-06-19,49,Zamora,1,1,0,0,0
 2020-06-20,03,Alicante/Alacant,1,1,0,0,0
@@ -7373,7 +7373,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-20,41,Sevilla,0,0,0,0,0
 2020-06-20,40,Segovia,2,2,0,0,0
 2020-06-20,42,Soria,4,4,0,0,0
-2020-06-20,20,Gipuzkoa,2,2,0,0,0
+2020-06-20,20,Gipuzkoa,0,0,0,0,0
 2020-06-20,43,Tarragona,1,1,0,0,0
 2020-06-20,44,Teruel,0,0,0,0,0
 2020-06-20,38,Santa Cruz de Tenerife,0,0,0,0,0
@@ -7387,9 +7387,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-21,02,Albacete,0,0,0,0,0
 2020-06-21,04,Almería,1,1,0,0,0
 2020-06-21,05,Ávila,2,2,0,0,0
-2020-06-21,08,Barcelona,28,27,0,1,0
+2020-06-21,08,Barcelona,29,28,0,1,0
 2020-06-21,06,Badajoz,1,1,0,0,0
-2020-06-21,48,Bizkaia,2,2,0,0,0
+2020-06-21,48,Bizkaia,0,0,0,0,0
 2020-06-21,09,Burgos,0,0,0,0,0
 2020-06-21,15,A Coruña,0,0,0,0,0
 2020-06-21,11,Cádiz,0,0,0,0,0
@@ -7425,30 +7425,30 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-21,41,Sevilla,0,0,0,0,0
 2020-06-21,40,Segovia,0,0,0,0,0
 2020-06-21,42,Soria,0,0,0,0,0
-2020-06-21,20,Gipuzkoa,2,2,0,0,0
+2020-06-21,20,Gipuzkoa,1,1,0,0,0
 2020-06-21,43,Tarragona,0,0,0,0,0
 2020-06-21,44,Teruel,1,1,0,0,0
 2020-06-21,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-06-21,45,Toledo,0,0,0,0,0
 2020-06-21,46,Valencia/València,6,6,0,0,0
 2020-06-21,47,Valladolid,3,3,0,0,0
-2020-06-21,01,Araba/Álava,2,2,0,0,0
-2020-06-21,50,Zaragoza,7,6,0,1,0
+2020-06-21,01,Araba/Álava,0,0,0,0,0
+2020-06-21,50,Zaragoza,6,5,0,1,0
 2020-06-21,49,Zamora,0,0,0,0,0
 2020-06-22,03,Alicante/Alacant,1,1,0,0,0
 2020-06-22,02,Albacete,0,0,0,0,0
 2020-06-22,04,Almería,1,1,0,0,0
 2020-06-22,05,Ávila,2,2,0,0,0
-2020-06-22,08,Barcelona,58,37,0,21,0
+2020-06-22,08,Barcelona,60,39,0,21,0
 2020-06-22,06,Badajoz,0,0,0,0,0
-2020-06-22,48,Bizkaia,1,1,0,0,0
+2020-06-22,48,Bizkaia,0,0,0,0,0
 2020-06-22,09,Burgos,0,0,0,0,0
 2020-06-22,15,A Coruña,0,0,0,0,0
 2020-06-22,11,Cádiz,1,1,0,0,0
 2020-06-22,10,Cáceres,1,1,0,0,0
 2020-06-22,51,Ceuta,0,0,0,0,0
 2020-06-22,14,Córdoba,0,0,0,0,0
-2020-06-22,13,Ciudad Real,6,5,0,1,0
+2020-06-22,13,Ciudad Real,6,6,0,0,0
 2020-06-22,12,Castellón/Castelló,3,3,0,0,0
 2020-06-22,16,Cuenca,0,0,0,0,0
 2020-06-22,35,Las Palmas,0,0,0,0,0
@@ -7456,9 +7456,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-22,18,Granada,5,5,0,0,0
 2020-06-22,19,Guadalajara,5,5,0,0,0
 2020-06-22,21,Huelva,1,1,0,0,0
-2020-06-22,22,Huesca,47,47,0,0,0
+2020-06-22,22,Huesca,46,46,0,0,0
 2020-06-22,23,Jaén,1,1,0,0,0
-2020-06-22,25,Lleida,53,52,0,1,0
+2020-06-22,25,Lleida,51,50,0,1,0
 2020-06-22,24,León,1,1,0,0,0
 2020-06-22,26,La Rioja,0,0,0,0,0
 2020-06-22,27,Lugo,0,0,0,0,0
@@ -7477,21 +7477,21 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-22,41,Sevilla,1,1,0,0,0
 2020-06-22,40,Segovia,3,3,0,0,0
 2020-06-22,42,Soria,1,1,0,0,0
-2020-06-22,20,Gipuzkoa,4,4,0,0,0
+2020-06-22,20,Gipuzkoa,2,2,0,0,0
 2020-06-22,43,Tarragona,0,0,0,0,0
 2020-06-22,44,Teruel,0,0,0,0,0
 2020-06-22,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-06-22,45,Toledo,1,1,0,0,0
 2020-06-22,46,Valencia/València,3,3,0,0,0
 2020-06-22,47,Valladolid,3,3,0,0,0
-2020-06-22,01,Araba/Álava,2,2,0,0,0
-2020-06-22,50,Zaragoza,6,6,0,0,0
+2020-06-22,01,Araba/Álava,1,1,0,0,0
+2020-06-22,50,Zaragoza,7,7,0,0,0
 2020-06-22,49,Zamora,1,1,0,0,0
 2020-06-23,03,Alicante/Alacant,1,1,0,0,0
 2020-06-23,02,Albacete,1,1,0,0,0
 2020-06-23,04,Almería,1,1,0,0,0
 2020-06-23,05,Ávila,4,4,0,0,0
-2020-06-23,08,Barcelona,76,55,0,21,0
+2020-06-23,08,Barcelona,77,56,0,21,0
 2020-06-23,06,Badajoz,1,1,0,0,0
 2020-06-23,48,Bizkaia,1,1,0,0,0
 2020-06-23,09,Burgos,1,1,0,0,0
@@ -7508,13 +7508,13 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-23,18,Granada,3,3,0,0,0
 2020-06-23,19,Guadalajara,5,5,0,0,0
 2020-06-23,21,Huelva,0,0,0,0,0
-2020-06-23,22,Huesca,20,20,0,0,0
+2020-06-23,22,Huesca,21,21,0,0,0
 2020-06-23,23,Jaén,0,0,0,0,0
-2020-06-23,25,Lleida,40,40,0,0,0
+2020-06-23,25,Lleida,41,41,0,0,0
 2020-06-23,24,León,1,0,0,1,0
 2020-06-23,26,La Rioja,1,1,0,0,0
 2020-06-23,27,Lugo,4,4,0,0,0
-2020-06-23,28,Madrid,52,52,0,0,0
+2020-06-23,28,Madrid,53,53,0,0,0
 2020-06-23,29,Málaga,8,8,0,0,0
 2020-06-23,52,Melilla,0,0,0,0,0
 2020-06-23,30,Murcia,5,5,0,0,0
@@ -7529,14 +7529,14 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-23,41,Sevilla,0,0,0,0,0
 2020-06-23,40,Segovia,8,8,0,0,0
 2020-06-23,42,Soria,4,4,0,0,0
-2020-06-23,20,Gipuzkoa,2,2,0,0,0
+2020-06-23,20,Gipuzkoa,1,1,0,0,0
 2020-06-23,43,Tarragona,1,1,0,0,0
 2020-06-23,44,Teruel,0,0,0,0,0
 2020-06-23,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-06-23,45,Toledo,4,4,0,0,0
 2020-06-23,46,Valencia/València,8,8,0,0,0
 2020-06-23,47,Valladolid,3,3,0,0,0
-2020-06-23,01,Araba/Álava,2,2,0,0,0
+2020-06-23,01,Araba/Álava,0,0,0,0,0
 2020-06-23,50,Zaragoza,12,12,0,0,0
 2020-06-23,49,Zamora,3,3,0,0,0
 2020-06-24,03,Alicante/Alacant,1,1,0,0,0
@@ -7545,7 +7545,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-24,05,Ávila,1,1,0,0,0
 2020-06-24,08,Barcelona,32,32,0,0,0
 2020-06-24,06,Badajoz,1,1,0,0,0
-2020-06-24,48,Bizkaia,2,2,0,0,0
+2020-06-24,48,Bizkaia,0,0,0,0,0
 2020-06-24,09,Burgos,1,1,0,0,0
 2020-06-24,15,A Coruña,0,0,0,0,0
 2020-06-24,11,Cádiz,3,3,0,0,0
@@ -7560,7 +7560,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-24,18,Granada,12,12,0,0,0
 2020-06-24,19,Guadalajara,2,2,0,0,0
 2020-06-24,21,Huelva,9,9,0,0,0
-2020-06-24,22,Huesca,43,43,0,0,0
+2020-06-24,22,Huesca,42,41,0,1,0
 2020-06-24,23,Jaén,5,5,0,0,0
 2020-06-24,25,Lleida,53,53,0,0,0
 2020-06-24,24,León,0,0,0,0,0
@@ -7581,15 +7581,15 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-24,41,Sevilla,1,1,0,0,0
 2020-06-24,40,Segovia,4,4,0,0,0
 2020-06-24,42,Soria,3,3,0,0,0
-2020-06-24,20,Gipuzkoa,6,6,0,0,0
+2020-06-24,20,Gipuzkoa,0,0,0,0,0
 2020-06-24,43,Tarragona,0,0,0,0,0
 2020-06-24,44,Teruel,3,3,0,0,0
 2020-06-24,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-06-24,45,Toledo,3,3,0,0,0
 2020-06-24,46,Valencia/València,3,3,0,0,0
 2020-06-24,47,Valladolid,3,3,0,0,0
-2020-06-24,01,Araba/Álava,5,5,0,0,0
-2020-06-24,50,Zaragoza,20,20,0,0,0
+2020-06-24,01,Araba/Álava,1,1,0,0,0
+2020-06-24,50,Zaragoza,18,18,0,0,0
 2020-06-24,49,Zamora,0,0,0,0,0
 2020-06-25,03,Alicante/Alacant,2,2,0,0,0
 2020-06-25,02,Albacete,6,6,0,0,0
@@ -7597,7 +7597,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-25,05,Ávila,1,1,0,0,0
 2020-06-25,08,Barcelona,79,48,0,31,0
 2020-06-25,06,Badajoz,0,0,0,0,0
-2020-06-25,48,Bizkaia,1,1,0,0,0
+2020-06-25,48,Bizkaia,0,0,0,0,0
 2020-06-25,09,Burgos,3,3,0,0,0
 2020-06-25,15,A Coruña,2,2,0,0,0
 2020-06-25,11,Cádiz,0,0,0,0,0
@@ -7612,13 +7612,13 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-25,18,Granada,11,11,0,0,0
 2020-06-25,19,Guadalajara,1,1,0,0,0
 2020-06-25,21,Huelva,0,0,0,0,0
-2020-06-25,22,Huesca,26,26,0,0,0
+2020-06-25,22,Huesca,23,23,0,0,0
 2020-06-25,23,Jaén,0,0,0,0,0
-2020-06-25,25,Lleida,60,60,0,0,0
+2020-06-25,25,Lleida,59,59,0,0,0
 2020-06-25,24,León,2,2,0,0,0
 2020-06-25,26,La Rioja,0,0,0,0,0
 2020-06-25,27,Lugo,6,6,0,0,0
-2020-06-25,28,Madrid,53,53,0,0,0
+2020-06-25,28,Madrid,54,54,0,0,0
 2020-06-25,29,Málaga,6,6,0,0,0
 2020-06-25,52,Melilla,0,0,0,0,0
 2020-06-25,30,Murcia,5,5,0,0,0
@@ -7633,23 +7633,23 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-25,41,Sevilla,0,0,0,0,0
 2020-06-25,40,Segovia,2,2,0,0,0
 2020-06-25,42,Soria,0,0,0,0,0
-2020-06-25,20,Gipuzkoa,2,2,0,0,0
+2020-06-25,20,Gipuzkoa,0,0,0,0,0
 2020-06-25,43,Tarragona,0,0,0,0,0
 2020-06-25,44,Teruel,0,0,0,0,0
 2020-06-25,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-06-25,45,Toledo,5,5,0,0,0
 2020-06-25,46,Valencia/València,4,4,0,0,0
 2020-06-25,47,Valladolid,5,5,0,0,0
-2020-06-25,01,Araba/Álava,2,2,0,0,0
-2020-06-25,50,Zaragoza,13,13,0,0,0
+2020-06-25,01,Araba/Álava,0,0,0,0,0
+2020-06-25,50,Zaragoza,12,12,0,0,0
 2020-06-25,49,Zamora,2,2,0,0,0
 2020-06-26,03,Alicante/Alacant,1,1,0,0,0
-2020-06-26,02,Albacete,4,4,0,0,0
+2020-06-26,02,Albacete,3,3,0,0,0
 2020-06-26,04,Almería,0,0,0,0,0
 2020-06-26,05,Ávila,2,2,0,0,0
 2020-06-26,08,Barcelona,103,67,0,36,0
 2020-06-26,06,Badajoz,0,0,0,0,0
-2020-06-26,48,Bizkaia,5,5,0,0,0
+2020-06-26,48,Bizkaia,3,3,0,0,0
 2020-06-26,09,Burgos,1,1,0,0,0
 2020-06-26,15,A Coruña,0,0,0,0,0
 2020-06-26,11,Cádiz,3,3,0,0,0
@@ -7664,7 +7664,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-26,18,Granada,10,10,0,0,0
 2020-06-26,19,Guadalajara,1,1,0,0,0
 2020-06-26,21,Huelva,0,0,0,0,0
-2020-06-26,22,Huesca,12,12,0,0,0
+2020-06-26,22,Huesca,10,10,0,0,0
 2020-06-26,23,Jaén,2,2,0,0,0
 2020-06-26,25,Lleida,81,80,0,1,0
 2020-06-26,24,León,2,2,0,0,0
@@ -7685,23 +7685,23 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-26,41,Sevilla,2,2,0,0,0
 2020-06-26,40,Segovia,4,4,0,0,0
 2020-06-26,42,Soria,0,0,0,0,0
-2020-06-26,20,Gipuzkoa,2,2,0,0,0
+2020-06-26,20,Gipuzkoa,1,1,0,0,0
 2020-06-26,43,Tarragona,1,1,0,0,0
 2020-06-26,44,Teruel,1,1,0,0,0
 2020-06-26,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-06-26,45,Toledo,1,1,0,0,0
 2020-06-26,46,Valencia/València,10,10,0,0,0
 2020-06-26,47,Valladolid,6,6,0,0,0
-2020-06-26,01,Araba/Álava,3,3,0,0,0
-2020-06-26,50,Zaragoza,10,10,0,0,0
+2020-06-26,01,Araba/Álava,0,0,0,0,0
+2020-06-26,50,Zaragoza,6,6,0,0,0
 2020-06-26,49,Zamora,0,0,0,0,0
 2020-06-27,03,Alicante/Alacant,0,0,0,0,0
 2020-06-27,02,Albacete,0,0,0,0,0
 2020-06-27,04,Almería,0,0,0,0,0
 2020-06-27,05,Ávila,2,2,0,0,0
-2020-06-27,08,Barcelona,32,32,0,0,0
+2020-06-27,08,Barcelona,33,33,0,0,0
 2020-06-27,06,Badajoz,4,4,0,0,0
-2020-06-27,48,Bizkaia,3,3,0,0,0
+2020-06-27,48,Bizkaia,0,0,0,0,0
 2020-06-27,09,Burgos,0,0,0,0,0
 2020-06-27,15,A Coruña,2,2,0,0,0
 2020-06-27,11,Cádiz,1,1,0,0,0
@@ -7716,9 +7716,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-27,18,Granada,8,8,0,0,0
 2020-06-27,19,Guadalajara,0,0,0,0,0
 2020-06-27,21,Huelva,0,0,0,0,0
-2020-06-27,22,Huesca,26,26,0,0,0
+2020-06-27,22,Huesca,23,23,0,0,0
 2020-06-27,23,Jaén,1,1,0,0,0
-2020-06-27,25,Lleida,81,81,0,0,0
+2020-06-27,25,Lleida,80,80,0,0,0
 2020-06-27,24,León,1,1,0,0,0
 2020-06-27,26,La Rioja,0,0,0,0,0
 2020-06-27,27,Lugo,6,5,0,1,0
@@ -7745,7 +7745,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-27,46,Valencia/València,7,7,0,0,0
 2020-06-27,47,Valladolid,4,4,0,0,0
 2020-06-27,01,Araba/Álava,1,1,0,0,0
-2020-06-27,50,Zaragoza,27,27,0,0,0
+2020-06-27,50,Zaragoza,27,26,0,1,0
 2020-06-27,49,Zamora,0,0,0,0,0
 2020-06-28,03,Alicante/Alacant,2,2,0,0,0
 2020-06-28,02,Albacete,4,3,0,1,0
@@ -7768,7 +7768,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-28,18,Granada,12,12,0,0,0
 2020-06-28,19,Guadalajara,0,0,0,0,0
 2020-06-28,21,Huelva,0,0,0,0,0
-2020-06-28,22,Huesca,8,8,0,0,0
+2020-06-28,22,Huesca,7,7,0,0,0
 2020-06-28,23,Jaén,1,1,0,0,0
 2020-06-28,25,Lleida,57,57,0,0,0
 2020-06-28,24,León,0,0,0,0,0
@@ -7789,7 +7789,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-28,41,Sevilla,0,0,0,0,0
 2020-06-28,40,Segovia,0,0,0,0,0
 2020-06-28,42,Soria,1,1,0,0,0
-2020-06-28,20,Gipuzkoa,3,3,0,0,0
+2020-06-28,20,Gipuzkoa,1,1,0,0,0
 2020-06-28,43,Tarragona,1,1,0,0,0
 2020-06-28,44,Teruel,0,0,0,0,0
 2020-06-28,38,Santa Cruz de Tenerife,0,0,0,0,0
@@ -7797,7 +7797,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-28,46,Valencia/València,4,4,0,0,0
 2020-06-28,47,Valladolid,1,1,0,0,0
 2020-06-28,01,Araba/Álava,2,2,0,0,0
-2020-06-28,50,Zaragoza,8,8,0,0,0
+2020-06-28,50,Zaragoza,7,7,0,0,0
 2020-06-28,49,Zamora,0,0,0,0,0
 2020-06-29,03,Alicante/Alacant,2,2,0,0,0
 2020-06-29,02,Albacete,2,2,0,0,0
@@ -7820,13 +7820,13 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-29,18,Granada,11,11,0,0,0
 2020-06-29,19,Guadalajara,5,5,0,0,0
 2020-06-29,21,Huelva,0,0,0,0,0
-2020-06-29,22,Huesca,13,13,0,0,0
+2020-06-29,22,Huesca,11,11,0,0,0
 2020-06-29,23,Jaén,0,0,0,0,0
-2020-06-29,25,Lleida,73,73,0,0,0
+2020-06-29,25,Lleida,75,75,0,0,0
 2020-06-29,24,León,2,2,0,0,0
 2020-06-29,26,La Rioja,1,1,0,0,0
 2020-06-29,27,Lugo,7,7,0,0,0
-2020-06-29,28,Madrid,42,42,0,0,0
+2020-06-29,28,Madrid,43,43,0,0,0
 2020-06-29,29,Málaga,1,1,0,0,0
 2020-06-29,52,Melilla,0,0,0,0,0
 2020-06-29,30,Murcia,10,10,0,0,0
@@ -7841,23 +7841,23 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-29,41,Sevilla,1,1,0,0,0
 2020-06-29,40,Segovia,5,5,0,0,0
 2020-06-29,42,Soria,0,0,0,0,0
-2020-06-29,20,Gipuzkoa,3,3,0,0,0
+2020-06-29,20,Gipuzkoa,1,1,0,0,0
 2020-06-29,43,Tarragona,5,4,0,1,0
 2020-06-29,44,Teruel,0,0,0,0,0
 2020-06-29,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-06-29,45,Toledo,4,4,0,0,0
 2020-06-29,46,Valencia/València,12,12,0,0,0
 2020-06-29,47,Valladolid,3,3,0,0,0
-2020-06-29,01,Araba/Álava,3,3,0,0,0
+2020-06-29,01,Araba/Álava,2,2,0,0,0
 2020-06-29,50,Zaragoza,10,10,0,0,0
 2020-06-29,49,Zamora,0,0,0,0,0
 2020-06-30,03,Alicante/Alacant,3,3,0,0,0
 2020-06-30,02,Albacete,2,2,0,0,0
 2020-06-30,04,Almería,5,5,0,0,0
 2020-06-30,05,Ávila,1,1,0,0,0
-2020-06-30,08,Barcelona,78,62,0,14,2
+2020-06-30,08,Barcelona,78,63,0,14,1
 2020-06-30,06,Badajoz,7,7,0,0,0
-2020-06-30,48,Bizkaia,2,2,0,0,0
+2020-06-30,48,Bizkaia,1,1,0,0,0
 2020-06-30,09,Burgos,0,0,0,0,0
 2020-06-30,15,A Coruña,1,1,0,0,0
 2020-06-30,11,Cádiz,1,1,0,0,0
@@ -7874,11 +7874,11 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-30,21,Huelva,0,0,0,0,0
 2020-06-30,22,Huesca,22,22,0,0,0
 2020-06-30,23,Jaén,1,0,0,1,0
-2020-06-30,25,Lleida,90,90,0,0,0
+2020-06-30,25,Lleida,91,91,0,0,0
 2020-06-30,24,León,0,0,0,0,0
 2020-06-30,26,La Rioja,0,0,0,0,0
 2020-06-30,27,Lugo,20,20,0,0,0
-2020-06-30,28,Madrid,63,63,0,0,0
+2020-06-30,28,Madrid,64,64,0,0,0
 2020-06-30,29,Málaga,4,4,0,0,0
 2020-06-30,52,Melilla,0,0,0,0,0
 2020-06-30,30,Murcia,3,3,0,0,0
@@ -7893,15 +7893,15 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-06-30,41,Sevilla,0,0,0,0,0
 2020-06-30,40,Segovia,2,2,0,0,0
 2020-06-30,42,Soria,3,3,0,0,0
-2020-06-30,20,Gipuzkoa,7,7,0,0,0
+2020-06-30,20,Gipuzkoa,2,2,0,0,0
 2020-06-30,43,Tarragona,5,3,0,2,0
 2020-06-30,44,Teruel,4,4,0,0,0
 2020-06-30,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-06-30,45,Toledo,3,3,0,0,0
 2020-06-30,46,Valencia/València,10,10,0,0,0
 2020-06-30,47,Valladolid,3,3,0,0,0
-2020-06-30,01,Araba/Álava,5,5,0,0,0
-2020-06-30,50,Zaragoza,8,8,0,0,0
+2020-06-30,01,Araba/Álava,0,0,0,0,0
+2020-06-30,50,Zaragoza,9,9,0,0,0
 2020-06-30,49,Zamora,0,0,0,0,0
 2020-07-01,03,Alicante/Alacant,5,5,0,0,0
 2020-07-01,02,Albacete,2,2,0,0,0
@@ -7909,28 +7909,28 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-01,05,Ávila,1,1,0,0,0
 2020-07-01,08,Barcelona,150,128,0,22,0
 2020-07-01,06,Badajoz,7,7,0,0,0
-2020-07-01,48,Bizkaia,4,4,0,0,0
+2020-07-01,48,Bizkaia,2,2,0,0,0
 2020-07-01,09,Burgos,0,0,0,0,0
 2020-07-01,15,A Coruña,0,0,0,0,0
 2020-07-01,11,Cádiz,1,1,0,0,0
-2020-07-01,10,Cáceres,0,0,0,0,0
+2020-07-01,10,Cáceres,1,1,0,0,0
 2020-07-01,51,Ceuta,0,0,0,0,0
 2020-07-01,14,Córdoba,2,2,0,0,0
-2020-07-01,13,Ciudad Real,7,7,0,0,0
+2020-07-01,13,Ciudad Real,8,8,0,0,0
 2020-07-01,12,Castellón/Castelló,3,3,0,0,0
 2020-07-01,16,Cuenca,0,0,0,0,0
 2020-07-01,35,Las Palmas,6,6,0,0,0
-2020-07-01,17,Girona,12,12,0,0,0
+2020-07-01,17,Girona,13,13,0,0,0
 2020-07-01,18,Granada,11,11,0,0,0
 2020-07-01,19,Guadalajara,1,1,0,0,0
 2020-07-01,21,Huelva,0,0,0,0,0
 2020-07-01,22,Huesca,19,19,0,0,0
 2020-07-01,23,Jaén,1,1,0,0,0
-2020-07-01,25,Lleida,123,123,0,0,0
+2020-07-01,25,Lleida,127,127,0,0,0
 2020-07-01,24,León,1,1,0,0,0
 2020-07-01,26,La Rioja,0,0,0,0,0
 2020-07-01,27,Lugo,10,10,0,0,0
-2020-07-01,28,Madrid,43,43,0,0,0
+2020-07-01,28,Madrid,45,45,0,0,0
 2020-07-01,29,Málaga,1,1,0,0,0
 2020-07-01,52,Melilla,0,0,0,0,0
 2020-07-01,30,Murcia,5,5,0,0,0
@@ -7939,21 +7939,21 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-01,32,Ourense,1,1,0,0,0
 2020-07-01,34,Palencia,0,0,0,0,0
 2020-07-01,07,Balears,4,4,0,0,0
-2020-07-01,36,Pontevedra,2,2,0,0,0
+2020-07-01,36,Pontevedra,1,1,0,0,0
 2020-07-01,39,Cantabria,1,1,0,0,0
 2020-07-01,37,Salamanca,0,0,0,0,0
-2020-07-01,41,Sevilla,2,2,0,0,0
+2020-07-01,41,Sevilla,3,3,0,0,0
 2020-07-01,40,Segovia,2,1,0,1,0
 2020-07-01,42,Soria,2,2,0,0,0
 2020-07-01,20,Gipuzkoa,3,3,0,0,0
-2020-07-01,43,Tarragona,4,4,0,0,0
-2020-07-01,44,Teruel,4,4,0,0,0
+2020-07-01,43,Tarragona,3,3,0,0,0
+2020-07-01,44,Teruel,3,3,0,0,0
 2020-07-01,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-07-01,45,Toledo,7,7,0,0,0
-2020-07-01,46,Valencia/València,12,12,0,0,0
+2020-07-01,46,Valencia/València,13,13,0,0,0
 2020-07-01,47,Valladolid,2,2,0,0,0
 2020-07-01,01,Araba/Álava,0,0,0,0,0
-2020-07-01,50,Zaragoza,10,10,0,0,0
+2020-07-01,50,Zaragoza,11,11,0,0,0
 2020-07-01,49,Zamora,1,1,0,0,0
 2020-07-02,03,Alicante/Alacant,5,5,0,0,0
 2020-07-02,02,Albacete,1,1,0,0,0
@@ -7961,7 +7961,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-02,05,Ávila,0,0,0,0,0
 2020-07-02,08,Barcelona,111,90,0,21,0
 2020-07-02,06,Badajoz,2,2,0,0,0
-2020-07-02,48,Bizkaia,4,4,0,0,0
+2020-07-02,48,Bizkaia,1,1,0,0,0
 2020-07-02,09,Burgos,0,0,0,0,0
 2020-07-02,15,A Coruña,2,2,0,0,0
 2020-07-02,11,Cádiz,3,3,0,0,0
@@ -7976,19 +7976,19 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-02,18,Granada,5,5,0,0,0
 2020-07-02,19,Guadalajara,4,4,0,0,0
 2020-07-02,21,Huelva,0,0,0,0,0
-2020-07-02,22,Huesca,13,13,0,0,0
+2020-07-02,22,Huesca,11,11,0,0,0
 2020-07-02,23,Jaén,0,0,0,0,0
-2020-07-02,25,Lleida,108,108,0,0,0
+2020-07-02,25,Lleida,105,105,0,0,0
 2020-07-02,24,León,2,2,0,0,0
 2020-07-02,26,La Rioja,0,0,0,0,0
 2020-07-02,27,Lugo,21,21,0,0,0
-2020-07-02,28,Madrid,38,38,0,0,0
+2020-07-02,28,Madrid,40,40,0,0,0
 2020-07-02,29,Málaga,2,2,0,0,0
 2020-07-02,52,Melilla,0,0,0,0,0
 2020-07-02,30,Murcia,1,1,0,0,0
 2020-07-02,31,Navarra,4,4,0,0,0
 2020-07-02,33,Asturias,0,0,0,0,0
-2020-07-02,32,Ourense,0,0,0,0,0
+2020-07-02,32,Ourense,1,1,0,0,0
 2020-07-02,34,Palencia,1,1,0,0,0
 2020-07-02,07,Balears,3,3,0,0,0
 2020-07-02,36,Pontevedra,0,0,0,0,0
@@ -7997,34 +7997,34 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-02,41,Sevilla,0,0,0,0,0
 2020-07-02,40,Segovia,4,4,0,0,0
 2020-07-02,42,Soria,0,0,0,0,0
-2020-07-02,20,Gipuzkoa,2,2,0,0,0
+2020-07-02,20,Gipuzkoa,0,0,0,0,0
 2020-07-02,43,Tarragona,7,6,0,0,1
 2020-07-02,44,Teruel,0,0,0,0,0
 2020-07-02,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-07-02,45,Toledo,2,2,0,0,0
 2020-07-02,46,Valencia/València,18,18,0,0,0
 2020-07-02,47,Valladolid,2,2,0,0,0
-2020-07-02,01,Araba/Álava,2,2,0,0,0
-2020-07-02,50,Zaragoza,14,14,0,0,0
+2020-07-02,01,Araba/Álava,0,0,0,0,0
+2020-07-02,50,Zaragoza,12,12,0,0,0
 2020-07-02,49,Zamora,0,0,0,0,0
 2020-07-03,03,Alicante/Alacant,1,1,0,0,0
-2020-07-03,02,Albacete,4,4,0,0,0
+2020-07-03,02,Albacete,3,3,0,0,0
 2020-07-03,04,Almería,9,9,0,0,0
 2020-07-03,05,Ávila,1,1,0,0,0
-2020-07-03,08,Barcelona,129,122,0,7,0
+2020-07-03,08,Barcelona,134,127,0,7,0
 2020-07-03,06,Badajoz,3,3,0,0,0
-2020-07-03,48,Bizkaia,4,4,0,0,0
+2020-07-03,48,Bizkaia,2,2,0,0,0
 2020-07-03,09,Burgos,0,0,0,0,0
 2020-07-03,15,A Coruña,1,1,0,0,0
 2020-07-03,11,Cádiz,0,0,0,0,0
-2020-07-03,10,Cáceres,0,0,0,0,0
+2020-07-03,10,Cáceres,4,4,0,0,0
 2020-07-03,51,Ceuta,0,0,0,0,0
 2020-07-03,14,Córdoba,3,3,0,0,0
 2020-07-03,13,Ciudad Real,11,11,0,0,0
 2020-07-03,12,Castellón/Castelló,4,4,0,0,0
 2020-07-03,16,Cuenca,0,0,0,0,0
 2020-07-03,35,Las Palmas,4,4,0,0,0
-2020-07-03,17,Girona,9,9,0,0,0
+2020-07-03,17,Girona,10,10,0,0,0
 2020-07-03,18,Granada,11,11,0,0,0
 2020-07-03,19,Guadalajara,3,3,0,0,0
 2020-07-03,21,Huelva,0,0,0,0,0
@@ -8034,7 +8034,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-03,24,León,4,4,0,0,0
 2020-07-03,26,La Rioja,0,0,0,0,0
 2020-07-03,27,Lugo,29,29,0,0,0
-2020-07-03,28,Madrid,58,58,0,0,0
+2020-07-03,28,Madrid,59,59,0,0,0
 2020-07-03,29,Málaga,1,1,0,0,0
 2020-07-03,52,Melilla,0,0,0,0,0
 2020-07-03,30,Murcia,2,2,0,0,0
@@ -8049,30 +8049,30 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-03,41,Sevilla,1,1,0,0,0
 2020-07-03,40,Segovia,2,2,0,0,0
 2020-07-03,42,Soria,1,1,0,0,0
-2020-07-03,20,Gipuzkoa,6,6,0,0,0
+2020-07-03,20,Gipuzkoa,4,4,0,0,0
 2020-07-03,43,Tarragona,6,6,0,0,0
 2020-07-03,44,Teruel,4,4,0,0,0
 2020-07-03,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-07-03,45,Toledo,5,5,0,0,0
 2020-07-03,46,Valencia/València,9,9,0,0,0
 2020-07-03,47,Valladolid,1,1,0,0,0
-2020-07-03,01,Araba/Álava,3,3,0,0,0
-2020-07-03,50,Zaragoza,24,24,0,0,0
+2020-07-03,01,Araba/Álava,1,1,0,0,0
+2020-07-03,50,Zaragoza,22,22,0,0,0
 2020-07-03,49,Zamora,1,1,0,0,0
 2020-07-04,03,Alicante/Alacant,0,0,0,0,0
 2020-07-04,02,Albacete,1,1,0,0,0
 2020-07-04,04,Almería,8,8,0,0,0
 2020-07-04,05,Ávila,1,1,0,0,0
-2020-07-04,08,Barcelona,94,94,0,0,0
+2020-07-04,08,Barcelona,97,97,0,0,0
 2020-07-04,06,Badajoz,3,3,0,0,0
-2020-07-04,48,Bizkaia,2,2,0,0,0
+2020-07-04,48,Bizkaia,1,1,0,0,0
 2020-07-04,09,Burgos,1,1,0,0,0
 2020-07-04,15,A Coruña,1,1,0,0,0
 2020-07-04,11,Cádiz,3,3,0,0,0
 2020-07-04,10,Cáceres,0,0,0,0,0
 2020-07-04,51,Ceuta,0,0,0,0,0
 2020-07-04,14,Córdoba,0,0,0,0,0
-2020-07-04,13,Ciudad Real,6,6,0,0,0
+2020-07-04,13,Ciudad Real,5,5,0,0,0
 2020-07-04,12,Castellón/Castelló,1,1,0,0,0
 2020-07-04,16,Cuenca,0,0,0,0,0
 2020-07-04,35,Las Palmas,2,2,0,0,0
@@ -8080,13 +8080,13 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-04,18,Granada,11,11,0,0,0
 2020-07-04,19,Guadalajara,1,1,0,0,0
 2020-07-04,21,Huelva,0,0,0,0,0
-2020-07-04,22,Huesca,13,13,0,0,0
+2020-07-04,22,Huesca,15,15,0,0,0
 2020-07-04,23,Jaén,0,0,0,0,0
-2020-07-04,25,Lleida,126,126,0,0,0
+2020-07-04,25,Lleida,127,127,0,0,0
 2020-07-04,24,León,0,0,0,0,0
 2020-07-04,26,La Rioja,0,0,0,0,0
 2020-07-04,27,Lugo,16,16,0,0,0
-2020-07-04,28,Madrid,26,26,0,0,0
+2020-07-04,28,Madrid,27,27,0,0,0
 2020-07-04,29,Málaga,3,3,0,0,0
 2020-07-04,52,Melilla,0,0,0,0,0
 2020-07-04,30,Murcia,6,6,0,0,0
@@ -8101,30 +8101,30 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-04,41,Sevilla,0,0,0,0,0
 2020-07-04,40,Segovia,3,3,0,0,0
 2020-07-04,42,Soria,0,0,0,0,0
-2020-07-04,20,Gipuzkoa,2,2,0,0,0
+2020-07-04,20,Gipuzkoa,1,1,0,0,0
 2020-07-04,43,Tarragona,9,8,0,1,0
 2020-07-04,44,Teruel,0,0,0,0,0
 2020-07-04,38,Santa Cruz de Tenerife,2,2,0,0,0
 2020-07-04,45,Toledo,3,3,0,0,0
 2020-07-04,46,Valencia/València,5,5,0,0,0
 2020-07-04,47,Valladolid,1,1,0,0,0
-2020-07-04,01,Araba/Álava,2,2,0,0,0
-2020-07-04,50,Zaragoza,11,11,0,0,0
+2020-07-04,01,Araba/Álava,1,1,0,0,0
+2020-07-04,50,Zaragoza,14,14,0,0,0
 2020-07-04,49,Zamora,0,0,0,0,0
 2020-07-05,03,Alicante/Alacant,3,3,0,0,0
 2020-07-05,02,Albacete,0,0,0,0,0
 2020-07-05,04,Almería,3,3,0,0,0
 2020-07-05,05,Ávila,0,0,0,0,0
-2020-07-05,08,Barcelona,118,118,0,0,0
+2020-07-05,08,Barcelona,120,120,0,0,0
 2020-07-05,06,Badajoz,5,5,0,0,0
-2020-07-05,48,Bizkaia,4,4,0,0,0
+2020-07-05,48,Bizkaia,3,3,0,0,0
 2020-07-05,09,Burgos,1,1,0,0,0
 2020-07-05,15,A Coruña,1,1,0,0,0
 2020-07-05,11,Cádiz,0,0,0,0,0
 2020-07-05,10,Cáceres,0,0,0,0,0
 2020-07-05,51,Ceuta,0,0,0,0,0
 2020-07-05,14,Córdoba,0,0,0,0,0
-2020-07-05,13,Ciudad Real,1,1,0,0,0
+2020-07-05,13,Ciudad Real,2,2,0,0,0
 2020-07-05,12,Castellón/Castelló,4,4,0,0,0
 2020-07-05,16,Cuenca,0,0,0,0,0
 2020-07-05,35,Las Palmas,1,1,0,0,0
@@ -8132,17 +8132,17 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-05,18,Granada,8,8,0,0,0
 2020-07-05,19,Guadalajara,1,1,0,0,0
 2020-07-05,21,Huelva,1,1,0,0,0
-2020-07-05,22,Huesca,10,10,0,0,0
+2020-07-05,22,Huesca,12,12,0,0,0
 2020-07-05,23,Jaén,1,1,0,0,0
-2020-07-05,25,Lleida,111,111,0,0,0
+2020-07-05,25,Lleida,115,115,0,0,0
 2020-07-05,24,León,0,0,0,0,0
 2020-07-05,26,La Rioja,1,1,0,0,0
 2020-07-05,27,Lugo,10,10,0,0,0
-2020-07-05,28,Madrid,33,33,0,0,0
+2020-07-05,28,Madrid,34,34,0,0,0
 2020-07-05,29,Málaga,3,3,0,0,0
 2020-07-05,52,Melilla,0,0,0,0,0
 2020-07-05,30,Murcia,7,7,0,0,0
-2020-07-05,31,Navarra,0,0,0,0,0
+2020-07-05,31,Navarra,1,1,0,0,0
 2020-07-05,33,Asturias,0,0,0,0,0
 2020-07-05,32,Ourense,1,1,0,0,0
 2020-07-05,34,Palencia,0,0,0,0,0
@@ -8153,23 +8153,23 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-05,41,Sevilla,0,0,0,0,0
 2020-07-05,40,Segovia,0,0,0,0,0
 2020-07-05,42,Soria,0,0,0,0,0
-2020-07-05,20,Gipuzkoa,10,10,0,0,0
+2020-07-05,20,Gipuzkoa,7,7,0,0,0
 2020-07-05,43,Tarragona,6,6,0,0,0
 2020-07-05,44,Teruel,0,0,0,0,0
 2020-07-05,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-07-05,45,Toledo,1,1,0,0,0
 2020-07-05,46,Valencia/València,4,4,0,0,0
 2020-07-05,47,Valladolid,1,1,0,0,0
-2020-07-05,01,Araba/Álava,2,2,0,0,0
-2020-07-05,50,Zaragoza,22,22,0,0,0
+2020-07-05,01,Araba/Álava,1,1,0,0,0
+2020-07-05,50,Zaragoza,20,20,0,0,0
 2020-07-05,49,Zamora,0,0,0,0,0
 2020-07-06,03,Alicante/Alacant,3,3,0,0,0
 2020-07-06,02,Albacete,0,0,0,0,0
 2020-07-06,04,Almería,2,2,0,0,0
 2020-07-06,05,Ávila,0,0,0,0,0
-2020-07-06,08,Barcelona,177,177,0,0,0
+2020-07-06,08,Barcelona,181,181,0,0,0
 2020-07-06,06,Badajoz,2,1,0,1,0
-2020-07-06,48,Bizkaia,6,6,0,0,0
+2020-07-06,48,Bizkaia,4,4,0,0,0
 2020-07-06,09,Burgos,1,1,0,0,0
 2020-07-06,15,A Coruña,1,1,0,0,0
 2020-07-06,11,Cádiz,0,0,0,0,0
@@ -8182,15 +8182,15 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-06,35,Las Palmas,1,0,0,0,1
 2020-07-06,17,Girona,16,16,0,0,0
 2020-07-06,18,Granada,14,14,0,0,0
-2020-07-06,19,Guadalajara,4,4,0,0,0
+2020-07-06,19,Guadalajara,3,3,0,0,0
 2020-07-06,21,Huelva,1,1,0,0,0
-2020-07-06,22,Huesca,25,25,0,0,0
+2020-07-06,22,Huesca,24,24,0,0,0
 2020-07-06,23,Jaén,0,0,0,0,0
-2020-07-06,25,Lleida,152,152,0,0,0
+2020-07-06,25,Lleida,153,153,0,0,0
 2020-07-06,24,León,4,4,0,0,0
 2020-07-06,26,La Rioja,0,0,0,0,0
 2020-07-06,27,Lugo,13,13,0,0,0
-2020-07-06,28,Madrid,48,48,0,0,0
+2020-07-06,28,Madrid,54,54,0,0,0
 2020-07-06,29,Málaga,2,2,0,0,0
 2020-07-06,52,Melilla,0,0,0,0,0
 2020-07-06,30,Murcia,7,7,0,0,0
@@ -8201,27 +8201,27 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-06,07,Balears,4,3,1,0,0
 2020-07-06,36,Pontevedra,4,4,0,0,0
 2020-07-06,39,Cantabria,0,0,0,0,0
-2020-07-06,37,Salamanca,0,0,0,0,0
-2020-07-06,41,Sevilla,1,1,0,0,0
+2020-07-06,37,Salamanca,1,1,0,0,0
+2020-07-06,41,Sevilla,2,2,0,0,0
 2020-07-06,40,Segovia,2,2,0,0,0
 2020-07-06,42,Soria,1,1,0,0,0
-2020-07-06,20,Gipuzkoa,21,21,0,0,0
+2020-07-06,20,Gipuzkoa,8,8,0,0,0
 2020-07-06,43,Tarragona,13,12,0,0,1
 2020-07-06,44,Teruel,7,7,0,0,0
 2020-07-06,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-07-06,45,Toledo,4,4,0,0,0
-2020-07-06,46,Valencia/València,13,13,0,0,0
+2020-07-06,46,Valencia/València,14,14,0,0,0
 2020-07-06,47,Valladolid,3,2,0,1,0
 2020-07-06,01,Araba/Álava,0,0,0,0,0
-2020-07-06,50,Zaragoza,43,43,0,0,0
+2020-07-06,50,Zaragoza,37,37,0,0,0
 2020-07-06,49,Zamora,0,0,0,0,0
 2020-07-07,03,Alicante/Alacant,4,4,0,0,0
 2020-07-07,02,Albacete,1,1,0,0,0
 2020-07-07,04,Almería,5,5,0,0,0
 2020-07-07,05,Ávila,0,0,0,0,0
-2020-07-07,08,Barcelona,206,205,0,1,0
+2020-07-07,08,Barcelona,212,211,0,1,0
 2020-07-07,06,Badajoz,15,15,0,0,0
-2020-07-07,48,Bizkaia,4,4,0,0,0
+2020-07-07,48,Bizkaia,2,2,0,0,0
 2020-07-07,09,Burgos,1,1,0,0,0
 2020-07-07,15,A Coruña,0,0,0,0,0
 2020-07-07,11,Cádiz,2,2,0,0,0
@@ -8234,52 +8234,52 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-07,35,Las Palmas,1,1,0,0,0
 2020-07-07,17,Girona,23,23,0,0,0
 2020-07-07,18,Granada,13,13,0,0,0
-2020-07-07,19,Guadalajara,1,1,0,0,0
+2020-07-07,19,Guadalajara,2,2,0,0,0
 2020-07-07,21,Huelva,0,0,0,0,0
-2020-07-07,22,Huesca,26,26,0,0,0
+2020-07-07,22,Huesca,29,29,0,0,0
 2020-07-07,23,Jaén,1,1,0,0,0
-2020-07-07,25,Lleida,168,167,0,1,0
+2020-07-07,25,Lleida,165,164,0,1,0
 2020-07-07,24,León,1,1,0,0,0
 2020-07-07,26,La Rioja,3,3,0,0,0
 2020-07-07,27,Lugo,34,34,0,0,0
 2020-07-07,28,Madrid,44,44,0,0,0
 2020-07-07,29,Málaga,7,7,0,0,0
 2020-07-07,52,Melilla,0,0,0,0,0
-2020-07-07,30,Murcia,10,10,0,0,0
-2020-07-07,31,Navarra,12,12,0,0,0
+2020-07-07,30,Murcia,11,11,0,0,0
+2020-07-07,31,Navarra,13,13,0,0,0
 2020-07-07,33,Asturias,0,0,0,0,0
 2020-07-07,32,Ourense,0,0,0,0,0
 2020-07-07,34,Palencia,0,0,0,0,0
 2020-07-07,07,Balears,1,1,0,0,0
-2020-07-07,36,Pontevedra,0,0,0,0,0
+2020-07-07,36,Pontevedra,1,1,0,0,0
 2020-07-07,39,Cantabria,0,0,0,0,0
 2020-07-07,37,Salamanca,1,1,0,0,0
 2020-07-07,41,Sevilla,2,2,0,0,0
 2020-07-07,40,Segovia,2,2,0,0,0
-2020-07-07,42,Soria,3,2,0,1,0
-2020-07-07,20,Gipuzkoa,18,18,0,0,0
-2020-07-07,43,Tarragona,13,12,0,0,1
+2020-07-07,42,Soria,1,0,0,1,0
+2020-07-07,20,Gipuzkoa,5,5,0,0,0
+2020-07-07,43,Tarragona,13,13,0,0,0
 2020-07-07,44,Teruel,8,8,0,0,0
 2020-07-07,38,Santa Cruz de Tenerife,1,1,0,0,0
 2020-07-07,45,Toledo,1,1,0,0,0
 2020-07-07,46,Valencia/València,19,19,0,0,0
 2020-07-07,47,Valladolid,2,2,0,0,0
-2020-07-07,01,Araba/Álava,8,8,0,0,0
-2020-07-07,50,Zaragoza,52,52,0,0,0
+2020-07-07,01,Araba/Álava,1,1,0,0,0
+2020-07-07,50,Zaragoza,45,45,0,0,0
 2020-07-07,49,Zamora,0,0,0,0,0
 2020-07-08,03,Alicante/Alacant,9,9,0,0,0
 2020-07-08,02,Albacete,0,0,0,0,0
-2020-07-08,04,Almería,16,16,0,0,0
+2020-07-08,04,Almería,17,17,0,0,0
 2020-07-08,05,Ávila,0,0,0,0,0
-2020-07-08,08,Barcelona,224,224,0,0,0
+2020-07-08,08,Barcelona,227,227,0,0,0
 2020-07-08,06,Badajoz,5,5,0,0,0
-2020-07-08,48,Bizkaia,16,16,0,0,0
+2020-07-08,48,Bizkaia,11,11,0,0,0
 2020-07-08,09,Burgos,3,3,0,0,0
 2020-07-08,15,A Coruña,2,2,0,0,0
 2020-07-08,11,Cádiz,3,3,0,0,0
 2020-07-08,10,Cáceres,1,1,0,0,0
 2020-07-08,51,Ceuta,0,0,0,0,0
-2020-07-08,14,Córdoba,2,2,0,0,0
+2020-07-08,14,Córdoba,1,1,0,0,0
 2020-07-08,13,Ciudad Real,13,13,0,0,0
 2020-07-08,12,Castellón/Castelló,3,3,0,0,0
 2020-07-08,16,Cuenca,1,1,0,0,0
@@ -8288,19 +8288,19 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-08,18,Granada,25,25,0,0,0
 2020-07-08,19,Guadalajara,1,1,0,0,0
 2020-07-08,21,Huelva,0,0,0,0,0
-2020-07-08,22,Huesca,19,19,0,0,0
+2020-07-08,22,Huesca,17,17,0,0,0
 2020-07-08,23,Jaén,2,2,0,0,0
-2020-07-08,25,Lleida,207,207,0,0,0
+2020-07-08,25,Lleida,209,209,0,0,0
 2020-07-08,24,León,1,1,0,0,0
 2020-07-08,26,La Rioja,5,5,0,0,0
 2020-07-08,27,Lugo,18,18,0,0,0
-2020-07-08,28,Madrid,65,65,0,0,0
+2020-07-08,28,Madrid,66,66,0,0,0
 2020-07-08,29,Málaga,6,6,0,0,0
 2020-07-08,52,Melilla,0,0,0,0,0
 2020-07-08,30,Murcia,15,15,0,0,0
-2020-07-08,31,Navarra,8,8,0,0,0
+2020-07-08,31,Navarra,7,7,0,0,0
 2020-07-08,33,Asturias,2,2,0,0,0
-2020-07-08,32,Ourense,1,1,0,0,0
+2020-07-08,32,Ourense,2,2,0,0,0
 2020-07-08,34,Palencia,1,1,0,0,0
 2020-07-08,07,Balears,4,4,0,0,0
 2020-07-08,36,Pontevedra,2,2,0,0,0
@@ -8309,15 +8309,15 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-08,41,Sevilla,0,0,0,0,0
 2020-07-08,40,Segovia,2,1,0,1,0
 2020-07-08,42,Soria,1,1,0,0,0
-2020-07-08,20,Gipuzkoa,16,16,0,0,0
+2020-07-08,20,Gipuzkoa,7,7,0,0,0
 2020-07-08,43,Tarragona,11,11,0,0,0
-2020-07-08,44,Teruel,2,2,0,0,0
+2020-07-08,44,Teruel,3,3,0,0,0
 2020-07-08,38,Santa Cruz de Tenerife,0,0,0,0,0
 2020-07-08,45,Toledo,3,3,0,0,0
 2020-07-08,46,Valencia/València,17,17,0,0,0
 2020-07-08,47,Valladolid,2,2,0,0,0
-2020-07-08,01,Araba/Álava,6,6,0,0,0
-2020-07-08,50,Zaragoza,52,52,0,0,0
+2020-07-08,01,Araba/Álava,2,2,0,0,0
+2020-07-08,50,Zaragoza,53,53,0,0,0
 2020-07-08,49,Zamora,0,0,0,0,0
 2020-07-09,03,Alicante/Alacant,6,6,0,0,0
 2020-07-09,02,Albacete,1,1,0,0,0
@@ -8325,7 +8325,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-09,05,Ávila,1,1,0,0,0
 2020-07-09,08,Barcelona,238,238,0,0,0
 2020-07-09,06,Badajoz,21,21,0,0,0
-2020-07-09,48,Bizkaia,12,12,0,0,0
+2020-07-09,48,Bizkaia,10,10,0,0,0
 2020-07-09,09,Burgos,0,0,0,0,0
 2020-07-09,15,A Coruña,1,1,0,0,0
 2020-07-09,11,Cádiz,2,2,0,0,0
@@ -8340,17 +8340,17 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-09,18,Granada,19,19,0,0,0
 2020-07-09,19,Guadalajara,2,2,0,0,0
 2020-07-09,21,Huelva,0,0,0,0,0
-2020-07-09,22,Huesca,21,21,0,0,0
+2020-07-09,22,Huesca,20,20,0,0,0
 2020-07-09,23,Jaén,1,1,0,0,0
-2020-07-09,25,Lleida,200,200,0,0,0
+2020-07-09,25,Lleida,199,199,0,0,0
 2020-07-09,24,León,0,0,0,0,0
 2020-07-09,26,La Rioja,1,1,0,0,0
 2020-07-09,27,Lugo,13,13,0,0,0
-2020-07-09,28,Madrid,64,64,0,0,0
+2020-07-09,28,Madrid,66,66,0,0,0
 2020-07-09,29,Málaga,5,5,0,0,0
 2020-07-09,52,Melilla,0,0,0,0,0
 2020-07-09,30,Murcia,4,4,0,0,0
-2020-07-09,31,Navarra,31,31,0,0,0
+2020-07-09,31,Navarra,29,29,0,0,0
 2020-07-09,33,Asturias,0,0,0,0,0
 2020-07-09,32,Ourense,1,1,0,0,0
 2020-07-09,34,Palencia,0,0,0,0,0
@@ -8361,23 +8361,23 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-09,41,Sevilla,0,0,0,0,0
 2020-07-09,40,Segovia,1,1,0,0,0
 2020-07-09,42,Soria,2,2,0,0,0
-2020-07-09,20,Gipuzkoa,19,19,0,0,0
+2020-07-09,20,Gipuzkoa,7,7,0,0,0
 2020-07-09,43,Tarragona,17,16,0,0,1
-2020-07-09,44,Teruel,2,2,0,0,0
+2020-07-09,44,Teruel,1,1,0,0,0
 2020-07-09,38,Santa Cruz de Tenerife,2,2,0,0,0
 2020-07-09,45,Toledo,6,6,0,0,0
 2020-07-09,46,Valencia/València,19,19,0,0,0
-2020-07-09,47,Valladolid,3,3,0,0,0
-2020-07-09,01,Araba/Álava,5,5,0,0,0
-2020-07-09,50,Zaragoza,67,67,0,0,0
+2020-07-09,47,Valladolid,4,4,0,0,0
+2020-07-09,01,Araba/Álava,2,2,0,0,0
+2020-07-09,50,Zaragoza,57,57,0,0,0
 2020-07-09,49,Zamora,0,0,0,0,0
 2020-07-10,03,Alicante/Alacant,4,4,0,0,0
-2020-07-10,02,Albacete,2,1,0,1,0
+2020-07-10,02,Albacete,1,1,0,0,0
 2020-07-10,04,Almería,30,30,0,0,0
 2020-07-10,05,Ávila,1,1,0,0,0
-2020-07-10,08,Barcelona,353,353,0,0,0
-2020-07-10,06,Badajoz,45,45,0,0,0
-2020-07-10,48,Bizkaia,9,9,0,0,0
+2020-07-10,08,Barcelona,358,358,0,0,0
+2020-07-10,06,Badajoz,44,44,0,0,0
+2020-07-10,48,Bizkaia,4,4,0,0,0
 2020-07-10,09,Burgos,1,1,0,0,0
 2020-07-10,15,A Coruña,0,0,0,0,0
 2020-07-10,11,Cádiz,1,1,0,0,0
@@ -8392,9 +8392,9 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-10,18,Granada,14,14,0,0,0
 2020-07-10,19,Guadalajara,3,3,0,0,0
 2020-07-10,21,Huelva,1,1,0,0,0
-2020-07-10,22,Huesca,38,38,0,0,0
+2020-07-10,22,Huesca,25,25,0,0,0
 2020-07-10,23,Jaén,1,1,0,0,0
-2020-07-10,25,Lleida,203,202,0,1,0
+2020-07-10,25,Lleida,205,203,0,2,0
 2020-07-10,24,León,2,2,0,0,0
 2020-07-10,26,La Rioja,10,10,0,0,0
 2020-07-10,27,Lugo,6,6,0,0,0
@@ -8402,7 +8402,7 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-10,29,Málaga,11,11,0,0,0
 2020-07-10,52,Melilla,0,0,0,0,0
 2020-07-10,30,Murcia,7,7,0,0,0
-2020-07-10,31,Navarra,21,21,0,0,0
+2020-07-10,31,Navarra,20,20,0,0,0
 2020-07-10,33,Asturias,2,2,0,0,0
 2020-07-10,32,Ourense,0,0,0,0,0
 2020-07-10,34,Palencia,0,0,0,0,0
@@ -8413,15 +8413,15 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-10,41,Sevilla,2,2,0,0,0
 2020-07-10,40,Segovia,2,2,0,0,0
 2020-07-10,42,Soria,1,1,0,0,0
-2020-07-10,20,Gipuzkoa,15,15,0,0,0
-2020-07-10,43,Tarragona,14,14,0,0,0
-2020-07-10,44,Teruel,5,5,0,0,0
+2020-07-10,20,Gipuzkoa,6,6,0,0,0
+2020-07-10,43,Tarragona,13,13,0,0,0
+2020-07-10,44,Teruel,2,2,0,0,0
 2020-07-10,38,Santa Cruz de Tenerife,1,1,0,0,0
 2020-07-10,45,Toledo,6,6,0,0,0
-2020-07-10,46,Valencia/València,25,25,0,0,0
+2020-07-10,46,Valencia/València,26,26,0,0,0
 2020-07-10,47,Valladolid,7,6,0,1,0
 2020-07-10,01,Araba/Álava,2,2,0,0,0
-2020-07-10,50,Zaragoza,109,109,0,0,0
+2020-07-10,50,Zaragoza,92,92,0,0,0
 2020-07-10,49,Zamora,1,1,0,0,0
 2020-07-11,03,Alicante/Alacant,6,6,0,0,0
 2020-07-11,02,Albacete,1,1,0,0,0
@@ -8429,13 +8429,13 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-11,05,Ávila,0,0,0,0,0
 2020-07-11,08,Barcelona,208,208,0,0,0
 2020-07-11,06,Badajoz,18,18,0,0,0
-2020-07-11,48,Bizkaia,12,12,0,0,0
+2020-07-11,48,Bizkaia,8,8,0,0,0
 2020-07-11,09,Burgos,2,2,0,0,0
 2020-07-11,15,A Coruña,6,6,0,0,0
 2020-07-11,11,Cádiz,0,0,0,0,0
 2020-07-11,10,Cáceres,0,0,0,0,0
 2020-07-11,51,Ceuta,0,0,0,0,0
-2020-07-11,14,Córdoba,1,1,0,0,0
+2020-07-11,14,Córdoba,2,2,0,0,0
 2020-07-11,13,Ciudad Real,4,4,0,0,0
 2020-07-11,12,Castellón/Castelló,6,6,0,0,0
 2020-07-11,16,Cuenca,1,1,0,0,0
@@ -8444,44 +8444,44 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-11,18,Granada,14,14,0,0,0
 2020-07-11,19,Guadalajara,4,4,0,0,0
 2020-07-11,21,Huelva,1,1,0,0,0
-2020-07-11,22,Huesca,76,76,0,0,0
+2020-07-11,22,Huesca,44,44,0,0,0
 2020-07-11,23,Jaén,0,0,0,0,0
 2020-07-11,25,Lleida,136,136,0,0,0
 2020-07-11,24,León,0,0,0,0,0
 2020-07-11,26,La Rioja,3,3,0,0,0
 2020-07-11,27,Lugo,6,6,0,0,0
-2020-07-11,28,Madrid,45,45,0,0,0
+2020-07-11,28,Madrid,48,48,0,0,0
 2020-07-11,29,Málaga,7,7,0,0,0
 2020-07-11,52,Melilla,0,0,0,0,0
 2020-07-11,30,Murcia,15,15,0,0,0
-2020-07-11,31,Navarra,34,34,0,0,0
+2020-07-11,31,Navarra,35,35,0,0,0
 2020-07-11,33,Asturias,3,3,0,0,0
 2020-07-11,32,Ourense,2,2,0,0,0
 2020-07-11,34,Palencia,0,0,0,0,0
 2020-07-11,07,Balears,7,7,0,0,0
-2020-07-11,36,Pontevedra,2,2,0,0,0
+2020-07-11,36,Pontevedra,1,1,0,0,0
 2020-07-11,39,Cantabria,1,1,0,0,0
 2020-07-11,37,Salamanca,0,0,0,0,0
 2020-07-11,41,Sevilla,1,1,0,0,0
 2020-07-11,40,Segovia,1,1,0,0,0
-2020-07-11,42,Soria,4,4,0,0,0
-2020-07-11,20,Gipuzkoa,22,22,0,0,0
+2020-07-11,42,Soria,3,3,0,0,0
+2020-07-11,20,Gipuzkoa,10,10,0,0,0
 2020-07-11,43,Tarragona,14,14,0,0,0
-2020-07-11,44,Teruel,4,4,0,0,0
+2020-07-11,44,Teruel,2,2,0,0,0
 2020-07-11,38,Santa Cruz de Tenerife,1,1,0,0,0
 2020-07-11,45,Toledo,2,2,0,0,0
 2020-07-11,46,Valencia/València,21,21,0,0,0
 2020-07-11,47,Valladolid,6,6,0,0,0
-2020-07-11,01,Araba/Álava,5,5,0,0,0
-2020-07-11,50,Zaragoza,153,153,0,0,0
+2020-07-11,01,Araba/Álava,4,4,0,0,0
+2020-07-11,50,Zaragoza,100,100,0,0,0
 2020-07-11,49,Zamora,0,0,0,0,0
 2020-07-12,03,Alicante/Alacant,6,6,0,0,0
 2020-07-12,02,Albacete,0,0,0,0,0
 2020-07-12,04,Almería,19,19,0,0,0
 2020-07-12,05,Ávila,1,1,0,0,0
-2020-07-12,08,Barcelona,221,218,0,0,3
+2020-07-12,08,Barcelona,227,224,0,0,3
 2020-07-12,06,Badajoz,11,11,0,0,0
-2020-07-12,48,Bizkaia,26,26,0,0,0
+2020-07-12,48,Bizkaia,16,16,0,0,0
 2020-07-12,09,Burgos,0,0,0,0,0
 2020-07-12,15,A Coruña,0,0,0,0,0
 2020-07-12,11,Cádiz,0,0,0,0,0
@@ -8496,17 +8496,17 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-12,18,Granada,5,5,0,0,0
 2020-07-12,19,Guadalajara,1,1,0,0,0
 2020-07-12,21,Huelva,0,0,0,0,0
-2020-07-12,22,Huesca,38,38,0,0,0
+2020-07-12,22,Huesca,23,23,0,0,0
 2020-07-12,23,Jaén,0,0,0,0,0
-2020-07-12,25,Lleida,137,137,0,0,0
+2020-07-12,25,Lleida,140,140,0,0,0
 2020-07-12,24,León,0,0,0,0,0
 2020-07-12,26,La Rioja,2,2,0,0,0
 2020-07-12,27,Lugo,1,1,0,0,0
-2020-07-12,28,Madrid,45,45,0,0,0
+2020-07-12,28,Madrid,47,47,0,0,0
 2020-07-12,29,Málaga,6,6,0,0,0
 2020-07-12,52,Melilla,2,2,0,0,0
 2020-07-12,30,Murcia,11,11,0,0,0
-2020-07-12,31,Navarra,24,24,0,0,0
+2020-07-12,31,Navarra,23,23,0,0,0
 2020-07-12,33,Asturias,0,0,0,0,0
 2020-07-12,32,Ourense,0,0,0,0,0
 2020-07-12,34,Palencia,0,0,0,0,0
@@ -8516,28 +8516,28 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-12,37,Salamanca,2,2,0,0,0
 2020-07-12,41,Sevilla,0,0,0,0,0
 2020-07-12,40,Segovia,0,0,0,0,0
-2020-07-12,42,Soria,1,1,0,0,0
-2020-07-12,20,Gipuzkoa,13,13,0,0,0
+2020-07-12,42,Soria,0,0,0,0,0
+2020-07-12,20,Gipuzkoa,8,8,0,0,0
 2020-07-12,43,Tarragona,21,21,0,0,0
-2020-07-12,44,Teruel,11,11,0,0,0
+2020-07-12,44,Teruel,8,8,0,0,0
 2020-07-12,38,Santa Cruz de Tenerife,2,2,0,0,0
 2020-07-12,45,Toledo,3,3,0,0,0
 2020-07-12,46,Valencia/València,10,10,0,0,0
 2020-07-12,47,Valladolid,3,3,0,0,0
-2020-07-12,01,Araba/Álava,6,6,0,0,0
-2020-07-12,50,Zaragoza,148,148,0,0,0
+2020-07-12,01,Araba/Álava,4,4,0,0,0
+2020-07-12,50,Zaragoza,97,97,0,0,0
 2020-07-12,49,Zamora,0,0,0,0,0
 2020-07-13,03,Alicante/Alacant,14,14,0,0,0
 2020-07-13,02,Albacete,2,2,0,0,0
 2020-07-13,04,Almería,11,11,0,0,0
 2020-07-13,05,Ávila,0,0,0,0,0
 2020-07-13,08,Barcelona,434,433,0,1,0
-2020-07-13,06,Badajoz,8,8,0,0,0
-2020-07-13,48,Bizkaia,23,23,0,0,0
+2020-07-13,06,Badajoz,9,9,0,0,0
+2020-07-13,48,Bizkaia,17,17,0,0,0
 2020-07-13,09,Burgos,1,1,0,0,0
 2020-07-13,15,A Coruña,1,1,0,0,0
 2020-07-13,11,Cádiz,4,4,0,0,0
-2020-07-13,10,Cáceres,1,1,0,0,0
+2020-07-13,10,Cáceres,2,2,0,0,0
 2020-07-13,51,Ceuta,0,0,0,0,0
 2020-07-13,14,Córdoba,4,4,0,0,0
 2020-07-13,13,Ciudad Real,7,7,0,0,0
@@ -8548,17 +8548,17 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-13,18,Granada,11,11,0,0,0
 2020-07-13,19,Guadalajara,2,2,0,0,0
 2020-07-13,21,Huelva,1,1,0,0,0
-2020-07-13,22,Huesca,55,55,0,0,0
+2020-07-13,22,Huesca,37,37,0,0,0
 2020-07-13,23,Jaén,2,2,0,0,0
-2020-07-13,25,Lleida,162,162,0,0,0
+2020-07-13,25,Lleida,163,163,0,0,0
 2020-07-13,24,León,0,0,0,0,0
 2020-07-13,26,La Rioja,4,4,0,0,0
 2020-07-13,27,Lugo,2,2,0,0,0
-2020-07-13,28,Madrid,87,87,0,0,0
+2020-07-13,28,Madrid,93,93,0,0,0
 2020-07-13,29,Málaga,10,10,0,0,0
 2020-07-13,52,Melilla,0,0,0,0,0
 2020-07-13,30,Murcia,13,13,0,0,0
-2020-07-13,31,Navarra,39,39,0,0,0
+2020-07-13,31,Navarra,40,40,0,0,0
 2020-07-13,33,Asturias,0,0,0,0,0
 2020-07-13,32,Ourense,0,0,0,0,0
 2020-07-13,34,Palencia,0,0,0,0,0
@@ -8569,23 +8569,23 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-13,41,Sevilla,4,4,0,0,0
 2020-07-13,40,Segovia,1,1,0,0,0
 2020-07-13,42,Soria,4,4,0,0,0
-2020-07-13,20,Gipuzkoa,25,25,0,0,0
+2020-07-13,20,Gipuzkoa,17,17,0,0,0
 2020-07-13,43,Tarragona,21,20,0,0,1
 2020-07-13,44,Teruel,5,5,0,0,0
 2020-07-13,38,Santa Cruz de Tenerife,4,4,0,0,0
 2020-07-13,45,Toledo,5,5,0,0,0
-2020-07-13,46,Valencia/València,28,28,0,0,0
+2020-07-13,46,Valencia/València,29,29,0,0,0
 2020-07-13,47,Valladolid,7,7,0,0,0
 2020-07-13,01,Araba/Álava,0,0,0,0,0
-2020-07-13,50,Zaragoza,239,239,0,0,0
+2020-07-13,50,Zaragoza,180,180,0,0,0
 2020-07-13,49,Zamora,0,0,0,0,0
 2020-07-14,03,Alicante/Alacant,12,12,0,0,0
-2020-07-14,02,Albacete,2,2,0,0,0
+2020-07-14,02,Albacete,3,3,0,0,0
 2020-07-14,04,Almería,54,54,0,0,0
 2020-07-14,05,Ávila,0,0,0,0,0
-2020-07-14,08,Barcelona,399,399,0,0,0
+2020-07-14,08,Barcelona,403,403,0,0,0
 2020-07-14,06,Badajoz,3,3,0,0,0
-2020-07-14,48,Bizkaia,33,33,0,0,0
+2020-07-14,48,Bizkaia,30,30,0,0,0
 2020-07-14,09,Burgos,1,1,0,0,0
 2020-07-14,15,A Coruña,7,7,0,0,0
 2020-07-14,11,Cádiz,2,2,0,0,0
@@ -8593,24 +8593,24 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-14,51,Ceuta,1,1,0,0,0
 2020-07-14,14,Córdoba,0,0,0,0,0
 2020-07-14,13,Ciudad Real,10,10,0,0,0
-2020-07-14,12,Castellón/Castelló,6,6,0,0,0
+2020-07-14,12,Castellón/Castelló,5,5,0,0,0
 2020-07-14,16,Cuenca,2,2,0,0,0
 2020-07-14,35,Las Palmas,2,2,0,0,0
 2020-07-14,17,Girona,35,35,0,0,0
 2020-07-14,18,Granada,13,13,0,0,0
 2020-07-14,19,Guadalajara,2,2,0,0,0
 2020-07-14,21,Huelva,0,0,0,0,0
-2020-07-14,22,Huesca,57,57,0,0,0
+2020-07-14,22,Huesca,45,45,0,0,0
 2020-07-14,23,Jaén,2,2,0,0,0
-2020-07-14,25,Lleida,128,128,0,0,0
+2020-07-14,25,Lleida,132,132,0,0,0
 2020-07-14,24,León,2,2,0,0,0
 2020-07-14,26,La Rioja,6,6,0,0,0
 2020-07-14,27,Lugo,3,3,0,0,0
-2020-07-14,28,Madrid,109,109,0,0,0
+2020-07-14,28,Madrid,114,114,0,0,0
 2020-07-14,29,Málaga,18,18,0,0,0
 2020-07-14,52,Melilla,0,0,0,0,0
 2020-07-14,30,Murcia,17,17,0,0,0
-2020-07-14,31,Navarra,50,50,0,0,0
+2020-07-14,31,Navarra,51,51,0,0,0
 2020-07-14,33,Asturias,2,2,0,0,0
 2020-07-14,32,Ourense,0,0,0,0,0
 2020-07-14,34,Palencia,3,3,0,0,0
@@ -8621,48 +8621,48 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-14,41,Sevilla,5,5,0,0,0
 2020-07-14,40,Segovia,2,2,0,0,0
 2020-07-14,42,Soria,3,2,0,1,0
-2020-07-14,20,Gipuzkoa,41,41,0,0,0
+2020-07-14,20,Gipuzkoa,23,23,0,0,0
 2020-07-14,43,Tarragona,20,20,0,0,0
 2020-07-14,44,Teruel,13,13,0,0,0
 2020-07-14,38,Santa Cruz de Tenerife,1,1,0,0,0
 2020-07-14,45,Toledo,6,6,0,0,0
 2020-07-14,46,Valencia/València,38,38,0,0,0
 2020-07-14,47,Valladolid,4,4,0,0,0
-2020-07-14,01,Araba/Álava,4,4,0,0,0
-2020-07-14,50,Zaragoza,296,296,0,0,0
+2020-07-14,01,Araba/Álava,2,2,0,0,0
+2020-07-14,50,Zaragoza,218,218,0,0,0
 2020-07-14,49,Zamora,0,0,0,0,0
 2020-07-15,03,Alicante/Alacant,22,22,0,0,0
-2020-07-15,02,Albacete,3,3,0,0,0
+2020-07-15,02,Albacete,2,2,0,0,0
 2020-07-15,04,Almería,13,13,0,0,0
 2020-07-15,05,Ávila,1,1,0,0,0
-2020-07-15,08,Barcelona,538,537,0,0,1
+2020-07-15,08,Barcelona,551,550,0,0,1
 2020-07-15,06,Badajoz,5,5,0,0,0
-2020-07-15,48,Bizkaia,43,43,0,0,0
-2020-07-15,09,Burgos,0,0,0,0,0
+2020-07-15,48,Bizkaia,38,38,0,0,0
+2020-07-15,09,Burgos,1,1,0,0,0
 2020-07-15,15,A Coruña,7,7,0,0,0
 2020-07-15,11,Cádiz,2,2,0,0,0
-2020-07-15,10,Cáceres,5,5,0,0,0
+2020-07-15,10,Cáceres,7,7,0,0,0
 2020-07-15,51,Ceuta,0,0,0,0,0
 2020-07-15,14,Córdoba,11,11,0,0,0
 2020-07-15,13,Ciudad Real,13,13,0,0,0
 2020-07-15,12,Castellón/Castelló,13,13,0,0,0
 2020-07-15,16,Cuenca,0,0,0,0,0
-2020-07-15,35,Las Palmas,5,5,0,0,0
+2020-07-15,35,Las Palmas,6,6,0,0,0
 2020-07-15,17,Girona,31,31,0,0,0
 2020-07-15,18,Granada,13,13,0,0,0
 2020-07-15,19,Guadalajara,5,5,0,0,0
 2020-07-15,21,Huelva,0,0,0,0,0
-2020-07-15,22,Huesca,118,118,0,0,0
+2020-07-15,22,Huesca,67,66,0,1,0
 2020-07-15,23,Jaén,0,0,0,0,0
-2020-07-15,25,Lleida,197,197,0,0,0
+2020-07-15,25,Lleida,194,194,0,0,0
 2020-07-15,24,León,4,4,0,0,0
 2020-07-15,26,La Rioja,2,2,0,0,0
 2020-07-15,27,Lugo,3,3,0,0,0
-2020-07-15,28,Madrid,110,110,0,0,0
+2020-07-15,28,Madrid,115,115,0,0,0
 2020-07-15,29,Málaga,16,16,0,0,0
 2020-07-15,52,Melilla,0,0,0,0,0
 2020-07-15,30,Murcia,29,29,0,0,0
-2020-07-15,31,Navarra,42,42,0,0,0
+2020-07-15,31,Navarra,43,43,0,0,0
 2020-07-15,33,Asturias,2,2,0,0,0
 2020-07-15,32,Ourense,1,1,0,0,0
 2020-07-15,34,Palencia,0,0,0,0,0
@@ -8673,48 +8673,48 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-15,41,Sevilla,8,8,0,0,0
 2020-07-15,40,Segovia,0,0,0,0,0
 2020-07-15,42,Soria,2,2,0,0,0
-2020-07-15,20,Gipuzkoa,34,34,0,0,0
-2020-07-15,43,Tarragona,21,21,0,0,0
-2020-07-15,44,Teruel,20,20,0,0,0
+2020-07-15,20,Gipuzkoa,17,17,0,0,0
+2020-07-15,43,Tarragona,24,24,0,0,0
+2020-07-15,44,Teruel,13,13,0,0,0
 2020-07-15,38,Santa Cruz de Tenerife,3,3,0,0,0
 2020-07-15,45,Toledo,7,7,0,0,0
-2020-07-15,46,Valencia/València,41,41,0,0,0
+2020-07-15,46,Valencia/València,42,42,0,0,0
 2020-07-15,47,Valladolid,3,3,0,0,0
-2020-07-15,01,Araba/Álava,9,9,0,0,0
-2020-07-15,50,Zaragoza,366,366,0,0,0
+2020-07-15,01,Araba/Álava,5,5,0,0,0
+2020-07-15,50,Zaragoza,257,257,0,0,0
 2020-07-15,49,Zamora,0,0,0,0,0
 2020-07-16,03,Alicante/Alacant,16,16,0,0,0
-2020-07-16,02,Albacete,6,5,0,1,0
+2020-07-16,02,Albacete,6,6,0,0,0
 2020-07-16,04,Almería,13,13,0,0,0
 2020-07-16,05,Ávila,0,0,0,0,0
-2020-07-16,08,Barcelona,518,518,0,0,0
+2020-07-16,08,Barcelona,516,516,0,0,0
 2020-07-16,06,Badajoz,7,7,0,0,0
-2020-07-16,48,Bizkaia,40,40,0,0,0
-2020-07-16,09,Burgos,7,7,0,0,0
+2020-07-16,48,Bizkaia,25,25,0,0,0
+2020-07-16,09,Burgos,8,8,0,0,0
 2020-07-16,15,A Coruña,6,6,0,0,0
 2020-07-16,11,Cádiz,1,1,0,0,0
-2020-07-16,10,Cáceres,11,11,0,0,0
+2020-07-16,10,Cáceres,13,13,0,0,0
 2020-07-16,51,Ceuta,0,0,0,0,0
 2020-07-16,14,Córdoba,11,11,0,0,0
 2020-07-16,13,Ciudad Real,9,9,0,0,0
 2020-07-16,12,Castellón/Castelló,7,7,0,0,0
 2020-07-16,16,Cuenca,2,2,0,0,0
 2020-07-16,35,Las Palmas,2,2,0,0,0
-2020-07-16,17,Girona,37,37,0,0,0
+2020-07-16,17,Girona,39,39,0,0,0
 2020-07-16,18,Granada,24,24,0,0,0
 2020-07-16,19,Guadalajara,5,5,0,0,0
 2020-07-16,21,Huelva,0,0,0,0,0
-2020-07-16,22,Huesca,108,108,0,0,0
+2020-07-16,22,Huesca,48,48,0,0,0
 2020-07-16,23,Jaén,2,2,0,0,0
-2020-07-16,25,Lleida,171,171,0,0,0
+2020-07-16,25,Lleida,170,170,0,0,0
 2020-07-16,24,León,2,2,0,0,0
 2020-07-16,26,La Rioja,9,8,0,0,1
 2020-07-16,27,Lugo,3,3,0,0,0
-2020-07-16,28,Madrid,94,94,0,0,0
+2020-07-16,28,Madrid,95,95,0,0,0
 2020-07-16,29,Málaga,20,20,0,0,0
 2020-07-16,52,Melilla,0,0,0,0,0
 2020-07-16,30,Murcia,23,23,0,0,0
-2020-07-16,31,Navarra,50,50,0,0,0
+2020-07-16,31,Navarra,47,47,0,0,0
 2020-07-16,33,Asturias,1,1,0,0,0
 2020-07-16,32,Ourense,0,0,0,0,0
 2020-07-16,34,Palencia,0,0,0,0,0
@@ -8724,25 +8724,25 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-16,37,Salamanca,0,0,0,0,0
 2020-07-16,41,Sevilla,3,3,0,0,0
 2020-07-16,40,Segovia,1,1,0,0,0
-2020-07-16,42,Soria,3,3,0,0,0
-2020-07-16,20,Gipuzkoa,35,35,0,0,0
+2020-07-16,42,Soria,4,4,0,0,0
+2020-07-16,20,Gipuzkoa,15,15,0,0,0
 2020-07-16,43,Tarragona,25,25,0,0,0
-2020-07-16,44,Teruel,40,40,0,0,0
+2020-07-16,44,Teruel,20,20,0,0,0
 2020-07-16,38,Santa Cruz de Tenerife,1,1,0,0,0
 2020-07-16,45,Toledo,3,3,0,0,0
-2020-07-16,46,Valencia/València,38,38,0,0,0
+2020-07-16,46,Valencia/València,39,39,0,0,0
 2020-07-16,47,Valladolid,4,4,0,0,0
-2020-07-16,01,Araba/Álava,12,12,0,0,0
-2020-07-16,50,Zaragoza,403,403,0,0,0
+2020-07-16,01,Araba/Álava,9,9,0,0,0
+2020-07-16,50,Zaragoza,214,214,0,0,0
 2020-07-16,49,Zamora,0,0,0,0,0
-2020-07-17,03,Alicante/Alacant,35,35,0,0,0
+2020-07-17,03,Alicante/Alacant,36,36,0,0,0
 2020-07-17,02,Albacete,3,3,0,0,0
-2020-07-17,04,Almería,11,11,0,0,0
+2020-07-17,04,Almería,12,12,0,0,0
 2020-07-17,05,Ávila,0,0,0,0,0
-2020-07-17,08,Barcelona,659,659,0,0,0
+2020-07-17,08,Barcelona,664,664,0,0,0
 2020-07-17,06,Badajoz,5,5,0,0,0
-2020-07-17,48,Bizkaia,50,50,0,0,0
-2020-07-17,09,Burgos,2,2,0,0,0
+2020-07-17,48,Bizkaia,30,30,0,0,0
+2020-07-17,09,Burgos,4,4,0,0,0
 2020-07-17,15,A Coruña,4,4,0,0,0
 2020-07-17,11,Cádiz,2,2,0,0,0
 2020-07-17,10,Cáceres,0,0,0,0,0
@@ -8752,21 +8752,21 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-17,12,Castellón/Castelló,9,9,0,0,0
 2020-07-17,16,Cuenca,5,5,0,0,0
 2020-07-17,35,Las Palmas,1,1,0,0,0
-2020-07-17,17,Girona,41,41,0,0,0
+2020-07-17,17,Girona,42,42,0,0,0
 2020-07-17,18,Granada,27,27,0,0,0
 2020-07-17,19,Guadalajara,4,4,0,0,0
 2020-07-17,21,Huelva,1,1,0,0,0
-2020-07-17,22,Huesca,131,131,0,0,0
+2020-07-17,22,Huesca,80,80,0,0,0
 2020-07-17,23,Jaén,1,1,0,0,0
-2020-07-17,25,Lleida,200,200,0,0,0
+2020-07-17,25,Lleida,198,198,0,0,0
 2020-07-17,24,León,1,1,0,0,0
 2020-07-17,26,La Rioja,11,5,0,1,5
 2020-07-17,27,Lugo,4,4,0,0,0
-2020-07-17,28,Madrid,147,147,0,0,0
+2020-07-17,28,Madrid,148,148,0,0,0
 2020-07-17,29,Málaga,15,15,0,0,0
 2020-07-17,52,Melilla,0,0,0,0,0
 2020-07-17,30,Murcia,29,29,0,0,0
-2020-07-17,31,Navarra,72,72,0,0,0
+2020-07-17,31,Navarra,73,73,0,0,0
 2020-07-17,33,Asturias,1,1,0,0,0
 2020-07-17,32,Ourense,0,0,0,0,0
 2020-07-17,34,Palencia,0,0,0,0,0
@@ -8777,23 +8777,23 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-17,41,Sevilla,5,5,0,0,0
 2020-07-17,40,Segovia,1,1,0,0,0
 2020-07-17,42,Soria,3,3,0,0,0
-2020-07-17,20,Gipuzkoa,41,41,0,0,0
-2020-07-17,43,Tarragona,29,27,0,0,2
-2020-07-17,44,Teruel,13,13,0,0,0
+2020-07-17,20,Gipuzkoa,13,13,0,0,0
+2020-07-17,43,Tarragona,30,29,0,0,1
+2020-07-17,44,Teruel,8,8,0,0,0
 2020-07-17,38,Santa Cruz de Tenerife,3,3,0,0,0
 2020-07-17,45,Toledo,9,9,0,0,0
 2020-07-17,46,Valencia/València,48,48,0,0,0
 2020-07-17,47,Valladolid,2,1,0,1,0
-2020-07-17,01,Araba/Álava,11,11,0,0,0
-2020-07-17,50,Zaragoza,388,388,0,0,0
+2020-07-17,01,Araba/Álava,6,6,0,0,0
+2020-07-17,50,Zaragoza,291,291,0,0,0
 2020-07-17,49,Zamora,1,1,0,0,0
-2020-07-18,03,Alicante/Alacant,26,26,0,0,0
-2020-07-18,02,Albacete,3,3,0,0,0
+2020-07-18,03,Alicante/Alacant,27,27,0,0,0
+2020-07-18,02,Albacete,2,2,0,0,0
 2020-07-18,04,Almería,32,32,0,0,0
 2020-07-18,05,Ávila,0,0,0,0,0
-2020-07-18,08,Barcelona,398,398,0,0,0
+2020-07-18,08,Barcelona,412,412,0,0,0
 2020-07-18,06,Badajoz,2,2,0,0,0
-2020-07-18,48,Bizkaia,80,80,0,0,0
+2020-07-18,48,Bizkaia,35,35,0,0,0
 2020-07-18,09,Burgos,7,7,0,0,0
 2020-07-18,15,A Coruña,3,3,0,0,0
 2020-07-18,11,Cádiz,3,3,0,0,0
@@ -8808,16 +8808,16 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-18,18,Granada,8,8,0,0,0
 2020-07-18,19,Guadalajara,0,0,0,0,0
 2020-07-18,21,Huelva,0,0,0,0,0
-2020-07-18,22,Huesca,115,115,0,0,0
+2020-07-18,22,Huesca,55,55,0,0,0
 2020-07-18,23,Jaén,1,1,0,0,0
-2020-07-18,25,Lleida,238,238,0,0,0
+2020-07-18,25,Lleida,243,243,0,0,0
 2020-07-18,24,León,2,2,0,0,0
 2020-07-18,26,La Rioja,7,5,0,0,2
-2020-07-18,27,Lugo,1,1,0,0,0
-2020-07-18,28,Madrid,110,110,0,0,0
+2020-07-18,27,Lugo,2,2,0,0,0
+2020-07-18,28,Madrid,112,112,0,0,0
 2020-07-18,29,Málaga,12,12,0,0,0
 2020-07-18,52,Melilla,0,0,0,0,0
-2020-07-18,30,Murcia,19,19,0,0,0
+2020-07-18,30,Murcia,20,20,0,0,0
 2020-07-18,31,Navarra,78,78,0,0,0
 2020-07-18,33,Asturias,1,1,0,0,0
 2020-07-18,32,Ourense,0,0,0,0,0
@@ -8829,30 +8829,30 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-18,41,Sevilla,3,3,0,0,0
 2020-07-18,40,Segovia,1,1,0,0,0
 2020-07-18,42,Soria,6,5,0,1,0
-2020-07-18,20,Gipuzkoa,71,71,0,0,0
+2020-07-18,20,Gipuzkoa,17,17,0,0,0
 2020-07-18,43,Tarragona,23,22,0,0,1
-2020-07-18,44,Teruel,12,12,0,0,0
+2020-07-18,44,Teruel,9,9,0,0,0
 2020-07-18,38,Santa Cruz de Tenerife,5,5,0,0,0
 2020-07-18,45,Toledo,4,4,0,0,0
-2020-07-18,46,Valencia/València,54,54,0,0,0
+2020-07-18,46,Valencia/València,55,55,0,0,0
 2020-07-18,47,Valladolid,6,6,0,0,0
-2020-07-18,01,Araba/Álava,11,11,0,0,0
-2020-07-18,50,Zaragoza,439,439,0,0,0
+2020-07-18,01,Araba/Álava,7,7,0,0,0
+2020-07-18,50,Zaragoza,262,262,0,0,0
 2020-07-18,49,Zamora,1,0,0,1,0
 2020-07-19,03,Alicante/Alacant,22,22,0,0,0
 2020-07-19,02,Albacete,1,1,0,0,0
-2020-07-19,04,Almería,57,57,0,0,0
+2020-07-19,04,Almería,58,58,0,0,0
 2020-07-19,05,Ávila,1,1,0,0,0
-2020-07-19,08,Barcelona,369,369,0,0,0
+2020-07-19,08,Barcelona,378,378,0,0,0
 2020-07-19,06,Badajoz,2,2,0,0,0
-2020-07-19,48,Bizkaia,49,49,0,0,0
-2020-07-19,09,Burgos,2,2,0,0,0
+2020-07-19,48,Bizkaia,31,31,0,0,0
+2020-07-19,09,Burgos,3,3,0,0,0
 2020-07-19,15,A Coruña,5,5,0,0,0
 2020-07-19,11,Cádiz,4,4,0,0,0
-2020-07-19,10,Cáceres,2,2,0,0,0
+2020-07-19,10,Cáceres,4,4,0,0,0
 2020-07-19,51,Ceuta,0,0,0,0,0
 2020-07-19,14,Córdoba,19,19,0,0,0
-2020-07-19,13,Ciudad Real,5,5,0,0,0
+2020-07-19,13,Ciudad Real,3,3,0,0,0
 2020-07-19,12,Castellón/Castelló,12,12,0,0,0
 2020-07-19,16,Cuenca,2,2,0,0,0
 2020-07-19,35,Las Palmas,48,48,0,0,0
@@ -8860,44 +8860,44 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-19,18,Granada,10,10,0,0,0
 2020-07-19,19,Guadalajara,2,2,0,0,0
 2020-07-19,21,Huelva,1,1,0,0,0
-2020-07-19,22,Huesca,99,99,0,0,0
+2020-07-19,22,Huesca,43,43,0,0,0
 2020-07-19,23,Jaén,0,0,0,0,0
-2020-07-19,25,Lleida,136,136,0,0,0
+2020-07-19,25,Lleida,139,139,0,0,0
 2020-07-19,24,León,3,3,0,0,0
 2020-07-19,26,La Rioja,0,0,0,0,0
-2020-07-19,27,Lugo,3,3,0,0,0
-2020-07-19,28,Madrid,100,100,0,0,0
+2020-07-19,27,Lugo,2,2,0,0,0
+2020-07-19,28,Madrid,102,102,0,0,0
 2020-07-19,29,Málaga,15,15,0,0,0
 2020-07-19,52,Melilla,0,0,0,0,0
 2020-07-19,30,Murcia,25,25,0,0,0
-2020-07-19,31,Navarra,52,52,0,0,0
+2020-07-19,31,Navarra,51,51,0,0,0
 2020-07-19,33,Asturias,2,2,0,0,0
 2020-07-19,32,Ourense,1,1,0,0,0
 2020-07-19,34,Palencia,0,0,0,0,0
-2020-07-19,07,Balears,4,4,0,0,0
+2020-07-19,07,Balears,5,5,0,0,0
 2020-07-19,36,Pontevedra,6,6,0,0,0
 2020-07-19,39,Cantabria,5,5,0,0,0
 2020-07-19,37,Salamanca,0,0,0,0,0
 2020-07-19,41,Sevilla,6,6,0,0,0
 2020-07-19,40,Segovia,4,4,0,0,0
-2020-07-19,42,Soria,2,2,0,0,0
-2020-07-19,20,Gipuzkoa,67,67,0,0,0
+2020-07-19,42,Soria,3,2,0,1,0
+2020-07-19,20,Gipuzkoa,14,14,0,0,0
 2020-07-19,43,Tarragona,27,26,0,0,1
-2020-07-19,44,Teruel,37,37,0,0,0
+2020-07-19,44,Teruel,15,15,0,0,0
 2020-07-19,38,Santa Cruz de Tenerife,5,5,0,0,0
 2020-07-19,45,Toledo,2,2,0,0,0
 2020-07-19,46,Valencia/València,44,44,0,0,0
 2020-07-19,47,Valladolid,7,7,0,0,0
-2020-07-19,01,Araba/Álava,6,6,0,0,0
-2020-07-19,50,Zaragoza,493,493,0,0,0
+2020-07-19,01,Araba/Álava,3,3,0,0,0
+2020-07-19,50,Zaragoza,251,251,0,0,0
 2020-07-19,49,Zamora,0,0,0,0,0
 2020-07-20,03,Alicante/Alacant,30,30,0,0,0
-2020-07-20,02,Albacete,2,2,0,0,0
-2020-07-20,04,Almería,57,57,0,0,0
+2020-07-20,02,Albacete,1,1,0,0,0
+2020-07-20,04,Almería,56,56,0,0,0
 2020-07-20,05,Ávila,1,1,0,0,0
-2020-07-20,08,Barcelona,704,703,0,0,1
+2020-07-20,08,Barcelona,705,705,0,0,0
 2020-07-20,06,Badajoz,5,5,0,0,0
-2020-07-20,48,Bizkaia,67,67,0,0,0
+2020-07-20,48,Bizkaia,40,40,0,0,0
 2020-07-20,09,Burgos,8,8,0,0,0
 2020-07-20,15,A Coruña,2,2,0,0,0
 2020-07-20,11,Cádiz,3,3,0,0,0
@@ -8912,69 +8912,69 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-20,18,Granada,10,10,0,0,0
 2020-07-20,19,Guadalajara,6,6,0,0,0
 2020-07-20,21,Huelva,4,4,0,0,0
-2020-07-20,22,Huesca,49,49,0,0,0
+2020-07-20,22,Huesca,39,39,0,0,0
 2020-07-20,23,Jaén,0,0,0,0,0
-2020-07-20,25,Lleida,235,234,0,1,0
+2020-07-20,25,Lleida,238,237,0,1,0
 2020-07-20,24,León,3,3,0,0,0
 2020-07-20,26,La Rioja,5,5,0,0,0
-2020-07-20,27,Lugo,1,1,0,0,0
-2020-07-20,28,Madrid,173,173,0,0,0
-2020-07-20,29,Málaga,20,20,0,0,0
+2020-07-20,27,Lugo,2,2,0,0,0
+2020-07-20,28,Madrid,177,177,0,0,0
+2020-07-20,29,Málaga,21,21,0,0,0
 2020-07-20,52,Melilla,0,0,0,0,0
-2020-07-20,30,Murcia,34,34,0,0,0
-2020-07-20,31,Navarra,99,99,0,0,0
+2020-07-20,30,Murcia,35,35,0,0,0
+2020-07-20,31,Navarra,102,102,0,0,0
 2020-07-20,33,Asturias,1,1,0,0,0
 2020-07-20,32,Ourense,0,0,0,0,0
 2020-07-20,34,Palencia,0,0,0,0,0
 2020-07-20,07,Balears,15,15,0,0,0
-2020-07-20,36,Pontevedra,5,5,0,0,0
+2020-07-20,36,Pontevedra,7,7,0,0,0
 2020-07-20,39,Cantabria,9,9,0,0,0
 2020-07-20,37,Salamanca,5,5,0,0,0
 2020-07-20,41,Sevilla,11,11,0,0,0
 2020-07-20,40,Segovia,2,2,0,0,0
 2020-07-20,42,Soria,4,4,0,0,0
-2020-07-20,20,Gipuzkoa,17,17,0,0,0
+2020-07-20,20,Gipuzkoa,13,13,0,0,0
 2020-07-20,43,Tarragona,29,29,0,0,0
-2020-07-20,44,Teruel,25,25,0,0,0
+2020-07-20,44,Teruel,14,14,0,0,0
 2020-07-20,38,Santa Cruz de Tenerife,1,1,0,0,0
 2020-07-20,45,Toledo,12,12,0,0,0
-2020-07-20,46,Valencia/València,61,61,0,0,0
+2020-07-20,46,Valencia/València,64,64,0,0,0
 2020-07-20,47,Valladolid,9,8,0,1,0
 2020-07-20,01,Araba/Álava,9,9,0,0,0
-2020-07-20,50,Zaragoza,487,487,0,0,0
+2020-07-20,50,Zaragoza,348,348,0,0,0
 2020-07-20,49,Zamora,0,0,0,0,0
-2020-07-21,03,Alicante/Alacant,43,43,0,0,0
+2020-07-21,03,Alicante/Alacant,45,45,0,0,0
 2020-07-21,02,Albacete,3,3,0,0,0
-2020-07-21,04,Almería,19,19,0,0,0
+2020-07-21,04,Almería,20,20,0,0,0
 2020-07-21,05,Ávila,1,1,0,0,0
-2020-07-21,08,Barcelona,682,673,0,8,1
+2020-07-21,08,Barcelona,696,688,0,8,0
 2020-07-21,06,Badajoz,10,10,0,0,0
-2020-07-21,48,Bizkaia,62,62,0,0,0
+2020-07-21,48,Bizkaia,29,29,0,0,0
 2020-07-21,09,Burgos,3,3,0,0,0
-2020-07-21,15,A Coruña,3,3,0,0,0
+2020-07-21,15,A Coruña,4,4,0,0,0
 2020-07-21,11,Cádiz,3,3,0,0,0
 2020-07-21,10,Cáceres,6,6,0,0,0
 2020-07-21,51,Ceuta,0,0,0,0,0
 2020-07-21,14,Córdoba,6,6,0,0,0
-2020-07-21,13,Ciudad Real,5,5,0,0,0
+2020-07-21,13,Ciudad Real,7,7,0,0,0
 2020-07-21,12,Castellón/Castelló,31,31,0,0,0
 2020-07-21,16,Cuenca,0,0,0,0,0
 2020-07-21,35,Las Palmas,7,7,0,0,0
-2020-07-21,17,Girona,42,42,0,0,0
+2020-07-21,17,Girona,44,44,0,0,0
 2020-07-21,18,Granada,8,8,0,0,0
-2020-07-21,19,Guadalajara,5,5,0,0,0
+2020-07-21,19,Guadalajara,6,6,0,0,0
 2020-07-21,21,Huelva,2,2,0,0,0
-2020-07-21,22,Huesca,132,132,0,0,0
+2020-07-21,22,Huesca,70,70,0,0,0
 2020-07-21,23,Jaén,1,1,0,0,0
-2020-07-21,25,Lleida,175,174,0,1,0
+2020-07-21,25,Lleida,181,180,0,1,0
 2020-07-21,24,León,3,3,0,0,0
 2020-07-21,26,La Rioja,17,17,0,0,0
-2020-07-21,27,Lugo,3,3,0,0,0
-2020-07-21,28,Madrid,243,243,0,0,0
-2020-07-21,29,Málaga,19,19,0,0,0
+2020-07-21,27,Lugo,4,4,0,0,0
+2020-07-21,28,Madrid,250,250,0,0,0
+2020-07-21,29,Málaga,20,20,0,0,0
 2020-07-21,52,Melilla,0,0,0,0,0
-2020-07-21,30,Murcia,46,46,0,0,0
-2020-07-21,31,Navarra,118,118,0,0,0
+2020-07-21,30,Murcia,47,47,0,0,0
+2020-07-21,31,Navarra,119,119,0,0,0
 2020-07-21,33,Asturias,2,2,0,0,0
 2020-07-21,32,Ourense,1,1,0,0,0
 2020-07-21,34,Palencia,0,0,0,0,0
@@ -8982,27 +8982,27 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-21,36,Pontevedra,5,5,0,0,0
 2020-07-21,39,Cantabria,5,5,0,0,0
 2020-07-21,37,Salamanca,2,2,0,0,0
-2020-07-21,41,Sevilla,13,13,0,0,0
+2020-07-21,41,Sevilla,14,14,0,0,0
 2020-07-21,40,Segovia,0,0,0,0,0
 2020-07-21,42,Soria,4,4,0,0,0
-2020-07-21,20,Gipuzkoa,44,44,0,0,0
+2020-07-21,20,Gipuzkoa,7,7,0,0,0
 2020-07-21,43,Tarragona,29,28,0,0,1
-2020-07-21,44,Teruel,36,36,0,0,0
+2020-07-21,44,Teruel,21,21,0,0,0
 2020-07-21,38,Santa Cruz de Tenerife,4,4,0,0,0
 2020-07-21,45,Toledo,7,7,0,0,0
-2020-07-21,46,Valencia/València,48,48,0,0,0
+2020-07-21,46,Valencia/València,50,50,0,0,0
 2020-07-21,47,Valladolid,6,6,0,0,0
-2020-07-21,01,Araba/Álava,11,11,0,0,0
-2020-07-21,50,Zaragoza,496,496,0,0,0
+2020-07-21,01,Araba/Álava,9,9,0,0,0
+2020-07-21,50,Zaragoza,350,350,0,0,0
 2020-07-21,49,Zamora,0,0,0,0,0
-2020-07-22,03,Alicante/Alacant,38,38,0,0,0
+2020-07-22,03,Alicante/Alacant,41,41,0,0,0
 2020-07-22,02,Albacete,5,5,0,0,0
 2020-07-22,04,Almería,22,22,0,0,0
 2020-07-22,05,Ávila,0,0,0,0,0
-2020-07-22,08,Barcelona,716,714,0,2,0
+2020-07-22,08,Barcelona,724,722,0,2,0
 2020-07-22,06,Badajoz,5,5,0,0,0
-2020-07-22,48,Bizkaia,90,90,0,0,0
-2020-07-22,09,Burgos,7,7,0,0,0
+2020-07-22,48,Bizkaia,38,38,0,0,0
+2020-07-22,09,Burgos,9,9,0,0,0
 2020-07-22,15,A Coruña,10,10,0,0,0
 2020-07-22,11,Cádiz,1,1,0,0,0
 2020-07-22,10,Cáceres,1,1,0,0,0
@@ -9012,54 +9012,54 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-22,12,Castellón/Castelló,18,18,0,0,0
 2020-07-22,16,Cuenca,1,1,0,0,0
 2020-07-22,35,Las Palmas,1,1,0,0,0
-2020-07-22,17,Girona,46,46,0,0,0
+2020-07-22,17,Girona,48,48,0,0,0
 2020-07-22,18,Granada,15,15,0,0,0
-2020-07-22,19,Guadalajara,15,15,0,0,0
+2020-07-22,19,Guadalajara,13,13,0,0,0
 2020-07-22,21,Huelva,2,2,0,0,0
-2020-07-22,22,Huesca,120,120,0,0,0
+2020-07-22,22,Huesca,58,58,0,0,0
 2020-07-22,23,Jaén,0,0,0,0,0
-2020-07-22,25,Lleida,190,190,0,0,0
+2020-07-22,25,Lleida,195,195,0,0,0
 2020-07-22,24,León,0,0,0,0,0
 2020-07-22,26,La Rioja,9,9,0,0,0
-2020-07-22,27,Lugo,6,6,0,0,0
-2020-07-22,28,Madrid,231,231,0,0,0
-2020-07-22,29,Málaga,18,18,0,0,0
+2020-07-22,27,Lugo,7,7,0,0,0
+2020-07-22,28,Madrid,236,236,0,0,0
+2020-07-22,29,Málaga,19,19,0,0,0
 2020-07-22,52,Melilla,0,0,0,0,0
-2020-07-22,30,Murcia,54,54,0,0,0
-2020-07-22,31,Navarra,66,66,0,0,0
+2020-07-22,30,Murcia,57,57,0,0,0
+2020-07-22,31,Navarra,65,65,0,0,0
 2020-07-22,33,Asturias,2,2,0,0,0
-2020-07-22,32,Ourense,0,0,0,0,0
+2020-07-22,32,Ourense,1,1,0,0,0
 2020-07-22,34,Palencia,2,2,0,0,0
 2020-07-22,07,Balears,13,13,0,0,0
 2020-07-22,36,Pontevedra,3,3,0,0,0
 2020-07-22,39,Cantabria,6,6,0,0,0
 2020-07-22,37,Salamanca,2,2,0,0,0
-2020-07-22,41,Sevilla,13,13,0,0,0
+2020-07-22,41,Sevilla,12,12,0,0,0
 2020-07-22,40,Segovia,1,1,0,0,0
 2020-07-22,42,Soria,3,3,0,0,0
-2020-07-22,20,Gipuzkoa,32,32,0,0,0
-2020-07-22,43,Tarragona,35,34,0,0,1
-2020-07-22,44,Teruel,30,30,0,0,0
+2020-07-22,20,Gipuzkoa,4,4,0,0,0
+2020-07-22,43,Tarragona,36,35,0,0,1
+2020-07-22,44,Teruel,20,20,0,0,0
 2020-07-22,38,Santa Cruz de Tenerife,6,6,0,0,0
 2020-07-22,45,Toledo,12,12,0,0,0
-2020-07-22,46,Valencia/València,66,66,0,0,0
+2020-07-22,46,Valencia/València,69,69,0,0,0
 2020-07-22,47,Valladolid,7,7,0,0,0
-2020-07-22,01,Araba/Álava,5,5,0,0,0
-2020-07-22,50,Zaragoza,588,588,0,0,0
+2020-07-22,01,Araba/Álava,3,3,0,0,0
+2020-07-22,50,Zaragoza,373,373,0,0,0
 2020-07-22,49,Zamora,0,0,0,0,0
-2020-07-23,03,Alicante/Alacant,31,31,0,0,0
+2020-07-23,03,Alicante/Alacant,33,33,0,0,0
 2020-07-23,02,Albacete,1,1,0,0,0
-2020-07-23,04,Almería,49,49,0,0,0
+2020-07-23,04,Almería,48,48,0,0,0
 2020-07-23,05,Ávila,1,1,0,0,0
-2020-07-23,08,Barcelona,781,781,0,0,0
+2020-07-23,08,Barcelona,788,787,0,1,0
 2020-07-23,06,Badajoz,3,3,0,0,0
-2020-07-23,48,Bizkaia,65,65,0,0,0
-2020-07-23,09,Burgos,10,10,0,0,0
+2020-07-23,48,Bizkaia,31,31,0,0,0
+2020-07-23,09,Burgos,9,9,0,0,0
 2020-07-23,15,A Coruña,8,8,0,0,0
 2020-07-23,11,Cádiz,3,3,0,0,0
 2020-07-23,10,Cáceres,1,1,0,0,0
 2020-07-23,51,Ceuta,0,0,0,0,0
-2020-07-23,14,Córdoba,8,8,0,0,0
+2020-07-23,14,Córdoba,9,9,0,0,0
 2020-07-23,13,Ciudad Real,6,6,0,0,0
 2020-07-23,12,Castellón/Castelló,17,17,0,0,0
 2020-07-23,16,Cuenca,1,1,0,0,0
@@ -9068,554 +9068,918 @@ fecha,cod_ine,provincia,num_casos,num_casos_prueba_pcr,num_casos_prueba_test_ac,
 2020-07-23,18,Granada,11,11,0,0,0
 2020-07-23,19,Guadalajara,5,5,0,0,0
 2020-07-23,21,Huelva,1,1,0,0,0
-2020-07-23,22,Huesca,48,48,0,0,0
+2020-07-23,22,Huesca,45,45,0,0,0
 2020-07-23,23,Jaén,6,6,0,0,0
-2020-07-23,25,Lleida,127,125,0,2,0
+2020-07-23,25,Lleida,124,122,0,2,0
 2020-07-23,24,León,4,4,0,0,0
-2020-07-23,26,La Rioja,6,6,0,0,0
-2020-07-23,27,Lugo,3,3,0,0,0
-2020-07-23,28,Madrid,189,189,0,0,0
+2020-07-23,26,La Rioja,5,5,0,0,0
+2020-07-23,27,Lugo,1,1,0,0,0
+2020-07-23,28,Madrid,193,193,0,0,0
 2020-07-23,29,Málaga,18,18,0,0,0
 2020-07-23,52,Melilla,0,0,0,0,0
 2020-07-23,30,Murcia,44,44,0,0,0
-2020-07-23,31,Navarra,65,65,0,0,0
+2020-07-23,31,Navarra,66,66,0,0,0
 2020-07-23,33,Asturias,3,3,0,0,0
 2020-07-23,32,Ourense,0,0,0,0,0
 2020-07-23,34,Palencia,1,1,0,0,0
 2020-07-23,07,Balears,21,21,0,0,0
 2020-07-23,36,Pontevedra,5,5,0,0,0
-2020-07-23,39,Cantabria,7,7,0,0,0
+2020-07-23,39,Cantabria,8,8,0,0,0
 2020-07-23,37,Salamanca,3,3,0,0,0
 2020-07-23,41,Sevilla,14,14,0,0,0
 2020-07-23,40,Segovia,1,1,0,0,0
 2020-07-23,42,Soria,11,11,0,0,0
-2020-07-23,20,Gipuzkoa,25,25,0,0,0
-2020-07-23,43,Tarragona,38,38,0,0,0
-2020-07-23,44,Teruel,26,26,0,0,0
+2020-07-23,20,Gipuzkoa,2,2,0,0,0
+2020-07-23,43,Tarragona,41,41,0,0,0
+2020-07-23,44,Teruel,23,23,0,0,0
 2020-07-23,38,Santa Cruz de Tenerife,7,7,0,0,0
 2020-07-23,45,Toledo,9,9,0,0,0
-2020-07-23,46,Valencia/València,61,61,0,0,0
+2020-07-23,46,Valencia/València,68,68,0,0,0
 2020-07-23,47,Valladolid,11,11,0,0,0
-2020-07-23,01,Araba/Álava,15,15,0,0,0
-2020-07-23,50,Zaragoza,295,295,0,0,0
+2020-07-23,01,Araba/Álava,9,9,0,0,0
+2020-07-23,50,Zaragoza,310,310,0,0,0
 2020-07-23,49,Zamora,1,1,0,0,0
-2020-07-24,03,Alicante/Alacant,33,33,0,0,0
+2020-07-24,03,Alicante/Alacant,35,35,0,0,0
 2020-07-24,02,Albacete,6,6,0,0,0
 2020-07-24,04,Almería,38,38,0,0,0
 2020-07-24,05,Ávila,1,1,0,0,0
-2020-07-24,08,Barcelona,778,776,0,2,0
+2020-07-24,08,Barcelona,800,798,0,2,0
 2020-07-24,06,Badajoz,3,3,0,0,0
-2020-07-24,48,Bizkaia,58,58,0,0,0
-2020-07-24,09,Burgos,7,7,0,0,0
+2020-07-24,48,Bizkaia,33,33,0,0,0
+2020-07-24,09,Burgos,8,8,0,0,0
 2020-07-24,15,A Coruña,9,9,0,0,0
 2020-07-24,11,Cádiz,7,7,0,0,0
 2020-07-24,10,Cáceres,7,7,0,0,0
 2020-07-24,51,Ceuta,0,0,0,0,0
 2020-07-24,14,Córdoba,6,6,0,0,0
-2020-07-24,13,Ciudad Real,4,4,0,0,0
-2020-07-24,12,Castellón/Castelló,22,22,0,0,0
+2020-07-24,13,Ciudad Real,5,5,0,0,0
+2020-07-24,12,Castellón/Castelló,23,23,0,0,0
 2020-07-24,16,Cuenca,2,2,0,0,0
 2020-07-24,35,Las Palmas,1,1,0,0,0
-2020-07-24,17,Girona,44,44,0,0,0
+2020-07-24,17,Girona,47,47,0,0,0
 2020-07-24,18,Granada,8,8,0,0,0
 2020-07-24,19,Guadalajara,19,19,0,0,0
 2020-07-24,21,Huelva,1,1,0,0,0
-2020-07-24,22,Huesca,40,40,0,0,0
+2020-07-24,22,Huesca,39,39,0,0,0
 2020-07-24,23,Jaén,4,4,0,0,0
-2020-07-24,25,Lleida,128,127,0,1,0
+2020-07-24,25,Lleida,131,130,0,1,0
 2020-07-24,24,León,2,2,0,0,0
 2020-07-24,26,La Rioja,11,11,0,0,0
-2020-07-24,27,Lugo,9,9,0,0,0
-2020-07-24,28,Madrid,311,311,0,0,0
+2020-07-24,27,Lugo,8,8,0,0,0
+2020-07-24,28,Madrid,318,318,0,0,0
 2020-07-24,29,Málaga,27,27,0,0,0
 2020-07-24,52,Melilla,0,0,0,0,0
-2020-07-24,30,Murcia,50,50,0,0,0
-2020-07-24,31,Navarra,55,55,0,0,0
+2020-07-24,30,Murcia,51,51,0,0,0
+2020-07-24,31,Navarra,56,56,0,0,0
 2020-07-24,33,Asturias,4,4,0,0,0
-2020-07-24,32,Ourense,1,1,0,0,0
+2020-07-24,32,Ourense,0,0,0,0,0
 2020-07-24,34,Palencia,2,2,0,0,0
-2020-07-24,07,Balears,24,24,0,0,0
+2020-07-24,07,Balears,25,25,0,0,0
 2020-07-24,36,Pontevedra,12,12,0,0,0
 2020-07-24,39,Cantabria,6,6,0,0,0
 2020-07-24,37,Salamanca,4,4,0,0,0
 2020-07-24,41,Sevilla,34,34,0,0,0
 2020-07-24,40,Segovia,1,1,0,0,0
 2020-07-24,42,Soria,4,4,0,0,0
-2020-07-24,20,Gipuzkoa,44,44,0,0,0
-2020-07-24,43,Tarragona,30,29,0,0,1
-2020-07-24,44,Teruel,20,20,0,0,0
+2020-07-24,20,Gipuzkoa,4,4,0,0,0
+2020-07-24,43,Tarragona,33,32,0,0,1
+2020-07-24,44,Teruel,21,21,0,0,0
 2020-07-24,38,Santa Cruz de Tenerife,3,3,0,0,0
 2020-07-24,45,Toledo,10,10,0,0,0
-2020-07-24,46,Valencia/València,87,87,0,0,0
+2020-07-24,46,Valencia/València,88,88,0,0,0
 2020-07-24,47,Valladolid,11,11,0,0,0
-2020-07-24,01,Araba/Álava,12,12,0,0,0
-2020-07-24,50,Zaragoza,295,295,0,0,0
+2020-07-24,01,Araba/Álava,9,9,0,0,0
+2020-07-24,50,Zaragoza,352,352,0,0,0
 2020-07-24,49,Zamora,1,1,0,0,0
-2020-07-25,03,Alicante/Alacant,43,43,0,0,0
+2020-07-25,03,Alicante/Alacant,48,48,0,0,0
 2020-07-25,02,Albacete,5,5,0,0,0
 2020-07-25,04,Almería,43,43,0,0,0
 2020-07-25,05,Ávila,0,0,0,0,0
-2020-07-25,08,Barcelona,433,433,0,0,0
+2020-07-25,08,Barcelona,451,451,0,0,0
 2020-07-25,06,Badajoz,3,3,0,0,0
-2020-07-25,48,Bizkaia,85,85,0,0,0
-2020-07-25,09,Burgos,5,5,0,0,0
-2020-07-25,15,A Coruña,2,2,0,0,0
-2020-07-25,11,Cádiz,4,4,0,0,0
+2020-07-25,48,Bizkaia,28,28,0,0,0
+2020-07-25,09,Burgos,6,6,0,0,0
+2020-07-25,15,A Coruña,4,4,0,0,0
+2020-07-25,11,Cádiz,5,5,0,0,0
 2020-07-25,10,Cáceres,1,1,0,0,0
 2020-07-25,51,Ceuta,0,0,0,0,0
 2020-07-25,14,Córdoba,6,6,0,0,0
 2020-07-25,13,Ciudad Real,0,0,0,0,0
-2020-07-25,12,Castellón/Castelló,11,11,0,0,0
+2020-07-25,12,Castellón/Castelló,14,14,0,0,0
 2020-07-25,16,Cuenca,1,1,0,0,0
 2020-07-25,35,Las Palmas,1,1,0,0,0
 2020-07-25,17,Girona,39,39,0,0,0
 2020-07-25,18,Granada,1,1,0,0,0
 2020-07-25,19,Guadalajara,3,3,0,0,0
 2020-07-25,21,Huelva,4,4,0,0,0
-2020-07-25,22,Huesca,37,37,0,0,0
+2020-07-25,22,Huesca,39,39,0,0,0
 2020-07-25,23,Jaén,3,3,0,0,0
-2020-07-25,25,Lleida,88,88,0,0,0
-2020-07-25,24,León,0,0,0,0,0
+2020-07-25,25,Lleida,92,92,0,0,0
+2020-07-25,24,León,1,1,0,0,0
 2020-07-25,26,La Rioja,1,1,0,0,0
 2020-07-25,27,Lugo,6,6,0,0,0
-2020-07-25,28,Madrid,278,278,0,0,0
-2020-07-25,29,Málaga,24,24,0,0,0
+2020-07-25,28,Madrid,285,285,0,0,0
+2020-07-25,29,Málaga,25,25,0,0,0
 2020-07-25,52,Melilla,0,0,0,0,0
-2020-07-25,30,Murcia,61,61,0,0,0
-2020-07-25,31,Navarra,81,81,0,0,0
+2020-07-25,30,Murcia,62,62,0,0,0
+2020-07-25,31,Navarra,82,82,0,0,0
 2020-07-25,33,Asturias,7,7,0,0,0
 2020-07-25,32,Ourense,0,0,0,0,0
 2020-07-25,34,Palencia,1,1,0,0,0
-2020-07-25,07,Balears,22,22,0,0,0
-2020-07-25,36,Pontevedra,7,7,0,0,0
+2020-07-25,07,Balears,23,23,0,0,0
+2020-07-25,36,Pontevedra,9,9,0,0,0
 2020-07-25,39,Cantabria,9,9,0,0,0
 2020-07-25,37,Salamanca,5,5,0,0,0
 2020-07-25,41,Sevilla,20,20,0,0,0
 2020-07-25,40,Segovia,0,0,0,0,0
-2020-07-25,42,Soria,7,7,0,0,0
-2020-07-25,20,Gipuzkoa,49,49,0,0,0
-2020-07-25,43,Tarragona,35,35,0,0,0
-2020-07-25,44,Teruel,13,13,0,0,0
+2020-07-25,42,Soria,9,9,0,0,0
+2020-07-25,20,Gipuzkoa,3,3,0,0,0
+2020-07-25,43,Tarragona,42,42,0,0,0
+2020-07-25,44,Teruel,12,12,0,0,0
 2020-07-25,38,Santa Cruz de Tenerife,8,8,0,0,0
-2020-07-25,45,Toledo,15,15,0,0,0
-2020-07-25,46,Valencia/València,86,86,0,0,0
+2020-07-25,45,Toledo,14,14,0,0,0
+2020-07-25,46,Valencia/València,88,88,0,0,0
 2020-07-25,47,Valladolid,3,3,0,0,0
-2020-07-25,01,Araba/Álava,15,15,0,0,0
-2020-07-25,50,Zaragoza,239,239,0,0,0
+2020-07-25,01,Araba/Álava,13,13,0,0,0
+2020-07-25,50,Zaragoza,325,325,0,0,0
 2020-07-25,49,Zamora,0,0,0,0,0
-2020-07-26,03,Alicante/Alacant,49,49,0,0,0
-2020-07-26,02,Albacete,3,3,0,0,0
-2020-07-26,04,Almería,22,22,0,0,0
+2020-07-26,03,Alicante/Alacant,52,52,0,0,0
+2020-07-26,02,Albacete,5,5,0,0,0
+2020-07-26,04,Almería,25,25,0,0,0
 2020-07-26,05,Ávila,0,0,0,0,0
-2020-07-26,08,Barcelona,367,367,0,0,0
-2020-07-26,06,Badajoz,4,4,0,0,0
-2020-07-26,48,Bizkaia,45,45,0,0,0
-2020-07-26,09,Burgos,10,10,0,0,0
+2020-07-26,08,Barcelona,385,385,0,0,0
+2020-07-26,06,Badajoz,3,3,0,0,0
+2020-07-26,48,Bizkaia,15,15,0,0,0
+2020-07-26,09,Burgos,11,11,0,0,0
 2020-07-26,15,A Coruña,4,4,0,0,0
 2020-07-26,11,Cádiz,7,7,0,0,0
 2020-07-26,10,Cáceres,4,4,0,0,0
 2020-07-26,51,Ceuta,1,1,0,0,0
-2020-07-26,14,Córdoba,7,7,0,0,0
-2020-07-26,13,Ciudad Real,5,5,0,0,0
-2020-07-26,12,Castellón/Castelló,5,5,0,0,0
+2020-07-26,14,Córdoba,9,9,0,0,0
+2020-07-26,13,Ciudad Real,4,4,0,0,0
+2020-07-26,12,Castellón/Castelló,6,6,0,0,0
 2020-07-26,16,Cuenca,0,0,0,0,0
 2020-07-26,35,Las Palmas,0,0,0,0,0
-2020-07-26,17,Girona,26,26,0,0,0
+2020-07-26,17,Girona,27,27,0,0,0
 2020-07-26,18,Granada,16,16,0,0,0
-2020-07-26,19,Guadalajara,3,3,0,0,0
+2020-07-26,19,Guadalajara,4,4,0,0,0
 2020-07-26,21,Huelva,0,0,0,0,0
-2020-07-26,22,Huesca,29,29,0,0,0
-2020-07-26,23,Jaén,2,2,0,0,0
-2020-07-26,25,Lleida,89,89,0,0,0
+2020-07-26,22,Huesca,31,31,0,0,0
+2020-07-26,23,Jaén,3,3,0,0,0
+2020-07-26,25,Lleida,95,95,0,0,0
 2020-07-26,24,León,0,0,0,0,0
 2020-07-26,26,La Rioja,1,1,0,0,0
 2020-07-26,27,Lugo,0,0,0,0,0
-2020-07-26,28,Madrid,284,284,0,0,0
-2020-07-26,29,Málaga,22,22,0,0,0
+2020-07-26,28,Madrid,287,287,0,0,0
+2020-07-26,29,Málaga,21,21,0,0,0
 2020-07-26,52,Melilla,4,4,0,0,0
 2020-07-26,30,Murcia,42,42,0,0,0
-2020-07-26,31,Navarra,78,78,0,0,0
+2020-07-26,31,Navarra,79,79,0,0,0
 2020-07-26,33,Asturias,7,7,0,0,0
 2020-07-26,32,Ourense,0,0,0,0,0
 2020-07-26,34,Palencia,0,0,0,0,0
-2020-07-26,07,Balears,44,44,0,0,0
+2020-07-26,07,Balears,47,47,0,0,0
 2020-07-26,36,Pontevedra,3,3,0,0,0
 2020-07-26,39,Cantabria,7,7,0,0,0
 2020-07-26,37,Salamanca,2,2,0,0,0
 2020-07-26,41,Sevilla,17,17,0,0,0
 2020-07-26,40,Segovia,1,1,0,0,0
 2020-07-26,42,Soria,1,1,0,0,0
-2020-07-26,20,Gipuzkoa,28,28,0,0,0
-2020-07-26,43,Tarragona,23,23,0,0,0
-2020-07-26,44,Teruel,44,44,0,0,0
-2020-07-26,38,Santa Cruz de Tenerife,4,4,0,0,0
+2020-07-26,20,Gipuzkoa,6,6,0,0,0
+2020-07-26,43,Tarragona,27,27,0,0,0
+2020-07-26,44,Teruel,42,42,0,0,0
+2020-07-26,38,Santa Cruz de Tenerife,5,5,0,0,0
 2020-07-26,45,Toledo,12,12,0,0,0
-2020-07-26,46,Valencia/València,49,49,0,0,0
+2020-07-26,46,Valencia/València,55,55,0,0,0
 2020-07-26,47,Valladolid,7,7,0,0,0
 2020-07-26,01,Araba/Álava,8,8,0,0,0
-2020-07-26,50,Zaragoza,242,242,0,0,0
+2020-07-26,50,Zaragoza,329,329,0,0,0
 2020-07-26,49,Zamora,0,0,0,0,0
-2020-07-27,03,Alicante/Alacant,53,53,0,0,0
+2020-07-27,03,Alicante/Alacant,65,65,0,0,0
 2020-07-27,02,Albacete,2,2,0,0,0
-2020-07-27,04,Almería,37,37,0,0,0
+2020-07-27,04,Almería,40,40,0,0,0
 2020-07-27,05,Ávila,1,1,0,0,0
-2020-07-27,08,Barcelona,730,729,0,1,0
-2020-07-27,06,Badajoz,7,7,0,0,0
-2020-07-27,48,Bizkaia,74,74,0,0,0
-2020-07-27,09,Burgos,11,11,0,0,0
-2020-07-27,15,A Coruña,11,11,0,0,0
-2020-07-27,11,Cádiz,3,3,0,0,0
-2020-07-27,10,Cáceres,0,0,0,0,0
+2020-07-27,08,Barcelona,795,794,0,1,0
+2020-07-27,06,Badajoz,8,8,0,0,0
+2020-07-27,48,Bizkaia,33,33,0,0,0
+2020-07-27,09,Burgos,13,13,0,0,0
+2020-07-27,15,A Coruña,13,13,0,0,0
+2020-07-27,11,Cádiz,4,4,0,0,0
+2020-07-27,10,Cáceres,1,1,0,0,0
 2020-07-27,51,Ceuta,0,0,0,0,0
-2020-07-27,14,Córdoba,11,11,0,0,0
-2020-07-27,13,Ciudad Real,11,11,0,0,0
-2020-07-27,12,Castellón/Castelló,6,6,0,0,0
+2020-07-27,14,Córdoba,10,10,0,0,0
+2020-07-27,13,Ciudad Real,13,13,0,0,0
+2020-07-27,12,Castellón/Castelló,7,7,0,0,0
 2020-07-27,16,Cuenca,2,1,0,1,0
 2020-07-27,35,Las Palmas,3,3,0,0,0
-2020-07-27,17,Girona,36,36,0,0,0
+2020-07-27,17,Girona,39,39,0,0,0
 2020-07-27,18,Granada,8,8,0,0,0
-2020-07-27,19,Guadalajara,5,5,0,0,0
-2020-07-27,21,Huelva,3,3,0,0,0
-2020-07-27,22,Huesca,22,22,0,0,0
+2020-07-27,19,Guadalajara,4,4,0,0,0
+2020-07-27,21,Huelva,4,4,0,0,0
+2020-07-27,22,Huesca,29,29,0,0,0
 2020-07-27,23,Jaén,1,1,0,0,0
-2020-07-27,25,Lleida,94,89,0,5,0
+2020-07-27,25,Lleida,98,93,0,5,0
 2020-07-27,24,León,3,3,0,0,0
-2020-07-27,26,La Rioja,4,4,0,0,0
+2020-07-27,26,La Rioja,5,5,0,0,0
 2020-07-27,27,Lugo,0,0,0,0,0
-2020-07-27,28,Madrid,506,506,0,0,0
-2020-07-27,29,Málaga,35,35,0,0,0
+2020-07-27,28,Madrid,510,510,0,0,0
+2020-07-27,29,Málaga,42,42,0,0,0
 2020-07-27,52,Melilla,1,1,0,0,0
-2020-07-27,30,Murcia,55,55,0,0,0
-2020-07-27,31,Navarra,48,48,0,0,0
+2020-07-27,30,Murcia,57,57,0,0,0
+2020-07-27,31,Navarra,51,51,0,0,0
 2020-07-27,33,Asturias,11,11,0,0,0
-2020-07-27,32,Ourense,1,1,0,0,0
+2020-07-27,32,Ourense,0,0,0,0,0
 2020-07-27,34,Palencia,4,4,0,0,0
-2020-07-27,07,Balears,31,31,0,0,0
+2020-07-27,07,Balears,39,38,0,0,1
 2020-07-27,36,Pontevedra,3,3,0,0,0
 2020-07-27,39,Cantabria,6,6,0,0,0
 2020-07-27,37,Salamanca,3,3,0,0,0
 2020-07-27,41,Sevilla,19,19,0,0,0
 2020-07-27,40,Segovia,2,2,0,0,0
-2020-07-27,42,Soria,16,15,0,1,0
-2020-07-27,20,Gipuzkoa,37,37,0,0,0
+2020-07-27,42,Soria,17,15,0,2,0
+2020-07-27,20,Gipuzkoa,5,5,0,0,0
 2020-07-27,43,Tarragona,36,36,0,0,0
-2020-07-27,44,Teruel,36,36,0,0,0
+2020-07-27,44,Teruel,42,42,0,0,0
 2020-07-27,38,Santa Cruz de Tenerife,5,5,0,0,0
-2020-07-27,45,Toledo,16,16,0,0,0
-2020-07-27,46,Valencia/València,79,79,0,0,0
-2020-07-27,47,Valladolid,18,18,0,0,0
-2020-07-27,01,Araba/Álava,18,18,0,0,0
-2020-07-27,50,Zaragoza,331,331,0,0,0
+2020-07-27,45,Toledo,17,16,0,1,0
+2020-07-27,46,Valencia/València,101,101,0,0,0
+2020-07-27,47,Valladolid,21,21,0,0,0
+2020-07-27,01,Araba/Álava,22,22,0,0,0
+2020-07-27,50,Zaragoza,476,476,0,0,0
 2020-07-27,49,Zamora,2,2,0,0,0
-2020-07-28,03,Alicante/Alacant,40,40,0,0,0
-2020-07-28,02,Albacete,5,5,0,0,0
-2020-07-28,04,Almería,31,31,0,0,0
+2020-07-28,03,Alicante/Alacant,47,47,0,0,0
+2020-07-28,02,Albacete,5,4,0,1,0
+2020-07-28,04,Almería,35,35,0,0,0
 2020-07-28,05,Ávila,1,1,0,0,0
-2020-07-28,08,Barcelona,764,764,0,0,0
+2020-07-28,08,Barcelona,792,792,0,0,0
 2020-07-28,06,Badajoz,11,11,0,0,0
-2020-07-28,48,Bizkaia,58,58,0,0,0
-2020-07-28,09,Burgos,9,9,0,0,0
-2020-07-28,15,A Coruña,8,8,0,0,0
-2020-07-28,11,Cádiz,7,7,0,0,0
+2020-07-28,48,Bizkaia,20,20,0,0,0
+2020-07-28,09,Burgos,14,14,0,0,0
+2020-07-28,15,A Coruña,10,10,0,0,0
+2020-07-28,11,Cádiz,9,9,0,0,0
 2020-07-28,10,Cáceres,10,10,0,0,0
 2020-07-28,51,Ceuta,0,0,0,0,0
-2020-07-28,14,Córdoba,17,17,0,0,0
-2020-07-28,13,Ciudad Real,15,15,0,0,0
-2020-07-28,12,Castellón/Castelló,5,5,0,0,0
+2020-07-28,14,Córdoba,18,18,0,0,0
+2020-07-28,13,Ciudad Real,16,16,0,0,0
+2020-07-28,12,Castellón/Castelló,4,4,0,0,0
 2020-07-28,16,Cuenca,0,0,0,0,0
-2020-07-28,35,Las Palmas,3,3,0,0,0
-2020-07-28,17,Girona,46,46,0,0,0
-2020-07-28,18,Granada,6,6,0,0,0
-2020-07-28,19,Guadalajara,11,11,0,0,0
+2020-07-28,35,Las Palmas,4,4,0,0,0
+2020-07-28,17,Girona,54,54,0,0,0
+2020-07-28,18,Granada,8,8,0,0,0
+2020-07-28,19,Guadalajara,13,13,0,0,0
 2020-07-28,21,Huelva,7,7,0,0,0
-2020-07-28,22,Huesca,38,38,0,0,0
+2020-07-28,22,Huesca,42,42,0,0,0
 2020-07-28,23,Jaén,4,4,0,0,0
-2020-07-28,25,Lleida,136,136,0,0,0
+2020-07-28,25,Lleida,137,137,0,0,0
 2020-07-28,24,León,2,2,0,0,0
-2020-07-28,26,La Rioja,7,7,0,0,0
+2020-07-28,26,La Rioja,9,9,0,0,0
 2020-07-28,27,Lugo,0,0,0,0,0
-2020-07-28,28,Madrid,689,689,0,0,0
-2020-07-28,29,Málaga,27,27,0,0,0
+2020-07-28,28,Madrid,666,666,0,0,0
+2020-07-28,29,Málaga,28,28,0,0,0
 2020-07-28,52,Melilla,1,1,0,0,0
-2020-07-28,30,Murcia,68,68,0,0,0
-2020-07-28,31,Navarra,39,39,0,0,0
+2020-07-28,30,Murcia,72,72,0,0,0
+2020-07-28,31,Navarra,40,40,0,0,0
 2020-07-28,33,Asturias,11,11,0,0,0
 2020-07-28,32,Ourense,1,1,0,0,0
 2020-07-28,34,Palencia,3,3,0,0,0
-2020-07-28,07,Balears,45,45,0,0,0
-2020-07-28,36,Pontevedra,2,2,0,0,0
+2020-07-28,07,Balears,50,50,0,0,0
+2020-07-28,36,Pontevedra,4,4,0,0,0
 2020-07-28,39,Cantabria,7,7,0,0,0
-2020-07-28,37,Salamanca,5,5,0,0,0
-2020-07-28,41,Sevilla,23,23,0,0,0
+2020-07-28,37,Salamanca,7,7,0,0,0
+2020-07-28,41,Sevilla,26,26,0,0,0
 2020-07-28,40,Segovia,8,8,0,0,0
-2020-07-28,42,Soria,6,6,0,0,0
-2020-07-28,20,Gipuzkoa,49,49,0,0,0
-2020-07-28,43,Tarragona,27,27,0,0,0
-2020-07-28,44,Teruel,71,71,0,0,0
-2020-07-28,38,Santa Cruz de Tenerife,3,3,0,0,0
+2020-07-28,42,Soria,7,7,0,0,0
+2020-07-28,20,Gipuzkoa,3,3,0,0,0
+2020-07-28,43,Tarragona,33,33,0,0,0
+2020-07-28,44,Teruel,73,73,0,0,0
+2020-07-28,38,Santa Cruz de Tenerife,4,4,0,0,0
 2020-07-28,45,Toledo,9,9,0,0,0
-2020-07-28,46,Valencia/València,99,99,0,0,0
-2020-07-28,47,Valladolid,35,35,0,0,0
+2020-07-28,46,Valencia/València,115,115,0,0,0
+2020-07-28,47,Valladolid,36,36,0,0,0
 2020-07-28,01,Araba/Álava,22,22,0,0,0
-2020-07-28,50,Zaragoza,250,250,0,0,0
+2020-07-28,50,Zaragoza,361,361,0,0,0
 2020-07-28,49,Zamora,3,3,0,0,0
-2020-07-29,03,Alicante/Alacant,60,60,0,0,0
+2020-07-29,03,Alicante/Alacant,80,80,0,0,0
 2020-07-29,02,Albacete,6,6,0,0,0
-2020-07-29,04,Almería,38,38,0,0,0
+2020-07-29,04,Almería,40,40,0,0,0
 2020-07-29,05,Ávila,1,1,0,0,0
-2020-07-29,08,Barcelona,788,787,0,1,0
-2020-07-29,06,Badajoz,12,12,0,0,0
-2020-07-29,48,Bizkaia,134,134,0,0,0
-2020-07-29,09,Burgos,4,4,0,0,0
-2020-07-29,15,A Coruña,13,13,0,0,0
-2020-07-29,11,Cádiz,3,3,0,0,0
+2020-07-29,08,Barcelona,825,824,0,1,0
+2020-07-29,06,Badajoz,13,13,0,0,0
+2020-07-29,48,Bizkaia,8,8,0,0,0
+2020-07-29,09,Burgos,17,17,0,0,0
+2020-07-29,15,A Coruña,10,10,0,0,0
+2020-07-29,11,Cádiz,5,5,0,0,0
 2020-07-29,10,Cáceres,2,2,0,0,0
 2020-07-29,51,Ceuta,0,0,0,0,0
 2020-07-29,14,Córdoba,16,16,0,0,0
-2020-07-29,13,Ciudad Real,18,17,0,1,0
-2020-07-29,12,Castellón/Castelló,10,10,0,0,0
+2020-07-29,13,Ciudad Real,24,23,0,1,0
+2020-07-29,12,Castellón/Castelló,16,16,0,0,0
 2020-07-29,16,Cuenca,3,2,0,1,0
 2020-07-29,35,Las Palmas,3,3,0,0,0
-2020-07-29,17,Girona,51,51,0,0,0
-2020-07-29,18,Granada,6,6,0,0,0
-2020-07-29,19,Guadalajara,3,3,0,0,0
-2020-07-29,21,Huelva,1,1,0,0,0
-2020-07-29,22,Huesca,74,73,0,1,0
-2020-07-29,23,Jaén,2,2,0,0,0
-2020-07-29,25,Lleida,99,97,0,2,0
+2020-07-29,17,Girona,55,55,0,0,0
+2020-07-29,18,Granada,7,7,0,0,0
+2020-07-29,19,Guadalajara,8,8,0,0,0
+2020-07-29,21,Huelva,2,2,0,0,0
+2020-07-29,22,Huesca,82,82,0,0,0
+2020-07-29,23,Jaén,4,4,0,0,0
+2020-07-29,25,Lleida,106,104,0,2,0
 2020-07-29,24,León,2,2,0,0,0
-2020-07-29,26,La Rioja,2,2,0,0,0
-2020-07-29,27,Lugo,1,1,0,0,0
-2020-07-29,28,Madrid,404,404,0,0,0
-2020-07-29,29,Málaga,39,39,0,0,0
-2020-07-29,52,Melilla,0,0,0,0,0
-2020-07-29,30,Murcia,71,71,0,0,0
-2020-07-29,31,Navarra,57,57,0,0,0
+2020-07-29,26,La Rioja,3,3,0,0,0
+2020-07-29,27,Lugo,2,2,0,0,0
+2020-07-29,28,Madrid,422,422,0,0,0
+2020-07-29,29,Málaga,44,44,0,0,0
+2020-07-29,52,Melilla,1,1,0,0,0
+2020-07-29,30,Murcia,85,85,0,0,0
+2020-07-29,31,Navarra,60,60,0,0,0
 2020-07-29,33,Asturias,13,13,0,0,0
-2020-07-29,32,Ourense,4,4,0,0,0
+2020-07-29,32,Ourense,5,5,0,0,0
 2020-07-29,34,Palencia,3,3,0,0,0
-2020-07-29,07,Balears,45,45,0,0,0
+2020-07-29,07,Balears,56,56,0,0,0
 2020-07-29,36,Pontevedra,2,2,0,0,0
 2020-07-29,39,Cantabria,9,9,0,0,0
-2020-07-29,37,Salamanca,1,1,0,0,0
-2020-07-29,41,Sevilla,19,19,0,0,0
+2020-07-29,37,Salamanca,3,3,0,0,0
+2020-07-29,41,Sevilla,22,22,0,0,0
 2020-07-29,40,Segovia,1,1,0,0,0
 2020-07-29,42,Soria,9,9,0,0,0
-2020-07-29,20,Gipuzkoa,30,30,0,0,0
-2020-07-29,43,Tarragona,49,49,0,0,0
-2020-07-29,44,Teruel,26,26,0,0,0
-2020-07-29,38,Santa Cruz de Tenerife,1,1,0,0,0
-2020-07-29,45,Toledo,16,14,0,2,0
-2020-07-29,46,Valencia/València,107,107,0,0,0
-2020-07-29,47,Valladolid,30,30,0,0,0
-2020-07-29,01,Araba/Álava,23,23,0,0,0
-2020-07-29,50,Zaragoza,187,187,0,0,0
+2020-07-29,20,Gipuzkoa,4,4,0,0,0
+2020-07-29,43,Tarragona,51,51,0,0,0
+2020-07-29,44,Teruel,33,33,0,0,0
+2020-07-29,38,Santa Cruz de Tenerife,2,2,0,0,0
+2020-07-29,45,Toledo,18,17,0,1,0
+2020-07-29,46,Valencia/València,148,148,0,0,0
+2020-07-29,47,Valladolid,31,31,0,0,0
+2020-07-29,01,Araba/Álava,29,29,0,0,0
+2020-07-29,50,Zaragoza,393,393,0,0,0
 2020-07-29,49,Zamora,3,3,0,0,0
-2020-07-30,03,Alicante/Alacant,34,34,0,0,0
-2020-07-30,02,Albacete,3,3,0,0,0
-2020-07-30,04,Almería,72,72,0,0,0
+2020-07-30,03,Alicante/Alacant,49,49,0,0,0
+2020-07-30,02,Albacete,6,6,0,0,0
+2020-07-30,04,Almería,80,80,0,0,0
 2020-07-30,05,Ávila,0,0,0,0,0
-2020-07-30,08,Barcelona,719,718,0,1,0
-2020-07-30,06,Badajoz,15,15,0,0,0
-2020-07-30,48,Bizkaia,83,83,0,0,0
-2020-07-30,09,Burgos,24,24,0,0,0
+2020-07-30,08,Barcelona,798,797,0,1,0
+2020-07-30,06,Badajoz,16,16,0,0,0
+2020-07-30,48,Bizkaia,5,5,0,0,0
+2020-07-30,09,Burgos,18,17,0,1,0
 2020-07-30,15,A Coruña,20,20,0,0,0
-2020-07-30,11,Cádiz,15,15,0,0,0
-2020-07-30,10,Cáceres,3,3,0,0,0
+2020-07-30,11,Cádiz,16,16,0,0,0
+2020-07-30,10,Cáceres,4,4,0,0,0
 2020-07-30,51,Ceuta,0,0,0,0,0
-2020-07-30,14,Córdoba,28,28,0,0,0
-2020-07-30,13,Ciudad Real,15,13,0,2,0
-2020-07-30,12,Castellón/Castelló,10,10,0,0,0
+2020-07-30,14,Córdoba,29,29,0,0,0
+2020-07-30,13,Ciudad Real,15,15,0,0,0
+2020-07-30,12,Castellón/Castelló,11,11,0,0,0
 2020-07-30,16,Cuenca,0,0,0,0,0
-2020-07-30,35,Las Palmas,8,8,0,0,0
+2020-07-30,35,Las Palmas,7,7,0,0,0
 2020-07-30,17,Girona,54,54,0,0,0
-2020-07-30,18,Granada,17,17,0,0,0
-2020-07-30,19,Guadalajara,6,6,0,0,0
+2020-07-30,18,Granada,18,18,0,0,0
+2020-07-30,19,Guadalajara,9,9,0,0,0
 2020-07-30,21,Huelva,3,3,0,0,0
-2020-07-30,22,Huesca,33,33,0,0,0
-2020-07-30,23,Jaén,4,4,0,0,0
-2020-07-30,25,Lleida,87,87,0,0,0
-2020-07-30,24,León,1,1,0,0,0
+2020-07-30,22,Huesca,34,34,0,0,0
+2020-07-30,23,Jaén,5,5,0,0,0
+2020-07-30,25,Lleida,107,103,0,4,0
+2020-07-30,24,León,2,2,0,0,0
 2020-07-30,26,La Rioja,1,1,0,0,0
 2020-07-30,27,Lugo,2,2,0,0,0
-2020-07-30,28,Madrid,315,315,0,0,0
-2020-07-30,29,Málaga,21,21,0,0,0
-2020-07-30,52,Melilla,3,3,0,0,0
-2020-07-30,30,Murcia,47,47,0,0,0
-2020-07-30,31,Navarra,47,47,0,0,0
+2020-07-30,28,Madrid,368,368,0,0,0
+2020-07-30,29,Málaga,28,28,0,0,0
+2020-07-30,52,Melilla,4,4,0,0,0
+2020-07-30,30,Murcia,61,61,0,0,0
+2020-07-30,31,Navarra,52,52,0,0,0
 2020-07-30,33,Asturias,11,11,0,0,0
-2020-07-30,32,Ourense,5,5,0,0,0
-2020-07-30,34,Palencia,3,3,0,0,0
-2020-07-30,07,Balears,63,63,0,0,0
+2020-07-30,32,Ourense,6,6,0,0,0
+2020-07-30,34,Palencia,4,4,0,0,0
+2020-07-30,07,Balears,76,74,0,0,2
 2020-07-30,36,Pontevedra,5,5,0,0,0
-2020-07-30,39,Cantabria,20,20,0,0,0
-2020-07-30,37,Salamanca,6,6,0,0,0
-2020-07-30,41,Sevilla,14,14,0,0,0
+2020-07-30,39,Cantabria,23,23,0,0,0
+2020-07-30,37,Salamanca,7,7,0,0,0
+2020-07-30,41,Sevilla,20,20,0,0,0
 2020-07-30,40,Segovia,3,3,0,0,0
 2020-07-30,42,Soria,9,9,0,0,0
-2020-07-30,20,Gipuzkoa,44,44,0,0,0
-2020-07-30,43,Tarragona,31,31,0,0,0
-2020-07-30,44,Teruel,45,45,0,0,0
+2020-07-30,20,Gipuzkoa,1,1,0,0,0
+2020-07-30,43,Tarragona,36,36,0,0,0
+2020-07-30,44,Teruel,42,42,0,0,0
 2020-07-30,38,Santa Cruz de Tenerife,1,1,0,0,0
-2020-07-30,45,Toledo,11,11,0,0,0
-2020-07-30,46,Valencia/València,118,118,0,0,0
+2020-07-30,45,Toledo,13,13,0,0,0
+2020-07-30,46,Valencia/València,149,149,0,0,0
 2020-07-30,47,Valladolid,12,12,0,0,0
-2020-07-30,01,Araba/Álava,24,24,0,0,0
-2020-07-30,50,Zaragoza,187,187,0,0,0
+2020-07-30,01,Araba/Álava,21,21,0,0,0
+2020-07-30,50,Zaragoza,391,391,0,0,0
 2020-07-30,49,Zamora,8,8,0,0,0
-2020-07-31,03,Alicante/Alacant,31,31,0,0,0
-2020-07-31,02,Albacete,6,6,0,0,0
-2020-07-31,04,Almería,57,57,0,0,0
+2020-07-31,03,Alicante/Alacant,56,56,0,0,0
+2020-07-31,02,Albacete,11,11,0,0,0
+2020-07-31,04,Almería,61,61,0,0,0
 2020-07-31,05,Ávila,1,1,0,0,0
-2020-07-31,08,Barcelona,828,828,0,0,0
+2020-07-31,08,Barcelona,913,913,0,0,0
 2020-07-31,06,Badajoz,18,18,0,0,0
-2020-07-31,48,Bizkaia,130,130,0,0,0
-2020-07-31,09,Burgos,55,54,0,1,0
-2020-07-31,15,A Coruña,21,21,0,0,0
-2020-07-31,11,Cádiz,12,12,0,0,0
-2020-07-31,10,Cáceres,19,19,0,0,0
+2020-07-31,48,Bizkaia,4,4,0,0,0
+2020-07-31,09,Burgos,40,39,0,1,0
+2020-07-31,15,A Coruña,22,22,0,0,0
+2020-07-31,11,Cádiz,34,34,0,0,0
+2020-07-31,10,Cáceres,20,20,0,0,0
 2020-07-31,51,Ceuta,0,0,0,0,0
-2020-07-31,14,Córdoba,26,26,0,0,0
+2020-07-31,14,Córdoba,28,28,0,0,0
 2020-07-31,13,Ciudad Real,13,13,0,0,0
-2020-07-31,12,Castellón/Castelló,4,4,0,0,0
-2020-07-31,16,Cuenca,2,2,0,0,0
-2020-07-31,35,Las Palmas,5,5,0,0,0
-2020-07-31,17,Girona,49,49,0,0,0
-2020-07-31,18,Granada,15,15,0,0,0
-2020-07-31,19,Guadalajara,6,5,0,1,0
+2020-07-31,12,Castellón/Castelló,7,7,0,0,0
+2020-07-31,16,Cuenca,3,2,0,1,0
+2020-07-31,35,Las Palmas,7,7,0,0,0
+2020-07-31,17,Girona,60,57,0,3,0
+2020-07-31,18,Granada,19,19,0,0,0
+2020-07-31,19,Guadalajara,12,11,0,1,0
 2020-07-31,21,Huelva,9,9,0,0,0
-2020-07-31,22,Huesca,43,43,0,0,0
-2020-07-31,23,Jaén,6,6,0,0,0
-2020-07-31,25,Lleida,89,87,0,2,0
-2020-07-31,24,León,3,3,0,0,0
-2020-07-31,26,La Rioja,6,6,0,0,0
+2020-07-31,22,Huesca,56,56,0,0,0
+2020-07-31,23,Jaén,8,8,0,0,0
+2020-07-31,25,Lleida,106,104,0,2,0
+2020-07-31,24,León,2,2,0,0,0
+2020-07-31,26,La Rioja,7,7,0,0,0
 2020-07-31,27,Lugo,1,1,0,0,0
-2020-07-31,28,Madrid,458,458,0,0,0
-2020-07-31,29,Málaga,49,49,0,0,0
+2020-07-31,28,Madrid,532,532,0,0,0
+2020-07-31,29,Málaga,63,63,0,0,0
 2020-07-31,52,Melilla,0,0,0,0,0
-2020-07-31,30,Murcia,39,39,0,0,0
-2020-07-31,31,Navarra,67,67,0,0,0
-2020-07-31,33,Asturias,11,11,0,0,0
-2020-07-31,32,Ourense,3,3,0,0,0
+2020-07-31,30,Murcia,51,51,0,0,0
+2020-07-31,31,Navarra,71,71,0,0,0
+2020-07-31,33,Asturias,12,12,0,0,0
+2020-07-31,32,Ourense,5,5,0,0,0
 2020-07-31,34,Palencia,3,3,0,0,0
-2020-07-31,07,Balears,48,48,0,0,0
-2020-07-31,36,Pontevedra,9,9,0,0,0
-2020-07-31,39,Cantabria,23,21,0,0,2
-2020-07-31,37,Salamanca,22,22,0,0,0
-2020-07-31,41,Sevilla,22,22,0,0,0
+2020-07-31,07,Balears,75,75,0,0,0
+2020-07-31,36,Pontevedra,10,10,0,0,0
+2020-07-31,39,Cantabria,16,16,0,0,0
+2020-07-31,37,Salamanca,23,23,0,0,0
+2020-07-31,41,Sevilla,25,25,0,0,0
 2020-07-31,40,Segovia,8,8,0,0,0
 2020-07-31,42,Soria,27,27,0,0,0
-2020-07-31,20,Gipuzkoa,45,45,0,0,0
-2020-07-31,43,Tarragona,40,40,0,0,0
-2020-07-31,44,Teruel,15,15,0,0,0
-2020-07-31,38,Santa Cruz de Tenerife,6,6,0,0,0
-2020-07-31,45,Toledo,22,22,0,0,0
-2020-07-31,46,Valencia/València,99,99,0,0,0
-2020-07-31,47,Valladolid,25,25,0,0,0
-2020-07-31,01,Araba/Álava,23,23,0,0,0
-2020-07-31,50,Zaragoza,357,357,0,0,0
+2020-07-31,20,Gipuzkoa,5,5,0,0,0
+2020-07-31,43,Tarragona,42,42,0,0,0
+2020-07-31,44,Teruel,16,16,0,0,0
+2020-07-31,38,Santa Cruz de Tenerife,8,8,0,0,0
+2020-07-31,45,Toledo,27,27,0,0,0
+2020-07-31,46,Valencia/València,137,137,0,0,0
+2020-07-31,47,Valladolid,29,29,0,0,0
+2020-07-31,01,Araba/Álava,29,29,0,0,0
+2020-07-31,50,Zaragoza,374,374,0,0,0
 2020-07-31,49,Zamora,3,3,0,0,0
-2020-08-01,03,Alicante/Alacant,38,38,0,0,0
+2020-08-01,03,Alicante/Alacant,60,60,0,0,0
 2020-08-01,02,Albacete,4,4,0,0,0
-2020-08-01,04,Almería,43,43,0,0,0
-2020-08-01,05,Ávila,1,1,0,0,0
-2020-08-01,08,Barcelona,362,362,0,0,0
-2020-08-01,06,Badajoz,9,9,0,0,0
-2020-08-01,48,Bizkaia,112,112,0,0,0
-2020-08-01,09,Burgos,12,12,0,0,0
-2020-08-01,15,A Coruña,24,24,0,0,0
-2020-08-01,11,Cádiz,13,13,0,0,0
+2020-08-01,04,Almería,51,51,0,0,0
+2020-08-01,05,Ávila,2,2,0,0,0
+2020-08-01,08,Barcelona,497,497,0,0,0
+2020-08-01,06,Badajoz,11,11,0,0,0
+2020-08-01,48,Bizkaia,6,6,0,0,0
+2020-08-01,09,Burgos,18,18,0,0,0
+2020-08-01,15,A Coruña,27,27,0,0,0
+2020-08-01,11,Cádiz,18,18,0,0,0
 2020-08-01,10,Cáceres,4,4,0,0,0
 2020-08-01,51,Ceuta,0,0,0,0,0
-2020-08-01,14,Córdoba,17,17,0,0,0
-2020-08-01,13,Ciudad Real,14,13,0,1,0
-2020-08-01,12,Castellón/Castelló,5,5,0,0,0
+2020-08-01,14,Córdoba,18,18,0,0,0
+2020-08-01,13,Ciudad Real,19,18,0,1,0
+2020-08-01,12,Castellón/Castelló,7,7,0,0,0
 2020-08-01,16,Cuenca,0,0,0,0,0
-2020-08-01,35,Las Palmas,13,13,0,0,0
-2020-08-01,17,Girona,10,10,0,0,0
-2020-08-01,18,Granada,12,12,0,0,0
-2020-08-01,19,Guadalajara,8,8,0,0,0
-2020-08-01,21,Huelva,2,2,0,0,0
-2020-08-01,22,Huesca,75,75,0,0,0
-2020-08-01,23,Jaén,5,5,0,0,0
-2020-08-01,25,Lleida,57,57,0,0,0
+2020-08-01,35,Las Palmas,17,17,0,0,0
+2020-08-01,17,Girona,23,23,0,0,0
+2020-08-01,18,Granada,16,16,0,0,0
+2020-08-01,19,Guadalajara,9,9,0,0,0
+2020-08-01,21,Huelva,3,3,0,0,0
+2020-08-01,22,Huesca,74,74,0,0,0
+2020-08-01,23,Jaén,8,8,0,0,0
+2020-08-01,25,Lleida,89,89,0,0,0
 2020-08-01,24,León,2,2,0,0,0
-2020-08-01,26,La Rioja,0,0,0,0,0
+2020-08-01,26,La Rioja,3,3,0,0,0
 2020-08-01,27,Lugo,4,4,0,0,0
-2020-08-01,28,Madrid,810,810,0,0,0
-2020-08-01,29,Málaga,44,44,0,0,0
-2020-08-01,52,Melilla,5,5,0,0,0
-2020-08-01,30,Murcia,35,35,0,0,0
-2020-08-01,31,Navarra,71,71,0,0,0
-2020-08-01,33,Asturias,15,15,0,0,0
+2020-08-01,28,Madrid,865,865,0,0,0
+2020-08-01,29,Málaga,60,60,0,0,0
+2020-08-01,52,Melilla,7,7,0,0,0
+2020-08-01,30,Murcia,58,58,0,0,0
+2020-08-01,31,Navarra,88,88,0,0,0
+2020-08-01,33,Asturias,17,17,0,0,0
 2020-08-01,32,Ourense,5,5,0,0,0
 2020-08-01,34,Palencia,0,0,0,0,0
-2020-08-01,07,Balears,38,38,0,0,0
-2020-08-01,36,Pontevedra,5,5,0,0,0
-2020-08-01,39,Cantabria,34,34,0,0,0
-2020-08-01,37,Salamanca,11,11,0,0,0
-2020-08-01,41,Sevilla,22,22,0,0,0
-2020-08-01,40,Segovia,2,2,0,0,0
+2020-08-01,07,Balears,101,101,0,0,0
+2020-08-01,36,Pontevedra,6,6,0,0,0
+2020-08-01,39,Cantabria,34,33,0,0,1
+2020-08-01,37,Salamanca,15,15,0,0,0
+2020-08-01,41,Sevilla,38,38,0,0,0
+2020-08-01,40,Segovia,4,4,0,0,0
 2020-08-01,42,Soria,9,9,0,0,0
-2020-08-01,20,Gipuzkoa,28,28,0,0,0
-2020-08-01,43,Tarragona,26,26,0,0,0
-2020-08-01,44,Teruel,7,7,0,0,0
-2020-08-01,38,Santa Cruz de Tenerife,9,9,0,0,0
-2020-08-01,45,Toledo,18,18,0,0,0
-2020-08-01,46,Valencia/València,80,80,0,0,0
-2020-08-01,47,Valladolid,10,10,0,0,0
-2020-08-01,01,Araba/Álava,32,32,0,0,0
-2020-08-01,50,Zaragoza,1066,1066,0,0,0
+2020-08-01,20,Gipuzkoa,4,4,0,0,0
+2020-08-01,43,Tarragona,43,43,0,0,0
+2020-08-01,44,Teruel,11,11,0,0,0
+2020-08-01,38,Santa Cruz de Tenerife,10,10,0,0,0
+2020-08-01,45,Toledo,26,26,0,0,0
+2020-08-01,46,Valencia/València,136,136,0,0,0
+2020-08-01,47,Valladolid,20,20,0,0,0
+2020-08-01,01,Araba/Álava,30,30,0,0,0
+2020-08-01,50,Zaragoza,678,678,0,0,0
 2020-08-01,49,Zamora,3,3,0,0,0
-2020-08-02,03,Alicante/Alacant,25,25,0,0,0
-2020-08-02,02,Albacete,3,3,0,0,0
-2020-08-02,04,Almería,83,83,0,0,0
-2020-08-02,05,Ávila,0,0,0,0,0
-2020-08-02,08,Barcelona,174,174,0,0,0
-2020-08-02,06,Badajoz,15,15,0,0,0
-2020-08-02,48,Bizkaia,96,96,0,0,0
-2020-08-02,09,Burgos,21,21,0,0,0
-2020-08-02,15,A Coruña,6,6,0,0,0
-2020-08-02,11,Cádiz,8,8,0,0,0
-2020-08-02,10,Cáceres,3,3,0,0,0
+2020-08-02,03,Alicante/Alacant,55,55,0,0,0
+2020-08-02,02,Albacete,6,6,0,0,0
+2020-08-02,04,Almería,90,90,0,0,0
+2020-08-02,05,Ávila,1,1,0,0,0
+2020-08-02,08,Barcelona,318,318,0,0,0
+2020-08-02,06,Badajoz,16,16,0,0,0
+2020-08-02,48,Bizkaia,2,2,0,0,0
+2020-08-02,09,Burgos,24,24,0,0,0
+2020-08-02,15,A Coruña,14,14,0,0,0
+2020-08-02,11,Cádiz,13,13,0,0,0
+2020-08-02,10,Cáceres,4,4,0,0,0
 2020-08-02,51,Ceuta,0,0,0,0,0
-2020-08-02,14,Córdoba,9,9,0,0,0
-2020-08-02,13,Ciudad Real,7,7,0,0,0
-2020-08-02,12,Castellón/Castelló,4,4,0,0,0
-2020-08-02,16,Cuenca,0,0,0,0,0
-2020-08-02,35,Las Palmas,10,10,0,0,0
-2020-08-02,17,Girona,15,15,0,0,0
-2020-08-02,18,Granada,6,6,0,0,0
-2020-08-02,19,Guadalajara,5,5,0,0,0
+2020-08-02,14,Córdoba,12,12,0,0,0
+2020-08-02,13,Ciudad Real,15,15,0,0,0
+2020-08-02,12,Castellón/Castelló,8,8,0,0,0
+2020-08-02,16,Cuenca,1,1,0,0,0
+2020-08-02,35,Las Palmas,18,18,0,0,0
+2020-08-02,17,Girona,22,22,0,0,0
+2020-08-02,18,Granada,9,9,0,0,0
+2020-08-02,19,Guadalajara,9,9,0,0,0
 2020-08-02,21,Huelva,1,1,0,0,0
-2020-08-02,22,Huesca,15,15,0,0,0
-2020-08-02,23,Jaén,4,4,0,0,0
-2020-08-02,25,Lleida,34,34,0,0,0
+2020-08-02,22,Huesca,25,25,0,0,0
+2020-08-02,23,Jaén,6,6,0,0,0
+2020-08-02,25,Lleida,53,53,0,0,0
 2020-08-02,24,León,0,0,0,0,0
-2020-08-02,26,La Rioja,3,3,0,0,0
+2020-08-02,26,La Rioja,4,4,0,0,0
 2020-08-02,27,Lugo,2,2,0,0,0
-2020-08-02,28,Madrid,360,360,0,0,0
-2020-08-02,29,Málaga,21,21,0,0,0
-2020-08-02,52,Melilla,0,0,0,0,0
-2020-08-02,30,Murcia,32,32,0,0,0
-2020-08-02,31,Navarra,61,61,0,0,0
-2020-08-02,33,Asturias,5,5,0,0,0
-2020-08-02,32,Ourense,2,2,0,0,0
+2020-08-02,28,Madrid,780,780,0,0,0
+2020-08-02,29,Málaga,46,46,0,0,0
+2020-08-02,52,Melilla,3,3,0,0,0
+2020-08-02,30,Murcia,53,53,0,0,0
+2020-08-02,31,Navarra,83,83,0,0,0
+2020-08-02,33,Asturias,10,10,0,0,0
+2020-08-02,32,Ourense,3,3,0,0,0
 2020-08-02,34,Palencia,2,2,0,0,0
-2020-08-02,07,Balears,29,29,0,0,0
-2020-08-02,36,Pontevedra,4,4,0,0,0
-2020-08-02,39,Cantabria,21,18,0,0,3
-2020-08-02,37,Salamanca,6,6,0,0,0
-2020-08-02,41,Sevilla,13,13,0,0,0
+2020-08-02,07,Balears,82,81,0,0,1
+2020-08-02,36,Pontevedra,5,5,0,0,0
+2020-08-02,39,Cantabria,21,21,0,0,0
+2020-08-02,37,Salamanca,11,11,0,0,0
+2020-08-02,41,Sevilla,27,27,0,0,0
 2020-08-02,40,Segovia,1,1,0,0,0
-2020-08-02,42,Soria,1,1,0,0,0
-2020-08-02,20,Gipuzkoa,21,21,0,0,0
-2020-08-02,43,Tarragona,18,18,0,0,0
-2020-08-02,44,Teruel,12,12,0,0,0
-2020-08-02,38,Santa Cruz de Tenerife,2,2,0,0,0
-2020-08-02,45,Toledo,18,18,0,0,0
-2020-08-02,46,Valencia/València,36,36,0,0,0
-2020-08-02,47,Valladolid,3,3,0,0,0
-2020-08-02,01,Araba/Álava,19,19,0,0,0
-2020-08-02,50,Zaragoza,283,283,0,0,0
+2020-08-02,42,Soria,4,4,0,0,0
+2020-08-02,20,Gipuzkoa,3,3,0,0,0
+2020-08-02,43,Tarragona,21,21,0,0,0
+2020-08-02,44,Teruel,20,20,0,0,0
+2020-08-02,38,Santa Cruz de Tenerife,3,3,0,0,0
+2020-08-02,45,Toledo,26,25,0,1,0
+2020-08-02,46,Valencia/València,86,86,0,0,0
+2020-08-02,47,Valladolid,12,12,0,0,0
+2020-08-02,01,Araba/Álava,21,21,0,0,0
+2020-08-02,50,Zaragoza,315,315,0,0,0
 2020-08-02,49,Zamora,4,4,0,0,0
+2020-08-03,03,Alicante/Alacant,44,44,0,0,0
+2020-08-03,02,Albacete,8,8,0,0,0
+2020-08-03,04,Almería,75,75,0,0,0
+2020-08-03,05,Ávila,2,2,0,0,0
+2020-08-03,08,Barcelona,644,644,0,0,0
+2020-08-03,06,Badajoz,13,13,0,0,0
+2020-08-03,48,Bizkaia,1,1,0,0,0
+2020-08-03,09,Burgos,16,16,0,0,0
+2020-08-03,15,A Coruña,37,37,0,0,0
+2020-08-03,11,Cádiz,20,20,0,0,0
+2020-08-03,10,Cáceres,4,4,0,0,0
+2020-08-03,51,Ceuta,0,0,0,0,0
+2020-08-03,14,Córdoba,13,13,0,0,0
+2020-08-03,13,Ciudad Real,13,13,0,0,0
+2020-08-03,12,Castellón/Castelló,8,8,0,0,0
+2020-08-03,16,Cuenca,1,1,0,0,0
+2020-08-03,35,Las Palmas,22,22,0,0,0
+2020-08-03,17,Girona,40,40,0,0,0
+2020-08-03,18,Granada,10,10,0,0,0
+2020-08-03,19,Guadalajara,16,16,0,0,0
+2020-08-03,21,Huelva,2,2,0,0,0
+2020-08-03,22,Huesca,40,40,0,0,0
+2020-08-03,23,Jaén,14,14,0,0,0
+2020-08-03,25,Lleida,75,75,0,0,0
+2020-08-03,24,León,2,2,0,0,0
+2020-08-03,26,La Rioja,9,8,0,1,0
+2020-08-03,27,Lugo,3,3,0,0,0
+2020-08-03,28,Madrid,1081,1081,0,0,0
+2020-08-03,29,Málaga,57,57,0,0,0
+2020-08-03,52,Melilla,2,2,0,0,0
+2020-08-03,30,Murcia,63,63,0,0,0
+2020-08-03,31,Navarra,104,104,0,0,0
+2020-08-03,33,Asturias,9,9,0,0,0
+2020-08-03,32,Ourense,0,0,0,0,0
+2020-08-03,34,Palencia,0,0,0,0,0
+2020-08-03,07,Balears,132,131,0,0,1
+2020-08-03,36,Pontevedra,17,17,0,0,0
+2020-08-03,39,Cantabria,40,40,0,0,0
+2020-08-03,37,Salamanca,24,24,0,0,0
+2020-08-03,41,Sevilla,30,30,0,0,0
+2020-08-03,40,Segovia,1,1,0,0,0
+2020-08-03,42,Soria,7,7,0,0,0
+2020-08-03,20,Gipuzkoa,6,6,0,0,0
+2020-08-03,43,Tarragona,30,30,0,0,0
+2020-08-03,44,Teruel,24,24,0,0,0
+2020-08-03,38,Santa Cruz de Tenerife,6,6,0,0,0
+2020-08-03,45,Toledo,31,31,0,0,0
+2020-08-03,46,Valencia/València,133,133,0,0,0
+2020-08-03,47,Valladolid,18,18,0,0,0
+2020-08-03,01,Araba/Álava,31,31,0,0,0
+2020-08-03,50,Zaragoza,281,281,0,0,0
+2020-08-03,49,Zamora,2,2,0,0,0
+2020-08-04,03,Alicante/Alacant,55,55,0,0,0
+2020-08-04,02,Albacete,18,18,0,0,0
+2020-08-04,04,Almería,67,67,0,0,0
+2020-08-04,05,Ávila,2,2,0,0,0
+2020-08-04,08,Barcelona,710,709,0,1,0
+2020-08-04,06,Badajoz,3,3,0,0,0
+2020-08-04,48,Bizkaia,2,2,0,0,0
+2020-08-04,09,Burgos,87,87,0,0,0
+2020-08-04,15,A Coruña,28,28,0,0,0
+2020-08-04,11,Cádiz,15,15,0,0,0
+2020-08-04,10,Cáceres,11,11,0,0,0
+2020-08-04,51,Ceuta,0,0,0,0,0
+2020-08-04,14,Córdoba,9,9,0,0,0
+2020-08-04,13,Ciudad Real,24,24,0,0,0
+2020-08-04,12,Castellón/Castelló,14,14,0,0,0
+2020-08-04,16,Cuenca,5,5,0,0,0
+2020-08-04,35,Las Palmas,40,40,0,0,0
+2020-08-04,17,Girona,51,51,0,0,0
+2020-08-04,18,Granada,16,16,0,0,0
+2020-08-04,19,Guadalajara,11,11,0,0,0
+2020-08-04,21,Huelva,3,3,0,0,0
+2020-08-04,22,Huesca,87,87,0,0,0
+2020-08-04,23,Jaén,4,4,0,0,0
+2020-08-04,25,Lleida,86,86,0,0,0
+2020-08-04,24,León,8,8,0,0,0
+2020-08-04,26,La Rioja,7,7,0,0,0
+2020-08-04,27,Lugo,3,3,0,0,0
+2020-08-04,28,Madrid,1520,1520,0,0,0
+2020-08-04,29,Málaga,61,61,0,0,0
+2020-08-04,52,Melilla,5,5,0,0,0
+2020-08-04,30,Murcia,84,84,0,0,0
+2020-08-04,31,Navarra,83,83,0,0,0
+2020-08-04,33,Asturias,15,15,0,0,0
+2020-08-04,32,Ourense,2,2,0,0,0
+2020-08-04,34,Palencia,7,7,0,0,0
+2020-08-04,07,Balears,146,144,0,0,2
+2020-08-04,36,Pontevedra,16,16,0,0,0
+2020-08-04,39,Cantabria,43,43,0,0,0
+2020-08-04,37,Salamanca,26,26,0,0,0
+2020-08-04,41,Sevilla,46,46,0,0,0
+2020-08-04,40,Segovia,8,8,0,0,0
+2020-08-04,42,Soria,16,16,0,0,0
+2020-08-04,20,Gipuzkoa,2,2,0,0,0
+2020-08-04,43,Tarragona,32,32,0,0,0
+2020-08-04,44,Teruel,37,37,0,0,0
+2020-08-04,38,Santa Cruz de Tenerife,9,9,0,0,0
+2020-08-04,45,Toledo,31,30,0,1,0
+2020-08-04,46,Valencia/València,164,164,0,0,0
+2020-08-04,47,Valladolid,25,25,0,0,0
+2020-08-04,01,Araba/Álava,31,31,0,0,0
+2020-08-04,50,Zaragoza,253,253,0,0,0
+2020-08-04,49,Zamora,4,4,0,0,0
+2020-08-05,03,Alicante/Alacant,61,61,0,0,0
+2020-08-05,02,Albacete,15,15,0,0,0
+2020-08-05,04,Almería,92,92,0,0,0
+2020-08-05,05,Ávila,4,4,0,0,0
+2020-08-05,08,Barcelona,746,745,0,1,0
+2020-08-05,06,Badajoz,20,20,0,0,0
+2020-08-05,48,Bizkaia,0,0,0,0,0
+2020-08-05,09,Burgos,109,109,0,0,0
+2020-08-05,15,A Coruña,27,27,0,0,0
+2020-08-05,11,Cádiz,21,21,0,0,0
+2020-08-05,10,Cáceres,12,12,0,0,0
+2020-08-05,51,Ceuta,0,0,0,0,0
+2020-08-05,14,Córdoba,14,14,0,0,0
+2020-08-05,13,Ciudad Real,24,24,0,0,0
+2020-08-05,12,Castellón/Castelló,13,13,0,0,0
+2020-08-05,16,Cuenca,3,3,0,0,0
+2020-08-05,35,Las Palmas,38,38,0,0,0
+2020-08-05,17,Girona,33,33,0,0,0
+2020-08-05,18,Granada,24,24,0,0,0
+2020-08-05,19,Guadalajara,14,14,0,0,0
+2020-08-05,21,Huelva,5,5,0,0,0
+2020-08-05,22,Huesca,29,29,0,0,0
+2020-08-05,23,Jaén,27,27,0,0,0
+2020-08-05,25,Lleida,62,61,0,1,0
+2020-08-05,24,León,7,7,0,0,0
+2020-08-05,26,La Rioja,23,23,0,0,0
+2020-08-05,27,Lugo,4,4,0,0,0
+2020-08-05,28,Madrid,672,672,0,0,0
+2020-08-05,29,Málaga,81,81,0,0,0
+2020-08-05,52,Melilla,1,1,0,0,0
+2020-08-05,30,Murcia,53,53,0,0,0
+2020-08-05,31,Navarra,77,77,0,0,0
+2020-08-05,33,Asturias,40,40,0,0,0
+2020-08-05,32,Ourense,2,2,0,0,0
+2020-08-05,34,Palencia,3,3,0,0,0
+2020-08-05,07,Balears,126,122,0,0,4
+2020-08-05,36,Pontevedra,4,4,0,0,0
+2020-08-05,39,Cantabria,27,27,0,0,0
+2020-08-05,37,Salamanca,15,15,0,0,0
+2020-08-05,41,Sevilla,20,20,0,0,0
+2020-08-05,40,Segovia,8,8,0,0,0
+2020-08-05,42,Soria,6,6,0,0,0
+2020-08-05,20,Gipuzkoa,4,4,0,0,0
+2020-08-05,43,Tarragona,36,36,0,0,0
+2020-08-05,44,Teruel,22,22,0,0,0
+2020-08-05,38,Santa Cruz de Tenerife,15,15,0,0,0
+2020-08-05,45,Toledo,24,24,0,0,0
+2020-08-05,46,Valencia/València,166,166,0,0,0
+2020-08-05,47,Valladolid,42,42,0,0,0
+2020-08-05,01,Araba/Álava,26,26,0,0,0
+2020-08-05,50,Zaragoza,245,245,0,0,0
+2020-08-05,49,Zamora,4,4,0,0,0
+2020-08-06,03,Alicante/Alacant,42,42,0,0,0
+2020-08-06,02,Albacete,13,13,0,0,0
+2020-08-06,04,Almería,102,102,0,0,0
+2020-08-06,05,Ávila,4,4,0,0,0
+2020-08-06,08,Barcelona,676,675,0,1,0
+2020-08-06,06,Badajoz,18,18,0,0,0
+2020-08-06,48,Bizkaia,0,0,0,0,0
+2020-08-06,09,Burgos,46,46,0,0,0
+2020-08-06,15,A Coruña,74,74,0,0,0
+2020-08-06,11,Cádiz,21,21,0,0,0
+2020-08-06,10,Cáceres,5,5,0,0,0
+2020-08-06,51,Ceuta,1,1,0,0,0
+2020-08-06,14,Córdoba,23,23,0,0,0
+2020-08-06,13,Ciudad Real,27,27,0,0,0
+2020-08-06,12,Castellón/Castelló,8,8,0,0,0
+2020-08-06,16,Cuenca,7,7,0,0,0
+2020-08-06,35,Las Palmas,48,48,0,0,0
+2020-08-06,17,Girona,45,45,0,0,0
+2020-08-06,18,Granada,22,22,0,0,0
+2020-08-06,19,Guadalajara,19,19,0,0,0
+2020-08-06,21,Huelva,5,5,0,0,0
+2020-08-06,22,Huesca,23,23,0,0,0
+2020-08-06,23,Jaén,15,15,0,0,0
+2020-08-06,25,Lleida,69,68,0,1,0
+2020-08-06,24,León,10,10,0,0,0
+2020-08-06,26,La Rioja,11,11,0,0,0
+2020-08-06,27,Lugo,8,8,0,0,0
+2020-08-06,28,Madrid,433,433,0,0,0
+2020-08-06,29,Málaga,86,86,0,0,0
+2020-08-06,52,Melilla,2,2,0,0,0
+2020-08-06,30,Murcia,45,45,0,0,0
+2020-08-06,31,Navarra,83,83,0,0,0
+2020-08-06,33,Asturias,38,38,0,0,0
+2020-08-06,32,Ourense,1,1,0,0,0
+2020-08-06,34,Palencia,10,10,0,0,0
+2020-08-06,07,Balears,119,114,0,0,5
+2020-08-06,36,Pontevedra,9,9,0,0,0
+2020-08-06,39,Cantabria,39,39,0,0,0
+2020-08-06,37,Salamanca,15,15,0,0,0
+2020-08-06,41,Sevilla,17,17,0,0,0
+2020-08-06,40,Segovia,4,4,0,0,0
+2020-08-06,42,Soria,13,13,0,0,0
+2020-08-06,20,Gipuzkoa,1,1,0,0,0
+2020-08-06,43,Tarragona,25,25,0,0,0
+2020-08-06,44,Teruel,28,28,0,0,0
+2020-08-06,38,Santa Cruz de Tenerife,12,12,0,0,0
+2020-08-06,45,Toledo,19,19,0,0,0
+2020-08-06,46,Valencia/València,147,147,0,0,0
+2020-08-06,47,Valladolid,26,26,0,0,0
+2020-08-06,01,Araba/Álava,12,12,0,0,0
+2020-08-06,50,Zaragoza,287,287,0,0,0
+2020-08-06,49,Zamora,2,2,0,0,0
+2020-08-07,03,Alicante/Alacant,39,39,0,0,0
+2020-08-07,02,Albacete,13,13,0,0,0
+2020-08-07,04,Almería,107,107,0,0,0
+2020-08-07,05,Ávila,4,4,0,0,0
+2020-08-07,08,Barcelona,722,720,0,2,0
+2020-08-07,06,Badajoz,37,37,0,0,0
+2020-08-07,48,Bizkaia,1,1,0,0,0
+2020-08-07,09,Burgos,85,85,0,0,0
+2020-08-07,15,A Coruña,83,83,0,0,0
+2020-08-07,11,Cádiz,21,21,0,0,0
+2020-08-07,10,Cáceres,6,6,0,0,0
+2020-08-07,51,Ceuta,1,1,0,0,0
+2020-08-07,14,Córdoba,18,18,0,0,0
+2020-08-07,13,Ciudad Real,13,13,0,0,0
+2020-08-07,12,Castellón/Castelló,9,9,0,0,0
+2020-08-07,16,Cuenca,4,4,0,0,0
+2020-08-07,35,Las Palmas,43,43,0,0,0
+2020-08-07,17,Girona,30,30,0,0,0
+2020-08-07,18,Granada,24,24,0,0,0
+2020-08-07,19,Guadalajara,13,13,0,0,0
+2020-08-07,21,Huelva,4,4,0,0,0
+2020-08-07,22,Huesca,48,48,0,0,0
+2020-08-07,23,Jaén,30,30,0,0,0
+2020-08-07,25,Lleida,50,50,0,0,0
+2020-08-07,24,León,8,8,0,0,0
+2020-08-07,26,La Rioja,14,13,0,0,1
+2020-08-07,27,Lugo,10,10,0,0,0
+2020-08-07,28,Madrid,585,585,0,0,0
+2020-08-07,29,Málaga,74,74,0,0,0
+2020-08-07,52,Melilla,6,5,0,0,1
+2020-08-07,30,Murcia,70,70,0,0,0
+2020-08-07,31,Navarra,92,92,0,0,0
+2020-08-07,33,Asturias,28,28,0,0,0
+2020-08-07,32,Ourense,5,5,0,0,0
+2020-08-07,34,Palencia,4,4,0,0,0
+2020-08-07,07,Balears,114,107,0,0,7
+2020-08-07,36,Pontevedra,10,10,0,0,0
+2020-08-07,39,Cantabria,33,33,0,0,0
+2020-08-07,37,Salamanca,39,39,0,0,0
+2020-08-07,41,Sevilla,28,28,0,0,0
+2020-08-07,40,Segovia,5,5,0,0,0
+2020-08-07,42,Soria,11,10,0,1,0
+2020-08-07,20,Gipuzkoa,2,2,0,0,0
+2020-08-07,43,Tarragona,31,31,0,0,0
+2020-08-07,44,Teruel,45,45,0,0,0
+2020-08-07,38,Santa Cruz de Tenerife,9,9,0,0,0
+2020-08-07,45,Toledo,31,31,0,0,0
+2020-08-07,46,Valencia/València,137,137,0,0,0
+2020-08-07,47,Valladolid,43,43,0,0,0
+2020-08-07,01,Araba/Álava,4,4,0,0,0
+2020-08-07,50,Zaragoza,334,334,0,0,0
+2020-08-07,49,Zamora,3,3,0,0,0
+2020-08-08,03,Alicante/Alacant,39,39,0,0,0
+2020-08-08,02,Albacete,9,9,0,0,0
+2020-08-08,04,Almería,113,113,0,0,0
+2020-08-08,05,Ávila,2,2,0,0,0
+2020-08-08,08,Barcelona,355,355,0,0,0
+2020-08-08,06,Badajoz,10,10,0,0,0
+2020-08-08,48,Bizkaia,0,0,0,0,0
+2020-08-08,09,Burgos,59,59,0,0,0
+2020-08-08,15,A Coruña,50,50,0,0,0
+2020-08-08,11,Cádiz,23,23,0,0,0
+2020-08-08,10,Cáceres,5,5,0,0,0
+2020-08-08,51,Ceuta,0,0,0,0,0
+2020-08-08,14,Córdoba,10,10,0,0,0
+2020-08-08,13,Ciudad Real,14,14,0,0,0
+2020-08-08,12,Castellón/Castelló,4,4,0,0,0
+2020-08-08,16,Cuenca,4,4,0,0,0
+2020-08-08,35,Las Palmas,35,35,0,0,0
+2020-08-08,17,Girona,16,16,0,0,0
+2020-08-08,18,Granada,13,13,0,0,0
+2020-08-08,19,Guadalajara,13,13,0,0,0
+2020-08-08,21,Huelva,9,9,0,0,0
+2020-08-08,22,Huesca,48,48,0,0,0
+2020-08-08,23,Jaén,13,13,0,0,0
+2020-08-08,25,Lleida,38,38,0,0,0
+2020-08-08,24,León,4,4,0,0,0
+2020-08-08,26,La Rioja,11,11,0,0,0
+2020-08-08,27,Lugo,9,9,0,0,0
+2020-08-08,28,Madrid,1370,1370,0,0,0
+2020-08-08,29,Málaga,63,63,0,0,0
+2020-08-08,52,Melilla,2,2,0,0,0
+2020-08-08,30,Murcia,49,49,0,0,0
+2020-08-08,31,Navarra,76,76,0,0,0
+2020-08-08,33,Asturias,17,17,0,0,0
+2020-08-08,32,Ourense,5,5,0,0,0
+2020-08-08,34,Palencia,3,3,0,0,0
+2020-08-08,07,Balears,87,77,0,0,10
+2020-08-08,36,Pontevedra,9,9,0,0,0
+2020-08-08,39,Cantabria,42,42,0,0,0
+2020-08-08,37,Salamanca,9,9,0,0,0
+2020-08-08,41,Sevilla,31,31,0,0,0
+2020-08-08,40,Segovia,5,5,0,0,0
+2020-08-08,42,Soria,10,10,0,0,0
+2020-08-08,20,Gipuzkoa,0,0,0,0,0
+2020-08-08,43,Tarragona,20,20,0,0,0
+2020-08-08,44,Teruel,10,10,0,0,0
+2020-08-08,38,Santa Cruz de Tenerife,13,13,0,0,0
+2020-08-08,45,Toledo,55,55,0,0,0
+2020-08-08,46,Valencia/València,137,137,0,0,0
+2020-08-08,47,Valladolid,33,33,0,0,0
+2020-08-08,01,Araba/Álava,5,5,0,0,0
+2020-08-08,50,Zaragoza,498,498,0,0,0
+2020-08-08,49,Zamora,9,9,0,0,0
+2020-08-09,03,Alicante/Alacant,12,12,0,0,0
+2020-08-09,02,Albacete,6,6,0,0,0
+2020-08-09,04,Almería,33,33,0,0,0
+2020-08-09,05,Ávila,4,4,0,0,0
+2020-08-09,08,Barcelona,166,166,0,0,0
+2020-08-09,06,Badajoz,4,4,0,0,0
+2020-08-09,48,Bizkaia,0,0,0,0,0
+2020-08-09,09,Burgos,153,153,0,0,0
+2020-08-09,15,A Coruña,23,23,0,0,0
+2020-08-09,11,Cádiz,25,25,0,0,0
+2020-08-09,10,Cáceres,4,4,0,0,0
+2020-08-09,51,Ceuta,0,0,0,0,0
+2020-08-09,14,Córdoba,25,25,0,0,0
+2020-08-09,13,Ciudad Real,15,15,0,0,0
+2020-08-09,12,Castellón/Castelló,3,3,0,0,0
+2020-08-09,16,Cuenca,4,4,0,0,0
+2020-08-09,35,Las Palmas,33,33,0,0,0
+2020-08-09,17,Girona,10,10,0,0,0
+2020-08-09,18,Granada,24,24,0,0,0
+2020-08-09,19,Guadalajara,14,14,0,0,0
+2020-08-09,21,Huelva,2,2,0,0,0
+2020-08-09,22,Huesca,36,36,0,0,0
+2020-08-09,23,Jaén,3,3,0,0,0
+2020-08-09,25,Lleida,23,23,0,0,0
+2020-08-09,24,León,10,10,0,0,0
+2020-08-09,26,La Rioja,15,15,0,0,0
+2020-08-09,27,Lugo,5,5,0,0,0
+2020-08-09,28,Madrid,937,937,0,0,0
+2020-08-09,29,Málaga,35,35,0,0,0
+2020-08-09,52,Melilla,5,5,0,0,0
+2020-08-09,30,Murcia,47,47,0,0,0
+2020-08-09,31,Navarra,100,100,0,0,0
+2020-08-09,33,Asturias,17,17,0,0,0
+2020-08-09,32,Ourense,6,6,0,0,0
+2020-08-09,34,Palencia,2,2,0,0,0
+2020-08-09,07,Balears,49,46,0,0,3
+2020-08-09,36,Pontevedra,19,19,0,0,0
+2020-08-09,39,Cantabria,40,40,0,0,0
+2020-08-09,37,Salamanca,33,33,0,0,0
+2020-08-09,41,Sevilla,13,13,0,0,0
+2020-08-09,40,Segovia,2,2,0,0,0
+2020-08-09,42,Soria,7,7,0,0,0
+2020-08-09,20,Gipuzkoa,1,1,0,0,0
+2020-08-09,43,Tarragona,19,19,0,0,0
+2020-08-09,44,Teruel,13,13,0,0,0
+2020-08-09,38,Santa Cruz de Tenerife,4,4,0,0,0
+2020-08-09,45,Toledo,21,21,0,0,0
+2020-08-09,46,Valencia/València,72,72,0,0,0
+2020-08-09,47,Valladolid,17,17,0,0,0
+2020-08-09,01,Araba/Álava,5,5,0,0,0
+2020-08-09,50,Zaragoza,245,245,0,0,0
+2020-08-09,49,Zamora,4,4,0,0,0
