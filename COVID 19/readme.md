@@ -645,7 +645,7 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 [**Trabajar con datos abiertos en tiempos
 de pandemia: uso de covidDATA-19 | https://doi.org/10.3145/epi.2020.jul.21**](http://www.elprofesionaldelainformacion.com/contenidos/2020/jul/ferrer-calabuig-peset-sanchez.pdf)
 
-[**DatAC: A visual analytics platform to explore climate and air quality indicators associated with the COVID-19 pandemic in Spain |https://doi.org/10.1016/j.scitotenv.2020.141424**](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12241)
+[**DatAC: A visual analytics platform to explore climate and air quality indicators associated with the COVID-19 pandemic in Spain |https://doi.org/10.1016/j.scitotenv.2020.141424**](https://doi.org/10.1016/j.scitotenv.2020.141424)
 
 [**DatAC: Data Against COVID-19**](https://covid19.genyo.es/)
 
