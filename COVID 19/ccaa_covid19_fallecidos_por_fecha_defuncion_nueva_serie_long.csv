@@ -190,9 +190,10 @@ fecha,cod_ine,CCAA,total
 2020-08-19,01,Andalucía,2
 2020-08-20,01,Andalucía,0
 2020-08-21,01,Andalucía,0
-2020-08-22,01,Andalucía,1
-2020-08-23,01,Andalucía,2
-2020-08-24,01,Andalucía,4
+2020-08-22,01,Andalucía,2
+2020-08-23,01,Andalucía,3
+2020-08-24,01,Andalucía,5
+2020-08-25,01,Andalucía,1
 2020-02-13,02,Aragón,0
 2020-02-14,02,Aragón,0
 2020-02-15,02,Aragón,0
@@ -387,6 +388,7 @@ fecha,cod_ine,CCAA,total
 2020-08-22,02,Aragón,0
 2020-08-23,02,Aragón,0
 2020-08-24,02,Aragón,0
+2020-08-25,02,Aragón,0
 2020-02-13,03,Asturias,0
 2020-02-14,03,Asturias,0
 2020-02-15,03,Asturias,0
@@ -581,6 +583,7 @@ fecha,cod_ine,CCAA,total
 2020-08-22,03,Asturias,0
 2020-08-23,03,Asturias,1
 2020-08-24,03,Asturias,0
+2020-08-25,03,Asturias,0
 2020-02-13,04,Baleares,0
 2020-02-14,04,Baleares,0
 2020-02-15,04,Baleares,0
@@ -773,8 +776,9 @@ fecha,cod_ine,CCAA,total
 2020-08-20,04,Baleares,0
 2020-08-21,04,Baleares,0
 2020-08-22,04,Baleares,0
-2020-08-23,04,Baleares,0
-2020-08-24,04,Baleares,1
+2020-08-23,04,Baleares,1
+2020-08-24,04,Baleares,2
+2020-08-25,04,Baleares,0
 2020-02-13,05,Canarias,0
 2020-02-14,05,Canarias,0
 2020-02-15,05,Canarias,0
@@ -969,6 +973,7 @@ fecha,cod_ine,CCAA,total
 2020-08-22,05,Canarias,0
 2020-08-23,05,Canarias,1
 2020-08-24,05,Canarias,0
+2020-08-25,05,Canarias,1
 2020-02-13,06,Cantabria,0
 2020-02-14,06,Cantabria,0
 2020-02-15,06,Cantabria,0
@@ -1163,6 +1168,7 @@ fecha,cod_ine,CCAA,total
 2020-08-22,06,Cantabria,0
 2020-08-23,06,Cantabria,0
 2020-08-24,06,Cantabria,0
+2020-08-25,06,Cantabria,0
 2020-02-13,08,Castilla La Mancha,0
 2020-02-14,08,Castilla La Mancha,0
 2020-02-15,08,Castilla La Mancha,0
@@ -1357,6 +1363,7 @@ fecha,cod_ine,CCAA,total
 2020-08-22,08,Castilla La Mancha,1
 2020-08-23,08,Castilla La Mancha,0
 2020-08-24,08,Castilla La Mancha,0
+2020-08-25,08,Castilla La Mancha,1
 2020-02-13,07,Castilla y León,0
 2020-02-14,07,Castilla y León,0
 2020-02-15,07,Castilla y León,0
@@ -1550,7 +1557,8 @@ fecha,cod_ine,CCAA,total
 2020-08-21,07,Castilla y León,0
 2020-08-22,07,Castilla y León,2
 2020-08-23,07,Castilla y León,0
-2020-08-24,07,Castilla y León,1
+2020-08-24,07,Castilla y León,2
+2020-08-25,07,Castilla y León,1
 2020-02-13,09,Cataluña,0
 2020-02-14,09,Cataluña,0
 2020-02-15,09,Cataluña,0
@@ -1726,25 +1734,26 @@ fecha,cod_ine,CCAA,total
 2020-08-03,09,Cataluña,0
 2020-08-04,09,Cataluña,0
 2020-08-05,09,Cataluña,2
-2020-08-06,09,Cataluña,3
+2020-08-06,09,Cataluña,4
 2020-08-07,09,Cataluña,0
 2020-08-08,09,Cataluña,0
 2020-08-09,09,Cataluña,2
 2020-08-10,09,Cataluña,0
 2020-08-11,09,Cataluña,1
 2020-08-12,09,Cataluña,0
-2020-08-13,09,Cataluña,1
-2020-08-14,09,Cataluña,1
-2020-08-15,09,Cataluña,3
+2020-08-13,09,Cataluña,2
+2020-08-14,09,Cataluña,3
+2020-08-15,09,Cataluña,4
 2020-08-16,09,Cataluña,1
-2020-08-17,09,Cataluña,3
-2020-08-18,09,Cataluña,1
-2020-08-19,09,Cataluña,1
-2020-08-20,09,Cataluña,1
-2020-08-21,09,Cataluña,0
-2020-08-22,09,Cataluña,0
+2020-08-17,09,Cataluña,4
+2020-08-18,09,Cataluña,2
+2020-08-19,09,Cataluña,2
+2020-08-20,09,Cataluña,3
+2020-08-21,09,Cataluña,1
+2020-08-22,09,Cataluña,1
 2020-08-23,09,Cataluña,0
-2020-08-24,09,Cataluña,0
+2020-08-24,09,Cataluña,1
+2020-08-25,09,Cataluña,0
 2020-02-13,18,Ceuta,0
 2020-02-14,18,Ceuta,0
 2020-02-15,18,Ceuta,0
@@ -1939,6 +1948,7 @@ fecha,cod_ine,CCAA,total
 2020-08-22,18,Ceuta,0
 2020-08-23,18,Ceuta,0
 2020-08-24,18,Ceuta,0
+2020-08-25,18,Ceuta,0
 2020-02-13,10,C. Valenciana,1
 2020-02-14,10,C. Valenciana,0
 2020-02-15,10,C. Valenciana,0
@@ -2029,7 +2039,7 @@ fecha,cod_ine,CCAA,total
 2020-05-10,10,C. Valenciana,5
 2020-05-11,10,C. Valenciana,7
 2020-05-12,10,C. Valenciana,4
-2020-05-13,10,C. Valenciana,7
+2020-05-13,10,C. Valenciana,6
 2020-05-14,10,C. Valenciana,8
 2020-05-15,10,C. Valenciana,2
 2020-05-16,10,C. Valenciana,3
@@ -2039,7 +2049,7 @@ fecha,cod_ine,CCAA,total
 2020-05-20,10,C. Valenciana,2
 2020-05-21,10,C. Valenciana,4
 2020-05-22,10,C. Valenciana,3
-2020-05-23,10,C. Valenciana,2
+2020-05-23,10,C. Valenciana,1
 2020-05-24,10,C. Valenciana,0
 2020-05-25,10,C. Valenciana,2
 2020-05-26,10,C. Valenciana,2
@@ -2133,6 +2143,7 @@ fecha,cod_ine,CCAA,total
 2020-08-22,10,C. Valenciana,0
 2020-08-23,10,C. Valenciana,1
 2020-08-24,10,C. Valenciana,0
+2020-08-25,10,C. Valenciana,0
 2020-02-13,11,Extremadura,0
 2020-02-14,11,Extremadura,0
 2020-02-15,11,Extremadura,0
@@ -2327,6 +2338,7 @@ fecha,cod_ine,CCAA,total
 2020-08-22,11,Extremadura,1
 2020-08-23,11,Extremadura,0
 2020-08-24,11,Extremadura,0
+2020-08-25,11,Extremadura,0
 2020-02-13,12,Galicia,0
 2020-02-14,12,Galicia,0
 2020-02-15,12,Galicia,0
@@ -2518,9 +2530,10 @@ fecha,cod_ine,CCAA,total
 2020-08-19,12,Galicia,1
 2020-08-20,12,Galicia,1
 2020-08-21,12,Galicia,3
-2020-08-22,12,Galicia,1
+2020-08-22,12,Galicia,2
 2020-08-23,12,Galicia,1
 2020-08-24,12,Galicia,0
+2020-08-25,12,Galicia,0
 2020-02-13,13,Madrid,0
 2020-02-14,13,Madrid,0
 2020-02-15,13,Madrid,0
@@ -2713,8 +2726,9 @@ fecha,cod_ine,CCAA,total
 2020-08-20,13,Madrid,7
 2020-08-21,13,Madrid,6
 2020-08-22,13,Madrid,8
-2020-08-23,13,Madrid,13
-2020-08-24,13,Madrid,2
+2020-08-23,13,Madrid,14
+2020-08-24,13,Madrid,11
+2020-08-25,13,Madrid,2
 2020-02-13,19,Melilla,0
 2020-02-14,19,Melilla,0
 2020-02-15,19,Melilla,0
@@ -2909,6 +2923,7 @@ fecha,cod_ine,CCAA,total
 2020-08-22,19,Melilla,0
 2020-08-23,19,Melilla,0
 2020-08-24,19,Melilla,0
+2020-08-25,19,Melilla,0
 2020-02-13,14,Murcia,0
 2020-02-14,14,Murcia,0
 2020-02-15,14,Murcia,0
@@ -3103,6 +3118,7 @@ fecha,cod_ine,CCAA,total
 2020-08-22,14,Murcia,0
 2020-08-23,14,Murcia,0
 2020-08-24,14,Murcia,1
+2020-08-25,14,Murcia,1
 2020-02-13,15,Navarra,0
 2020-02-14,15,Navarra,0
 2020-02-15,15,Navarra,0
@@ -3297,6 +3313,7 @@ fecha,cod_ine,CCAA,total
 2020-08-22,15,Navarra,1
 2020-08-23,15,Navarra,0
 2020-08-24,15,Navarra,0
+2020-08-25,15,Navarra,0
 2020-02-13,16,País Vasco,0
 2020-02-14,16,País Vasco,0
 2020-02-15,16,País Vasco,0
@@ -3470,7 +3487,7 @@ fecha,cod_ine,CCAA,total
 2020-08-01,16,País Vasco,0
 2020-08-02,16,País Vasco,0
 2020-08-03,16,País Vasco,0
-2020-08-04,16,País Vasco,0
+2020-08-04,16,País Vasco,1
 2020-08-05,16,País Vasco,0
 2020-08-06,16,País Vasco,0
 2020-08-07,16,País Vasco,0
@@ -3480,17 +3497,18 @@ fecha,cod_ine,CCAA,total
 2020-08-11,16,País Vasco,0
 2020-08-12,16,País Vasco,0
 2020-08-13,16,País Vasco,0
-2020-08-14,16,País Vasco,0
+2020-08-14,16,País Vasco,1
 2020-08-15,16,País Vasco,0
 2020-08-16,16,País Vasco,0
-2020-08-17,16,País Vasco,0
+2020-08-17,16,País Vasco,1
 2020-08-18,16,País Vasco,0
-2020-08-19,16,País Vasco,0
-2020-08-20,16,País Vasco,0
-2020-08-21,16,País Vasco,0
+2020-08-19,16,País Vasco,2
+2020-08-20,16,País Vasco,1
+2020-08-21,16,País Vasco,2
 2020-08-22,16,País Vasco,0
-2020-08-23,16,País Vasco,1
+2020-08-23,16,País Vasco,3
 2020-08-24,16,País Vasco,0
+2020-08-25,16,País Vasco,0
 2020-02-13,17,La Rioja,0
 2020-02-14,17,La Rioja,0
 2020-02-15,17,La Rioja,0
@@ -3685,6 +3703,7 @@ fecha,cod_ine,CCAA,total
 2020-08-22,17,La Rioja,0
 2020-08-23,17,La Rioja,0
 2020-08-24,17,La Rioja,1
+2020-08-25,17,La Rioja,0
 2020-02-13,00,España,1
 2020-02-14,00,España,0
 2020-02-15,00,España,0
@@ -3775,7 +3794,7 @@ fecha,cod_ine,CCAA,total
 2020-05-10,00,España,106
 2020-05-11,00,España,118
 2020-05-12,00,España,108
-2020-05-13,00,España,88
+2020-05-13,00,España,87
 2020-05-14,00,España,84
 2020-05-15,00,España,70
 2020-05-16,00,España,58
@@ -3785,7 +3804,7 @@ fecha,cod_ine,CCAA,total
 2020-05-20,00,España,54
 2020-05-21,00,España,62
 2020-05-22,00,España,64
-2020-05-23,00,España,58
+2020-05-23,00,España,57
 2020-05-24,00,España,51
 2020-05-25,00,España,56
 2020-05-26,00,España,42
@@ -3858,24 +3877,25 @@ fecha,cod_ine,CCAA,total
 2020-08-01,00,España,5
 2020-08-02,00,España,10
 2020-08-03,00,España,9
-2020-08-04,00,España,10
+2020-08-04,00,España,11
 2020-08-05,00,España,9
-2020-08-06,00,España,20
+2020-08-06,00,España,21
 2020-08-07,00,España,17
 2020-08-08,00,España,28
 2020-08-09,00,España,13
 2020-08-10,00,España,16
 2020-08-11,00,España,22
 2020-08-12,00,España,22
-2020-08-13,00,España,18
-2020-08-14,00,España,23
-2020-08-15,00,España,23
+2020-08-13,00,España,19
+2020-08-14,00,España,26
+2020-08-15,00,España,24
 2020-08-16,00,España,17
-2020-08-17,00,España,24
-2020-08-18,00,España,23
-2020-08-19,00,España,17
-2020-08-20,00,España,13
-2020-08-21,00,España,13
-2020-08-22,00,España,15
-2020-08-23,00,España,20
-2020-08-24,00,España,10
+2020-08-17,00,España,26
+2020-08-18,00,España,24
+2020-08-19,00,España,20
+2020-08-20,00,España,16
+2020-08-21,00,España,16
+2020-08-22,00,España,18
+2020-08-23,00,España,25
+2020-08-24,00,España,23
+2020-08-25,00,España,7
