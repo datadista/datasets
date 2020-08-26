@@ -23,7 +23,7 @@
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
 | Wed, 26 Aug 2020 18:43:57 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
-| Wed, 26 Aug 2020 09:41:36 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv |
+| Wed, 26 Aug 2020 18:44:44 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv |
 | Wed, 26 Aug 2020 18:43:57 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_hospitalizados_long.csv |
