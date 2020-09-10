@@ -33,8 +33,8 @@
 | Tue, 8 Sep 2020 17:14:48 +0200  | COVID 19/ccaa_covid19_test_realizados.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
-| Wed, 9 Sep 2020 20:17:32 +0200  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
-| Wed, 9 Sep 2020 20:17:32 +0200  | COVID 19/ccaa_pcr_realizadas_diarias.csv |
+| Thu, 10 Sep 2020 20:04:57 +0200  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
+| Thu, 10 Sep 2020 20:04:57 +0200  | COVID 19/ccaa_pcr_realizadas_diarias.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Wed, 13 May 2020 13:33:11 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
 | Thu, 3 Sep 2020 18:25:45 +0200  | COVID 19/nacional_casos_personal_sanitario.csv |
