@@ -22,9 +22,9 @@
 | Fri, 4 Sep 2020 10:18:54 +0200  | COVID 19/ccaa_covid19_datos_isciii_nueva_serie.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
-| Fri, 4 Sep 2020 18:04:12 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
-| Fri, 4 Sep 2020 18:04:12 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv |
-| Fri, 4 Sep 2020 18:04:12 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv |
+| Fri, 11 Sep 2020 18:42:16 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
+| Fri, 11 Sep 2020 18:42:16 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv |
+| Fri, 11 Sep 2020 18:42:16 +0200  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_hospitalizados_long.csv |
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
@@ -33,8 +33,8 @@
 | Tue, 8 Sep 2020 17:14:48 +0200  | COVID 19/ccaa_covid19_test_realizados.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
-| Thu, 10 Sep 2020 20:04:57 +0200  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
-| Thu, 10 Sep 2020 20:04:57 +0200  | COVID 19/ccaa_pcr_realizadas_diarias.csv |
+| Fri, 11 Sep 2020 18:42:16 +0200  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
+| Fri, 11 Sep 2020 18:42:16 +0200  | COVID 19/ccaa_pcr_realizadas_diarias.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Wed, 13 May 2020 13:33:11 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
 | Thu, 3 Sep 2020 18:25:45 +0200  | COVID 19/nacional_casos_personal_sanitario.csv |
