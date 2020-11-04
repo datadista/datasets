@@ -128,6 +128,8 @@ asignando a los casos nuevos notificados la fecha en la que se toma la muestra o
 
 **NOTA ACLARATORIA DE DATADISTA (04/07/2020)**: Publicado la serie histórica de fallecidos por fecha de defunción. Sanidad indica en una nota que no se dispone de la fecha de defunción en 209 casos en el momento de publicar [este fichero](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx).
 
+**NOTA ACLARATORIA DE SANIDAD (04/11/2020)**: Se incluyen los casos notificados antes del 11 de mayo en los que está registrada una prueba diagnóstica positiva de infección activa (PDIA) así como todos aquellos que requirieron hospitalización, ingreso en UCI o fallecieron con diagnóstico clínico de COVID-19, de acuerdo a las definiciones de caso vigentes en cada momento. A partir del 11 de mayo se incluyen todos los casos notificados confirmados según una prueba diagnóstica, tal como se establece en la estrategia de detección precoz, vigilancia y control de COVID-19. Las diferencias respecto a la Actualización número 242 son debidas a que los datos anteriores al 11 de mayo procedían de información notificada de forma agregada, menos precisa, con riesgo de duplicados y falta de variables de interés.
+
   
 **(\*\*)COMUNIDADES AUTÓNOMAS QUE PUBLICAN DATOS DE PREVALENCIA**
 | Hospitalizados                     | Ingresos UCI         |
