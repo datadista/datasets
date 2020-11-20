@@ -21,12 +21,12 @@
 | Thu, 21 May 2020 21:14:22 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
 | Thu, 21 May 2020 20:45:05 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
 | Fri, 20 Nov 2020 09:46:17 +0100  | COVID 19/ccaa_covid19_datos_isciii_nueva_serie.csv |
-| Fri, 20 Nov 2020 09:33:46 +0100  | COVID 19/ccaa_covid19_datos_sanidad_nueva_serie.csv |
+| Fri, 20 Nov 2020 19:50:29 +0100  | COVID 19/ccaa_covid19_datos_sanidad_nueva_serie.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
-| Fri, 20 Nov 2020 12:57:57 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
-| Fri, 20 Nov 2020 12:57:57 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv |
-| Fri, 20 Nov 2020 09:36:04 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv |
+| Fri, 20 Nov 2020 19:50:29 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
+| Fri, 20 Nov 2020 19:50:29 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv |
+| Fri, 20 Nov 2020 19:50:29 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_hospitalizados_long.csv |
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
@@ -40,7 +40,7 @@
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Wed, 13 May 2020 13:33:11 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
 | Fri, 13 Nov 2020 19:07:44 +0100  | COVID 19/nacional_casos_personal_sanitario.csv |
-| Thu, 19 Nov 2020 19:57:49 +0100  | COVID 19/nacional_covid19.csv |
+| Fri, 20 Nov 2020 18:46:18 +0100  | COVID 19/nacional_covid19.csv |
 | Sat, 23 May 2020 18:06:50 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Sat, 23 May 2020 18:06:50 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Tue, 5 May 2020 18:24:41 +0200  | COVID 19/provincia_covid19_ERTE.csv |
