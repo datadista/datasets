@@ -36,7 +36,7 @@
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_uci.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Thu, 26 Nov 2020 20:20:42 +0100  | COVID 19/ccaa_ia14d.csv |
-| Thu, 26 Nov 2020 20:20:43 +0100  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
+| Fri, 27 Nov 2020 15:02:58 +0100  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
 | Sat, 10 Oct 2020 10:19:17 +0200  | COVID 19/ccaa_pcr_realizadas_diarias.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Wed, 13 May 2020 13:33:11 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
