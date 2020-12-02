@@ -21,12 +21,12 @@
 | Thu, 21 May 2020 21:14:22 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
 | Thu, 21 May 2020 20:45:05 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
 | Fri, 20 Nov 2020 09:46:17 +0100  | COVID 19/ccaa_covid19_datos_isciii_nueva_serie.csv |
-| Tue, 1 Dec 2020 21:04:40 +0100  | COVID 19/ccaa_covid19_datos_sanidad_nueva_serie.csv |
+| Wed, 2 Dec 2020 19:42:33 +0100  | COVID 19/ccaa_covid19_datos_sanidad_nueva_serie.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
-| Tue, 1 Dec 2020 21:04:40 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
+| Wed, 2 Dec 2020 19:42:33 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
 | Tue, 1 Dec 2020 21:04:40 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv |
-| Tue, 1 Dec 2020 21:04:40 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv |
+| Wed, 2 Dec 2020 19:42:33 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_hospitalizados_long.csv |
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
