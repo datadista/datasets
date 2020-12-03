@@ -20,13 +20,13 @@
 | Thu, 21 May 2020 21:14:22 +0200  | COVID 19/ccaa_covid19_confirmados_test.csv |
 | Thu, 21 May 2020 21:14:22 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
 | Thu, 21 May 2020 20:45:05 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
-| Fri, 20 Nov 2020 09:46:17 +0100  | COVID 19/ccaa_covid19_datos_isciii_nueva_serie.csv |
+| Thu, 3 Dec 2020 23:27:19 +0100  | COVID 19/ccaa_covid19_datos_isciii_nueva_serie.csv |
 | Wed, 2 Dec 2020 19:42:33 +0100  | COVID 19/ccaa_covid19_datos_sanidad_nueva_serie.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
-| Wed, 2 Dec 2020 19:42:33 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
-| Tue, 1 Dec 2020 21:04:40 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv |
-| Wed, 2 Dec 2020 19:42:33 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv |
+| Thu, 3 Dec 2020 23:27:19 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
+| Thu, 3 Dec 2020 23:27:19 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv |
+| Thu, 3 Dec 2020 23:27:19 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_hospitalizados.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_hospitalizados_long.csv |
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
@@ -45,7 +45,7 @@
 | Sat, 23 May 2020 18:06:50 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
 | Sat, 23 May 2020 18:06:50 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Tue, 5 May 2020 18:24:41 +0200  | COVID 19/provincia_covid19_ERTE.csv |
-| Fri, 20 Nov 2020 09:46:17 +0100  | COVID 19/provincias_covid19_datos_isciii_nueva_serie.csv |
+| Thu, 3 Dec 2020 23:27:19 +0100  | COVID 19/provincias_covid19_datos_isciii_nueva_serie.csv |
 | Sun, 6 Sep 2020 10:01:24 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_final.csv |
 | Thu, 14 May 2020 10:38:36 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_ronda.csv |
 | Thu, 4 Jun 2020 18:55:56 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_y_segunda_ronda.csv |
