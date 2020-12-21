@@ -21,7 +21,7 @@
 | Thu, 21 May 2020 21:14:22 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
 | Thu, 21 May 2020 20:45:05 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
 | Sat, 19 Dec 2020 14:55:57 +0100  | COVID 19/ccaa_covid19_datos_isciii_nueva_serie.csv |
-| Tue, 8 Dec 2020 12:26:30 +0100  | COVID 19/ccaa_covid19_datos_sanidad_nueva_serie.csv |
+| Mon, 21 Dec 2020 16:17:48 +0100  | COVID 19/ccaa_covid19_datos_sanidad_nueva_serie.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos.csv |
 | Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
 | Sun, 20 Dec 2020 11:11:13 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
