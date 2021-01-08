@@ -6,7 +6,6 @@
 |---------------------------------|--------------------------|
 | Sat, 18 Apr 2020 14:59:48 +0200  | COVID 19/EESS_horario_flexible_habitual.csv |
 | Tue, 5 May 2020 17:56:19 +0200  | COVID 19/ERTE_fuerza_mayor_sectores.csv |
-| Sun, 20 Sep 2020 12:18:21 +0200  | COVID 19/ZBS_confinamiento_parcial_madrid_2020-09-21.csv |
 | Wed, 1 Apr 2020 13:41:08 +0200  | COVID 19/alojamientos_turisticos_boe_2020_4194.csv |
 | Thu, 30 Apr 2020 12:47:09 +0200  | COVID 19/areas_descanso_carreteras.csv |
 | Mon, 23 Mar 2020 08:55:52 +0100  | COVID 19/ccaa_camas_uci_2017.csv |
@@ -24,7 +23,6 @@
 | Sat, 10 Oct 2020 10:19:17 +0200  | COVID 19/ccaa_pcr_realizadas_diarias.csv |
 | Thu, 7 Jan 2021 19:21:07 +0100  | COVID 19/ccaa_vacunas.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
-| Wed, 13 May 2020 13:33:11 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
 | Sat, 26 Dec 2020 19:21:48 +0100  | COVID 19/nacional_casos_personal_sanitario.csv |
 | Thu, 7 Jan 2021 19:52:35 +0100  | COVID 19/nacional_covid19.csv |
 | Tue, 5 May 2020 18:24:41 +0200  | COVID 19/provincia_covid19_ERTE.csv |
