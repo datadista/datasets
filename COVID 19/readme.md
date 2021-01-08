@@ -9,8 +9,8 @@
 **Fuente de los datos:**
 
 - Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm  y gabinete de prensa del Ministerio de Sanidad. <br>
-- Instituto de Salud Carlos III. Situación de COVID-19 en España. CSV serie histórica: https://cnecovid.isciii.es/covid19/resources/agregados.csv<br>
-- Excel con la fecha de fallecidos por la fecha de defunción publicado por el Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx<br>
+- Instituto de Salud Carlos III. Situación de COVID-19 en España. CSV serie histórica: https://cnecovid.isciii.es/covid19/<br>
+- Excel con la fecha de fallecidos por la fecha de defunción publicado por el Ministerio de Sanidad (disponible hasta 29-12-2020): https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx<br>
 - Departamento de Seguridad Nacional: https://www.dsn.gob.es/gl/current-affairs/press-room<br>
 - BOE: Crisis Sanitaria COVID-19 https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=355&modo=2&nota=0&tab=2<br>
 - Ministerio de Transportes, Movilidad y Agenda Urbana https://www.mitma.gob.es/transporte-terrestre/punto-de-informacion-de-servicios-de-restauracion
@@ -19,7 +19,7 @@
  
  [**PDFs originales de resumen de situación:**](https://github.com/datadista/datasets/tree/master/COVID%2019/PDFs%20originales%20de%20resumen%20de%20situacio%CC%81n) Carpeta con los PDFs originales de los informes oficiales publicados por el Ministerio de Sanidad.
  
-  [**Serie antigua de datasets:**](https://github.com/datadista/datasets/tree/master/COVID%2019/old_series) Carpeta con la serie de datasets mantenida hasta el 2020-04-30. A partir del 2020-05-01 la serie histórica es permanentemente corregida según los datos facilitados periódicamente por las CCAA al Ministerio de Sanidad. Los datos disponibles en la [serie antigua](https://github.com/datadista/datasets/tree/master/COVID%2019/old_series) para los días [29 de febrero](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-29-febrero-2020), [1 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-01-marzo-2020), [7 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-07-marzo-2020) y [8 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-08-marzo-2020) provienen de las notas de prensa del Departamento de Seguridad Nacional y del gabinete de prensa del Ministerio de Sanidad.
+  [**Serie antigua de datasets:**](https://github.com/datadista/datasets/tree/master/COVID%2019/old_series) Carpeta con la serie de datasets mantenida hasta finales de mayo de 2020. Los documentos con la nomeclatura "old" son actualizados hasta el 30-04-2020. A partir del 2020-05-01 la serie histórica es permanentemente corregida según los datos facilitados periódicamente por las CCAA al Ministerio de Sanidad. Los datos disponibles en la [serie antigua](https://github.com/datadista/datasets/tree/master/COVID%2019/old_series) para los días [29 de febrero](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-29-febrero-2020), [1 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-01-marzo-2020), [7 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-07-marzo-2020) y [8 de marzo](https://www.dsn.gob.es/gl/actualidad/sala-prensa/coronavirus-covid-19-08-marzo-2020) provienen de las notas de prensa del Departamento de Seguridad Nacional y del gabinete de prensa del Ministerio de Sanidad.
 
 
 **Licencia de uso:**
@@ -37,6 +37,7 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
   **IMPORTANTE:** [Tabla con las fechas de modificación de los archivos csv | Table with files modification dates](fechas.md)
   
  
+ **Descripción**: Evolución de la serie histórica de casos, fallecimientos, hospitalizados e ingresos UCI.<br> 
 **Nombre del archivo:** [nacional_covid19.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv) <br>
 **Nivel administrativo:** Nacional
 
@@ -68,6 +69,22 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
 
 <br><br>
 
+**Descripción**: Evolución de la serie histórica de casos, fallecimientos, hospitalizados e ingresos UCI por Comunidad Autónoma.<br> 
+**Nivel administrativo:** Comunidad Autónoma<br>
+**Nombre del archivo:** [ccaa_covid19_datos_sanidad_nueva_serie.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_datos_sanidad_nueva_serie.csv) <br>
+
+
+|            Campo             |     Descripción                                                                                                |     Description                                                                               | Formato       | Ejemplo    |
+|------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|------------|
+|     fecha                    |     Fecha de publicación                                                                                       |     Publication date                                                                          | YYYY-MM-DD    | 2020-05-01 |
+| cod_ine                      | Código INE de CCAA                                                                                             | National Statistics Institute code of the autonomous community                                | Texto         | 1          |
+| ccaa                         | Comunidad autónoma                                                                                             | Autonomous community                                                                          | Texto         | Madrid     |
+| Casos                   | casos confirmados                                                            | number of total confirmed cases                                                   |        Número | 7          |
+| Fallecidos | Personas fallecidas                                            | deceased                                                                    | Número     | 7          |
+| Hospitalizados | Casos que han precisado hospitalización (incluyen UCI)      | Cases that have required hospitalization (include admitted   to the IC) | Número     | 7          |
+| UCI   | Casos que han precisado ingreso en UCI                     | Cases that have required admission to the IC                           | Número     | 7          |
+
+<br><br>
 Descripción: Número de casos confirmados registrados registrados diarios por Comunidad Autónoma y tipo de prueba.<br> 
 Description: Number of confirmed cases recorded recorded daily by Autonomous Community and type of test.<br>
 **Nivel administrativo:** Comunidad Autónoma<br>
@@ -86,6 +103,38 @@ Description: Number of confirmed cases recorded recorded daily by Autonomous Com
 | num_casos_prueba_desconocida | número de casos con una prueba desconocida (sin información)                                                   | number of cases with an unknown test (no information)                                         | Número        | 11         |
 
 <br><br>
+**Nombre del archivo:** [ccaa_vacunas.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_vacunas.csv) <br>
+**Nivel administrativo:** Comunidad Autónoma<br>
+**Descripción:** Evolución de las dosis de vacunas contra la COVID-10 entregadas, administradas, porcentaje sobre entregadas, fecha de publicación y fecha de la última vacuna registrada.
+<br><br>
+
+<br><br>
+**Nombre del archivo:** [ccaa_ia14d.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_ia14d.csv]) <br>
+**Nivel administrativo:** Comunidad Autónoma<br>
+**Descripción:** Evolución de la incidencia acumulada en los últimos 14 días por cada 100.000 habitantes.
+<br><br>
+
+<br><br>
+**Nombre del archivo:** [ccaa_ingresos_camas_convencionales_uci.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_ingresos_camas_convencionales_uci.csv]) <br>
+**Nivel administrativo:** Comunidad Autónoma<br>
+**Descripción:** Evolución de los pacientes hospitalizados e ingresados en UCI, ingresos en las últimas 24 horas y porcentaje de camas ocupadas por COVID-19 respecto al total de ingresos por comunidad autonoma
+<br><br>
+
+**Descripción**: Evolución de la serie histórica de casos, fallecimientos, hospitalizados e ingresos UCI por provincias.<br> 
+**Nivel administrativo:** Provincias<br>
+**Nombre del archivo:** [provincias_covid19_datos_sanidad_nueva_serie.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/provincias_covid19_datos_sanidad_nueva_serie.csv) <br>
+
+
+|            Campo             |     Descripción                                                                                                |     Description                                                                               | Formato       | Ejemplo    |
+|------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|------------|
+|     fecha                    |     Fecha de publicación                                                                                       |     Publication date                                                                          | YYYY-MM-DD    | 2020-05-01 |
+| cod_ine                      | Código INE de provincia                                                                                             | National Statistics Institute code of the provinces                                | Texto         | 1          |
+| provincia                         | Provincia                                                                                             | Autonomous community                                                                          | Texto         | Madrid     |
+| Casos                   | casos confirmados                                                            | number of total confirmed cases                                                   |        Número | 7          |
+| Fallecidos | Personas fallecidas                                            | deceased                                                                    | Número     | 7          |
+| Hospitalizados | Casos que han precisado hospitalización (incluyen UCI)      | Cases that have required hospitalization (include admitted   to the IC) | Número     | 7          |
+| UCI   | Casos que han precisado ingreso en UCI                     | Cases that have required admission to the IC                           | Número     | 7          |
+
 <br><br>
 
 Descripción: Número de casos confirmados registrados registrados diarios por provincia y tipo de prueba.<br> 
@@ -227,6 +276,11 @@ de interés general y todos los ligados a las actividades consideradas esenciale
 **Descripción:** Estudio de seroprevalencia. Datos de la primera y segunda ronda. Prevalencia de anticuerpos IgG anti SARS-COv2 por provincia.<br>
 **Fuente:**  La Moncloa: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/sanidad14/Paginas/2020/040620-seroprevalencia.aspx
 
+br><br>
+**Nombre del archivo:** [provincias_estudio_prevalencia_anticuerpos_primera, segunda_y tercera ronda.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/provincias_estudio_prevalencia_anticuerpos_final.csv)<br>
+**Nivel administrativo:** Provincial<br>
+**Descripción:** Estudio de seroprevalencia. Datos de la primera, segunda y tercera ronda. Prevalencia de anticuerpos IgG anti SARS-COv2 por provincia.<br>
+**Fuente (PDF):**  https://www.mscbs.gob.es/ciudadanos/ene-covid/docs/ESTUDIO_ENE-COVID19_INFORME_FINAL.pdf
 
 
 <br><br>
