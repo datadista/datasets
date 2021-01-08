@@ -17,10 +17,7 @@
 | Fri, 8 Jan 2021 10:01:56 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv |
 | Fri, 8 Jan 2021 10:01:58 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv |
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
-| Sat, 25 Apr 2020 13:54:25 +0200  | COVID 19/ccaa_covid19_positivos_asintomaticos_long.csv |
 | Mon, 9 Nov 2020 17:05:25 +0100  | COVID 19/ccaa_covid19_test_realizados.csv |
-| Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_uci.csv |
-| Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_uci_long.csv |
 | Thu, 7 Jan 2021 13:59:28 +0100  | COVID 19/ccaa_de_declaracion_covid19_datos_isciii_nueva_serie.csv |
 | Thu, 7 Jan 2021 19:52:37 +0100  | COVID 19/ccaa_ia14d.csv |
 | Thu, 7 Jan 2021 19:52:46 +0100  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
