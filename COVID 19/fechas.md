@@ -27,8 +27,6 @@
 | Wed, 13 May 2020 13:33:11 +0200  | COVID 19/municipios_distritos_madrid_casos.csv |
 | Sat, 26 Dec 2020 19:21:48 +0100  | COVID 19/nacional_casos_personal_sanitario.csv |
 | Thu, 7 Jan 2021 19:52:35 +0100  | COVID 19/nacional_covid19.csv |
-| Sat, 23 May 2020 18:06:50 +0200  | COVID 19/nacional_covid19_rango_edad.csv |
-| Sat, 23 May 2020 18:06:50 +0200  | COVID 19/nota_nacional_covid_19_rango_edad.csv |
 | Tue, 5 May 2020 18:24:41 +0200  | COVID 19/provincia_covid19_ERTE.csv |
 | Thu, 7 Jan 2021 13:59:41 +0100  | COVID 19/provincias_covid19_datos_isciii_nueva_serie.csv |
 | Thu, 7 Jan 2021 14:19:16 +0100  | COVID 19/provincias_covid19_datos_sanidad_nueva_serie.csv |
