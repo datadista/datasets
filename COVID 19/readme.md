@@ -28,7 +28,9 @@ Puedes reutilizarlos para elaborar nuevas historias, análisis, proyectos o visu
 
 Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes ponerte en contacto con nosotros en hola@datadista.com o en Twitter en @datadista.
  
- **Formato de los datos:** [Documento con las notas publicadas por el Ministerio de Sanidad y DATADISTA](notes.md)
+ **Notas y cambios metodológicos:** 
+ 
+  **IMPORTANTE:** [Documento con las notas publicadas por el Ministerio de Sanidad y DATADISTA](notes.md)
  
  **Formato de los datos:**
  
