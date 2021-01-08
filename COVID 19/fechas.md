@@ -13,7 +13,6 @@
 | Tue, 5 May 2020 18:07:18 +0200  | COVID 19/ccaa_covid19_ERTE.csv |
 | Thu, 7 Jan 2021 13:59:38 +0100  | COVID 19/ccaa_covid19_datos_isciii_nueva_serie.csv |
 | Fri, 8 Jan 2021 10:01:49 +0100  | COVID 19/ccaa_covid19_datos_sanidad_nueva_serie.csv |
-| Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_fallecidos_long.csv |
 | Fri, 8 Jan 2021 10:01:55 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv |
 | Fri, 8 Jan 2021 10:01:56 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv |
 | Fri, 8 Jan 2021 10:01:58 +0100  | COVID 19/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_original.csv |
