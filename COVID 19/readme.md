@@ -103,21 +103,40 @@ Description: Number of confirmed cases recorded recorded daily by Autonomous Com
 | num_casos_prueba_desconocida | número de casos con una prueba desconocida (sin información)                                                   | number of cases with an unknown test (no information)                                         | Número        | 11         |
 
 <br><br>
+Descripción: Número de casos confirmados registrados registrados diarios por Comunidad Autónoma y tipo de prueba.<br> 
+Description: Number of confirmed cases recorded recorded daily by Autonomous Community and type of test.<br>
+**Nivel administrativo:** Comunidad Autónoma<br>
+**Nombre del archivo:** [ccaa_de_declaracion_covid19_datos_isciii_nueva_serie.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_de_declaracion_covid19_datos_isciii_nueva_serie.csv) <br>
+
+
+|            Campo             |     Descripción                                                                                                |     Description                                                                               | Formato       | Ejemplo    |
+|------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|------------|
+|     fecha                    |     Fecha de publicación                                                                                       |     Publication date                                                                          | YYYY-MM-DD    | 2020-05-01 |
+| cod_ine                      | Código INE de CCAA                                                                                             | National Statistics Institute code of the autonomous community                                | Texto         | 1          |
+| ccaa                         | Comunidad autónoma                                                                                             | Autonomous community                                                                          | Texto         | Madrid     |
+| num_casos                    | número de casos totales, confirmados o probables                                                               | number of total confirmed or probable cases                                                   |        Número | 7          |
+| num_casos_prueba_pcr         | número de casos con prueba de laboratorio PCR o técnicas moleculares                                           | number of cases with PCR laboratory test or molecular techniques                              | Número        | 8          |
+| num_casos_prueba_test_ac     | número de casos con prueba de laboratorio de test rápido de anticuerpos                                        | number of cases with laboratory rapid antibody test                                           | Número        | 9          |
+| num_casos_prueba_ag       | número de casos con pruebas ag | number of cases with other laboratory tests, mostly by antigen detection | Número        | 10         |
+| num_casos_prueba_elisa      | número de casos con otras pruebas con técnica Elisa | number of cases with Elisa technique | Número        | 10         |
+| num_casos_prueba_desconocida | número de casos con una prueba desconocida (sin información)                                                   | number of cases with an unknown test (no information) 
+<br><br>
 **Nombre del archivo:** [ccaa_vacunas.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_vacunas.csv) <br>
 **Nivel administrativo:** Comunidad Autónoma<br>
 **Descripción:** Evolución de las dosis de vacunas contra la COVID-10 entregadas, administradas, porcentaje sobre entregadas, fecha de publicación y fecha de la última vacuna registrada.
 <br><br>
-
-<br><br>
 **Nombre del archivo:** [ccaa_ia14d.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_ia14d.csv]) <br>
 **Nivel administrativo:** Comunidad Autónoma<br>
 **Descripción:** Evolución de la incidencia acumulada en los últimos 14 días por cada 100.000 habitantes.
-<br><br>
 
 <br><br>
 **Nombre del archivo:** [ccaa_ingresos_camas_convencionales_uci.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_ingresos_camas_convencionales_uci.csv]) <br>
 **Nivel administrativo:** Comunidad Autónoma<br>
 **Descripción:** Evolución de los pacientes hospitalizados e ingresados en UCI, ingresos en las últimas 24 horas y porcentaje de camas ocupadas por COVID-19 respecto al total de ingresos por comunidad autonoma
+<br><br>
+**Nombre del archivo:** [ccaa_pcr_realizadas_diarias.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_pcr_realizadas_diarias.csv]) <br>
+**Nivel administrativo:** Comunidad Autónoma<br>
+**Descripción:** Evolución de las pruebas PCR realizadas y el porcentaje de positividad por comunidad autonoma (Datos hasta 06-10-2020)
 <br><br>
 
 **Descripción**: Evolución de la serie histórica de casos, fallecimientos, hospitalizados e ingresos UCI por provincias.<br> 
