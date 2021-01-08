@@ -11,9 +11,6 @@
 | Thu, 30 Apr 2020 12:47:09 +0200  | COVID 19/areas_descanso_carreteras.csv |
 | Mon, 23 Mar 2020 08:55:52 +0100  | COVID 19/ccaa_camas_uci_2017.csv |
 | Tue, 5 May 2020 18:07:18 +0200  | COVID 19/ccaa_covid19_ERTE.csv |
-| Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_confirmados_pcr.csv |
-| Sun, 24 May 2020 17:26:44 +0200  | COVID 19/ccaa_covid19_confirmados_pcr_long.csv |
-| Thu, 21 May 2020 21:14:22 +0200  | COVID 19/ccaa_covid19_confirmados_test.csv |
 | Thu, 21 May 2020 21:14:22 +0200  | COVID 19/ccaa_covid19_confirmados_test_long.csv |
 | Thu, 21 May 2020 20:45:05 +0200  | COVID 19/ccaa_covid19_datos_isciii.csv |
 | Thu, 7 Jan 2021 13:59:38 +0100  | COVID 19/ccaa_covid19_datos_isciii_nueva_serie.csv |
