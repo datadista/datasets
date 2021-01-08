@@ -119,7 +119,8 @@ Description: Number of confirmed cases recorded recorded daily by Autonomous Com
 | num_casos_prueba_test_ac     | número de casos con prueba de laboratorio de test rápido de anticuerpos                                        | number of cases with laboratory rapid antibody test                                           | Número        | 9          |
 | num_casos_prueba_ag       | número de casos con pruebas ag | number of cases with other laboratory tests, mostly by antigen detection | Número        | 10         |
 | num_casos_prueba_elisa      | número de casos con otras pruebas con técnica Elisa | number of cases with Elisa technique | Número        | 10         |
-| num_casos_prueba_desconocida | número de casos con una prueba desconocida (sin información)                                                   | number of cases with an unknown test (no information) 
+| num_casos_prueba_desconocida | número de casos con una prueba desconocida (sin información)                                                   | number of cases with an unknown test (no information)                                         | Número        | 11         |
+
 <br><br>
 **Nombre del archivo:** [ccaa_vacunas.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_vacunas.csv) <br>
 **Nivel administrativo:** Comunidad Autónoma<br>
