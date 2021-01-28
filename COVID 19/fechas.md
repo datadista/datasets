@@ -21,7 +21,7 @@
 | Thu, 28 Jan 2021 19:26:04 +0100  | COVID 19/ccaa_ia14d.csv |
 | Thu, 28 Jan 2021 19:26:12 +0100  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
 | Sat, 10 Oct 2020 10:19:17 +0200  | COVID 19/ccaa_pcr_realizadas_diarias.csv |
-| Wed, 27 Jan 2021 19:23:31 +0100  | COVID 19/ccaa_vacunas.csv |
+| Thu, 28 Jan 2021 20:20:15 +0100  | COVID 19/ccaa_vacunas.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Sat, 26 Dec 2020 19:21:48 +0100  | COVID 19/nacional_casos_personal_sanitario.csv |
 | Thu, 28 Jan 2021 19:26:02 +0100  | COVID 19/nacional_covid19.csv |
