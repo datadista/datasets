@@ -24,7 +24,7 @@
 | Fri, 29 Jan 2021 19:03:54 +0100  | COVID 19/ccaa_vacunas.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Sat, 26 Dec 2020 19:21:48 +0100  | COVID 19/nacional_casos_personal_sanitario.csv |
-| Fri, 29 Jan 2021 18:49:52 +0100  | COVID 19/nacional_covid19.csv |
+| Mon, 1 Feb 2021 19:21:17 +0100  | COVID 19/nacional_covid19.csv |
 | Tue, 5 May 2020 18:24:41 +0200  | COVID 19/provincia_covid19_ERTE.csv |
 | Fri, 29 Jan 2021 18:50:12 +0100  | COVID 19/provincias_covid19_datos_isciii_nueva_serie.csv |
 | Fri, 29 Jan 2021 18:49:56 +0100  | COVID 19/provincias_covid19_datos_sanidad_nueva_serie.csv |
