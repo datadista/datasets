@@ -18,13 +18,13 @@
 | Tue, 7 Apr 2020 15:28:15 +0200  | COVID 19/ccaa_covid19_mascarillas.csv |
 | Mon, 9 Nov 2020 17:05:25 +0100  | COVID 19/ccaa_covid19_test_realizados.csv |
 | Wed, 3 Mar 2021 16:02:09 +0100  | COVID 19/ccaa_de_declaracion_covid19_datos_isciii_nueva_serie.csv |
-| Tue, 2 Mar 2021 18:53:13 +0100  | COVID 19/ccaa_ia14d.csv |
-| Tue, 2 Mar 2021 18:53:19 +0100  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
+| Wed, 3 Mar 2021 18:46:08 +0100  | COVID 19/ccaa_ia14d.csv |
+| Wed, 3 Mar 2021 18:46:15 +0100  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
 | Sat, 10 Oct 2020 10:19:17 +0200  | COVID 19/ccaa_pcr_realizadas_diarias.csv |
-| Tue, 2 Mar 2021 18:48:33 +0100  | COVID 19/ccaa_vacunas.csv |
+| Wed, 3 Mar 2021 19:02:35 +0100  | COVID 19/ccaa_vacunas.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Sat, 26 Dec 2020 19:21:48 +0100  | COVID 19/nacional_casos_personal_sanitario.csv |
-| Tue, 2 Mar 2021 18:53:12 +0100  | COVID 19/nacional_covid19.csv |
+| Wed, 3 Mar 2021 18:46:07 +0100  | COVID 19/nacional_covid19.csv |
 | Wed, 3 Mar 2021 16:02:18 +0100  | COVID 19/nacional_covid19_datos_sanidad_nueva_serie_grupos_edad.csv |
 | Tue, 5 May 2020 18:24:41 +0200  | COVID 19/provincia_covid19_ERTE.csv |
 | Wed, 3 Mar 2021 16:02:17 +0100  | COVID 19/provincias_covid19_datos_isciii_nueva_serie.csv |
