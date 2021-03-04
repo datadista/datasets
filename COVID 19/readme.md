@@ -6,6 +6,8 @@
 
 - Datasets accesorios para cubrir la crisis por COVID-19 en España
 
+**DESDE QUE COMENZÓ LA PANDEMIA EXTRAEMOS, ORGANIZAMOS Y LIMPIAMOS DIARIAMENTE DECENAS DE SERIES DE DATOS. NECESITAMOS TU AYUDA PARA PODER SEGUIR HACIENDO ESTE TRABAJO. [SÚMATE A DATADISTA POR 36 EUROS/AÑO Y RECIBE NUESTRA NEWSLETTER](https://www.datadista.com/suscripcion/)**
+
 **Fuente de los datos:**
 
 - Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm  y gabinete de prensa del Ministerio de Sanidad. <br>
@@ -125,6 +127,10 @@ Description: Number of confirmed cases recorded recorded daily by Autonomous Com
 **Nombre del archivo:** [ccaa_vacunas.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_vacunas.csv) <br>
 **Nivel administrativo:** Comunidad Autónoma<br>
 **Descripción:** Evolución de las dosis de vacunas contra la COVID-10 entregadas, administradas, porcentaje sobre entregadas, fecha de publicación y fecha de la última vacuna registrada.
+<br><br>
+**Nombre del archivo:** [ccaa_vacunas_personas_institucionalizadas.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_vacunas_personas_institucionalizadas.csv) <br>
+**Nivel administrativo:** Comunidad Autónoma<br>
+**Descripción:** Evolución de la vacunación contra la COVID-10 entre la población institucionalizada
 <br><br>
 **Nombre del archivo:** [ccaa_ia14d.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_ia14d.csv]) <br>
 **Nivel administrativo:** Comunidad Autónoma<br>
