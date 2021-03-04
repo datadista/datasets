@@ -56,6 +56,20 @@ Si quieres avisarnos de tus reutilizaciones o tienes cualquer duda, puedes poner
 | hospitalizados | Casos acumulados que han precisado hospitalización (incluyen UCI)(**)      | Accumulated cases that have required hospitalization (include admitted   to the IC)(**) | Número     | 7          |
 
 <br><br>
+**Nombre del archivo:** [nacional_covid19_datos_sanidad_nueva_serie.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/old-series/nacional_covid19_datos_sanidad_nueva_serie.csv) <br>
+**Nivel administrativo:** Nacional<br>
+
+
+| Campo             | Descripción                                                       | Description                                                                       | Formato    | Ejemplo |
+|-------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------|---------|
+| fecha             | Fecha de publicación                                              | Publication date                                                              | YYYY-MM-DD | 2020-03-25 |
+| Casos | Casos confirmados acumulados                                      | Accumulated confirmed cases                                                        | Número     | 7       |
+| Fallecidos        | Personas fallecidas acumuladas                                    | Accumulated deceased                                                               | Número     | 7       |
+| Hospitalizados   | Casos acumulados que han precisado hospitalización (incluyen UCI) | Accumulated cases that have required hospitalization (include admitted to the IC) (Data obtained from the analysis of a daily variable percentage of cases reported) | Número     | 7       |
+| UCI    | Casos acumulados que han precisado ingreso en UCI                 | Accumulated cases that have required admission to the IC                          | Número     | 7       |
+<br><br>
+
+<br><br>
 **Nombre del archivo:** [nacional_covid19_rango_edad.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/old-series/nacional_covid19_rango_edad.csv) <br>
 **Nivel administrativo:** Nacional<br>
 **IMPORTANTE:** Datos obtenidos sobre los casos notificados con información de edad y sexo. [Dataset con las notas de los casos analizados cada día por rango de edad y sexo](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nota_nacional_covid_19_rango_edad.csv)
