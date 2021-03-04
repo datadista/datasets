@@ -1,3 +1,6 @@
+**DESDE QUE COMENZÓ LA PANDEMIA EXTRAEMOS, ORGANIZAMOS Y LIMPIAMOS DIARIAMENTE DECENAS DE SERIES DE DATOS. NECESITAMOS TU AYUDA PARA PODER SEGUIR HACIENDO ESTE TRABAJO. [SÚMATE A DATADISTA POR 36 EUROS/AÑO Y RECIBE NUESTRA NEWSLETTER](https://www.datadista.com/suscripcion/)**
+
+
 **LEA DETENIDAMENTE ESTE README ANTES DE UTILIZAR LOS DATOS**
 
 **Datasets relacionados con la incidencia de la COVID-19 en España realizado por DATADISTA, medio especializado en periodismo de investigación y datos para salir del ruido.**
@@ -5,8 +8,6 @@
 - Extracción, limpieza y normalización de las tablas de la situación diaria acumulada de la enfermedad por el coronavirus SARS-CoV-2 (COVID-19) en España en un formato accesible y reutilizable. Datos actualizados diariamente según el calendario y ritmo de publicación del Ministerio de Sanidad y el Instituto de Salud Carlos III. 
 
 - Datasets accesorios para cubrir la crisis por COVID-19 en España
-
-**DESDE QUE COMENZÓ LA PANDEMIA EXTRAEMOS, ORGANIZAMOS Y LIMPIAMOS DIARIAMENTE DECENAS DE SERIES DE DATOS. NECESITAMOS TU AYUDA PARA PODER SEGUIR HACIENDO ESTE TRABAJO. [SÚMATE A DATADISTA POR 36 EUROS/AÑO Y RECIBE NUESTRA NEWSLETTER](https://www.datadista.com/suscripcion/)**
 
 **Fuente de los datos:**
 
