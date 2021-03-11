@@ -51,6 +51,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-01,49,Zamora,0,0,0,0
 2020-01-01,50,Zaragoza,0,0,0,0
 2020-01-01,51,Ceuta,0,0,0,0
+2020-01-01,52,Melilla,0,0,0,0
 2020-01-02,00,No consta,0,0,0,0
 2020-01-02,01,Araba/Álava,0,0,0,0
 2020-01-02,02,Albacete,0,0,0,0
@@ -103,6 +104,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-02,49,Zamora,0,0,0,0
 2020-01-02,50,Zaragoza,0,0,0,0
 2020-01-02,51,Ceuta,0,0,0,0
+2020-01-02,52,Melilla,0,0,0,0
 2020-01-03,00,No consta,0,0,1,0
 2020-01-03,01,Araba/Álava,0,0,0,0
 2020-01-03,02,Albacete,0,0,0,0
@@ -155,6 +157,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-03,49,Zamora,0,0,0,0
 2020-01-03,50,Zaragoza,0,0,0,0
 2020-01-03,51,Ceuta,0,0,0,0
+2020-01-03,52,Melilla,0,0,0,0
 2020-01-04,00,No consta,0,0,0,0
 2020-01-04,01,Araba/Álava,0,0,0,0
 2020-01-04,02,Albacete,0,0,0,0
@@ -207,6 +210,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-04,49,Zamora,0,0,0,0
 2020-01-04,50,Zaragoza,0,0,0,0
 2020-01-04,51,Ceuta,0,0,0,0
+2020-01-04,52,Melilla,0,0,0,0
 2020-01-05,00,No consta,0,0,0,0
 2020-01-05,01,Araba/Álava,0,0,0,0
 2020-01-05,02,Albacete,0,0,0,0
@@ -259,6 +263,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-05,49,Zamora,0,0,0,0
 2020-01-05,50,Zaragoza,0,0,0,0
 2020-01-05,51,Ceuta,0,0,0,0
+2020-01-05,52,Melilla,0,0,0,0
 2020-01-06,00,No consta,0,0,0,0
 2020-01-06,01,Araba/Álava,0,0,0,0
 2020-01-06,02,Albacete,0,0,0,0
@@ -311,6 +316,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-06,49,Zamora,0,0,0,0
 2020-01-06,50,Zaragoza,0,0,0,0
 2020-01-06,51,Ceuta,0,0,0,0
+2020-01-06,52,Melilla,0,0,0,0
 2020-01-07,00,No consta,0,0,0,0
 2020-01-07,01,Araba/Álava,0,0,0,0
 2020-01-07,02,Albacete,0,0,0,0
@@ -363,6 +369,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-07,49,Zamora,0,0,0,0
 2020-01-07,50,Zaragoza,0,0,0,0
 2020-01-07,51,Ceuta,0,0,0,0
+2020-01-07,52,Melilla,0,0,0,0
 2020-01-08,00,No consta,0,0,0,0
 2020-01-08,01,Araba/Álava,0,0,0,0
 2020-01-08,02,Albacete,0,0,0,0
@@ -415,6 +422,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-08,49,Zamora,0,0,0,0
 2020-01-08,50,Zaragoza,0,0,0,0
 2020-01-08,51,Ceuta,0,0,0,0
+2020-01-08,52,Melilla,0,0,0,0
 2020-01-09,00,No consta,0,0,0,0
 2020-01-09,01,Araba/Álava,0,0,0,0
 2020-01-09,02,Albacete,0,0,0,0
@@ -467,6 +475,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-09,49,Zamora,0,0,0,0
 2020-01-09,50,Zaragoza,0,0,0,0
 2020-01-09,51,Ceuta,0,0,0,0
+2020-01-09,52,Melilla,0,0,0,0
 2020-01-10,00,No consta,0,0,1,0
 2020-01-10,01,Araba/Álava,0,0,0,0
 2020-01-10,02,Albacete,0,0,0,0
@@ -519,6 +528,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-10,49,Zamora,0,0,0,0
 2020-01-10,50,Zaragoza,0,0,0,0
 2020-01-10,51,Ceuta,0,0,0,0
+2020-01-10,52,Melilla,0,0,0,0
 2020-01-11,00,No consta,0,0,0,0
 2020-01-11,01,Araba/Álava,0,0,0,0
 2020-01-11,02,Albacete,0,0,0,0
@@ -571,6 +581,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-11,49,Zamora,0,0,0,0
 2020-01-11,50,Zaragoza,0,0,0,0
 2020-01-11,51,Ceuta,0,0,0,0
+2020-01-11,52,Melilla,0,0,0,0
 2020-01-12,00,No consta,0,0,0,0
 2020-01-12,01,Araba/Álava,0,0,0,0
 2020-01-12,02,Albacete,0,0,0,0
@@ -623,6 +634,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-12,49,Zamora,0,0,0,0
 2020-01-12,50,Zaragoza,0,0,0,0
 2020-01-12,51,Ceuta,0,0,0,0
+2020-01-12,52,Melilla,0,0,0,0
 2020-01-13,00,No consta,0,0,0,0
 2020-01-13,01,Araba/Álava,0,0,0,0
 2020-01-13,02,Albacete,0,0,0,0
@@ -675,6 +687,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-13,49,Zamora,0,0,0,0
 2020-01-13,50,Zaragoza,0,0,0,0
 2020-01-13,51,Ceuta,0,0,0,0
+2020-01-13,52,Melilla,0,0,0,0
 2020-01-14,00,No consta,0,0,0,0
 2020-01-14,01,Araba/Álava,0,0,0,0
 2020-01-14,02,Albacete,0,0,0,0
@@ -727,6 +740,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-14,49,Zamora,0,0,0,0
 2020-01-14,50,Zaragoza,0,0,0,0
 2020-01-14,51,Ceuta,0,0,0,0
+2020-01-14,52,Melilla,0,0,0,0
 2020-01-15,00,No consta,0,0,0,0
 2020-01-15,01,Araba/Álava,0,0,0,0
 2020-01-15,02,Albacete,0,0,0,0
@@ -779,6 +793,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-15,49,Zamora,0,0,0,0
 2020-01-15,50,Zaragoza,0,0,0,0
 2020-01-15,51,Ceuta,0,0,0,0
+2020-01-15,52,Melilla,0,0,0,0
 2020-01-16,00,No consta,0,0,1,0
 2020-01-16,01,Araba/Álava,0,0,0,0
 2020-01-16,02,Albacete,0,0,0,0
@@ -831,6 +846,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-16,49,Zamora,0,0,0,0
 2020-01-16,50,Zaragoza,0,0,0,0
 2020-01-16,51,Ceuta,0,0,0,0
+2020-01-16,52,Melilla,0,0,0,0
 2020-01-17,00,No consta,0,0,1,0
 2020-01-17,01,Araba/Álava,0,0,0,0
 2020-01-17,02,Albacete,0,0,0,0
@@ -883,6 +899,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-17,49,Zamora,0,0,0,0
 2020-01-17,50,Zaragoza,0,0,0,0
 2020-01-17,51,Ceuta,0,0,0,0
+2020-01-17,52,Melilla,0,0,0,0
 2020-01-18,00,No consta,0,0,0,0
 2020-01-18,01,Araba/Álava,0,0,0,0
 2020-01-18,02,Albacete,0,0,0,0
@@ -935,6 +952,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-18,49,Zamora,0,0,0,0
 2020-01-18,50,Zaragoza,0,0,0,0
 2020-01-18,51,Ceuta,0,0,0,0
+2020-01-18,52,Melilla,0,0,0,0
 2020-01-19,00,No consta,0,0,0,0
 2020-01-19,01,Araba/Álava,0,0,0,0
 2020-01-19,02,Albacete,0,0,0,0
@@ -987,6 +1005,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-19,49,Zamora,0,0,0,0
 2020-01-19,50,Zaragoza,0,0,0,0
 2020-01-19,51,Ceuta,0,0,0,0
+2020-01-19,52,Melilla,0,0,0,0
 2020-01-20,00,No consta,0,0,2,0
 2020-01-20,01,Araba/Álava,0,0,0,0
 2020-01-20,02,Albacete,0,0,0,0
@@ -1039,6 +1058,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-20,49,Zamora,0,0,0,0
 2020-01-20,50,Zaragoza,0,0,0,0
 2020-01-20,51,Ceuta,0,0,0,0
+2020-01-20,52,Melilla,0,0,0,0
 2020-01-21,00,No consta,0,0,1,0
 2020-01-21,01,Araba/Álava,0,0,0,0
 2020-01-21,02,Albacete,0,0,0,0
@@ -1091,6 +1111,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-21,49,Zamora,0,0,0,0
 2020-01-21,50,Zaragoza,0,0,0,0
 2020-01-21,51,Ceuta,0,0,0,0
+2020-01-21,52,Melilla,0,0,0,0
 2020-01-22,00,No consta,0,0,0,0
 2020-01-22,01,Araba/Álava,0,0,0,0
 2020-01-22,02,Albacete,0,0,0,0
@@ -1143,6 +1164,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-22,49,Zamora,0,0,0,0
 2020-01-22,50,Zaragoza,0,0,0,0
 2020-01-22,51,Ceuta,0,0,0,0
+2020-01-22,52,Melilla,0,0,0,0
 2020-01-23,00,No consta,0,0,0,0
 2020-01-23,01,Araba/Álava,0,0,0,0
 2020-01-23,02,Albacete,0,0,0,0
@@ -1195,6 +1217,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-23,49,Zamora,0,0,0,0
 2020-01-23,50,Zaragoza,0,0,0,0
 2020-01-23,51,Ceuta,0,0,0,0
+2020-01-23,52,Melilla,0,0,0,0
 2020-01-24,00,No consta,0,0,0,0
 2020-01-24,01,Araba/Álava,0,0,0,0
 2020-01-24,02,Albacete,0,0,0,0
@@ -1247,6 +1270,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-24,49,Zamora,0,0,0,0
 2020-01-24,50,Zaragoza,0,0,0,0
 2020-01-24,51,Ceuta,0,0,0,0
+2020-01-24,52,Melilla,0,0,0,0
 2020-01-25,00,No consta,0,0,0,0
 2020-01-25,01,Araba/Álava,0,0,0,0
 2020-01-25,02,Albacete,0,0,0,0
@@ -1299,6 +1323,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-25,49,Zamora,0,0,0,0
 2020-01-25,50,Zaragoza,0,0,0,0
 2020-01-25,51,Ceuta,0,0,0,0
+2020-01-25,52,Melilla,0,0,0,0
 2020-01-26,00,No consta,0,0,0,0
 2020-01-26,01,Araba/Álava,0,0,0,0
 2020-01-26,02,Albacete,0,0,0,0
@@ -1351,6 +1376,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-26,49,Zamora,0,0,0,0
 2020-01-26,50,Zaragoza,0,0,0,0
 2020-01-26,51,Ceuta,0,0,0,0
+2020-01-26,52,Melilla,0,0,0,0
 2020-01-27,00,No consta,0,0,1,0
 2020-01-27,01,Araba/Álava,0,0,0,0
 2020-01-27,02,Albacete,0,0,0,0
@@ -1403,6 +1429,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-27,49,Zamora,0,0,0,0
 2020-01-27,50,Zaragoza,0,0,0,0
 2020-01-27,51,Ceuta,0,0,0,0
+2020-01-27,52,Melilla,0,0,0,0
 2020-01-28,00,No consta,0,0,0,0
 2020-01-28,01,Araba/Álava,0,0,0,0
 2020-01-28,02,Albacete,0,0,0,0
@@ -1455,6 +1482,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-28,49,Zamora,0,0,0,0
 2020-01-28,50,Zaragoza,0,0,0,0
 2020-01-28,51,Ceuta,0,0,0,0
+2020-01-28,52,Melilla,0,0,0,0
 2020-01-29,00,No consta,0,0,0,0
 2020-01-29,01,Araba/Álava,0,0,0,0
 2020-01-29,02,Albacete,0,0,0,0
@@ -1507,6 +1535,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-29,49,Zamora,1,0,0,0
 2020-01-29,50,Zaragoza,0,0,0,0
 2020-01-29,51,Ceuta,0,0,0,0
+2020-01-29,52,Melilla,0,0,0,0
 2020-01-30,00,No consta,0,0,0,0
 2020-01-30,01,Araba/Álava,0,0,0,0
 2020-01-30,02,Albacete,0,0,0,0
@@ -1559,6 +1588,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-30,49,Zamora,0,0,0,0
 2020-01-30,50,Zaragoza,0,0,0,0
 2020-01-30,51,Ceuta,0,0,0,0
+2020-01-30,52,Melilla,0,0,0,0
 2020-01-31,00,No consta,0,0,0,0
 2020-01-31,01,Araba/Álava,0,0,0,0
 2020-01-31,02,Albacete,0,0,0,0
@@ -1611,6 +1641,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-31,49,Zamora,0,0,0,0
 2020-01-31,50,Zaragoza,0,0,0,0
 2020-01-31,51,Ceuta,0,0,0,0
+2020-01-31,52,Melilla,0,0,0,0
 2020-02-01,00,No consta,0,0,1,0
 2020-02-01,01,Araba/Álava,0,0,0,0
 2020-02-01,02,Albacete,0,0,0,0
@@ -1663,6 +1694,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-01,49,Zamora,0,0,0,0
 2020-02-01,50,Zaragoza,0,0,0,0
 2020-02-01,51,Ceuta,0,0,0,0
+2020-02-01,52,Melilla,0,0,0,0
 2020-02-02,00,No consta,0,0,0,0
 2020-02-02,01,Araba/Álava,0,0,0,0
 2020-02-02,02,Albacete,0,0,0,0
@@ -1715,6 +1747,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-02,49,Zamora,0,0,0,0
 2020-02-02,50,Zaragoza,0,0,0,0
 2020-02-02,51,Ceuta,0,0,0,0
+2020-02-02,52,Melilla,0,0,0,0
 2020-02-03,00,No consta,0,0,1,0
 2020-02-03,01,Araba/Álava,0,0,1,0
 2020-02-03,02,Albacete,0,0,0,0
@@ -1767,6 +1800,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-03,49,Zamora,0,0,0,0
 2020-02-03,50,Zaragoza,0,0,0,0
 2020-02-03,51,Ceuta,0,0,0,0
+2020-02-03,52,Melilla,0,0,0,0
 2020-02-04,00,No consta,0,0,0,0
 2020-02-04,01,Araba/Álava,0,0,0,0
 2020-02-04,02,Albacete,0,0,0,0
@@ -1819,6 +1853,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-04,49,Zamora,0,0,1,0
 2020-02-04,50,Zaragoza,0,0,0,0
 2020-02-04,51,Ceuta,0,0,0,0
+2020-02-04,52,Melilla,0,0,0,0
 2020-02-05,00,No consta,0,0,0,0
 2020-02-05,01,Araba/Álava,0,0,0,0
 2020-02-05,02,Albacete,0,0,0,0
@@ -1871,6 +1906,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-05,49,Zamora,0,0,0,0
 2020-02-05,50,Zaragoza,0,0,0,0
 2020-02-05,51,Ceuta,0,0,0,0
+2020-02-05,52,Melilla,0,0,0,0
 2020-02-06,00,No consta,0,0,1,0
 2020-02-06,01,Araba/Álava,0,0,0,0
 2020-02-06,02,Albacete,0,0,0,0
@@ -1923,6 +1959,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-06,49,Zamora,0,0,0,0
 2020-02-06,50,Zaragoza,0,0,1,0
 2020-02-06,51,Ceuta,0,0,0,0
+2020-02-06,52,Melilla,0,0,0,0
 2020-02-07,00,No consta,0,0,0,0
 2020-02-07,01,Araba/Álava,0,0,0,0
 2020-02-07,02,Albacete,0,0,0,0
@@ -1975,6 +2012,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-07,49,Zamora,0,0,0,0
 2020-02-07,50,Zaragoza,0,0,0,0
 2020-02-07,51,Ceuta,0,0,0,0
+2020-02-07,52,Melilla,0,0,0,0
 2020-02-08,00,No consta,0,0,0,0
 2020-02-08,01,Araba/Álava,0,0,1,0
 2020-02-08,02,Albacete,0,0,0,0
@@ -2027,6 +2065,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-08,49,Zamora,0,0,0,0
 2020-02-08,50,Zaragoza,0,0,0,0
 2020-02-08,51,Ceuta,0,0,0,0
+2020-02-08,52,Melilla,0,0,0,0
 2020-02-09,00,No consta,0,0,0,0
 2020-02-09,01,Araba/Álava,0,0,0,0
 2020-02-09,02,Albacete,0,0,0,0
@@ -2079,6 +2118,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-09,49,Zamora,0,0,0,0
 2020-02-09,50,Zaragoza,0,0,0,0
 2020-02-09,51,Ceuta,0,0,0,0
+2020-02-09,52,Melilla,0,0,0,0
 2020-02-10,00,No consta,0,0,2,1
 2020-02-10,01,Araba/Álava,0,0,0,0
 2020-02-10,02,Albacete,0,0,0,0
@@ -2131,6 +2171,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-10,49,Zamora,0,0,0,0
 2020-02-10,50,Zaragoza,0,0,0,0
 2020-02-10,51,Ceuta,0,0,0,0
+2020-02-10,52,Melilla,0,0,0,0
 2020-02-11,00,No consta,0,0,0,0
 2020-02-11,01,Araba/Álava,0,0,2,0
 2020-02-11,02,Albacete,0,0,0,0
@@ -2183,6 +2224,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-11,49,Zamora,0,0,0,0
 2020-02-11,50,Zaragoza,0,0,0,0
 2020-02-11,51,Ceuta,0,0,0,0
+2020-02-11,52,Melilla,0,0,0,0
 2020-02-12,00,No consta,0,0,1,0
 2020-02-12,01,Araba/Álava,0,0,0,0
 2020-02-12,02,Albacete,0,0,0,0
@@ -2235,6 +2277,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-12,49,Zamora,0,0,0,0
 2020-02-12,50,Zaragoza,0,0,0,0
 2020-02-12,51,Ceuta,0,0,0,0
+2020-02-12,52,Melilla,0,0,0,0
 2020-02-13,00,No consta,0,0,0,0
 2020-02-13,01,Araba/Álava,0,0,0,0
 2020-02-13,02,Albacete,0,0,0,0
@@ -2287,6 +2330,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-13,49,Zamora,0,0,0,0
 2020-02-13,50,Zaragoza,0,0,0,0
 2020-02-13,51,Ceuta,0,0,0,0
+2020-02-13,52,Melilla,0,0,0,0
 2020-02-14,00,No consta,0,0,1,0
 2020-02-14,01,Araba/Álava,0,0,0,0
 2020-02-14,02,Albacete,0,0,0,0
@@ -2339,6 +2383,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-14,49,Zamora,0,0,0,0
 2020-02-14,50,Zaragoza,0,0,0,0
 2020-02-14,51,Ceuta,0,0,0,0
+2020-02-14,52,Melilla,0,0,0,0
 2020-02-15,00,No consta,0,0,0,0
 2020-02-15,01,Araba/Álava,0,0,0,0
 2020-02-15,02,Albacete,0,0,0,0
@@ -2391,6 +2436,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-15,49,Zamora,0,0,0,0
 2020-02-15,50,Zaragoza,0,0,0,0
 2020-02-15,51,Ceuta,0,0,0,0
+2020-02-15,52,Melilla,0,0,0,0
 2020-02-16,00,No consta,0,0,0,0
 2020-02-16,01,Araba/Álava,0,0,0,0
 2020-02-16,02,Albacete,0,0,0,0
@@ -2443,6 +2489,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-16,49,Zamora,0,0,0,0
 2020-02-16,50,Zaragoza,0,0,1,0
 2020-02-16,51,Ceuta,0,0,0,0
+2020-02-16,52,Melilla,0,0,0,0
 2020-02-17,00,No consta,0,0,0,0
 2020-02-17,01,Araba/Álava,0,0,4,0
 2020-02-17,02,Albacete,0,0,0,0
@@ -2495,6 +2542,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-17,49,Zamora,0,0,0,0
 2020-02-17,50,Zaragoza,0,0,0,0
 2020-02-17,51,Ceuta,0,0,0,0
+2020-02-17,52,Melilla,0,0,0,0
 2020-02-18,00,No consta,0,0,1,0
 2020-02-18,01,Araba/Álava,0,0,0,0
 2020-02-18,02,Albacete,0,0,0,0
@@ -2547,6 +2595,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-18,49,Zamora,0,0,0,0
 2020-02-18,50,Zaragoza,0,0,0,0
 2020-02-18,51,Ceuta,0,0,0,0
+2020-02-18,52,Melilla,0,0,0,0
 2020-02-19,00,No consta,0,0,0,0
 2020-02-19,01,Araba/Álava,0,0,2,0
 2020-02-19,02,Albacete,0,0,0,0
@@ -2599,6 +2648,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-19,49,Zamora,0,0,0,0
 2020-02-19,50,Zaragoza,0,0,0,0
 2020-02-19,51,Ceuta,0,0,0,0
+2020-02-19,52,Melilla,0,0,0,0
 2020-02-20,00,No consta,0,0,2,0
 2020-02-20,01,Araba/Álava,0,0,1,0
 2020-02-20,02,Albacete,0,0,1,0
@@ -2651,6 +2701,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-20,49,Zamora,0,0,0,0
 2020-02-20,50,Zaragoza,0,0,1,0
 2020-02-20,51,Ceuta,0,0,0,0
+2020-02-20,52,Melilla,0,0,0,0
 2020-02-21,00,No consta,0,0,1,0
 2020-02-21,01,Araba/Álava,0,0,0,0
 2020-02-21,02,Albacete,0,0,0,0
@@ -2703,6 +2754,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-21,49,Zamora,0,0,0,0
 2020-02-21,50,Zaragoza,0,0,0,0
 2020-02-21,51,Ceuta,0,0,0,0
+2020-02-21,52,Melilla,0,0,0,0
 2020-02-22,00,No consta,0,0,0,0
 2020-02-22,01,Araba/Álava,0,0,0,0
 2020-02-22,02,Albacete,0,0,0,0
@@ -2755,6 +2807,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-22,49,Zamora,0,0,2,0
 2020-02-22,50,Zaragoza,0,0,0,0
 2020-02-22,51,Ceuta,0,0,0,0
+2020-02-22,52,Melilla,0,0,0,0
 2020-02-23,00,No consta,0,0,0,0
 2020-02-23,01,Araba/Álava,0,0,1,0
 2020-02-23,02,Albacete,0,0,0,0
@@ -2807,6 +2860,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-23,49,Zamora,0,0,0,1
 2020-02-23,50,Zaragoza,0,0,0,1
 2020-02-23,51,Ceuta,0,0,0,0
+2020-02-23,52,Melilla,0,0,0,0
 2020-02-24,00,No consta,0,0,2,0
 2020-02-24,01,Araba/Álava,0,0,0,0
 2020-02-24,02,Albacete,0,0,0,0
@@ -2859,6 +2913,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-24,49,Zamora,0,0,0,0
 2020-02-24,50,Zaragoza,1,0,0,0
 2020-02-24,51,Ceuta,0,0,0,0
+2020-02-24,52,Melilla,0,0,0,0
 2020-02-25,00,No consta,0,0,2,1
 2020-02-25,01,Araba/Álava,0,0,1,0
 2020-02-25,02,Albacete,0,0,0,0
@@ -2911,6 +2966,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-25,49,Zamora,0,0,0,1
 2020-02-25,50,Zaragoza,0,0,0,0
 2020-02-25,51,Ceuta,0,0,0,0
+2020-02-25,52,Melilla,0,0,0,0
 2020-02-26,00,No consta,0,0,2,0
 2020-02-26,01,Araba/Álava,0,0,1,0
 2020-02-26,02,Albacete,0,0,0,0
@@ -2963,6 +3019,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-26,49,Zamora,0,0,0,0
 2020-02-26,50,Zaragoza,0,0,0,0
 2020-02-26,51,Ceuta,0,0,0,0
+2020-02-26,52,Melilla,0,0,0,0
 2020-02-27,00,No consta,0,0,3,0
 2020-02-27,01,Araba/Álava,1,0,1,0
 2020-02-27,02,Albacete,0,0,0,0
@@ -3015,6 +3072,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-27,49,Zamora,0,0,0,0
 2020-02-27,50,Zaragoza,0,0,3,0
 2020-02-27,51,Ceuta,0,0,0,0
+2020-02-27,52,Melilla,0,0,0,0
 2020-02-28,00,No consta,0,0,3,0
 2020-02-28,01,Araba/Álava,0,0,1,0
 2020-02-28,02,Albacete,0,0,2,0
@@ -3067,6 +3125,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-28,49,Zamora,0,0,0,0
 2020-02-28,50,Zaragoza,0,0,1,0
 2020-02-28,51,Ceuta,0,0,0,0
+2020-02-28,52,Melilla,0,0,0,0
 2020-02-29,00,No consta,0,0,2,0
 2020-02-29,01,Araba/Álava,0,0,3,0
 2020-02-29,02,Albacete,0,0,2,0
@@ -3119,6 +3178,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-29,49,Zamora,0,0,0,0
 2020-02-29,50,Zaragoza,0,0,2,1
 2020-02-29,51,Ceuta,0,0,0,0
+2020-02-29,52,Melilla,0,0,0,0
 2020-03-01,00,No consta,0,0,3,0
 2020-03-01,01,Araba/Álava,1,0,1,0
 2020-03-01,02,Albacete,2,0,0,0
@@ -3171,6 +3231,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-01,49,Zamora,0,0,0,0
 2020-03-01,50,Zaragoza,0,0,0,0
 2020-03-01,51,Ceuta,0,0,0,0
+2020-03-01,52,Melilla,0,0,0,0
 2020-03-02,00,No consta,0,0,4,1
 2020-03-02,01,Araba/Álava,1,0,3,0
 2020-03-02,02,Albacete,0,0,0,0
@@ -3223,6 +3284,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-02,49,Zamora,0,0,0,0
 2020-03-02,50,Zaragoza,0,0,1,0
 2020-03-02,51,Ceuta,1,0,0,0
+2020-03-02,52,Melilla,0,0,0,0
 2020-03-03,00,No consta,1,0,3,1
 2020-03-03,01,Araba/Álava,2,0,8,2
 2020-03-03,02,Albacete,0,0,3,0
@@ -3275,6 +3337,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-03,49,Zamora,0,0,0,0
 2020-03-03,50,Zaragoza,0,0,2,1
 2020-03-03,51,Ceuta,0,0,0,0
+2020-03-03,52,Melilla,0,0,0,0
 2020-03-04,00,No consta,0,0,3,0
 2020-03-04,01,Araba/Álava,4,0,2,2
 2020-03-04,02,Albacete,0,0,0,0
@@ -3327,6 +3390,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-04,49,Zamora,0,0,0,0
 2020-03-04,50,Zaragoza,2,0,0,0
 2020-03-04,51,Ceuta,0,0,0,0
+2020-03-04,52,Melilla,0,0,0,0
 2020-03-05,00,No consta,2,0,3,1
 2020-03-05,01,Araba/Álava,19,0,7,0
 2020-03-05,02,Albacete,0,0,1,0
@@ -3379,6 +3443,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-05,49,Zamora,0,0,1,1
 2020-03-05,50,Zaragoza,3,0,2,1
 2020-03-05,51,Ceuta,0,0,0,0
+2020-03-05,52,Melilla,0,0,0,0
 2020-03-06,00,No consta,0,0,2,0
 2020-03-06,01,Araba/Álava,21,0,9,0
 2020-03-06,02,Albacete,0,0,4,0
@@ -3431,6 +3496,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-06,49,Zamora,0,0,0,0
 2020-03-06,50,Zaragoza,3,0,3,0
 2020-03-06,51,Ceuta,0,0,0,0
+2020-03-06,52,Melilla,0,0,0,0
 2020-03-07,00,No consta,1,0,0,0
 2020-03-07,01,Araba/Álava,23,1,13,0
 2020-03-07,02,Albacete,1,0,3,0
@@ -3483,6 +3549,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-07,49,Zamora,0,0,1,0
 2020-03-07,50,Zaragoza,8,0,4,1
 2020-03-07,51,Ceuta,0,0,0,0
+2020-03-07,52,Melilla,0,0,0,0
 2020-03-08,00,No consta,0,0,0,0
 2020-03-08,01,Araba/Álava,42,1,7,1
 2020-03-08,02,Albacete,2,0,3,1
@@ -3535,6 +3602,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-08,49,Zamora,0,0,1,0
 2020-03-08,50,Zaragoza,12,2,3,0
 2020-03-08,51,Ceuta,0,0,0,0
+2020-03-08,52,Melilla,0,0,1,0
 2020-03-09,00,No consta,2,0,1,0
 2020-03-09,01,Araba/Álava,31,1,10,0
 2020-03-09,02,Albacete,1,0,2,2
@@ -3587,6 +3655,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-09,49,Zamora,0,0,3,0
 2020-03-09,50,Zaragoza,4,2,5,2
 2020-03-09,51,Ceuta,0,0,0,0
+2020-03-09,52,Melilla,0,0,0,0
 2020-03-10,00,No consta,18,0,10,1
 2020-03-10,01,Araba/Álava,57,0,20,2
 2020-03-10,02,Albacete,2,0,4,2
@@ -3639,6 +3708,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-10,49,Zamora,1,0,0,0
 2020-03-10,50,Zaragoza,6,1,4,1
 2020-03-10,51,Ceuta,0,0,0,0
+2020-03-10,52,Melilla,0,0,0,0
 2020-03-11,00,No consta,14,1,6,1
 2020-03-11,01,Araba/Álava,55,3,25,3
 2020-03-11,02,Albacete,4,0,9,3
@@ -3691,6 +3761,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-11,49,Zamora,1,0,0,1
 2020-03-11,50,Zaragoza,12,0,4,1
 2020-03-11,51,Ceuta,0,0,0,0
+2020-03-11,52,Melilla,0,0,3,0
 2020-03-12,00,No consta,26,0,9,1
 2020-03-12,01,Araba/Álava,52,3,32,1
 2020-03-12,02,Albacete,27,1,15,1
@@ -3743,6 +3814,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-12,49,Zamora,3,0,3,1
 2020-03-12,50,Zaragoza,16,3,13,1
 2020-03-12,51,Ceuta,0,0,0,0
+2020-03-12,52,Melilla,2,0,1,0
 2020-03-13,00,No consta,54,0,14,0
 2020-03-13,01,Araba/Álava,51,5,35,1
 2020-03-13,02,Albacete,27,2,22,2
@@ -3795,6 +3867,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-13,49,Zamora,1,0,4,0
 2020-03-13,50,Zaragoza,19,0,5,2
 2020-03-13,51,Ceuta,0,0,0,0
+2020-03-13,52,Melilla,1,0,0,0
 2020-03-14,00,No consta,39,0,12,1
 2020-03-14,01,Araba/Álava,49,2,21,1
 2020-03-14,02,Albacete,13,2,16,1
@@ -3847,6 +3920,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-14,49,Zamora,1,0,4,0
 2020-03-14,50,Zaragoza,33,1,14,3
 2020-03-14,51,Ceuta,1,0,0,0
+2020-03-14,52,Melilla,2,0,0,0
 2020-03-15,00,No consta,79,0,13,7
 2020-03-15,01,Araba/Álava,37,10,17,5
 2020-03-15,02,Albacete,21,5,27,5
@@ -3899,6 +3973,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-15,49,Zamora,4,0,6,1
 2020-03-15,50,Zaragoza,24,1,14,5
 2020-03-15,51,Ceuta,0,0,0,0
+2020-03-15,52,Melilla,11,0,0,0
 2020-03-16,00,No consta,97,0,33,5
 2020-03-16,01,Araba/Álava,43,1,33,2
 2020-03-16,02,Albacete,65,7,43,3
@@ -3951,6 +4026,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-16,49,Zamora,7,0,2,0
 2020-03-16,50,Zaragoza,27,3,17,6
 2020-03-16,51,Ceuta,0,0,0,0
+2020-03-16,52,Melilla,0,0,0,0
 2020-03-17,00,No consta,102,0,30,1
 2020-03-17,01,Araba/Álava,77,5,43,3
 2020-03-17,02,Albacete,29,2,40,4
@@ -4003,6 +4079,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-17,49,Zamora,9,0,4,1
 2020-03-17,50,Zaragoza,30,0,15,7
 2020-03-17,51,Ceuta,0,0,0,0
+2020-03-17,52,Melilla,4,0,0,0
 2020-03-18,00,No consta,131,1,41,7
 2020-03-18,01,Araba/Álava,81,11,50,6
 2020-03-18,02,Albacete,26,7,24,7
@@ -4055,6 +4132,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-18,49,Zamora,10,1,10,1
 2020-03-18,50,Zaragoza,46,3,21,4
 2020-03-18,51,Ceuta,0,0,0,0
+2020-03-18,52,Melilla,1,0,0,0
 2020-03-19,00,No consta,172,2,48,9
 2020-03-19,01,Araba/Álava,77,11,37,1
 2020-03-19,02,Albacete,22,7,40,5
@@ -4107,6 +4185,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-19,49,Zamora,12,0,10,1
 2020-03-19,50,Zaragoza,69,5,30,9
 2020-03-19,51,Ceuta,4,0,0,0
+2020-03-19,52,Melilla,3,0,1,0
 2020-03-20,00,No consta,164,0,48,5
 2020-03-20,01,Araba/Álava,118,8,62,1
 2020-03-20,02,Albacete,85,6,63,4
@@ -4159,6 +4238,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-20,49,Zamora,14,0,10,1
 2020-03-20,50,Zaragoza,82,4,48,9
 2020-03-20,51,Ceuta,0,0,0,0
+2020-03-20,52,Melilla,1,0,6,1
 2020-03-21,00,No consta,119,3,43,5
 2020-03-21,01,Araba/Álava,83,9,39,0
 2020-03-21,02,Albacete,24,10,60,2
@@ -4211,6 +4291,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-21,49,Zamora,13,1,10,3
 2020-03-21,50,Zaragoza,102,4,69,5
 2020-03-21,51,Ceuta,0,0,0,0
+2020-03-21,52,Melilla,0,0,2,0
 2020-03-22,00,No consta,102,1,38,8
 2020-03-22,01,Araba/Álava,90,7,32,2
 2020-03-22,02,Albacete,60,13,61,8
@@ -4263,6 +4344,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-22,49,Zamora,14,1,10,0
 2020-03-22,50,Zaragoza,74,9,40,8
 2020-03-22,51,Ceuta,2,0,0,0
+2020-03-22,52,Melilla,3,0,0,0
 2020-03-23,00,No consta,165,1,62,11
 2020-03-23,01,Araba/Álava,96,4,54,1
 2020-03-23,02,Albacete,194,16,108,2
@@ -4315,6 +4397,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-23,49,Zamora,13,3,11,1
 2020-03-23,50,Zaragoza,99,10,66,10
 2020-03-23,51,Ceuta,1,0,0,0
+2020-03-23,52,Melilla,0,0,1,1
 2020-03-24,00,No consta,197,0,62,14
 2020-03-24,01,Araba/Álava,135,14,71,1
 2020-03-24,02,Albacete,53,14,76,7
@@ -4367,6 +4450,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-24,49,Zamora,2,1,17,3
 2020-03-24,50,Zaragoza,147,4,109,21
 2020-03-24,51,Ceuta,1,0,1,0
+2020-03-24,52,Melilla,10,0,2,0
 2020-03-25,00,No consta,147,5,47,8
 2020-03-25,01,Araba/Álava,233,8,57,1
 2020-03-25,02,Albacete,22,16,66,9
@@ -4419,6 +4503,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-25,49,Zamora,13,4,16,2
 2020-03-25,50,Zaragoza,186,20,99,10
 2020-03-25,51,Ceuta,1,0,1,2
+2020-03-25,52,Melilla,1,1,1,0
 2020-03-26,00,No consta,183,3,65,6
 2020-03-26,01,Araba/Álava,168,6,50,3
 2020-03-26,02,Albacete,186,16,78,12
@@ -4471,6 +4556,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-26,49,Zamora,18,2,18,1
 2020-03-26,50,Zaragoza,178,14,112,15
 2020-03-26,51,Ceuta,7,0,0,0
+2020-03-26,52,Melilla,3,0,6,0
 2020-03-27,00,No consta,142,6,60,8
 2020-03-27,01,Araba/Álava,166,7,42,2
 2020-03-27,02,Albacete,259,12,106,8
@@ -4523,6 +4609,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-27,49,Zamora,58,3,24,2
 2020-03-27,50,Zaragoza,210,8,110,14
 2020-03-27,51,Ceuta,0,1,0,0
+2020-03-27,52,Melilla,2,0,1,0
 2020-03-28,00,No consta,155,1,37,6
 2020-03-28,01,Araba/Álava,147,12,27,1
 2020-03-28,02,Albacete,55,18,54,8
@@ -4575,6 +4662,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-28,49,Zamora,18,3,11,0
 2020-03-28,50,Zaragoza,155,10,84,10
 2020-03-28,51,Ceuta,6,0,1,0
+2020-03-28,52,Melilla,3,0,5,0
 2020-03-29,00,No consta,108,6,27,4
 2020-03-29,01,Araba/Álava,97,16,21,1
 2020-03-29,02,Albacete,59,12,63,3
@@ -4627,6 +4715,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-29,49,Zamora,11,1,12,1
 2020-03-29,50,Zaragoza,98,14,49,7
 2020-03-29,51,Ceuta,6,0,2,0
+2020-03-29,52,Melilla,5,0,0,1
 2020-03-30,00,No consta,136,3,45,1
 2020-03-30,01,Araba/Álava,62,11,40,0
 2020-03-30,02,Albacete,330,18,99,10
@@ -4679,6 +4768,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-30,49,Zamora,15,2,6,2
 2020-03-30,50,Zaragoza,143,23,86,5
 2020-03-30,51,Ceuta,13,0,3,1
+2020-03-30,52,Melilla,4,0,0,0
 2020-03-31,00,No consta,145,6,64,7
 2020-03-31,01,Araba/Álava,153,15,27,0
 2020-03-31,02,Albacete,106,19,77,7
@@ -4731,6 +4821,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-31,49,Zamora,5,5,8,2
 2020-03-31,50,Zaragoza,202,20,68,7
 2020-03-31,51,Ceuta,13,0,0,0
+2020-03-31,52,Melilla,2,0,4,0
 2020-04-01,00,No consta,126,4,31,1
 2020-04-01,01,Araba/Álava,95,9,37,1
 2020-04-01,02,Albacete,254,18,84,5
@@ -4783,6 +4874,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-01,49,Zamora,29,3,19,1
 2020-04-01,50,Zaragoza,151,22,76,8
 2020-04-01,51,Ceuta,2,0,1,1
+2020-04-01,52,Melilla,0,0,0,0
 2020-04-02,00,No consta,95,11,30,3
 2020-04-02,01,Araba/Álava,95,11,13,2
 2020-04-02,02,Albacete,143,13,59,4
@@ -4835,6 +4927,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-02,49,Zamora,9,2,9,0
 2020-04-02,50,Zaragoza,131,17,67,6
 2020-04-02,51,Ceuta,4,0,0,0
+2020-04-02,52,Melilla,14,1,2,0
 2020-04-03,00,No consta,104,5,26,3
 2020-04-03,01,Araba/Álava,116,11,14,0
 2020-04-03,02,Albacete,140,18,66,3
@@ -4887,6 +4980,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-03,49,Zamora,28,7,9,2
 2020-04-03,50,Zaragoza,130,21,63,8
 2020-04-03,51,Ceuta,11,1,0,0
+2020-04-03,52,Melilla,3,0,2,0
 2020-04-04,00,No consta,71,5,18,0
 2020-04-04,01,Araba/Álava,78,13,3,0
 2020-04-04,02,Albacete,43,26,31,1
@@ -4939,6 +5033,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-04,49,Zamora,11,2,9,0
 2020-04-04,50,Zaragoza,75,15,38,5
 2020-04-04,51,Ceuta,10,0,0,0
+2020-04-04,52,Melilla,7,0,0,0
 2020-04-05,00,No consta,45,3,20,2
 2020-04-05,01,Araba/Álava,67,10,4,0
 2020-04-05,02,Albacete,21,8,34,4
@@ -4991,6 +5086,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-05,49,Zamora,5,0,3,1
 2020-04-05,50,Zaragoza,72,20,40,7
 2020-04-05,51,Ceuta,1,1,0,0
+2020-04-05,52,Melilla,6,0,0,0
 2020-04-06,00,No consta,89,5,25,2
 2020-04-06,01,Araba/Álava,34,14,7,1
 2020-04-06,02,Albacete,171,11,57,1
@@ -5043,6 +5139,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-06,49,Zamora,12,2,5,0
 2020-04-06,50,Zaragoza,121,26,46,6
 2020-04-06,51,Ceuta,0,1,0,0
+2020-04-06,52,Melilla,0,0,0,0
 2020-04-07,00,No consta,86,4,19,2
 2020-04-07,01,Araba/Álava,65,9,10,0
 2020-04-07,02,Albacete,82,6,39,0
@@ -5095,6 +5192,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-07,49,Zamora,23,3,13,0
 2020-04-07,50,Zaragoza,66,19,55,5
 2020-04-07,51,Ceuta,0,0,0,0
+2020-04-07,52,Melilla,1,0,1,0
 2020-04-08,00,No consta,161,5,23,2
 2020-04-08,01,Araba/Álava,51,12,8,1
 2020-04-08,02,Albacete,69,20,32,1
@@ -5147,6 +5245,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-08,49,Zamora,6,4,7,0
 2020-04-08,50,Zaragoza,120,19,33,1
 2020-04-08,51,Ceuta,3,0,0,0
+2020-04-08,52,Melilla,0,0,2,0
 2020-04-09,00,No consta,103,6,28,5
 2020-04-09,01,Araba/Álava,58,8,9,0
 2020-04-09,02,Albacete,61,7,28,1
@@ -5199,6 +5298,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-09,49,Zamora,39,7,5,0
 2020-04-09,50,Zaragoza,107,17,39,2
 2020-04-09,51,Ceuta,4,0,0,0
+2020-04-09,52,Melilla,2,0,0,0
 2020-04-10,00,No consta,106,4,17,0
 2020-04-10,01,Araba/Álava,28,10,3,1
 2020-04-10,02,Albacete,80,6,28,1
@@ -5251,6 +5351,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-10,49,Zamora,11,2,5,1
 2020-04-10,50,Zaragoza,73,22,36,4
 2020-04-10,51,Ceuta,2,0,0,0
+2020-04-10,52,Melilla,3,0,1,0
 2020-04-11,00,No consta,70,7,12,0
 2020-04-11,01,Araba/Álava,25,6,6,0
 2020-04-11,02,Albacete,47,11,22,1
@@ -5303,6 +5404,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-11,49,Zamora,16,4,2,0
 2020-04-11,50,Zaragoza,83,26,41,2
 2020-04-11,51,Ceuta,0,0,0,0
+2020-04-11,52,Melilla,0,0,0,0
 2020-04-12,00,No consta,26,6,6,0
 2020-04-12,01,Araba/Álava,7,3,2,0
 2020-04-12,02,Albacete,24,3,13,4
@@ -5355,6 +5457,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-12,49,Zamora,40,6,2,0
 2020-04-12,50,Zaragoza,60,16,20,2
 2020-04-12,51,Ceuta,2,0,0,0
+2020-04-12,52,Melilla,3,0,0,0
 2020-04-13,00,No consta,57,2,14,0
 2020-04-13,01,Araba/Álava,12,5,2,0
 2020-04-13,02,Albacete,20,11,15,0
@@ -5407,6 +5510,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-13,49,Zamora,21,4,2,1
 2020-04-13,50,Zaragoza,56,18,42,3
 2020-04-13,51,Ceuta,1,0,0,0
+2020-04-13,52,Melilla,0,0,0,0
 2020-04-14,00,No consta,117,1,24,1
 2020-04-14,01,Araba/Álava,9,5,4,0
 2020-04-14,02,Albacete,52,12,23,0
@@ -5459,6 +5563,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-14,49,Zamora,18,4,7,0
 2020-04-14,50,Zaragoza,60,23,31,2
 2020-04-14,51,Ceuta,2,0,0,0
+2020-04-14,52,Melilla,1,0,1,0
 2020-04-15,00,No consta,115,0,18,3
 2020-04-15,01,Araba/Álava,40,8,1,0
 2020-04-15,02,Albacete,42,4,11,1
@@ -5511,6 +5616,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-15,49,Zamora,9,5,11,1
 2020-04-15,50,Zaragoza,58,14,31,5
 2020-04-15,51,Ceuta,0,0,0,0
+2020-04-15,52,Melilla,1,0,0,0
 2020-04-16,00,No consta,98,1,13,2
 2020-04-16,01,Araba/Álava,25,7,2,0
 2020-04-16,02,Albacete,32,6,19,1
@@ -5563,6 +5669,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-16,49,Zamora,27,4,7,1
 2020-04-16,50,Zaragoza,63,14,17,1
 2020-04-16,51,Ceuta,1,0,0,0
+2020-04-16,52,Melilla,1,0,0,0
 2020-04-17,00,No consta,133,2,12,1
 2020-04-17,01,Araba/Álava,21,4,2,1
 2020-04-17,02,Albacete,22,7,12,1
@@ -5615,6 +5722,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-17,49,Zamora,9,7,4,0
 2020-04-17,50,Zaragoza,46,16,33,7
 2020-04-17,51,Ceuta,0,0,0,0
+2020-04-17,52,Melilla,0,0,0,0
 2020-04-18,00,No consta,110,4,4,0
 2020-04-18,01,Araba/Álava,15,7,1,0
 2020-04-18,02,Albacete,6,8,8,0
@@ -5667,6 +5775,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-18,49,Zamora,3,3,4,1
 2020-04-18,50,Zaragoza,39,16,11,2
 2020-04-18,51,Ceuta,0,0,0,0
+2020-04-18,52,Melilla,0,0,0,0
 2020-04-19,00,No consta,94,3,4,1
 2020-04-19,01,Araba/Álava,16,0,1,0
 2020-04-19,02,Albacete,16,9,9,0
@@ -5719,6 +5828,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-19,49,Zamora,6,0,5,0
 2020-04-19,50,Zaragoza,44,7,24,1
 2020-04-19,51,Ceuta,0,0,0,0
+2020-04-19,52,Melilla,1,0,0,0
 2020-04-20,00,No consta,128,2,21,0
 2020-04-20,01,Araba/Álava,9,1,2,0
 2020-04-20,02,Albacete,35,11,11,0
@@ -5771,6 +5881,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-20,49,Zamora,8,4,4,0
 2020-04-20,50,Zaragoza,56,11,26,2
 2020-04-20,51,Ceuta,0,0,0,0
+2020-04-20,52,Melilla,0,0,0,0
 2020-04-21,00,No consta,161,4,20,2
 2020-04-21,01,Araba/Álava,11,3,3,0
 2020-04-21,02,Albacete,20,2,14,0
@@ -5823,6 +5934,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-21,49,Zamora,6,1,8,1
 2020-04-21,50,Zaragoza,67,24,24,2
 2020-04-21,51,Ceuta,1,0,1,0
+2020-04-21,52,Melilla,0,0,0,0
 2020-04-22,00,No consta,219,0,11,0
 2020-04-22,01,Araba/Álava,18,2,3,1
 2020-04-22,02,Albacete,20,3,11,0
@@ -5875,6 +5987,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-22,49,Zamora,13,2,2,0
 2020-04-22,50,Zaragoza,47,11,28,1
 2020-04-22,51,Ceuta,0,0,0,0
+2020-04-22,52,Melilla,1,0,0,0
 2020-04-23,00,No consta,108,2,13,2
 2020-04-23,01,Araba/Álava,16,1,2,0
 2020-04-23,02,Albacete,29,5,10,0
@@ -5927,6 +6040,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-23,49,Zamora,4,2,2,0
 2020-04-23,50,Zaragoza,46,7,13,1
 2020-04-23,51,Ceuta,0,0,0,0
+2020-04-23,52,Melilla,2,0,0,0
 2020-04-24,00,No consta,189,5,16,1
 2020-04-24,01,Araba/Álava,9,3,0,0
 2020-04-24,02,Albacete,22,3,10,0
@@ -5979,6 +6093,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-24,49,Zamora,8,2,1,0
 2020-04-24,50,Zaragoza,54,13,18,1
 2020-04-24,51,Ceuta,0,0,0,0
+2020-04-24,52,Melilla,1,0,0,0
 2020-04-25,00,No consta,72,1,7,2
 2020-04-25,01,Araba/Álava,16,2,1,0
 2020-04-25,02,Albacete,13,8,7,0
@@ -6031,6 +6146,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-25,49,Zamora,2,6,2,0
 2020-04-25,50,Zaragoza,24,6,19,0
 2020-04-25,51,Ceuta,0,0,0,0
+2020-04-25,52,Melilla,2,0,0,0
 2020-04-26,00,No consta,52,0,8,0
 2020-04-26,01,Araba/Álava,2,1,0,0
 2020-04-26,02,Albacete,14,7,9,1
@@ -6083,6 +6199,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-26,49,Zamora,1,0,0,0
 2020-04-26,50,Zaragoza,13,7,3,0
 2020-04-26,51,Ceuta,0,0,0,0
+2020-04-26,52,Melilla,4,0,0,0
 2020-04-27,00,No consta,65,0,8,0
 2020-04-27,01,Araba/Álava,4,3,3,0
 2020-04-27,02,Albacete,26,4,17,0
@@ -6135,6 +6252,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-27,49,Zamora,8,0,4,1
 2020-04-27,50,Zaragoza,43,10,21,2
 2020-04-27,51,Ceuta,0,0,0,0
+2020-04-27,52,Melilla,0,0,1,0
 2020-04-28,00,No consta,67,1,9,0
 2020-04-28,01,Araba/Álava,11,0,3,0
 2020-04-28,02,Albacete,22,3,12,0
@@ -6187,6 +6305,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-28,49,Zamora,4,0,3,0
 2020-04-28,50,Zaragoza,54,4,16,1
 2020-04-28,51,Ceuta,1,0,0,0
+2020-04-28,52,Melilla,1,0,0,0
 2020-04-29,00,No consta,59,2,11,1
 2020-04-29,01,Araba/Álava,5,0,0,0
 2020-04-29,02,Albacete,34,8,15,0
@@ -6239,6 +6358,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-29,49,Zamora,6,3,2,0
 2020-04-29,50,Zaragoza,18,11,6,3
 2020-04-29,51,Ceuta,0,0,0,0
+2020-04-29,52,Melilla,2,0,0,0
 2020-04-30,00,No consta,56,2,8,1
 2020-04-30,01,Araba/Álava,5,1,1,0
 2020-04-30,02,Albacete,16,3,9,0
@@ -6291,6 +6411,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-30,49,Zamora,3,0,2,0
 2020-04-30,50,Zaragoza,31,4,7,0
 2020-04-30,51,Ceuta,0,0,0,0
+2020-04-30,52,Melilla,1,0,0,0
 2020-05-01,00,No consta,29,2,7,1
 2020-05-01,01,Araba/Álava,7,1,0,0
 2020-05-01,02,Albacete,10,0,6,0
@@ -6343,6 +6464,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-01,49,Zamora,0,1,0,0
 2020-05-01,50,Zaragoza,16,1,5,2
 2020-05-01,51,Ceuta,0,0,0,0
+2020-05-01,52,Melilla,1,0,0,0
 2020-05-02,00,No consta,19,1,8,0
 2020-05-02,01,Araba/Álava,3,1,1,0
 2020-05-02,02,Albacete,4,4,4,2
@@ -6395,6 +6517,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-02,49,Zamora,2,2,1,0
 2020-05-02,50,Zaragoza,21,6,9,1
 2020-05-02,51,Ceuta,0,0,0,0
+2020-05-02,52,Melilla,2,0,0,0
 2020-05-03,00,No consta,9,2,5,0
 2020-05-03,01,Araba/Álava,2,0,0,0
 2020-05-03,02,Albacete,8,2,5,0
@@ -6447,6 +6570,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-03,49,Zamora,2,2,1,1
 2020-05-03,50,Zaragoza,15,5,2,1
 2020-05-03,51,Ceuta,0,0,0,0
+2020-05-03,52,Melilla,2,0,0,0
 2020-05-04,00,No consta,35,4,9,0
 2020-05-04,01,Araba/Álava,10,3,3,0
 2020-05-04,02,Albacete,18,3,8,0
@@ -6499,6 +6623,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-04,49,Zamora,6,0,4,1
 2020-05-04,50,Zaragoza,25,9,11,2
 2020-05-04,51,Ceuta,0,0,0,0
+2020-05-04,52,Melilla,0,0,0,0
 2020-05-05,00,No consta,29,2,8,0
 2020-05-05,01,Araba/Álava,5,0,0,0
 2020-05-05,02,Albacete,10,1,4,0
@@ -6551,6 +6676,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-05,49,Zamora,12,2,1,0
 2020-05-05,50,Zaragoza,15,3,1,0
 2020-05-05,51,Ceuta,8,0,1,0
+2020-05-05,52,Melilla,0,0,0,0
 2020-05-06,00,No consta,26,3,9,1
 2020-05-06,01,Araba/Álava,6,0,1,0
 2020-05-06,02,Albacete,17,4,9,0
@@ -6603,6 +6729,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-06,49,Zamora,2,0,3,0
 2020-05-06,50,Zaragoza,22,5,4,1
 2020-05-06,51,Ceuta,0,0,0,0
+2020-05-06,52,Melilla,0,0,0,0
 2020-05-07,00,No consta,27,2,5,0
 2020-05-07,01,Araba/Álava,8,1,0,0
 2020-05-07,02,Albacete,8,2,5,1
@@ -6655,6 +6782,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-07,49,Zamora,3,2,1,0
 2020-05-07,50,Zaragoza,16,10,3,1
 2020-05-07,51,Ceuta,0,0,0,0
+2020-05-07,52,Melilla,0,0,0,0
 2020-05-08,00,No consta,26,2,7,0
 2020-05-08,01,Araba/Álava,15,0,0,0
 2020-05-08,02,Albacete,9,3,4,0
@@ -6707,6 +6835,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-08,49,Zamora,3,0,1,0
 2020-05-08,50,Zaragoza,19,2,4,1
 2020-05-08,51,Ceuta,1,0,0,0
+2020-05-08,52,Melilla,0,0,0,0
 2020-05-09,00,No consta,11,1,2,0
 2020-05-09,01,Araba/Álava,12,2,2,0
 2020-05-09,02,Albacete,12,6,6,0
@@ -6759,6 +6888,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-09,49,Zamora,25,1,0,0
 2020-05-09,50,Zaragoza,15,4,0,0
 2020-05-09,51,Ceuta,0,0,0,0
+2020-05-09,52,Melilla,0,0,0,0
 2020-05-10,00,No consta,4,1,3,0
 2020-05-10,01,Araba/Álava,2,0,2,0
 2020-05-10,02,Albacete,8,3,5,0
@@ -6811,6 +6941,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-10,49,Zamora,1,1,2,0
 2020-05-10,50,Zaragoza,13,3,2,0
 2020-05-10,51,Ceuta,0,0,0,0
+2020-05-10,52,Melilla,0,0,0,0
 2020-05-11,00,No consta,0,2,3,0
 2020-05-11,01,Araba/Álava,6,1,0,0
 2020-05-11,02,Albacete,7,1,0,0
@@ -6863,6 +6994,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-11,49,Zamora,2,0,0,0
 2020-05-11,50,Zaragoza,7,3,0,0
 2020-05-11,51,Ceuta,4,0,0,0
+2020-05-11,52,Melilla,0,0,0,0
 2020-05-12,00,No consta,0,5,2,0
 2020-05-12,01,Araba/Álava,10,1,1,0
 2020-05-12,02,Albacete,1,4,0,0
@@ -6915,6 +7047,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-12,49,Zamora,1,2,1,0
 2020-05-12,50,Zaragoza,14,4,1,0
 2020-05-12,51,Ceuta,1,0,0,0
+2020-05-12,52,Melilla,0,0,0,0
 2020-05-13,00,No consta,0,1,0,0
 2020-05-13,01,Araba/Álava,4,0,0,0
 2020-05-13,02,Albacete,2,2,0,0
@@ -6967,6 +7100,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-13,49,Zamora,16,1,0,0
 2020-05-13,50,Zaragoza,8,5,0,1
 2020-05-13,51,Ceuta,1,0,0,0
+2020-05-13,52,Melilla,0,0,0,0
 2020-05-14,00,No consta,0,0,2,0
 2020-05-14,01,Araba/Álava,11,0,0,0
 2020-05-14,02,Albacete,0,0,0,0
@@ -7019,6 +7153,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-14,49,Zamora,9,0,1,0
 2020-05-14,50,Zaragoza,14,2,1,0
 2020-05-14,51,Ceuta,0,0,0,0
+2020-05-14,52,Melilla,0,0,0,0
 2020-05-15,00,No consta,1,3,2,0
 2020-05-15,01,Araba/Álava,7,2,0,0
 2020-05-15,02,Albacete,0,1,1,0
@@ -7071,6 +7206,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-15,49,Zamora,4,1,0,0
 2020-05-15,50,Zaragoza,17,4,1,0
 2020-05-15,51,Ceuta,0,0,0,0
+2020-05-15,52,Melilla,0,0,0,0
 2020-05-16,00,No consta,1,0,0,0
 2020-05-16,01,Araba/Álava,10,1,0,0
 2020-05-16,02,Albacete,0,2,0,0
@@ -7123,6 +7259,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-16,49,Zamora,0,0,0,0
 2020-05-16,50,Zaragoza,7,1,0,0
 2020-05-16,51,Ceuta,0,0,0,0
+2020-05-16,52,Melilla,2,0,0,0
 2020-05-17,00,No consta,0,1,0,0
 2020-05-17,01,Araba/Álava,5,0,1,0
 2020-05-17,02,Albacete,0,0,0,0
@@ -7175,6 +7312,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-17,49,Zamora,0,0,0,0
 2020-05-17,50,Zaragoza,5,2,1,0
 2020-05-17,51,Ceuta,1,0,0,0
+2020-05-17,52,Melilla,0,0,0,0
 2020-05-18,00,No consta,1,0,1,0
 2020-05-18,01,Araba/Álava,7,2,0,0
 2020-05-18,02,Albacete,2,2,0,0
@@ -7227,6 +7365,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-18,49,Zamora,2,0,1,0
 2020-05-18,50,Zaragoza,10,1,1,2
 2020-05-18,51,Ceuta,2,0,0,0
+2020-05-18,52,Melilla,0,0,0,0
 2020-05-19,00,No consta,2,0,1,0
 2020-05-19,01,Araba/Álava,16,1,0,0
 2020-05-19,02,Albacete,4,1,0,0
@@ -7279,6 +7418,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-19,49,Zamora,1,0,0,0
 2020-05-19,50,Zaragoza,10,0,0,0
 2020-05-19,51,Ceuta,1,0,0,0
+2020-05-19,52,Melilla,0,0,0,0
 2020-05-20,00,No consta,0,1,0,0
 2020-05-20,01,Araba/Álava,7,0,1,0
 2020-05-20,02,Albacete,2,0,0,1
@@ -7331,6 +7471,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-20,49,Zamora,1,0,1,0
 2020-05-20,50,Zaragoza,15,1,3,0
 2020-05-20,51,Ceuta,1,0,0,0
+2020-05-20,52,Melilla,0,0,0,0
 2020-05-21,00,No consta,0,2,1,0
 2020-05-21,01,Araba/Álava,7,0,0,0
 2020-05-21,02,Albacete,5,3,0,1
@@ -7383,6 +7524,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-21,49,Zamora,1,0,0,0
 2020-05-21,50,Zaragoza,8,0,2,1
 2020-05-21,51,Ceuta,3,0,1,0
+2020-05-21,52,Melilla,0,0,0,0
 2020-05-22,00,No consta,2,2,0,0
 2020-05-22,01,Araba/Álava,6,2,1,0
 2020-05-22,02,Albacete,4,1,2,0
@@ -7435,6 +7577,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-22,49,Zamora,1,0,0,0
 2020-05-22,50,Zaragoza,2,0,0,0
 2020-05-22,51,Ceuta,0,0,0,0
+2020-05-22,52,Melilla,0,0,0,0
 2020-05-23,00,No consta,2,0,0,0
 2020-05-23,01,Araba/Álava,5,0,0,0
 2020-05-23,02,Albacete,1,2,0,0
@@ -7487,6 +7630,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-23,49,Zamora,0,1,0,0
 2020-05-23,50,Zaragoza,11,1,0,0
 2020-05-23,51,Ceuta,0,0,0,0
+2020-05-23,52,Melilla,0,0,0,0
 2020-05-24,00,No consta,0,0,1,0
 2020-05-24,01,Araba/Álava,1,2,0,0
 2020-05-24,02,Albacete,3,0,1,0
@@ -7539,6 +7683,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-24,49,Zamora,0,0,0,0
 2020-05-24,50,Zaragoza,1,0,0,0
 2020-05-24,51,Ceuta,0,0,0,0
+2020-05-24,52,Melilla,0,0,0,0
 2020-05-25,00,No consta,0,0,0,0
 2020-05-25,01,Araba/Álava,3,0,0,0
 2020-05-25,02,Albacete,4,0,0,0
@@ -7591,6 +7736,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-25,49,Zamora,0,0,1,0
 2020-05-25,50,Zaragoza,14,4,2,1
 2020-05-25,51,Ceuta,5,0,1,0
+2020-05-25,52,Melilla,0,0,0,0
 2020-05-26,00,No consta,1,3,0,0
 2020-05-26,01,Araba/Álava,6,0,0,0
 2020-05-26,02,Albacete,8,0,0,0
@@ -7643,6 +7789,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-26,49,Zamora,1,1,0,0
 2020-05-26,50,Zaragoza,9,1,2,1
 2020-05-26,51,Ceuta,0,0,0,0
+2020-05-26,52,Melilla,0,0,0,0
 2020-05-27,00,No consta,0,0,1,0
 2020-05-27,01,Araba/Álava,6,0,0,0
 2020-05-27,02,Albacete,9,0,0,0
@@ -7695,6 +7842,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-27,49,Zamora,2,2,0,0
 2020-05-27,50,Zaragoza,9,1,1,0
 2020-05-27,51,Ceuta,9,0,0,0
+2020-05-27,52,Melilla,0,0,0,0
 2020-05-28,00,No consta,3,0,0,0
 2020-05-28,01,Araba/Álava,5,0,0,0
 2020-05-28,02,Albacete,8,2,2,0
@@ -7747,6 +7895,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-28,49,Zamora,2,0,1,0
 2020-05-28,50,Zaragoza,8,2,0,0
 2020-05-28,51,Ceuta,7,0,0,0
+2020-05-28,52,Melilla,0,0,0,0
 2020-05-29,00,No consta,1,0,0,0
 2020-05-29,01,Araba/Álava,5,0,0,0
 2020-05-29,02,Albacete,7,1,0,0
@@ -7799,6 +7948,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-29,49,Zamora,2,1,1,0
 2020-05-29,50,Zaragoza,7,1,0,0
 2020-05-29,51,Ceuta,0,0,0,0
+2020-05-29,52,Melilla,0,0,0,0
 2020-05-30,00,No consta,1,0,0,0
 2020-05-30,01,Araba/Álava,4,2,1,0
 2020-05-30,02,Albacete,12,0,2,0
@@ -7851,6 +8001,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-30,49,Zamora,2,1,1,0
 2020-05-30,50,Zaragoza,6,0,1,0
 2020-05-30,51,Ceuta,0,0,1,0
+2020-05-30,52,Melilla,0,0,0,0
 2020-05-31,00,No consta,0,1,0,0
 2020-05-31,01,Araba/Álava,1,1,0,0
 2020-05-31,02,Albacete,1,1,1,0
@@ -7903,6 +8054,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-31,49,Zamora,0,0,0,0
 2020-05-31,50,Zaragoza,2,1,0,1
 2020-05-31,51,Ceuta,1,0,0,0
+2020-05-31,52,Melilla,0,0,0,0
 2020-06-01,00,No consta,0,0,0,0
 2020-06-01,01,Araba/Álava,6,0,1,0
 2020-06-01,02,Albacete,3,1,0,0
@@ -7955,6 +8107,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-01,49,Zamora,0,0,0,0
 2020-06-01,50,Zaragoza,3,2,0,0
 2020-06-01,51,Ceuta,9,0,1,0
+2020-06-01,52,Melilla,1,0,0,0
 2020-06-02,00,No consta,0,1,0,0
 2020-06-02,01,Araba/Álava,8,0,1,0
 2020-06-02,02,Albacete,7,2,3,1
@@ -8007,6 +8160,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-02,49,Zamora,0,0,0,0
 2020-06-02,50,Zaragoza,5,2,0,0
 2020-06-02,51,Ceuta,1,1,0,0
+2020-06-02,52,Melilla,0,0,0,0
 2020-06-03,00,No consta,1,0,0,0
 2020-06-03,01,Araba/Álava,4,0,0,0
 2020-06-03,02,Albacete,3,0,1,0
@@ -8059,6 +8213,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-03,49,Zamora,0,0,0,0
 2020-06-03,50,Zaragoza,1,0,2,0
 2020-06-03,51,Ceuta,7,0,0,0
+2020-06-03,52,Melilla,0,0,0,0
 2020-06-04,00,No consta,1,0,0,0
 2020-06-04,01,Araba/Álava,4,0,1,0
 2020-06-04,02,Albacete,7,0,1,0
@@ -8111,6 +8266,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-04,49,Zamora,2,1,0,0
 2020-06-04,50,Zaragoza,8,0,0,0
 2020-06-04,51,Ceuta,0,0,0,0
+2020-06-04,52,Melilla,0,0,0,0
 2020-06-05,00,No consta,1,1,0,0
 2020-06-05,01,Araba/Álava,5,0,0,0
 2020-06-05,02,Albacete,2,0,0,0
@@ -8163,6 +8319,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-05,49,Zamora,1,0,0,0
 2020-06-05,50,Zaragoza,8,1,0,0
 2020-06-05,51,Ceuta,0,0,0,0
+2020-06-05,52,Melilla,0,0,0,0
 2020-06-06,00,No consta,0,0,0,0
 2020-06-06,01,Araba/Álava,8,0,0,0
 2020-06-06,02,Albacete,2,0,0,0
@@ -8215,6 +8372,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-06,49,Zamora,0,0,0,0
 2020-06-06,50,Zaragoza,7,1,1,0
 2020-06-06,51,Ceuta,0,0,0,0
+2020-06-06,52,Melilla,0,0,0,0
 2020-06-07,00,No consta,0,1,0,0
 2020-06-07,01,Araba/Álava,4,0,1,0
 2020-06-07,02,Albacete,1,0,0,0
@@ -8267,6 +8425,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-07,49,Zamora,0,1,0,0
 2020-06-07,50,Zaragoza,4,0,0,0
 2020-06-07,51,Ceuta,0,0,0,0
+2020-06-07,52,Melilla,0,0,0,0
 2020-06-08,00,No consta,0,1,0,0
 2020-06-08,01,Araba/Álava,8,0,1,0
 2020-06-08,02,Albacete,1,1,0,0
@@ -8319,6 +8478,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-08,49,Zamora,2,0,1,0
 2020-06-08,50,Zaragoza,1,0,1,0
 2020-06-08,51,Ceuta,0,0,0,0
+2020-06-08,52,Melilla,0,0,0,0
 2020-06-09,00,No consta,0,1,0,0
 2020-06-09,01,Araba/Álava,6,0,0,0
 2020-06-09,02,Albacete,3,0,0,0
@@ -8371,6 +8531,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-09,49,Zamora,2,1,0,0
 2020-06-09,50,Zaragoza,9,0,0,0
 2020-06-09,51,Ceuta,0,0,0,0
+2020-06-09,52,Melilla,0,0,0,0
 2020-06-10,00,No consta,2,0,0,0
 2020-06-10,01,Araba/Álava,4,1,0,0
 2020-06-10,02,Albacete,3,1,0,0
@@ -8423,6 +8584,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-10,49,Zamora,0,0,0,0
 2020-06-10,50,Zaragoza,3,1,0,0
 2020-06-10,51,Ceuta,0,0,0,0
+2020-06-10,52,Melilla,0,0,0,0
 2020-06-11,00,No consta,0,0,0,0
 2020-06-11,01,Araba/Álava,4,0,0,0
 2020-06-11,02,Albacete,1,0,0,1
@@ -8475,6 +8637,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-11,49,Zamora,2,0,0,0
 2020-06-11,50,Zaragoza,6,0,1,0
 2020-06-11,51,Ceuta,0,0,0,0
+2020-06-11,52,Melilla,0,0,0,0
 2020-06-12,00,No consta,1,0,0,0
 2020-06-12,01,Araba/Álava,4,0,2,0
 2020-06-12,02,Albacete,0,0,0,0
@@ -8527,6 +8690,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-12,49,Zamora,2,0,1,0
 2020-06-12,50,Zaragoza,3,0,1,0
 2020-06-12,51,Ceuta,0,0,0,0
+2020-06-12,52,Melilla,1,0,0,0
 2020-06-13,00,No consta,1,0,0,0
 2020-06-13,01,Araba/Álava,4,0,0,0
 2020-06-13,02,Albacete,1,1,0,0
@@ -8579,6 +8743,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-13,49,Zamora,0,0,0,0
 2020-06-13,50,Zaragoza,1,1,0,0
 2020-06-13,51,Ceuta,0,0,0,0
+2020-06-13,52,Melilla,1,0,1,0
 2020-06-14,00,No consta,0,1,0,0
 2020-06-14,01,Araba/Álava,7,0,1,0
 2020-06-14,02,Albacete,0,0,0,0
@@ -8631,6 +8796,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-14,49,Zamora,0,0,0,0
 2020-06-14,50,Zaragoza,2,0,1,0
 2020-06-14,51,Ceuta,0,0,0,0
+2020-06-14,52,Melilla,0,0,0,0
 2020-06-15,00,No consta,0,1,0,0
 2020-06-15,01,Araba/Álava,8,0,0,0
 2020-06-15,02,Albacete,1,0,0,0
@@ -8683,6 +8849,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-15,49,Zamora,0,0,1,0
 2020-06-15,50,Zaragoza,0,0,0,0
 2020-06-15,51,Ceuta,0,0,0,0
+2020-06-15,52,Melilla,0,0,0,0
 2020-06-16,00,No consta,1,0,0,0
 2020-06-16,01,Araba/Álava,8,0,0,0
 2020-06-16,02,Albacete,0,0,0,0
@@ -8735,6 +8902,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-16,49,Zamora,0,0,0,0
 2020-06-16,50,Zaragoza,3,1,0,0
 2020-06-16,51,Ceuta,0,0,0,0
+2020-06-16,52,Melilla,0,0,0,0
 2020-06-17,00,No consta,0,1,1,0
 2020-06-17,01,Araba/Álava,8,0,0,0
 2020-06-17,02,Albacete,0,0,0,0
@@ -8787,6 +8955,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-17,49,Zamora,0,0,0,0
 2020-06-17,50,Zaragoza,0,0,0,0
 2020-06-17,51,Ceuta,0,0,0,0
+2020-06-17,52,Melilla,0,0,0,0
 2020-06-18,00,No consta,2,0,2,1
 2020-06-18,01,Araba/Álava,3,0,0,0
 2020-06-18,02,Albacete,1,0,0,0
@@ -8839,6 +9008,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-18,49,Zamora,2,0,0,0
 2020-06-18,50,Zaragoza,3,1,2,0
 2020-06-18,51,Ceuta,0,0,0,0
+2020-06-18,52,Melilla,0,0,0,0
 2020-06-19,00,No consta,0,0,0,0
 2020-06-19,01,Araba/Álava,5,0,1,0
 2020-06-19,02,Albacete,1,0,0,0
@@ -8891,6 +9061,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-19,49,Zamora,0,0,0,0
 2020-06-19,50,Zaragoza,5,0,0,0
 2020-06-19,51,Ceuta,0,0,0,0
+2020-06-19,52,Melilla,0,0,0,0
 2020-06-20,00,No consta,1,1,0,0
 2020-06-20,01,Araba/Álava,2,0,0,0
 2020-06-20,02,Albacete,1,0,0,0
@@ -8943,6 +9114,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-20,49,Zamora,0,0,0,0
 2020-06-20,50,Zaragoza,5,0,1,0
 2020-06-20,51,Ceuta,0,0,0,0
+2020-06-20,52,Melilla,0,0,0,0
 2020-06-21,00,No consta,0,0,0,0
 2020-06-21,01,Araba/Álava,7,0,0,0
 2020-06-21,02,Albacete,0,0,0,0
@@ -8995,6 +9167,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-21,49,Zamora,0,0,1,0
 2020-06-21,50,Zaragoza,2,0,0,0
 2020-06-21,51,Ceuta,0,0,0,0
+2020-06-21,52,Melilla,2,0,0,0
 2020-06-22,00,No consta,2,0,1,0
 2020-06-22,01,Araba/Álava,5,0,1,0
 2020-06-22,02,Albacete,1,0,0,0
@@ -9047,6 +9220,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-22,49,Zamora,2,0,0,0
 2020-06-22,50,Zaragoza,3,0,0,0
 2020-06-22,51,Ceuta,0,0,0,0
+2020-06-22,52,Melilla,0,0,0,0
 2020-06-23,00,No consta,1,0,0,0
 2020-06-23,01,Araba/Álava,11,0,0,0
 2020-06-23,02,Albacete,4,0,0,0
@@ -9099,6 +9273,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-23,49,Zamora,3,0,0,0
 2020-06-23,50,Zaragoza,9,0,1,0
 2020-06-23,51,Ceuta,0,0,0,0
+2020-06-23,52,Melilla,0,0,0,0
 2020-06-24,00,No consta,1,0,0,0
 2020-06-24,01,Araba/Álava,7,0,0,0
 2020-06-24,02,Albacete,0,0,1,0
@@ -9151,6 +9326,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-24,49,Zamora,0,0,0,0
 2020-06-24,50,Zaragoza,8,0,1,0
 2020-06-24,51,Ceuta,0,0,0,0
+2020-06-24,52,Melilla,0,0,0,0
 2020-06-25,00,No consta,2,0,0,1
 2020-06-25,01,Araba/Álava,4,0,0,0
 2020-06-25,02,Albacete,1,0,0,0
@@ -9203,6 +9379,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-25,49,Zamora,3,0,1,0
 2020-06-25,50,Zaragoza,24,0,1,0
 2020-06-25,51,Ceuta,0,0,0,0
+2020-06-25,52,Melilla,0,0,0,0
 2020-06-26,00,No consta,0,0,2,0
 2020-06-26,01,Araba/Álava,6,0,0,0
 2020-06-26,02,Albacete,2,1,0,0
@@ -9255,6 +9432,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-26,49,Zamora,0,0,0,0
 2020-06-26,50,Zaragoza,11,0,1,0
 2020-06-26,51,Ceuta,0,0,0,0
+2020-06-26,52,Melilla,0,0,0,0
 2020-06-27,00,No consta,1,0,1,1
 2020-06-27,01,Araba/Álava,2,0,0,0
 2020-06-27,02,Albacete,1,0,1,0
@@ -9307,6 +9485,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-27,49,Zamora,0,0,0,0
 2020-06-27,50,Zaragoza,23,0,0,0
 2020-06-27,51,Ceuta,0,0,0,0
+2020-06-27,52,Melilla,0,0,0,0
 2020-06-28,00,No consta,1,0,0,0
 2020-06-28,01,Araba/Álava,1,0,0,0
 2020-06-28,02,Albacete,1,1,0,0
@@ -9359,6 +9538,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-28,49,Zamora,0,0,0,0
 2020-06-28,50,Zaragoza,4,0,0,0
 2020-06-28,51,Ceuta,0,0,0,0
+2020-06-28,52,Melilla,0,0,0,0
 2020-06-29,00,No consta,1,0,0,0
 2020-06-29,01,Araba/Álava,6,0,1,0
 2020-06-29,02,Albacete,1,1,0,0
@@ -9411,6 +9591,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-29,49,Zamora,0,0,0,0
 2020-06-29,50,Zaragoza,3,0,0,0
 2020-06-29,51,Ceuta,0,0,0,0
+2020-06-29,52,Melilla,0,0,0,0
 2020-06-30,00,No consta,3,0,0,0
 2020-06-30,01,Araba/Álava,8,0,0,0
 2020-06-30,02,Albacete,0,0,0,0
@@ -9463,6 +9644,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-30,49,Zamora,0,0,0,0
 2020-06-30,50,Zaragoza,9,0,2,0
 2020-06-30,51,Ceuta,0,0,0,0
+2020-06-30,52,Melilla,0,0,0,0
 2020-07-01,00,No consta,1,0,0,0
 2020-07-01,01,Araba/Álava,1,1,0,0
 2020-07-01,02,Albacete,1,0,0,0
@@ -9515,6 +9697,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-01,49,Zamora,0,0,0,0
 2020-07-01,50,Zaragoza,11,0,1,0
 2020-07-01,51,Ceuta,0,0,0,0
+2020-07-01,52,Melilla,0,0,0,0
 2020-07-02,00,No consta,0,0,0,0
 2020-07-02,01,Araba/Álava,6,0,0,0
 2020-07-02,02,Albacete,6,0,0,0
@@ -9567,6 +9750,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-02,49,Zamora,0,0,0,0
 2020-07-02,50,Zaragoza,11,0,0,0
 2020-07-02,51,Ceuta,0,0,0,0
+2020-07-02,52,Melilla,0,0,0,0
 2020-07-03,00,No consta,2,0,0,0
 2020-07-03,01,Araba/Álava,8,0,1,0
 2020-07-03,02,Albacete,1,0,3,0
@@ -9619,6 +9803,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-03,49,Zamora,1,0,0,0
 2020-07-03,50,Zaragoza,20,0,4,1
 2020-07-03,51,Ceuta,0,0,0,0
+2020-07-03,52,Melilla,0,0,0,0
 2020-07-04,00,No consta,2,0,0,0
 2020-07-04,01,Araba/Álava,4,0,1,0
 2020-07-04,02,Albacete,1,0,2,0
@@ -9671,6 +9856,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-04,49,Zamora,1,0,0,0
 2020-07-04,50,Zaragoza,12,0,0,0
 2020-07-04,51,Ceuta,0,0,0,0
+2020-07-04,52,Melilla,0,0,0,0
 2020-07-05,00,No consta,1,0,0,0
 2020-07-05,01,Araba/Álava,4,0,0,0
 2020-07-05,02,Albacete,1,0,0,0
@@ -9723,6 +9909,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-05,49,Zamora,0,0,0,0
 2020-07-05,50,Zaragoza,8,0,1,0
 2020-07-05,51,Ceuta,0,0,0,0
+2020-07-05,52,Melilla,0,0,0,0
 2020-07-06,00,No consta,2,0,1,0
 2020-07-06,01,Araba/Álava,2,0,0,0
 2020-07-06,02,Albacete,0,0,0,1
@@ -9775,6 +9962,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-06,49,Zamora,0,0,0,0
 2020-07-06,50,Zaragoza,9,0,2,0
 2020-07-06,51,Ceuta,0,0,0,0
+2020-07-06,52,Melilla,0,0,0,0
 2020-07-07,00,No consta,4,0,1,1
 2020-07-07,01,Araba/Álava,16,0,0,0
 2020-07-07,02,Albacete,0,0,0,0
@@ -9827,6 +10015,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-07,49,Zamora,0,0,0,0
 2020-07-07,50,Zaragoza,15,0,2,0
 2020-07-07,51,Ceuta,0,0,0,0
+2020-07-07,52,Melilla,0,0,0,0
 2020-07-08,00,No consta,0,0,0,0
 2020-07-08,01,Araba/Álava,11,0,0,0
 2020-07-08,02,Albacete,0,0,0,0
@@ -9879,6 +10068,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-08,49,Zamora,0,0,0,0
 2020-07-08,50,Zaragoza,38,0,3,0
 2020-07-08,51,Ceuta,0,0,0,0
+2020-07-08,52,Melilla,0,0,0,0
 2020-07-09,00,No consta,2,0,0,0
 2020-07-09,01,Araba/Álava,8,0,2,1
 2020-07-09,02,Albacete,2,0,2,0
@@ -9931,6 +10121,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-09,49,Zamora,0,0,0,0
 2020-07-09,50,Zaragoza,38,0,3,0
 2020-07-09,51,Ceuta,0,0,0,0
+2020-07-09,52,Melilla,0,0,0,0
 2020-07-10,00,No consta,8,0,1,0
 2020-07-10,01,Araba/Álava,4,0,0,0
 2020-07-10,02,Albacete,1,0,0,0
@@ -9983,6 +10174,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-10,49,Zamora,1,0,1,0
 2020-07-10,50,Zaragoza,49,0,3,1
 2020-07-10,51,Ceuta,0,0,0,0
+2020-07-10,52,Melilla,0,0,0,0
 2020-07-11,00,No consta,2,0,0,0
 2020-07-11,01,Araba/Álava,6,0,1,0
 2020-07-11,02,Albacete,2,1,1,0
@@ -10035,6 +10227,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-11,49,Zamora,0,0,0,0
 2020-07-11,50,Zaragoza,79,0,0,0
 2020-07-11,51,Ceuta,0,0,0,0
+2020-07-11,52,Melilla,0,0,0,0
 2020-07-12,00,No consta,2,0,0,0
 2020-07-12,01,Araba/Álava,4,0,0,0
 2020-07-12,02,Albacete,0,0,0,0
@@ -10087,6 +10280,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-12,49,Zamora,0,0,0,0
 2020-07-12,50,Zaragoza,17,0,5,0
 2020-07-12,51,Ceuta,0,0,0,0
+2020-07-12,52,Melilla,0,0,0,0
 2020-07-13,00,No consta,8,0,0,0
 2020-07-13,01,Araba/Álava,7,0,1,0
 2020-07-13,02,Albacete,2,0,0,0
@@ -10139,6 +10333,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-13,49,Zamora,0,0,0,0
 2020-07-13,50,Zaragoza,76,0,7,0
 2020-07-13,51,Ceuta,0,0,0,0
+2020-07-13,52,Melilla,0,0,1,0
 2020-07-14,00,No consta,16,0,1,0
 2020-07-14,01,Araba/Álava,11,0,1,0
 2020-07-14,02,Albacete,2,0,1,0
@@ -10191,6 +10386,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-14,49,Zamora,0,0,0,0
 2020-07-14,50,Zaragoza,120,0,12,0
 2020-07-14,51,Ceuta,1,0,0,0
+2020-07-14,52,Melilla,2,0,0,0
 2020-07-15,00,No consta,3,0,0,0
 2020-07-15,01,Araba/Álava,9,0,0,0
 2020-07-15,02,Albacete,0,0,0,0
@@ -10243,6 +10439,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-15,49,Zamora,0,0,0,0
 2020-07-15,50,Zaragoza,174,0,6,0
 2020-07-15,51,Ceuta,0,0,0,0
+2020-07-15,52,Melilla,0,0,0,0
 2020-07-16,00,No consta,4,0,0,0
 2020-07-16,01,Araba/Álava,8,0,0,0
 2020-07-16,02,Albacete,1,1,2,0
@@ -10295,6 +10492,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-16,49,Zamora,0,0,0,0
 2020-07-16,50,Zaragoza,162,0,14,1
 2020-07-16,51,Ceuta,0,0,0,0
+2020-07-16,52,Melilla,1,0,0,0
 2020-07-17,00,No consta,11,0,0,0
 2020-07-17,01,Araba/Álava,14,0,0,0
 2020-07-17,02,Albacete,2,0,0,0
@@ -10347,6 +10545,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-17,49,Zamora,1,0,0,0
 2020-07-17,50,Zaragoza,217,0,19,1
 2020-07-17,51,Ceuta,0,0,0,0
+2020-07-17,52,Melilla,0,0,0,0
 2020-07-18,00,No consta,9,0,0,0
 2020-07-18,01,Araba/Álava,12,1,2,0
 2020-07-18,02,Albacete,1,0,0,0
@@ -10399,6 +10598,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-18,49,Zamora,0,0,0,0
 2020-07-18,50,Zaragoza,189,0,10,1
 2020-07-18,51,Ceuta,0,0,0,0
+2020-07-18,52,Melilla,0,0,0,0
 2020-07-19,00,No consta,2,0,0,0
 2020-07-19,01,Araba/Álava,9,0,0,0
 2020-07-19,02,Albacete,0,0,0,0
@@ -10451,6 +10651,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-19,49,Zamora,0,0,0,0
 2020-07-19,50,Zaragoza,242,1,9,1
 2020-07-19,51,Ceuta,0,0,0,0
+2020-07-19,52,Melilla,0,0,0,0
 2020-07-20,00,No consta,3,0,0,0
 2020-07-20,01,Araba/Álava,8,0,0,0
 2020-07-20,02,Albacete,2,0,1,1
@@ -10503,6 +10704,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-20,49,Zamora,0,0,0,0
 2020-07-20,50,Zaragoza,165,1,11,0
 2020-07-20,51,Ceuta,0,0,0,0
+2020-07-20,52,Melilla,0,0,0,0
 2020-07-21,00,No consta,6,0,0,0
 2020-07-21,01,Araba/Álava,11,0,3,0
 2020-07-21,02,Albacete,2,0,0,0
@@ -10555,6 +10757,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-21,49,Zamora,0,0,0,0
 2020-07-21,50,Zaragoza,235,1,14,1
 2020-07-21,51,Ceuta,0,0,0,0
+2020-07-21,52,Melilla,0,0,0,0
 2020-07-22,00,No consta,7,0,1,1
 2020-07-22,01,Araba/Álava,15,0,0,0
 2020-07-22,02,Albacete,2,0,0,0
@@ -10607,6 +10810,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-22,49,Zamora,0,0,0,0
 2020-07-22,50,Zaragoza,351,0,18,2
 2020-07-22,51,Ceuta,0,0,0,0
+2020-07-22,52,Melilla,0,0,0,0
 2020-07-23,00,No consta,6,0,1,0
 2020-07-23,01,Araba/Álava,19,0,0,0
 2020-07-23,02,Albacete,2,0,0,0
@@ -10659,6 +10863,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-23,49,Zamora,2,0,2,0
 2020-07-23,50,Zaragoza,230,1,21,1
 2020-07-23,51,Ceuta,0,0,0,0
+2020-07-23,52,Melilla,0,0,0,0
 2020-07-24,00,No consta,8,0,2,1
 2020-07-24,01,Araba/Álava,19,0,1,0
 2020-07-24,02,Albacete,3,0,0,0
@@ -10711,6 +10916,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-24,49,Zamora,1,0,0,0
 2020-07-24,50,Zaragoza,370,0,22,0
 2020-07-24,51,Ceuta,0,0,0,0
+2020-07-24,52,Melilla,0,0,0,0
 2020-07-25,00,No consta,6,0,2,0
 2020-07-25,01,Araba/Álava,16,0,0,0
 2020-07-25,02,Albacete,8,0,0,0
@@ -10763,6 +10969,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-25,49,Zamora,0,0,0,0
 2020-07-25,50,Zaragoza,244,3,25,0
 2020-07-25,51,Ceuta,0,0,0,0
+2020-07-25,52,Melilla,0,0,0,0
 2020-07-26,00,No consta,5,0,2,0
 2020-07-26,01,Araba/Álava,10,0,1,0
 2020-07-26,02,Albacete,1,0,0,0
@@ -10815,6 +11022,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-26,49,Zamora,0,0,0,0
 2020-07-26,50,Zaragoza,404,2,24,2
 2020-07-26,51,Ceuta,0,0,0,0
+2020-07-26,52,Melilla,0,0,0,0
 2020-07-27,00,No consta,6,0,0,0
 2020-07-27,01,Araba/Álava,7,0,0,0
 2020-07-27,02,Albacete,0,0,0,0
@@ -10867,6 +11075,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-27,49,Zamora,1,0,0,0
 2020-07-27,50,Zaragoza,331,0,43,1
 2020-07-27,51,Ceuta,0,0,0,0
+2020-07-27,52,Melilla,0,0,0,0
 2020-07-28,00,No consta,5,0,0,0
 2020-07-28,01,Araba/Álava,26,0,0,0
 2020-07-28,02,Albacete,5,0,0,0
@@ -10919,6 +11128,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-28,49,Zamora,0,0,0,0
 2020-07-28,50,Zaragoza,302,5,30,0
 2020-07-28,51,Ceuta,1,0,1,0
+2020-07-28,52,Melilla,0,0,0,0
 2020-07-29,00,No consta,7,0,0,0
 2020-07-29,01,Araba/Álava,25,0,5,1
 2020-07-29,02,Albacete,4,0,0,0
@@ -10971,6 +11181,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-29,49,Zamora,2,0,1,0
 2020-07-29,50,Zaragoza,214,2,35,3
 2020-07-29,51,Ceuta,1,0,0,0
+2020-07-29,52,Melilla,0,0,0,0
 2020-07-30,00,No consta,19,0,4,1
 2020-07-30,01,Araba/Álava,47,1,1,0
 2020-07-30,02,Albacete,3,0,0,0
@@ -11023,6 +11234,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-30,49,Zamora,10,0,1,0
 2020-07-30,50,Zaragoza,398,2,33,1
 2020-07-30,51,Ceuta,0,0,0,0
+2020-07-30,52,Melilla,3,0,0,0
 2020-07-31,00,No consta,41,0,0,0
 2020-07-31,01,Araba/Álava,20,0,1,0
 2020-07-31,02,Albacete,2,0,0,0
@@ -11075,6 +11287,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-31,49,Zamora,6,0,1,0
 2020-07-31,50,Zaragoza,402,4,42,2
 2020-07-31,51,Ceuta,0,0,0,0
+2020-07-31,52,Melilla,4,0,0,0
 2020-08-01,00,No consta,20,0,1,1
 2020-08-01,01,Araba/Álava,67,0,2,0
 2020-08-01,02,Albacete,2,0,0,0
@@ -11127,6 +11340,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-01,49,Zamora,2,0,0,0
 2020-08-01,50,Zaragoza,1171,2,46,2
 2020-08-01,51,Ceuta,0,0,0,0
+2020-08-01,52,Melilla,3,0,0,0
 2020-08-02,00,No consta,17,0,0,0
 2020-08-02,01,Araba/Álava,24,0,2,1
 2020-08-02,02,Albacete,3,0,0,0
@@ -11179,6 +11393,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-02,49,Zamora,4,0,0,0
 2020-08-02,50,Zaragoza,543,4,20,3
 2020-08-02,51,Ceuta,0,0,0,0
+2020-08-02,52,Melilla,0,0,0,0
 2020-08-03,00,No consta,11,0,2,1
 2020-08-03,01,Araba/Álava,36,0,2,0
 2020-08-03,02,Albacete,3,0,0,0
@@ -11231,6 +11446,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-03,49,Zamora,2,0,0,0
 2020-08-03,50,Zaragoza,326,4,39,2
 2020-08-03,51,Ceuta,0,0,0,0
+2020-08-03,52,Melilla,1,0,0,0
 2020-08-04,00,No consta,16,0,2,0
 2020-08-04,01,Araba/Álava,47,1,2,0
 2020-08-04,02,Albacete,9,0,1,0
@@ -11283,6 +11499,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-04,49,Zamora,2,0,0,0
 2020-08-04,50,Zaragoza,436,5,39,1
 2020-08-04,51,Ceuta,0,0,0,0
+2020-08-04,52,Melilla,4,0,0,0
 2020-08-05,00,No consta,22,0,0,0
 2020-08-05,01,Araba/Álava,48,0,2,0
 2020-08-05,02,Albacete,9,0,0,0
@@ -11335,6 +11552,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-05,49,Zamora,3,0,1,0
 2020-08-05,50,Zaragoza,319,1,37,1
 2020-08-05,51,Ceuta,0,0,0,0
+2020-08-05,52,Melilla,4,0,1,0
 2020-08-06,00,No consta,32,0,1,0
 2020-08-06,01,Araba/Álava,43,0,5,1
 2020-08-06,02,Albacete,17,0,1,0
@@ -11387,6 +11605,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-06,49,Zamora,2,0,1,1
 2020-08-06,50,Zaragoza,566,8,37,1
 2020-08-06,51,Ceuta,0,0,0,0
+2020-08-06,52,Melilla,2,0,1,0
 2020-08-07,00,No consta,60,0,2,0
 2020-08-07,01,Araba/Álava,76,0,8,0
 2020-08-07,02,Albacete,27,0,1,0
@@ -11439,6 +11658,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-07,49,Zamora,5,0,0,0
 2020-08-07,50,Zaragoza,483,7,36,3
 2020-08-07,51,Ceuta,1,0,0,0
+2020-08-07,52,Melilla,6,0,0,0
 2020-08-08,00,No consta,51,0,0,0
 2020-08-08,01,Araba/Álava,32,0,6,0
 2020-08-08,02,Albacete,11,0,0,0
@@ -11491,6 +11711,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-08,49,Zamora,8,0,0,0
 2020-08-08,50,Zaragoza,580,14,25,1
 2020-08-08,51,Ceuta,1,0,0,0
+2020-08-08,52,Melilla,0,0,0,0
 2020-08-09,00,No consta,28,0,3,0
 2020-08-09,01,Araba/Álava,66,1,4,0
 2020-08-09,02,Albacete,7,0,0,0
@@ -11543,6 +11764,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-09,49,Zamora,1,0,0,0
 2020-08-09,50,Zaragoza,301,5,21,2
 2020-08-09,51,Ceuta,0,0,0,0
+2020-08-09,52,Melilla,5,0,1,0
 2020-08-10,00,No consta,33,0,2,0
 2020-08-10,01,Araba/Álava,51,0,5,0
 2020-08-10,02,Albacete,8,1,1,0
@@ -11595,6 +11817,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-10,49,Zamora,1,0,0,0
 2020-08-10,50,Zaragoza,404,7,32,1
 2020-08-10,51,Ceuta,1,0,1,0
+2020-08-10,52,Melilla,12,0,0,0
 2020-08-11,00,No consta,62,1,3,1
 2020-08-11,01,Araba/Álava,102,0,4,0
 2020-08-11,02,Albacete,23,0,2,0
@@ -11647,6 +11870,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-11,49,Zamora,5,0,0,0
 2020-08-11,50,Zaragoza,192,12,23,0
 2020-08-11,51,Ceuta,0,0,0,0
+2020-08-11,52,Melilla,6,0,0,0
 2020-08-12,00,No consta,69,0,1,0
 2020-08-12,01,Araba/Álava,77,0,4,1
 2020-08-12,02,Albacete,21,0,0,0
@@ -11699,6 +11923,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-12,49,Zamora,16,0,0,1
 2020-08-12,50,Zaragoza,363,10,45,2
 2020-08-12,51,Ceuta,1,0,0,0
+2020-08-12,52,Melilla,2,0,0,0
 2020-08-13,00,No consta,100,1,6,0
 2020-08-13,01,Araba/Álava,114,0,5,2
 2020-08-13,02,Albacete,27,0,0,0
@@ -11751,6 +11976,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-13,49,Zamora,2,0,0,0
 2020-08-13,50,Zaragoza,478,5,35,3
 2020-08-13,51,Ceuta,2,0,1,0
+2020-08-13,52,Melilla,6,0,0,0
 2020-08-14,00,No consta,99,0,2,0
 2020-08-14,01,Araba/Álava,140,0,8,0
 2020-08-14,02,Albacete,31,0,0,0
@@ -11803,6 +12029,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-14,49,Zamora,19,0,1,0
 2020-08-14,50,Zaragoza,541,10,34,3
 2020-08-14,51,Ceuta,4,0,0,0
+2020-08-14,52,Melilla,4,0,0,0
 2020-08-15,00,No consta,51,0,1,1
 2020-08-15,01,Araba/Álava,142,0,3,0
 2020-08-15,02,Albacete,27,0,0,0
@@ -11855,6 +12082,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-15,49,Zamora,11,0,0,0
 2020-08-15,50,Zaragoza,420,3,26,2
 2020-08-15,51,Ceuta,3,0,0,0
+2020-08-15,52,Melilla,8,0,0,0
 2020-08-16,00,No consta,68,0,2,1
 2020-08-16,01,Araba/Álava,84,0,2,0
 2020-08-16,02,Albacete,18,1,0,0
@@ -11907,6 +12135,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-16,49,Zamora,9,0,1,0
 2020-08-16,50,Zaragoza,334,4,18,3
 2020-08-16,51,Ceuta,5,0,0,0
+2020-08-16,52,Melilla,5,0,0,0
 2020-08-17,00,No consta,45,0,3,1
 2020-08-17,01,Araba/Álava,76,1,9,0
 2020-08-17,02,Albacete,63,0,1,0
@@ -11959,6 +12188,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-17,49,Zamora,2,0,0,0
 2020-08-17,50,Zaragoza,304,6,23,1
 2020-08-17,51,Ceuta,9,0,0,0
+2020-08-17,52,Melilla,0,0,3,0
 2020-08-18,00,No consta,86,0,5,0
 2020-08-18,01,Araba/Álava,102,0,4,0
 2020-08-18,02,Albacete,31,0,0,0
@@ -12011,6 +12241,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-18,49,Zamora,21,0,1,0
 2020-08-18,50,Zaragoza,392,15,34,1
 2020-08-18,51,Ceuta,3,0,0,0
+2020-08-18,52,Melilla,0,0,1,0
 2020-08-19,00,No consta,79,0,4,0
 2020-08-19,01,Araba/Álava,126,2,9,1
 2020-08-19,02,Albacete,46,0,0,0
@@ -12063,6 +12294,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-19,49,Zamora,8,0,1,0
 2020-08-19,50,Zaragoza,277,12,29,3
 2020-08-19,51,Ceuta,7,0,1,0
+2020-08-19,52,Melilla,16,0,0,0
 2020-08-20,00,No consta,91,0,2,1
 2020-08-20,01,Araba/Álava,133,1,2,2
 2020-08-20,02,Albacete,56,0,0,0
@@ -12115,6 +12347,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-20,49,Zamora,14,0,0,0
 2020-08-20,50,Zaragoza,272,4,35,0
 2020-08-20,51,Ceuta,6,0,1,0
+2020-08-20,52,Melilla,5,0,0,0
 2020-08-21,00,No consta,93,0,4,1
 2020-08-21,01,Araba/Álava,134,0,10,0
 2020-08-21,02,Albacete,47,0,4,1
@@ -12167,6 +12400,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-21,49,Zamora,14,0,1,1
 2020-08-21,50,Zaragoza,211,10,33,1
 2020-08-21,51,Ceuta,3,0,0,0
+2020-08-21,52,Melilla,4,0,0,0
 2020-08-22,00,No consta,55,0,2,1
 2020-08-22,01,Araba/Álava,145,0,6,0
 2020-08-22,02,Albacete,60,0,1,0
@@ -12219,6 +12453,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-22,49,Zamora,17,0,1,0
 2020-08-22,50,Zaragoza,406,8,23,1
 2020-08-22,51,Ceuta,8,0,0,0
+2020-08-22,52,Melilla,8,0,1,0
 2020-08-23,00,No consta,62,0,7,0
 2020-08-23,01,Araba/Álava,42,1,1,1
 2020-08-23,02,Albacete,18,0,1,0
@@ -12271,6 +12506,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-23,49,Zamora,12,0,1,0
 2020-08-23,50,Zaragoza,184,8,17,1
 2020-08-23,51,Ceuta,3,0,0,0
+2020-08-23,52,Melilla,25,0,1,0
 2020-08-24,00,No consta,68,0,4,0
 2020-08-24,01,Araba/Álava,51,1,3,0
 2020-08-24,02,Albacete,43,0,1,0
@@ -12323,6 +12559,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-24,49,Zamora,9,0,3,1
 2020-08-24,50,Zaragoza,86,2,29,4
 2020-08-24,51,Ceuta,9,0,0,0
+2020-08-24,52,Melilla,12,0,0,0
 2020-08-25,00,No consta,92,0,3,1
 2020-08-25,01,Araba/Álava,99,1,3,0
 2020-08-25,02,Albacete,52,0,0,0
@@ -12375,6 +12612,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-25,49,Zamora,10,0,3,1
 2020-08-25,50,Zaragoza,260,8,32,2
 2020-08-25,51,Ceuta,12,0,0,0
+2020-08-25,52,Melilla,13,0,1,1
 2020-08-26,00,No consta,101,0,1,0
 2020-08-26,01,Araba/Álava,135,2,5,2
 2020-08-26,02,Albacete,62,1,1,1
@@ -12427,6 +12665,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-26,49,Zamora,32,0,0,0
 2020-08-26,50,Zaragoza,235,2,21,0
 2020-08-26,51,Ceuta,5,0,0,0
+2020-08-26,52,Melilla,8,0,0,0
 2020-08-27,00,No consta,107,0,4,0
 2020-08-27,01,Araba/Álava,104,1,8,1
 2020-08-27,02,Albacete,77,0,1,0
@@ -12479,6 +12718,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-27,49,Zamora,21,1,3,0
 2020-08-27,50,Zaragoza,147,9,40,0
 2020-08-27,51,Ceuta,4,0,0,0
+2020-08-27,52,Melilla,9,0,2,0
 2020-08-28,00,No consta,109,0,7,2
 2020-08-28,01,Araba/Álava,128,1,11,1
 2020-08-28,02,Albacete,66,0,2,0
@@ -12531,6 +12771,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-28,49,Zamora,18,2,1,0
 2020-08-28,50,Zaragoza,239,3,29,2
 2020-08-28,51,Ceuta,14,1,4,0
+2020-08-28,52,Melilla,14,0,0,0
 2020-08-29,00,No consta,90,0,7,2
 2020-08-29,01,Araba/Álava,130,2,4,0
 2020-08-29,02,Albacete,41,0,0,0
@@ -12583,6 +12824,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-29,49,Zamora,28,1,2,0
 2020-08-29,50,Zaragoza,193,1,18,1
 2020-08-29,51,Ceuta,4,0,1,0
+2020-08-29,52,Melilla,19,0,0,0
 2020-08-30,00,No consta,70,0,5,0
 2020-08-30,01,Araba/Álava,51,2,3,0
 2020-08-30,02,Albacete,53,2,0,0
@@ -12635,6 +12877,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-30,49,Zamora,6,0,0,0
 2020-08-30,50,Zaragoza,158,5,16,2
 2020-08-30,51,Ceuta,8,0,0,0
+2020-08-30,52,Melilla,9,0,3,0
 2020-08-31,00,No consta,58,0,5,0
 2020-08-31,01,Araba/Álava,104,0,14,2
 2020-08-31,02,Albacete,73,1,2,0
@@ -12687,6 +12930,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-31,49,Zamora,7,0,2,0
 2020-08-31,50,Zaragoza,198,6,18,2
 2020-08-31,51,Ceuta,14,0,0,0
+2020-08-31,52,Melilla,11,0,0,0
 2020-09-01,00,No consta,81,0,7,1
 2020-09-01,01,Araba/Álava,115,1,13,1
 2020-09-01,02,Albacete,111,0,2,0
@@ -12739,6 +12983,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-01,49,Zamora,19,0,3,0
 2020-09-01,50,Zaragoza,175,12,23,2
 2020-09-01,51,Ceuta,9,0,0,0
+2020-09-01,52,Melilla,23,0,1,1
 2020-09-02,00,No consta,68,0,4,1
 2020-09-02,01,Araba/Álava,71,1,13,1
 2020-09-02,02,Albacete,110,0,1,0
@@ -12791,6 +13036,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-02,49,Zamora,34,0,0,0
 2020-09-02,50,Zaragoza,157,8,25,1
 2020-09-02,51,Ceuta,4,0,1,0
+2020-09-02,52,Melilla,17,0,1,0
 2020-09-03,00,No consta,109,0,9,0
 2020-09-03,01,Araba/Álava,132,1,7,1
 2020-09-03,02,Albacete,62,0,2,1
@@ -12843,6 +13089,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-03,49,Zamora,96,0,2,1
 2020-09-03,50,Zaragoza,269,4,22,1
 2020-09-03,51,Ceuta,5,0,1,0
+2020-09-03,52,Melilla,22,1,0,1
 2020-09-04,00,No consta,105,0,4,1
 2020-09-04,01,Araba/Álava,131,1,4,0
 2020-09-04,02,Albacete,102,2,1,0
@@ -12895,6 +13142,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-04,49,Zamora,36,0,5,0
 2020-09-04,50,Zaragoza,172,2,30,0
 2020-09-04,51,Ceuta,12,0,0,1
+2020-09-04,52,Melilla,25,0,2,0
 2020-09-05,00,No consta,96,3,4,1
 2020-09-05,01,Araba/Álava,107,1,7,0
 2020-09-05,02,Albacete,38,3,0,0
@@ -12947,6 +13195,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-05,49,Zamora,32,1,5,0
 2020-09-05,50,Zaragoza,366,2,20,1
 2020-09-05,51,Ceuta,9,0,0,0
+2020-09-05,52,Melilla,12,0,0,0
 2020-09-06,00,No consta,60,0,4,0
 2020-09-06,01,Araba/Álava,40,0,5,0
 2020-09-06,02,Albacete,29,1,1,1
@@ -12999,6 +13248,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-06,49,Zamora,40,0,5,0
 2020-09-06,50,Zaragoza,202,3,23,2
 2020-09-06,51,Ceuta,11,0,0,0
+2020-09-06,52,Melilla,13,0,5,0
 2020-09-07,00,No consta,43,0,7,0
 2020-09-07,01,Araba/Álava,32,4,4,1
 2020-09-07,02,Albacete,37,1,0,0
@@ -13051,6 +13301,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-07,49,Zamora,3,0,2,1
 2020-09-07,50,Zaragoza,147,5,28,0
 2020-09-07,51,Ceuta,1,1,0,0
+2020-09-07,52,Melilla,11,0,0,0
 2020-09-08,00,No consta,96,0,7,1
 2020-09-08,01,Araba/Álava,107,3,7,0
 2020-09-08,02,Albacete,51,0,1,0
@@ -13103,6 +13354,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-08,49,Zamora,74,1,2,0
 2020-09-08,50,Zaragoza,153,10,19,0
 2020-09-08,51,Ceuta,20,0,1,0
+2020-09-08,52,Melilla,32,0,1,0
 2020-09-09,00,No consta,88,0,2,0
 2020-09-09,01,Araba/Álava,102,0,8,0
 2020-09-09,02,Albacete,77,0,1,1
@@ -13155,6 +13407,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-09,49,Zamora,17,0,2,0
 2020-09-09,50,Zaragoza,278,6,24,3
 2020-09-09,51,Ceuta,5,1,0,0
+2020-09-09,52,Melilla,41,0,6,0
 2020-09-10,00,No consta,101,0,2,0
 2020-09-10,01,Araba/Álava,78,1,4,1
 2020-09-10,02,Albacete,76,0,1,1
@@ -13207,6 +13460,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-10,49,Zamora,92,0,2,1
 2020-09-10,50,Zaragoza,297,5,15,2
 2020-09-10,51,Ceuta,10,0,0,0
+2020-09-10,52,Melilla,31,0,1,1
 2020-09-11,00,No consta,88,1,5,0
 2020-09-11,01,Araba/Álava,136,3,3,1
 2020-09-11,02,Albacete,109,0,2,0
@@ -13259,6 +13513,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-11,49,Zamora,27,1,5,0
 2020-09-11,50,Zaragoza,382,5,28,1
 2020-09-11,51,Ceuta,19,1,0,0
+2020-09-11,52,Melilla,26,0,1,0
 2020-09-12,00,No consta,69,0,1,0
 2020-09-12,01,Araba/Álava,87,1,4,0
 2020-09-12,02,Albacete,36,0,1,0
@@ -13311,6 +13566,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-12,49,Zamora,29,2,4,1
 2020-09-12,50,Zaragoza,300,8,20,1
 2020-09-12,51,Ceuta,15,1,1,0
+2020-09-12,52,Melilla,23,1,1,0
 2020-09-13,00,No consta,61,2,1,0
 2020-09-13,01,Araba/Álava,36,0,4,0
 2020-09-13,02,Albacete,57,1,0,0
@@ -13363,6 +13619,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-13,49,Zamora,31,3,3,2
 2020-09-13,50,Zaragoza,338,5,17,1
 2020-09-13,51,Ceuta,3,0,0,0
+2020-09-13,52,Melilla,15,0,0,1
 2020-09-14,00,No consta,44,0,10,0
 2020-09-14,01,Araba/Álava,37,0,3,3
 2020-09-14,02,Albacete,42,1,2,0
@@ -13415,6 +13672,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-14,49,Zamora,18,0,4,0
 2020-09-14,50,Zaragoza,152,3,23,0
 2020-09-14,51,Ceuta,7,0,1,0
+2020-09-14,52,Melilla,16,0,1,0
 2020-09-15,00,No consta,57,0,2,1
 2020-09-15,01,Araba/Álava,61,1,5,0
 2020-09-15,02,Albacete,70,1,1,0
@@ -13467,6 +13725,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-15,49,Zamora,59,2,3,0
 2020-09-15,50,Zaragoza,215,10,33,3
 2020-09-15,51,Ceuta,7,0,1,1
+2020-09-15,52,Melilla,4,0,1,0
 2020-09-16,00,No consta,79,1,3,0
 2020-09-16,01,Araba/Álava,144,2,1,0
 2020-09-16,02,Albacete,94,2,1,0
@@ -13519,6 +13778,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-16,49,Zamora,28,1,10,1
 2020-09-16,50,Zaragoza,229,2,19,0
 2020-09-16,51,Ceuta,3,1,0,0
+2020-09-16,52,Melilla,6,0,1,0
 2020-09-17,00,No consta,79,0,1,1
 2020-09-17,01,Araba/Álava,103,4,3,0
 2020-09-17,02,Albacete,72,0,1,0
@@ -13571,6 +13831,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-17,49,Zamora,196,1,4,0
 2020-09-17,50,Zaragoza,328,6,24,1
 2020-09-17,51,Ceuta,11,0,1,0
+2020-09-17,52,Melilla,4,0,1,0
 2020-09-18,00,No consta,67,0,4,0
 2020-09-18,01,Araba/Álava,102,0,5,1
 2020-09-18,02,Albacete,84,1,2,0
@@ -13623,6 +13884,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-18,49,Zamora,53,1,7,0
 2020-09-18,50,Zaragoza,323,6,32,2
 2020-09-18,51,Ceuta,11,0,1,0
+2020-09-18,52,Melilla,25,0,1,0
 2020-09-19,00,No consta,40,0,5,2
 2020-09-19,01,Araba/Álava,69,1,5,1
 2020-09-19,02,Albacete,62,0,1,0
@@ -13675,6 +13937,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-19,49,Zamora,52,1,4,1
 2020-09-19,50,Zaragoza,313,7,21,1
 2020-09-19,51,Ceuta,9,1,0,0
+2020-09-19,52,Melilla,26,0,4,0
 2020-09-20,00,No consta,37,0,7,1
 2020-09-20,01,Araba/Álava,83,0,2,0
 2020-09-20,02,Albacete,42,0,0,0
@@ -13727,6 +13990,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-20,49,Zamora,73,3,2,0
 2020-09-20,50,Zaragoza,196,2,13,1
 2020-09-20,51,Ceuta,12,0,2,0
+2020-09-20,52,Melilla,28,0,0,0
 2020-09-21,00,No consta,57,0,7,0
 2020-09-21,01,Araba/Álava,72,1,11,0
 2020-09-21,02,Albacete,57,1,4,1
@@ -13779,6 +14043,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-21,49,Zamora,43,1,8,1
 2020-09-21,50,Zaragoza,237,5,20,1
 2020-09-21,51,Ceuta,11,0,2,0
+2020-09-21,52,Melilla,25,0,1,0
 2020-09-22,00,No consta,49,1,3,0
 2020-09-22,01,Araba/Álava,65,2,4,0
 2020-09-22,02,Albacete,72,0,1,0
@@ -13831,6 +14096,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-22,49,Zamora,69,0,8,0
 2020-09-22,50,Zaragoza,160,12,31,1
 2020-09-22,51,Ceuta,20,0,5,3
+2020-09-22,52,Melilla,47,0,3,1
 2020-09-23,00,No consta,69,0,4,1
 2020-09-23,01,Araba/Álava,95,4,8,1
 2020-09-23,02,Albacete,82,0,0,0
@@ -13883,6 +14149,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-23,49,Zamora,70,3,3,0
 2020-09-23,50,Zaragoza,143,6,22,1
 2020-09-23,51,Ceuta,6,0,1,1
+2020-09-23,52,Melilla,27,0,0,0
 2020-09-24,00,No consta,70,0,3,0
 2020-09-24,01,Araba/Álava,84,2,7,0
 2020-09-24,02,Albacete,56,2,2,0
@@ -13935,6 +14202,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-24,49,Zamora,62,3,3,0
 2020-09-24,50,Zaragoza,336,7,19,0
 2020-09-24,51,Ceuta,18,0,0,0
+2020-09-24,52,Melilla,24,0,1,0
 2020-09-25,00,No consta,60,0,1,0
 2020-09-25,01,Araba/Álava,104,1,8,0
 2020-09-25,02,Albacete,61,0,1,0
@@ -13987,6 +14255,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-25,49,Zamora,94,4,9,0
 2020-09-25,50,Zaragoza,329,5,27,1
 2020-09-25,51,Ceuta,19,0,0,0
+2020-09-25,52,Melilla,31,1,2,0
 2020-09-26,00,No consta,67,1,7,0
 2020-09-26,01,Araba/Álava,115,1,4,1
 2020-09-26,02,Albacete,68,0,0,0
@@ -14039,6 +14308,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-26,49,Zamora,48,2,0,0
 2020-09-26,50,Zaragoza,227,9,20,1
 2020-09-26,51,Ceuta,18,0,1,0
+2020-09-26,52,Melilla,19,0,1,0
 2020-09-27,00,No consta,35,1,2,0
 2020-09-27,01,Araba/Álava,85,1,7,1
 2020-09-27,02,Albacete,45,0,2,0
@@ -14091,6 +14361,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-27,49,Zamora,5,1,7,1
 2020-09-27,50,Zaragoza,314,3,22,0
 2020-09-27,51,Ceuta,6,0,1,0
+2020-09-27,52,Melilla,38,0,1,0
 2020-09-28,00,No consta,35,1,5,3
 2020-09-28,01,Araba/Álava,59,3,3,4
 2020-09-28,02,Albacete,63,2,0,0
@@ -14143,6 +14414,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-28,49,Zamora,55,3,7,0
 2020-09-28,50,Zaragoza,143,3,23,1
 2020-09-28,51,Ceuta,21,0,1,0
+2020-09-28,52,Melilla,16,0,2,0
 2020-09-29,00,No consta,48,1,2,2
 2020-09-29,01,Araba/Álava,105,2,3,1
 2020-09-29,02,Albacete,52,0,2,0
@@ -14195,6 +14467,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-29,49,Zamora,69,0,4,0
 2020-09-29,50,Zaragoza,235,10,14,2
 2020-09-29,51,Ceuta,12,0,0,0
+2020-09-29,52,Melilla,46,0,0,0
 2020-09-30,00,No consta,76,0,2,0
 2020-09-30,01,Araba/Álava,84,1,5,2
 2020-09-30,02,Albacete,59,1,2,1
@@ -14247,6 +14520,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-30,49,Zamora,28,2,2,0
 2020-09-30,50,Zaragoza,201,2,22,1
 2020-09-30,51,Ceuta,24,0,0,0
+2020-09-30,52,Melilla,31,0,2,0
 2020-10-01,00,No consta,84,0,6,0
 2020-10-01,01,Araba/Álava,79,1,8,1
 2020-10-01,02,Albacete,52,1,8,2
@@ -14299,6 +14573,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-01,49,Zamora,27,5,3,1
 2020-10-01,50,Zaragoza,283,9,19,1
 2020-10-01,51,Ceuta,15,0,1,0
+2020-10-01,52,Melilla,30,0,2,0
 2020-10-02,00,No consta,49,1,2,0
 2020-10-02,01,Araba/Álava,92,3,5,0
 2020-10-02,02,Albacete,79,0,7,1
@@ -14351,6 +14626,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-02,49,Zamora,80,1,6,1
 2020-10-02,50,Zaragoza,299,2,22,3
 2020-10-02,51,Ceuta,19,0,2,1
+2020-10-02,52,Melilla,31,0,3,0
 2020-10-03,00,No consta,64,0,9,1
 2020-10-03,01,Araba/Álava,60,1,4,0
 2020-10-03,02,Albacete,64,0,4,0
@@ -14403,6 +14679,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-03,49,Zamora,4,1,5,0
 2020-10-03,50,Zaragoza,232,1,23,2
 2020-10-03,51,Ceuta,14,1,0,0
+2020-10-03,52,Melilla,17,0,1,0
 2020-10-04,00,No consta,61,0,1,1
 2020-10-04,01,Araba/Álava,40,2,7,1
 2020-10-04,02,Albacete,38,0,3,0
@@ -14455,6 +14732,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-04,49,Zamora,12,4,10,0
 2020-10-04,50,Zaragoza,263,4,14,1
 2020-10-04,51,Ceuta,6,0,1,0
+2020-10-04,52,Melilla,22,0,1,0
 2020-10-05,00,No consta,58,1,4,0
 2020-10-05,01,Araba/Álava,64,3,8,0
 2020-10-05,02,Albacete,51,0,6,2
@@ -14507,6 +14785,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-05,49,Zamora,42,0,5,0
 2020-10-05,50,Zaragoza,184,4,14,1
 2020-10-05,51,Ceuta,15,0,1,0
+2020-10-05,52,Melilla,28,0,1,0
 2020-10-06,00,No consta,75,0,5,0
 2020-10-06,01,Araba/Álava,70,1,7,0
 2020-10-06,02,Albacete,53,0,5,1
@@ -14559,6 +14838,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-06,49,Zamora,28,4,9,3
 2020-10-06,50,Zaragoza,296,12,24,0
 2020-10-06,51,Ceuta,21,0,2,0
+2020-10-06,52,Melilla,34,1,0,0
 2020-10-07,00,No consta,100,1,3,0
 2020-10-07,01,Araba/Álava,76,1,5,0
 2020-10-07,02,Albacete,70,0,4,2
@@ -14611,6 +14891,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-07,49,Zamora,19,1,10,0
 2020-10-07,50,Zaragoza,323,6,23,1
 2020-10-07,51,Ceuta,37,0,0,0
+2020-10-07,52,Melilla,40,0,3,0
 2020-10-08,00,No consta,139,1,8,0
 2020-10-08,01,Araba/Álava,77,3,5,1
 2020-10-08,02,Albacete,59,1,5,0
@@ -14663,6 +14944,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-08,49,Zamora,42,1,8,1
 2020-10-08,50,Zaragoza,309,7,28,2
 2020-10-08,51,Ceuta,34,0,0,0
+2020-10-08,52,Melilla,57,0,1,0
 2020-10-09,00,No consta,121,1,7,0
 2020-10-09,01,Araba/Álava,101,1,4,0
 2020-10-09,02,Albacete,118,1,11,0
@@ -14715,6 +14997,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-09,49,Zamora,71,3,14,0
 2020-10-09,50,Zaragoza,388,2,25,0
 2020-10-09,51,Ceuta,28,1,1,0
+2020-10-09,52,Melilla,48,2,4,0
 2020-10-10,00,No consta,101,0,9,2
 2020-10-10,01,Araba/Álava,65,1,3,2
 2020-10-10,02,Albacete,96,1,2,0
@@ -14767,6 +15050,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-10,49,Zamora,34,0,5,0
 2020-10-10,50,Zaragoza,241,2,19,3
 2020-10-10,51,Ceuta,27,0,1,0
+2020-10-10,52,Melilla,57,0,6,0
 2020-10-11,00,No consta,57,0,6,0
 2020-10-11,01,Araba/Álava,81,1,3,1
 2020-10-11,02,Albacete,32,0,5,1
@@ -14819,6 +15103,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-11,49,Zamora,3,1,3,0
 2020-10-11,50,Zaragoza,267,3,15,3
 2020-10-11,51,Ceuta,15,0,2,1
+2020-10-11,52,Melilla,43,0,4,1
 2020-10-12,00,No consta,50,1,3,0
 2020-10-12,01,Araba/Álava,60,0,1,0
 2020-10-12,02,Albacete,28,0,8,4
@@ -14871,6 +15156,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-12,49,Zamora,14,1,5,0
 2020-10-12,50,Zaragoza,269,4,24,0
 2020-10-12,51,Ceuta,18,0,1,1
+2020-10-12,52,Melilla,24,1,1,0
 2020-10-13,00,No consta,83,2,8,1
 2020-10-13,01,Araba/Álava,62,1,4,1
 2020-10-13,02,Albacete,84,0,6,0
@@ -14923,6 +15209,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-13,49,Zamora,33,0,6,0
 2020-10-13,50,Zaragoza,154,5,47,1
 2020-10-13,51,Ceuta,28,1,0,0
+2020-10-13,52,Melilla,26,0,3,0
 2020-10-14,00,No consta,175,0,12,2
 2020-10-14,01,Araba/Álava,82,1,5,0
 2020-10-14,02,Albacete,93,0,6,0
@@ -14975,6 +15262,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-14,49,Zamora,86,2,13,0
 2020-10-14,50,Zaragoza,354,5,29,3
 2020-10-14,51,Ceuta,20,0,1,0
+2020-10-14,52,Melilla,41,0,2,0
 2020-10-15,00,No consta,140,1,6,1
 2020-10-15,01,Araba/Álava,132,1,5,0
 2020-10-15,02,Albacete,99,1,2,1
@@ -15027,6 +15315,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-15,49,Zamora,65,2,12,1
 2020-10-15,50,Zaragoza,431,6,36,2
 2020-10-15,51,Ceuta,23,0,0,0
+2020-10-15,52,Melilla,100,1,8,1
 2020-10-16,00,No consta,149,0,13,1
 2020-10-16,01,Araba/Álava,104,1,12,0
 2020-10-16,02,Albacete,145,0,4,1
@@ -15079,6 +15368,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-16,49,Zamora,135,0,18,0
 2020-10-16,50,Zaragoza,451,4,35,0
 2020-10-16,51,Ceuta,39,1,0,0
+2020-10-16,52,Melilla,85,0,4,1
 2020-10-17,00,No consta,129,0,7,1
 2020-10-17,01,Araba/Álava,117,1,11,1
 2020-10-17,02,Albacete,85,1,6,2
@@ -15131,6 +15421,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-17,49,Zamora,100,1,5,0
 2020-10-17,50,Zaragoza,377,5,35,3
 2020-10-17,51,Ceuta,33,1,0,0
+2020-10-17,52,Melilla,51,0,4,1
 2020-10-18,00,No consta,127,2,4,1
 2020-10-18,01,Araba/Álava,74,1,6,1
 2020-10-18,02,Albacete,86,1,1,0
@@ -15183,6 +15474,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-18,49,Zamora,7,2,5,0
 2020-10-18,50,Zaragoza,300,1,30,1
 2020-10-18,51,Ceuta,12,0,0,0
+2020-10-18,52,Melilla,81,0,3,1
 2020-10-19,00,No consta,185,2,10,2
 2020-10-19,01,Araba/Álava,71,1,2,1
 2020-10-19,02,Albacete,121,0,5,1
@@ -15235,6 +15527,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-19,49,Zamora,25,1,11,1
 2020-10-19,50,Zaragoza,493,7,28,8
 2020-10-19,51,Ceuta,35,0,2,0
+2020-10-19,52,Melilla,65,0,5,1
 2020-10-20,00,No consta,206,1,17,1
 2020-10-20,01,Araba/Álava,96,0,9,0
 2020-10-20,02,Albacete,120,0,8,0
@@ -15287,6 +15580,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-20,49,Zamora,133,1,20,2
 2020-10-20,50,Zaragoza,602,16,37,3
 2020-10-20,51,Ceuta,27,0,1,1
+2020-10-20,52,Melilla,56,0,5,0
 2020-10-21,00,No consta,166,3,20,1
 2020-10-21,01,Araba/Álava,108,0,3,0
 2020-10-21,02,Albacete,114,0,2,0
@@ -15339,6 +15633,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-21,49,Zamora,125,1,11,0
 2020-10-21,50,Zaragoza,670,5,43,6
 2020-10-21,51,Ceuta,49,0,1,0
+2020-10-21,52,Melilla,84,0,4,0
 2020-10-22,00,No consta,189,0,13,1
 2020-10-22,01,Araba/Álava,103,0,4,1
 2020-10-22,02,Albacete,148,2,11,4
@@ -15391,6 +15686,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-22,49,Zamora,169,3,14,1
 2020-10-22,50,Zaragoza,803,7,48,5
 2020-10-22,51,Ceuta,68,0,3,0
+2020-10-22,52,Melilla,82,0,11,1
 2020-10-23,00,No consta,195,3,12,1
 2020-10-23,01,Araba/Álava,146,0,3,1
 2020-10-23,02,Albacete,276,0,5,2
@@ -15443,6 +15739,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-23,49,Zamora,193,4,12,0
 2020-10-23,50,Zaragoza,943,16,59,6
 2020-10-23,51,Ceuta,35,0,2,0
+2020-10-23,52,Melilla,137,0,6,0
 2020-10-24,00,No consta,129,2,16,1
 2020-10-24,01,Araba/Álava,117,1,4,0
 2020-10-24,02,Albacete,125,3,11,0
@@ -15495,6 +15792,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-24,49,Zamora,116,6,13,1
 2020-10-24,50,Zaragoza,793,4,52,4
 2020-10-24,51,Ceuta,62,1,7,1
+2020-10-24,52,Melilla,101,2,10,0
 2020-10-25,00,No consta,76,0,11,3
 2020-10-25,01,Araba/Álava,80,2,4,1
 2020-10-25,02,Albacete,85,0,8,2
@@ -15547,6 +15845,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-25,49,Zamora,32,1,11,0
 2020-10-25,50,Zaragoza,423,7,43,0
 2020-10-25,51,Ceuta,28,3,3,0
+2020-10-25,52,Melilla,61,0,5,2
 2020-10-26,00,No consta,118,2,5,1
 2020-10-26,01,Araba/Álava,96,1,8,0
 2020-10-26,02,Albacete,147,1,7,0
@@ -15599,6 +15898,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-26,49,Zamora,59,5,9,0
 2020-10-26,50,Zaragoza,742,8,64,5
 2020-10-26,51,Ceuta,37,0,0,0
+2020-10-26,52,Melilla,83,0,4,0
 2020-10-27,00,No consta,144,2,14,2
 2020-10-27,01,Araba/Álava,152,0,7,1
 2020-10-27,02,Albacete,201,0,11,0
@@ -15651,6 +15951,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-27,49,Zamora,131,0,20,0
 2020-10-27,50,Zaragoza,822,11,65,2
 2020-10-27,51,Ceuta,59,1,4,0
+2020-10-27,52,Melilla,89,1,5,0
 2020-10-28,00,No consta,169,2,13,1
 2020-10-28,01,Araba/Álava,134,1,3,0
 2020-10-28,02,Albacete,162,1,9,2
@@ -15703,6 +16004,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-28,49,Zamora,163,5,15,1
 2020-10-28,50,Zaragoza,775,10,54,3
 2020-10-28,51,Ceuta,74,1,5,0
+2020-10-28,52,Melilla,93,1,4,1
 2020-10-29,00,No consta,197,0,18,1
 2020-10-29,01,Araba/Álava,143,2,1,0
 2020-10-29,02,Albacete,148,0,9,3
@@ -15755,6 +16057,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-29,49,Zamora,150,1,9,0
 2020-10-29,50,Zaragoza,815,6,83,5
 2020-10-29,51,Ceuta,82,1,6,0
+2020-10-29,52,Melilla,90,1,4,0
 2020-10-30,00,No consta,158,1,16,3
 2020-10-30,01,Araba/Álava,201,4,5,1
 2020-10-30,02,Albacete,209,1,10,3
@@ -15807,6 +16110,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-30,49,Zamora,256,4,6,1
 2020-10-30,50,Zaragoza,898,8,64,12
 2020-10-30,51,Ceuta,96,3,2,0
+2020-10-30,52,Melilla,128,2,7,0
 2020-10-31,00,No consta,154,2,19,1
 2020-10-31,01,Araba/Álava,100,0,7,0
 2020-10-31,02,Albacete,129,2,12,1
@@ -15859,6 +16163,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-31,49,Zamora,142,2,15,2
 2020-10-31,50,Zaragoza,705,11,64,5
 2020-10-31,51,Ceuta,36,2,4,0
+2020-10-31,52,Melilla,102,3,3,1
 2020-11-01,00,No consta,98,3,12,2
 2020-11-01,01,Araba/Álava,75,0,6,2
 2020-11-01,02,Albacete,99,1,11,2
@@ -15911,6 +16216,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-01,49,Zamora,69,3,7,0
 2020-11-01,50,Zaragoza,427,10,56,4
 2020-11-01,51,Ceuta,33,0,4,2
+2020-11-01,52,Melilla,72,0,6,4
 2020-11-02,00,No consta,138,0,12,1
 2020-11-02,01,Araba/Álava,115,3,5,0
 2020-11-02,02,Albacete,137,5,9,3
@@ -15963,6 +16269,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-02,49,Zamora,56,4,10,0
 2020-11-02,50,Zaragoza,491,11,40,0
 2020-11-02,51,Ceuta,74,1,7,0
+2020-11-02,52,Melilla,55,3,5,4
 2020-11-03,00,No consta,154,3,12,3
 2020-11-03,01,Araba/Álava,158,2,5,0
 2020-11-03,02,Albacete,151,0,10,1
@@ -16015,6 +16322,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-03,49,Zamora,63,4,18,1
 2020-11-03,50,Zaragoza,515,12,72,6
 2020-11-03,51,Ceuta,81,3,4,0
+2020-11-03,52,Melilla,73,1,3,1
 2020-11-04,00,No consta,201,3,17,5
 2020-11-04,01,Araba/Álava,140,1,8,0
 2020-11-04,02,Albacete,175,3,10,0
@@ -16067,6 +16375,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-04,49,Zamora,189,4,10,0
 2020-11-04,50,Zaragoza,762,20,77,5
 2020-11-04,51,Ceuta,85,0,2,0
+2020-11-04,52,Melilla,46,2,7,0
 2020-11-05,00,No consta,158,1,17,4
 2020-11-05,01,Araba/Álava,167,1,9,1
 2020-11-05,02,Albacete,176,0,9,1
@@ -16119,6 +16428,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-05,49,Zamora,166,7,10,1
 2020-11-05,50,Zaragoza,641,20,60,7
 2020-11-05,51,Ceuta,78,3,1,0
+2020-11-05,52,Melilla,59,0,4,1
 2020-11-06,00,No consta,170,2,14,1
 2020-11-06,01,Araba/Álava,138,2,10,0
 2020-11-06,02,Albacete,260,1,10,0
@@ -16171,6 +16481,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-06,49,Zamora,141,3,21,0
 2020-11-06,50,Zaragoza,668,18,62,5
 2020-11-06,51,Ceuta,90,1,2,0
+2020-11-06,52,Melilla,52,2,3,2
 2020-11-07,00,No consta,94,0,10,0
 2020-11-07,01,Araba/Álava,97,1,7,0
 2020-11-07,02,Albacete,94,1,12,2
@@ -16223,6 +16534,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-07,49,Zamora,144,5,13,1
 2020-11-07,50,Zaragoza,526,14,54,4
 2020-11-07,51,Ceuta,38,2,1,0
+2020-11-07,52,Melilla,28,2,2,2
 2020-11-08,00,No consta,68,0,9,3
 2020-11-08,01,Araba/Álava,68,2,4,2
 2020-11-08,02,Albacete,87,0,7,0
@@ -16275,6 +16587,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-08,49,Zamora,47,4,10,2
 2020-11-08,50,Zaragoza,259,23,36,1
 2020-11-08,51,Ceuta,28,0,3,0
+2020-11-08,52,Melilla,17,0,6,0
 2020-11-09,00,No consta,113,0,11,0
 2020-11-09,01,Araba/Álava,96,1,14,1
 2020-11-09,02,Albacete,147,0,15,0
@@ -16327,6 +16640,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-09,49,Zamora,67,4,13,1
 2020-11-09,50,Zaragoza,416,17,57,6
 2020-11-09,51,Ceuta,58,2,8,0
+2020-11-09,52,Melilla,42,0,2,1
 2020-11-10,00,No consta,127,2,8,0
 2020-11-10,01,Araba/Álava,134,2,11,0
 2020-11-10,02,Albacete,156,1,14,2
@@ -16379,6 +16693,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-10,49,Zamora,153,3,13,0
 2020-11-10,50,Zaragoza,604,25,61,8
 2020-11-10,51,Ceuta,66,1,7,0
+2020-11-10,52,Melilla,50,0,2,0
 2020-11-11,00,No consta,149,4,18,0
 2020-11-11,01,Araba/Álava,111,2,11,0
 2020-11-11,02,Albacete,217,0,14,2
@@ -16431,6 +16746,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-11,49,Zamora,133,3,14,3
 2020-11-11,50,Zaragoza,485,10,51,5
 2020-11-11,51,Ceuta,46,0,4,0
+2020-11-11,52,Melilla,54,2,5,0
 2020-11-12,00,No consta,153,2,7,2
 2020-11-12,01,Araba/Álava,114,3,7,1
 2020-11-12,02,Albacete,171,4,9,5
@@ -16483,6 +16799,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-12,49,Zamora,205,2,13,0
 2020-11-12,50,Zaragoza,425,18,40,2
 2020-11-12,51,Ceuta,46,2,3,1
+2020-11-12,52,Melilla,25,0,2,0
 2020-11-13,00,No consta,125,3,7,0
 2020-11-13,01,Araba/Álava,132,1,10,1
 2020-11-13,02,Albacete,157,2,12,1
@@ -16535,6 +16852,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-13,49,Zamora,85,7,6,2
 2020-11-13,50,Zaragoza,388,25,56,2
 2020-11-13,51,Ceuta,33,2,2,0
+2020-11-13,52,Melilla,23,2,1,2
 2020-11-14,00,No consta,103,2,8,2
 2020-11-14,01,Araba/Álava,115,0,7,1
 2020-11-14,02,Albacete,122,2,17,2
@@ -16587,6 +16905,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-14,49,Zamora,89,0,9,0
 2020-11-14,50,Zaragoza,243,12,26,6
 2020-11-14,51,Ceuta,20,0,3,0
+2020-11-14,52,Melilla,52,0,2,1
 2020-11-15,00,No consta,49,0,6,1
 2020-11-15,01,Araba/Álava,70,1,6,2
 2020-11-15,02,Albacete,52,2,9,1
@@ -16639,6 +16958,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-15,49,Zamora,25,8,8,1
 2020-11-15,50,Zaragoza,177,7,20,4
 2020-11-15,51,Ceuta,7,0,2,0
+2020-11-15,52,Melilla,18,1,1,0
 2020-11-16,00,No consta,75,4,8,0
 2020-11-16,01,Araba/Álava,128,3,6,1
 2020-11-16,02,Albacete,92,1,9,2
@@ -16691,6 +17011,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-16,49,Zamora,82,3,14,0
 2020-11-16,50,Zaragoza,234,17,36,5
 2020-11-16,51,Ceuta,40,1,0,0
+2020-11-16,52,Melilla,25,0,3,0
 2020-11-17,00,No consta,125,3,17,0
 2020-11-17,01,Araba/Álava,100,3,8,0
 2020-11-17,02,Albacete,110,2,8,3
@@ -16743,6 +17064,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-17,49,Zamora,112,4,11,1
 2020-11-17,50,Zaragoza,334,21,44,1
 2020-11-17,51,Ceuta,45,0,3,0
+2020-11-17,52,Melilla,29,1,1,1
 2020-11-18,00,No consta,86,3,9,0
 2020-11-18,01,Araba/Álava,120,2,3,3
 2020-11-18,02,Albacete,101,2,2,2
@@ -16795,6 +17117,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-18,49,Zamora,105,7,12,0
 2020-11-18,50,Zaragoza,319,13,28,3
 2020-11-18,51,Ceuta,43,0,4,1
+2020-11-18,52,Melilla,49,0,2,0
 2020-11-19,00,No consta,85,2,8,0
 2020-11-19,01,Araba/Álava,94,0,5,1
 2020-11-19,02,Albacete,105,3,8,0
@@ -16847,6 +17170,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-19,49,Zamora,72,4,9,0
 2020-11-19,50,Zaragoza,271,15,31,4
 2020-11-19,51,Ceuta,27,1,1,0
+2020-11-19,52,Melilla,34,1,2,1
 2020-11-20,00,No consta,66,4,6,2
 2020-11-20,01,Araba/Álava,92,2,6,0
 2020-11-20,02,Albacete,109,2,10,0
@@ -16899,6 +17223,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-20,49,Zamora,94,0,14,2
 2020-11-20,50,Zaragoza,248,9,37,4
 2020-11-20,51,Ceuta,36,1,2,1
+2020-11-20,52,Melilla,44,0,3,0
 2020-11-21,00,No consta,61,3,6,1
 2020-11-21,01,Araba/Álava,57,3,5,0
 2020-11-21,02,Albacete,76,2,8,0
@@ -16951,6 +17276,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-21,49,Zamora,101,2,8,0
 2020-11-21,50,Zaragoza,196,10,15,1
 2020-11-21,51,Ceuta,12,5,1,1
+2020-11-21,52,Melilla,22,0,4,0
 2020-11-22,00,No consta,42,1,4,0
 2020-11-22,01,Araba/Álava,48,1,3,0
 2020-11-22,02,Albacete,47,3,2,1
@@ -17003,6 +17329,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-22,49,Zamora,8,7,7,1
 2020-11-22,50,Zaragoza,101,8,24,2
 2020-11-22,51,Ceuta,11,1,1,0
+2020-11-22,52,Melilla,6,1,1,0
 2020-11-23,00,No consta,45,1,5,0
 2020-11-23,01,Araba/Álava,92,1,5,1
 2020-11-23,02,Albacete,71,4,8,1
@@ -17055,6 +17382,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-23,49,Zamora,46,5,10,1
 2020-11-23,50,Zaragoza,130,13,32,0
 2020-11-23,51,Ceuta,24,0,3,0
+2020-11-23,52,Melilla,28,0,1,1
 2020-11-24,00,No consta,51,1,8,1
 2020-11-24,01,Araba/Álava,96,2,9,0
 2020-11-24,02,Albacete,85,1,10,1
@@ -17107,6 +17435,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-24,49,Zamora,74,5,8,0
 2020-11-24,50,Zaragoza,234,15,24,1
 2020-11-24,51,Ceuta,16,1,0,0
+2020-11-24,52,Melilla,34,1,2,0
 2020-11-25,00,No consta,48,2,4,1
 2020-11-25,01,Araba/Álava,94,2,8,1
 2020-11-25,02,Albacete,73,2,4,1
@@ -17159,6 +17488,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-25,49,Zamora,55,5,11,2
 2020-11-25,50,Zaragoza,233,15,36,0
 2020-11-25,51,Ceuta,14,0,3,0
+2020-11-25,52,Melilla,15,0,2,2
 2020-11-26,00,No consta,49,2,1,0
 2020-11-26,01,Araba/Álava,79,1,2,2
 2020-11-26,02,Albacete,93,0,5,2
@@ -17211,6 +17541,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-26,49,Zamora,67,7,6,1
 2020-11-26,50,Zaragoza,205,17,32,7
 2020-11-26,51,Ceuta,10,0,4,0
+2020-11-26,52,Melilla,20,1,1,0
 2020-11-27,00,No consta,32,5,3,0
 2020-11-27,01,Araba/Álava,73,2,4,0
 2020-11-27,02,Albacete,55,3,6,0
@@ -17263,6 +17594,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-27,49,Zamora,43,3,6,1
 2020-11-27,50,Zaragoza,221,11,28,1
 2020-11-27,51,Ceuta,20,0,0,0
+2020-11-27,52,Melilla,26,0,2,0
 2020-11-28,00,No consta,29,2,6,0
 2020-11-28,01,Araba/Álava,66,3,0,0
 2020-11-28,02,Albacete,59,2,8,4
@@ -17315,6 +17647,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-28,49,Zamora,23,6,4,0
 2020-11-28,50,Zaragoza,262,6,15,5
 2020-11-28,51,Ceuta,7,0,1,0
+2020-11-28,52,Melilla,12,0,1,0
 2020-11-29,00,No consta,21,0,2,1
 2020-11-29,01,Araba/Álava,43,1,5,1
 2020-11-29,02,Albacete,32,0,1,1
@@ -17367,6 +17700,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-29,49,Zamora,3,3,5,1
 2020-11-29,50,Zaragoza,87,5,16,3
 2020-11-29,51,Ceuta,3,0,1,0
+2020-11-29,52,Melilla,5,1,0,0
 2020-11-30,00,No consta,21,1,3,0
 2020-11-30,01,Araba/Álava,60,2,5,0
 2020-11-30,02,Albacete,76,3,7,2
@@ -17419,6 +17753,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-30,49,Zamora,37,6,5,0
 2020-11-30,50,Zaragoza,139,10,30,0
 2020-11-30,51,Ceuta,10,0,3,0
+2020-11-30,52,Melilla,24,0,1,0
 2020-12-01,00,No consta,33,2,4,0
 2020-12-01,01,Araba/Álava,95,2,5,0
 2020-12-01,02,Albacete,69,0,7,0
@@ -17471,6 +17806,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-01,49,Zamora,61,4,11,0
 2020-12-01,50,Zaragoza,246,6,22,8
 2020-12-01,51,Ceuta,14,1,2,0
+2020-12-01,52,Melilla,22,1,2,1
 2020-12-02,00,No consta,34,1,4,1
 2020-12-02,01,Araba/Álava,87,0,3,1
 2020-12-02,02,Albacete,96,2,5,0
@@ -17523,6 +17859,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-02,49,Zamora,24,2,4,1
 2020-12-02,50,Zaragoza,209,3,25,2
 2020-12-02,51,Ceuta,9,0,0,0
+2020-12-02,52,Melilla,31,1,1,0
 2020-12-03,00,No consta,26,1,4,0
 2020-12-03,01,Araba/Álava,90,3,7,0
 2020-12-03,02,Albacete,72,0,3,0
@@ -17575,6 +17912,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-03,49,Zamora,40,2,3,0
 2020-12-03,50,Zaragoza,159,2,13,3
 2020-12-03,51,Ceuta,9,0,1,0
+2020-12-03,52,Melilla,9,0,2,0
 2020-12-04,00,No consta,33,4,4,0
 2020-12-04,01,Araba/Álava,70,2,5,1
 2020-12-04,02,Albacete,98,1,8,1
@@ -17627,6 +17965,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-04,49,Zamora,42,4,6,0
 2020-12-04,50,Zaragoza,153,15,29,2
 2020-12-04,51,Ceuta,3,0,0,0
+2020-12-04,52,Melilla,18,0,1,0
 2020-12-05,00,No consta,23,0,2,0
 2020-12-05,01,Araba/Álava,86,0,2,0
 2020-12-05,02,Albacete,34,1,7,0
@@ -17679,6 +18018,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-05,49,Zamora,17,2,2,0
 2020-12-05,50,Zaragoza,134,7,15,2
 2020-12-05,51,Ceuta,16,0,1,0
+2020-12-05,52,Melilla,3,0,1,0
 2020-12-06,00,No consta,4,1,2,0
 2020-12-06,01,Araba/Álava,51,3,6,0
 2020-12-06,02,Albacete,28,2,2,0
@@ -17731,6 +18071,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-06,49,Zamora,10,2,2,0
 2020-12-06,50,Zaragoza,94,9,25,1
 2020-12-06,51,Ceuta,8,0,1,0
+2020-12-06,52,Melilla,6,0,3,0
 2020-12-07,00,No consta,25,0,3,1
 2020-12-07,01,Araba/Álava,66,4,3,2
 2020-12-07,02,Albacete,61,4,11,0
@@ -17783,6 +18124,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-07,49,Zamora,22,3,6,0
 2020-12-07,50,Zaragoza,84,8,14,1
 2020-12-07,51,Ceuta,0,0,1,0
+2020-12-07,52,Melilla,9,0,0,0
 2020-12-08,00,No consta,24,0,3,2
 2020-12-08,01,Araba/Álava,74,2,3,0
 2020-12-08,02,Albacete,67,0,4,0
@@ -17835,6 +18177,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-08,49,Zamora,5,1,2,0
 2020-12-08,50,Zaragoza,61,4,22,2
 2020-12-08,51,Ceuta,0,0,0,0
+2020-12-08,52,Melilla,7,0,5,0
 2020-12-09,00,No consta,30,0,4,0
 2020-12-09,01,Araba/Álava,88,0,11,1
 2020-12-09,02,Albacete,109,0,7,1
@@ -17887,6 +18230,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-09,49,Zamora,17,0,3,0
 2020-12-09,50,Zaragoza,118,18,20,3
 2020-12-09,51,Ceuta,13,0,2,0
+2020-12-09,52,Melilla,26,0,2,0
 2020-12-10,00,No consta,29,0,6,0
 2020-12-10,01,Araba/Álava,107,2,6,0
 2020-12-10,02,Albacete,124,1,8,2
@@ -17939,6 +18283,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-10,49,Zamora,36,0,0,0
 2020-12-10,50,Zaragoza,227,10,25,1
 2020-12-10,51,Ceuta,11,0,1,0
+2020-12-10,52,Melilla,25,0,0,0
 2020-12-11,00,No consta,38,1,0,0
 2020-12-11,01,Araba/Álava,113,2,11,0
 2020-12-11,02,Albacete,118,0,11,1
@@ -17991,6 +18336,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-11,49,Zamora,26,1,6,1
 2020-12-11,50,Zaragoza,196,8,24,0
 2020-12-11,51,Ceuta,16,0,2,0
+2020-12-11,52,Melilla,14,0,0,0
 2020-12-12,00,No consta,22,0,3,0
 2020-12-12,01,Araba/Álava,97,1,2,2
 2020-12-12,02,Albacete,72,3,8,2
@@ -18043,6 +18389,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-12,49,Zamora,15,1,7,0
 2020-12-12,50,Zaragoza,153,7,15,1
 2020-12-12,51,Ceuta,6,0,1,1
+2020-12-12,52,Melilla,6,0,1,0
 2020-12-13,00,No consta,6,0,1,1
 2020-12-13,01,Araba/Álava,62,0,5,0
 2020-12-13,02,Albacete,62,3,10,2
@@ -18095,6 +18442,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-13,49,Zamora,6,2,7,0
 2020-12-13,50,Zaragoza,122,7,12,2
 2020-12-13,51,Ceuta,2,0,0,0
+2020-12-13,52,Melilla,1,0,0,0
 2020-12-14,00,No consta,23,1,5,3
 2020-12-14,01,Araba/Álava,89,4,3,0
 2020-12-14,02,Albacete,112,0,5,0
@@ -18147,6 +18495,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-14,49,Zamora,16,2,8,0
 2020-12-14,50,Zaragoza,124,6,26,1
 2020-12-14,51,Ceuta,16,0,0,0
+2020-12-14,52,Melilla,26,0,1,0
 2020-12-15,00,No consta,29,1,3,0
 2020-12-15,01,Araba/Álava,103,1,8,0
 2020-12-15,02,Albacete,118,4,13,2
@@ -18199,6 +18548,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-15,49,Zamora,53,5,5,0
 2020-12-15,50,Zaragoza,210,7,22,6
 2020-12-15,51,Ceuta,7,0,2,0
+2020-12-15,52,Melilla,32,0,1,0
 2020-12-16,00,No consta,32,0,3,2
 2020-12-16,01,Araba/Álava,76,1,9,2
 2020-12-16,02,Albacete,170,1,4,4
@@ -18251,6 +18601,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-16,49,Zamora,23,2,6,0
 2020-12-16,50,Zaragoza,168,6,15,2
 2020-12-16,51,Ceuta,6,0,1,0
+2020-12-16,52,Melilla,22,0,2,1
 2020-12-17,00,No consta,29,1,2,0
 2020-12-17,01,Araba/Álava,83,4,10,1
 2020-12-17,02,Albacete,129,1,3,0
@@ -18303,6 +18654,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-17,49,Zamora,20,1,8,0
 2020-12-17,50,Zaragoza,130,9,28,2
 2020-12-17,51,Ceuta,7,0,0,0
+2020-12-17,52,Melilla,27,0,2,0
 2020-12-18,00,No consta,48,0,4,0
 2020-12-18,01,Araba/Álava,77,2,7,0
 2020-12-18,02,Albacete,140,3,4,0
@@ -18355,6 +18707,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-18,49,Zamora,17,7,7,0
 2020-12-18,50,Zaragoza,188,9,26,3
 2020-12-18,51,Ceuta,3,0,1,0
+2020-12-18,52,Melilla,3,0,1,0
 2020-12-19,00,No consta,30,1,2,0
 2020-12-19,01,Araba/Álava,63,4,6,1
 2020-12-19,02,Albacete,80,1,5,1
@@ -18407,6 +18760,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-19,49,Zamora,5,1,2,0
 2020-12-19,50,Zaragoza,160,4,19,1
 2020-12-19,51,Ceuta,1,1,0,0
+2020-12-19,52,Melilla,4,0,0,0
 2020-12-20,00,No consta,22,0,4,0
 2020-12-20,01,Araba/Álava,66,0,2,1
 2020-12-20,02,Albacete,40,1,6,0
@@ -18459,6 +18813,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-20,49,Zamora,2,0,1,1
 2020-12-20,50,Zaragoza,59,2,9,0
 2020-12-20,51,Ceuta,2,0,0,0
+2020-12-20,52,Melilla,3,0,1,0
 2020-12-21,00,No consta,51,0,6,1
 2020-12-21,01,Araba/Álava,54,1,4,0
 2020-12-21,02,Albacete,111,0,9,1
@@ -18511,6 +18866,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-21,49,Zamora,16,1,4,1
 2020-12-21,50,Zaragoza,109,7,22,1
 2020-12-21,51,Ceuta,4,0,3,0
+2020-12-21,52,Melilla,22,0,0,0
 2020-12-22,00,No consta,42,1,6,1
 2020-12-22,01,Araba/Álava,80,6,4,2
 2020-12-22,02,Albacete,133,1,7,4
@@ -18563,6 +18919,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-22,49,Zamora,7,2,4,0
 2020-12-22,50,Zaragoza,158,6,23,2
 2020-12-22,51,Ceuta,9,1,0,0
+2020-12-22,52,Melilla,20,0,0,0
 2020-12-23,00,No consta,54,0,3,0
 2020-12-23,01,Araba/Álava,76,0,1,0
 2020-12-23,02,Albacete,162,1,5,2
@@ -18615,6 +18972,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-23,49,Zamora,17,1,2,1
 2020-12-23,50,Zaragoza,111,6,16,1
 2020-12-23,51,Ceuta,5,0,0,0
+2020-12-23,52,Melilla,19,0,1,0
 2020-12-24,00,No consta,44,3,2,0
 2020-12-24,01,Araba/Álava,55,3,7,0
 2020-12-24,02,Albacete,92,0,2,1
@@ -18667,6 +19025,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-24,49,Zamora,3,1,3,0
 2020-12-24,50,Zaragoza,269,2,10,4
 2020-12-24,51,Ceuta,1,0,0,0
+2020-12-24,52,Melilla,4,0,2,0
 2020-12-25,00,No consta,27,0,1,0
 2020-12-25,01,Araba/Álava,36,3,1,1
 2020-12-25,02,Albacete,73,0,4,1
@@ -18719,6 +19078,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-25,49,Zamora,3,2,1,0
 2020-12-25,50,Zaragoza,127,2,9,1
 2020-12-25,51,Ceuta,2,0,0,0
+2020-12-25,52,Melilla,10,0,2,0
 2020-12-26,00,No consta,34,0,3,1
 2020-12-26,01,Araba/Álava,33,1,4,0
 2020-12-26,02,Albacete,73,1,5,0
@@ -18771,6 +19131,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-26,49,Zamora,10,2,0,1
 2020-12-26,50,Zaragoza,54,3,12,5
 2020-12-26,51,Ceuta,10,0,0,0
+2020-12-26,52,Melilla,2,0,0,0
 2020-12-27,00,No consta,30,1,5,0
 2020-12-27,01,Araba/Álava,46,1,3,0
 2020-12-27,02,Albacete,87,2,11,1
@@ -18823,6 +19184,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-27,49,Zamora,6,1,1,0
 2020-12-27,50,Zaragoza,115,5,15,2
 2020-12-27,51,Ceuta,16,1,0,0
+2020-12-27,52,Melilla,3,0,0,0
 2020-12-28,00,No consta,68,1,3,2
 2020-12-28,01,Araba/Álava,55,3,2,0
 2020-12-28,02,Albacete,168,4,12,1
@@ -18875,6 +19237,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-28,49,Zamora,17,2,2,0
 2020-12-28,50,Zaragoza,188,7,20,0
 2020-12-28,51,Ceuta,14,0,0,0
+2020-12-28,52,Melilla,37,0,1,0
 2020-12-29,00,No consta,103,1,6,1
 2020-12-29,01,Araba/Álava,78,3,4,1
 2020-12-29,02,Albacete,232,4,12,0
@@ -18927,6 +19290,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-29,49,Zamora,31,1,4,0
 2020-12-29,50,Zaragoza,313,11,16,2
 2020-12-29,51,Ceuta,22,1,0,0
+2020-12-29,52,Melilla,18,0,0,1
 2020-12-30,00,No consta,142,1,4,0
 2020-12-30,01,Araba/Álava,62,0,2,0
 2020-12-30,02,Albacete,221,0,5,0
@@ -18979,6 +19343,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-30,49,Zamora,15,1,6,0
 2020-12-30,50,Zaragoza,367,8,26,5
 2020-12-30,51,Ceuta,16,0,0,0
+2020-12-30,52,Melilla,28,2,0,0
 2020-12-31,00,No consta,67,0,4,0
 2020-12-31,01,Araba/Álava,82,1,3,0
 2020-12-31,02,Albacete,168,2,15,0
@@ -19031,6 +19396,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-31,49,Zamora,20,0,5,0
 2020-12-31,50,Zaragoza,293,7,20,4
 2020-12-31,51,Ceuta,12,0,0,0
+2020-12-31,52,Melilla,23,0,0,0
 2021-01-01,00,No consta,48,0,1,2
 2021-01-01,01,Araba/Álava,68,0,5,1
 2021-01-01,02,Albacete,94,2,7,2
@@ -19083,6 +19449,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-01,49,Zamora,10,0,2,0
 2021-01-01,50,Zaragoza,124,2,11,0
 2021-01-01,51,Ceuta,9,0,1,0
+2021-01-01,52,Melilla,12,0,0,0
 2021-01-02,00,No consta,76,1,5,0
 2021-01-02,01,Araba/Álava,52,3,3,0
 2021-01-02,02,Albacete,90,1,14,2
@@ -19135,6 +19502,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-02,49,Zamora,10,2,1,0
 2021-01-02,50,Zaragoza,137,3,25,1
 2021-01-02,51,Ceuta,29,0,1,0
+2021-01-02,52,Melilla,13,0,1,0
 2021-01-03,00,No consta,64,1,2,0
 2021-01-03,01,Araba/Álava,38,2,2,0
 2021-01-03,02,Albacete,111,0,6,0
@@ -19187,6 +19555,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-03,49,Zamora,10,1,2,0
 2021-01-03,50,Zaragoza,169,4,18,2
 2021-01-03,51,Ceuta,14,0,0,0
+2021-01-03,52,Melilla,22,0,3,0
 2021-01-04,00,No consta,122,1,7,0
 2021-01-04,01,Araba/Álava,70,1,6,1
 2021-01-04,02,Albacete,252,1,5,0
@@ -19239,6 +19608,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-04,49,Zamora,46,0,2,2
 2021-01-04,50,Zaragoza,209,4,19,0
 2021-01-04,51,Ceuta,29,0,2,0
+2021-01-04,52,Melilla,46,0,2,0
 2021-01-05,00,No consta,121,0,5,1
 2021-01-05,01,Araba/Álava,54,0,5,0
 2021-01-05,02,Albacete,321,5,11,3
@@ -19291,6 +19661,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-05,49,Zamora,72,0,11,1
 2021-01-05,50,Zaragoza,405,8,31,6
 2021-01-05,51,Ceuta,31,0,2,0
+2021-01-05,52,Melilla,56,0,0,0
 2021-01-06,00,No consta,86,1,3,0
 2021-01-06,01,Araba/Álava,65,1,4,1
 2021-01-06,02,Albacete,155,2,7,1
@@ -19343,6 +19714,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-06,49,Zamora,32,2,1,0
 2021-01-06,50,Zaragoza,310,6,16,2
 2021-01-06,51,Ceuta,9,0,3,1
+2021-01-06,52,Melilla,12,0,2,0
 2021-01-07,00,No consta,109,1,9,0
 2021-01-07,01,Araba/Álava,70,2,3,0
 2021-01-07,02,Albacete,271,1,3,2
@@ -19395,6 +19767,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-07,49,Zamora,23,0,2,0
 2021-01-07,50,Zaragoza,280,2,38,1
 2021-01-07,51,Ceuta,23,1,0,0
+2021-01-07,52,Melilla,27,0,0,0
 2021-01-08,00,No consta,143,0,7,1
 2021-01-08,01,Araba/Álava,82,2,5,0
 2021-01-08,02,Albacete,243,2,5,1
@@ -19447,6 +19820,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-08,49,Zamora,113,0,4,1
 2021-01-08,50,Zaragoza,486,10,33,2
 2021-01-08,51,Ceuta,36,0,0,0
+2021-01-08,52,Melilla,37,0,4,0
 2021-01-09,00,No consta,100,1,3,0
 2021-01-09,01,Araba/Álava,70,2,2,0
 2021-01-09,02,Albacete,206,5,14,0
@@ -19499,6 +19873,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-09,49,Zamora,7,1,1,0
 2021-01-09,50,Zaragoza,346,6,16,1
 2021-01-09,51,Ceuta,27,0,4,0
+2021-01-09,52,Melilla,19,0,1,0
 2021-01-10,00,No consta,86,1,13,1
 2021-01-10,01,Araba/Álava,53,0,5,0
 2021-01-10,02,Albacete,188,1,12,1
@@ -19551,6 +19926,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-10,49,Zamora,24,1,5,0
 2021-01-10,50,Zaragoza,204,4,25,1
 2021-01-10,51,Ceuta,18,0,2,0
+2021-01-10,52,Melilla,23,1,0,0
 2021-01-11,00,No consta,191,1,5,2
 2021-01-11,01,Araba/Álava,84,0,2,0
 2021-01-11,02,Albacete,343,2,13,1
@@ -19603,6 +19979,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-11,49,Zamora,91,1,5,1
 2021-01-11,50,Zaragoza,264,11,57,4
 2021-01-11,51,Ceuta,25,0,0,0
+2021-01-11,52,Melilla,61,0,1,2
 2021-01-12,00,No consta,182,0,12,0
 2021-01-12,01,Araba/Álava,93,2,2,0
 2021-01-12,02,Albacete,376,3,15,2
@@ -19655,6 +20032,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-12,49,Zamora,143,0,3,0
 2021-01-12,50,Zaragoza,463,10,42,5
 2021-01-12,51,Ceuta,34,0,2,1
+2021-01-12,52,Melilla,60,1,2,0
 2021-01-13,00,No consta,171,3,9,0
 2021-01-13,01,Araba/Álava,109,0,5,1
 2021-01-13,02,Albacete,498,2,15,3
@@ -19707,6 +20085,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-13,49,Zamora,166,0,5,3
 2021-01-13,50,Zaragoza,649,7,52,2
 2021-01-13,51,Ceuta,37,0,4,0
+2021-01-13,52,Melilla,60,1,1,3
 2021-01-14,00,No consta,163,4,11,1
 2021-01-14,01,Araba/Álava,116,1,6,0
 2021-01-14,02,Albacete,416,1,10,4
@@ -19759,6 +20138,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-14,49,Zamora,133,0,14,1
 2021-01-14,50,Zaragoza,612,6,51,7
 2021-01-14,51,Ceuta,22,0,2,0
+2021-01-14,52,Melilla,52,0,2,0
 2021-01-15,00,No consta,198,1,9,0
 2021-01-15,01,Araba/Álava,119,0,6,0
 2021-01-15,02,Albacete,415,2,22,1
@@ -19811,6 +20191,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-15,49,Zamora,158,2,9,1
 2021-01-15,50,Zaragoza,616,6,40,4
 2021-01-15,51,Ceuta,18,1,2,1
+2021-01-15,52,Melilla,63,1,2,0
 2021-01-16,00,No consta,108,3,8,2
 2021-01-16,01,Araba/Álava,114,0,2,0
 2021-01-16,02,Albacete,264,2,15,3
@@ -19863,6 +20244,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-16,49,Zamora,131,2,6,0
 2021-01-16,50,Zaragoza,547,4,36,1
 2021-01-16,51,Ceuta,31,2,1,1
+2021-01-16,52,Melilla,21,0,2,0
 2021-01-17,00,No consta,81,1,10,2
 2021-01-17,01,Araba/Álava,76,2,5,1
 2021-01-17,02,Albacete,246,4,17,2
@@ -19915,6 +20297,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-17,49,Zamora,31,3,6,0
 2021-01-17,50,Zaragoza,248,2,39,0
 2021-01-17,51,Ceuta,17,2,2,0
+2021-01-17,52,Melilla,31,0,5,0
 2021-01-18,00,No consta,176,0,16,0
 2021-01-18,01,Araba/Álava,89,1,9,1
 2021-01-18,02,Albacete,332,1,14,4
@@ -19967,6 +20350,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-18,49,Zamora,112,0,11,0
 2021-01-18,50,Zaragoza,358,10,60,6
 2021-01-18,51,Ceuta,30,0,0,0
+2021-01-18,52,Melilla,77,0,7,3
 2021-01-19,00,No consta,174,2,12,1
 2021-01-19,01,Araba/Álava,94,1,5,0
 2021-01-19,02,Albacete,319,4,17,5
@@ -20019,6 +20403,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-19,49,Zamora,198,0,12,1
 2021-01-19,50,Zaragoza,572,9,52,4
 2021-01-19,51,Ceuta,38,0,2,0
+2021-01-19,52,Melilla,88,0,4,0
 2021-01-20,00,No consta,163,3,10,4
 2021-01-20,01,Araba/Álava,145,2,4,1
 2021-01-20,02,Albacete,434,5,16,1
@@ -20071,6 +20456,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-20,49,Zamora,220,1,7,0
 2021-01-20,50,Zaragoza,570,9,54,4
 2021-01-20,51,Ceuta,56,0,3,0
+2021-01-20,52,Melilla,96,0,4,1
 2021-01-21,00,No consta,143,2,14,1
 2021-01-21,01,Araba/Álava,135,0,11,0
 2021-01-21,02,Albacete,343,4,23,1
@@ -20123,6 +20509,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-21,49,Zamora,206,3,10,0
 2021-01-21,50,Zaragoza,509,15,63,5
 2021-01-21,51,Ceuta,40,0,1,0
+2021-01-21,52,Melilla,86,0,7,0
 2021-01-22,00,No consta,167,0,16,0
 2021-01-22,01,Araba/Álava,157,4,19,2
 2021-01-22,02,Albacete,434,9,19,3
@@ -20175,6 +20562,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-22,49,Zamora,174,2,17,3
 2021-01-22,50,Zaragoza,584,9,62,4
 2021-01-22,51,Ceuta,40,0,5,0
+2021-01-22,52,Melilla,85,0,7,1
 2021-01-23,00,No consta,101,0,12,0
 2021-01-23,01,Araba/Álava,80,1,4,3
 2021-01-23,02,Albacete,198,3,22,3
@@ -20227,6 +20615,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-23,49,Zamora,177,3,15,1
 2021-01-23,50,Zaragoza,527,8,45,7
 2021-01-23,51,Ceuta,22,0,1,2
+2021-01-23,52,Melilla,37,0,2,0
 2021-01-24,00,No consta,84,4,10,1
 2021-01-24,01,Araba/Álava,120,3,7,0
 2021-01-24,02,Albacete,169,5,18,6
@@ -20279,6 +20668,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-24,49,Zamora,33,1,7,0
 2021-01-24,50,Zaragoza,290,4,34,1
 2021-01-24,51,Ceuta,27,1,3,0
+2021-01-24,52,Melilla,30,0,3,2
 2021-01-25,00,No consta,171,2,14,1
 2021-01-25,01,Araba/Álava,109,0,14,1
 2021-01-25,02,Albacete,293,7,14,4
@@ -20331,6 +20721,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-25,49,Zamora,104,1,19,1
 2021-01-25,50,Zaragoza,350,16,51,2
 2021-01-25,51,Ceuta,44,0,1,0
+2021-01-25,52,Melilla,74,0,4,2
 2021-01-26,00,No consta,163,2,10,1
 2021-01-26,01,Araba/Álava,147,0,12,2
 2021-01-26,02,Albacete,332,4,16,4
@@ -20383,6 +20774,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-26,49,Zamora,116,3,12,1
 2021-01-26,50,Zaragoza,613,11,48,6
 2021-01-26,51,Ceuta,25,0,1,0
+2021-01-26,52,Melilla,75,0,3,1
 2021-01-27,00,No consta,195,2,9,0
 2021-01-27,01,Araba/Álava,146,1,6,1
 2021-01-27,02,Albacete,279,7,12,4
@@ -20435,6 +20827,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-27,49,Zamora,168,4,20,1
 2021-01-27,50,Zaragoza,576,15,45,3
 2021-01-27,51,Ceuta,54,1,2,0
+2021-01-27,52,Melilla,67,2,3,0
 2021-01-28,00,No consta,147,6,15,1
 2021-01-28,01,Araba/Álava,136,4,10,4
 2021-01-28,02,Albacete,290,5,13,4
@@ -20487,6 +20880,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-28,49,Zamora,125,1,15,1
 2021-01-28,50,Zaragoza,502,10,62,6
 2021-01-28,51,Ceuta,35,2,2,0
+2021-01-28,52,Melilla,74,0,11,1
 2021-01-29,00,No consta,137,1,17,3
 2021-01-29,01,Araba/Álava,144,2,8,2
 2021-01-29,02,Albacete,223,5,11,1
@@ -20539,6 +20933,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-29,49,Zamora,152,2,15,0
 2021-01-29,50,Zaragoza,456,9,35,4
 2021-01-29,51,Ceuta,35,1,1,0
+2021-01-29,52,Melilla,66,0,8,1
 2021-01-30,00,No consta,82,2,6,0
 2021-01-30,01,Araba/Álava,97,1,8,2
 2021-01-30,02,Albacete,139,3,11,3
@@ -20591,6 +20986,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-30,49,Zamora,104,1,14,0
 2021-01-30,50,Zaragoza,297,6,36,3
 2021-01-30,51,Ceuta,27,0,1,0
+2021-01-30,52,Melilla,58,1,2,2
 2021-01-31,00,No consta,54,1,8,0
 2021-01-31,01,Araba/Álava,124,2,4,1
 2021-01-31,02,Albacete,98,1,10,0
@@ -20643,6 +21039,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-31,49,Zamora,24,4,10,0
 2021-01-31,50,Zaragoza,166,14,26,1
 2021-01-31,51,Ceuta,22,0,1,0
+2021-01-31,52,Melilla,20,0,2,0
 2021-02-01,00,No consta,93,3,16,1
 2021-02-01,01,Araba/Álava,76,6,6,1
 2021-02-01,02,Albacete,114,7,10,3
@@ -20695,6 +21092,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-01,49,Zamora,32,4,8,2
 2021-02-01,50,Zaragoza,280,13,53,12
 2021-02-01,51,Ceuta,45,1,1,0
+2021-02-01,52,Melilla,54,1,5,2
 2021-02-02,00,No consta,82,2,15,3
 2021-02-02,01,Araba/Álava,124,2,14,1
 2021-02-02,02,Albacete,162,0,11,1
@@ -20747,6 +21145,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-02,49,Zamora,92,3,8,0
 2021-02-02,50,Zaragoza,474,11,44,3
 2021-02-02,51,Ceuta,41,0,1,0
+2021-02-02,52,Melilla,54,0,4,0
 2021-02-03,00,No consta,81,0,11,2
 2021-02-03,01,Araba/Álava,127,3,12,0
 2021-02-03,02,Albacete,137,3,12,1
@@ -20799,6 +21198,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-03,49,Zamora,60,2,21,0
 2021-02-03,50,Zaragoza,437,11,36,7
 2021-02-03,51,Ceuta,42,1,0,0
+2021-02-03,52,Melilla,55,1,1,0
 2021-02-04,00,No consta,65,3,8,1
 2021-02-04,01,Araba/Álava,137,0,7,0
 2021-02-04,02,Albacete,122,6,2,1
@@ -20851,6 +21251,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-04,49,Zamora,73,3,8,0
 2021-02-04,50,Zaragoza,425,16,62,1
 2021-02-04,51,Ceuta,22,0,0,1
+2021-02-04,52,Melilla,50,0,3,0
 2021-02-05,00,No consta,78,3,4,0
 2021-02-05,01,Araba/Álava,110,1,11,0
 2021-02-05,02,Albacete,122,4,5,6
@@ -20903,6 +21304,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-05,49,Zamora,59,3,15,1
 2021-02-05,50,Zaragoza,425,16,41,2
 2021-02-05,51,Ceuta,40,1,0,0
+2021-02-05,52,Melilla,69,1,5,1
 2021-02-06,00,No consta,34,2,4,0
 2021-02-06,01,Araba/Álava,103,2,4,0
 2021-02-06,02,Albacete,73,2,6,1
@@ -20955,6 +21357,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-06,49,Zamora,24,3,5,0
 2021-02-06,50,Zaragoza,239,6,25,4
 2021-02-06,51,Ceuta,17,0,0,1
+2021-02-06,52,Melilla,26,0,3,1
 2021-02-07,00,No consta,27,0,6,1
 2021-02-07,01,Araba/Álava,54,5,6,1
 2021-02-07,02,Albacete,46,2,7,1
@@ -21007,6 +21410,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-07,49,Zamora,12,2,5,0
 2021-02-07,50,Zaragoza,116,9,22,3
 2021-02-07,51,Ceuta,14,0,0,0
+2021-02-07,52,Melilla,13,3,3,0
 2021-02-08,00,No consta,46,1,9,1
 2021-02-08,01,Araba/Álava,79,4,10,2
 2021-02-08,02,Albacete,58,2,2,0
@@ -21059,6 +21463,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-08,49,Zamora,21,1,8,2
 2021-02-08,50,Zaragoza,173,15,49,3
 2021-02-08,51,Ceuta,32,0,1,0
+2021-02-08,52,Melilla,32,0,3,0
 2021-02-09,00,No consta,47,1,5,0
 2021-02-09,01,Araba/Álava,110,0,12,0
 2021-02-09,02,Albacete,85,2,3,0
@@ -21111,6 +21516,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-09,49,Zamora,38,0,7,1
 2021-02-09,50,Zaragoza,380,8,67,2
 2021-02-09,51,Ceuta,35,0,0,0
+2021-02-09,52,Melilla,35,2,6,1
 2021-02-10,00,No consta,49,1,3,0
 2021-02-10,01,Araba/Álava,88,3,6,0
 2021-02-10,02,Albacete,52,3,5,1
@@ -21163,6 +21569,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-10,49,Zamora,24,1,3,2
 2021-02-10,50,Zaragoza,297,9,33,7
 2021-02-10,51,Ceuta,20,0,0,0
+2021-02-10,52,Melilla,45,1,3,0
 2021-02-11,00,No consta,37,0,1,0
 2021-02-11,01,Araba/Álava,87,4,7,0
 2021-02-11,02,Albacete,61,2,5,0
@@ -21215,6 +21622,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-11,49,Zamora,8,1,2,1
 2021-02-11,50,Zaragoza,248,9,37,1
 2021-02-11,51,Ceuta,29,0,0,0
+2021-02-11,52,Melilla,46,0,3,1
 2021-02-12,00,No consta,37,1,5,0
 2021-02-12,01,Araba/Álava,60,4,6,2
 2021-02-12,02,Albacete,42,1,7,0
@@ -21267,6 +21675,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-12,49,Zamora,13,1,1,0
 2021-02-12,50,Zaragoza,238,12,39,3
 2021-02-12,51,Ceuta,24,1,2,0
+2021-02-12,52,Melilla,48,0,2,1
 2021-02-13,00,No consta,16,2,1,0
 2021-02-13,01,Araba/Álava,57,1,1,0
 2021-02-13,02,Albacete,47,1,0,0
@@ -21319,6 +21728,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-13,49,Zamora,8,3,1,1
 2021-02-13,50,Zaragoza,199,5,12,4
 2021-02-13,51,Ceuta,20,0,1,0
+2021-02-13,52,Melilla,8,1,0,0
 2021-02-14,00,No consta,8,1,2,0
 2021-02-14,01,Araba/Álava,48,2,4,1
 2021-02-14,02,Albacete,25,4,3,1
@@ -21371,6 +21781,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-14,49,Zamora,0,0,1,0
 2021-02-14,50,Zaragoza,64,3,11,3
 2021-02-14,51,Ceuta,23,0,0,0
+2021-02-14,52,Melilla,13,0,1,0
 2021-02-15,00,No consta,30,1,1,0
 2021-02-15,01,Araba/Álava,42,1,7,1
 2021-02-15,02,Albacete,35,2,2,1
@@ -21423,6 +21834,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-15,49,Zamora,7,1,3,0
 2021-02-15,50,Zaragoza,134,6,29,2
 2021-02-15,51,Ceuta,22,0,0,0
+2021-02-15,52,Melilla,24,0,0,0
 2021-02-16,00,No consta,17,1,1,0
 2021-02-16,01,Araba/Álava,48,2,5,1
 2021-02-16,02,Albacete,35,3,4,1
@@ -21475,6 +21887,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-16,49,Zamora,11,1,2,0
 2021-02-16,50,Zaragoza,220,11,23,4
 2021-02-16,51,Ceuta,36,0,1,0
+2021-02-16,52,Melilla,34,0,1,0
 2021-02-17,00,No consta,25,1,2,0
 2021-02-17,01,Araba/Álava,60,2,0,0
 2021-02-17,02,Albacete,39,0,1,0
@@ -21527,6 +21940,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-17,49,Zamora,9,1,3,0
 2021-02-17,50,Zaragoza,191,10,26,0
 2021-02-17,51,Ceuta,18,1,0,0
+2021-02-17,52,Melilla,21,2,1,1
 2021-02-18,00,No consta,18,2,3,0
 2021-02-18,01,Araba/Álava,64,2,3,0
 2021-02-18,02,Albacete,34,1,4,0
@@ -21579,6 +21993,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-18,49,Zamora,12,0,3,0
 2021-02-18,50,Zaragoza,145,3,17,6
 2021-02-18,51,Ceuta,8,0,0,0
+2021-02-18,52,Melilla,18,1,1,0
 2021-02-19,00,No consta,19,3,3,1
 2021-02-19,01,Araba/Álava,60,0,4,0
 2021-02-19,02,Albacete,24,3,6,2
@@ -21631,6 +22046,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-19,49,Zamora,12,1,2,0
 2021-02-19,50,Zaragoza,195,5,19,3
 2021-02-19,51,Ceuta,12,0,1,0
+2021-02-19,52,Melilla,39,0,1,0
 2021-02-20,00,No consta,14,1,3,0
 2021-02-20,01,Araba/Álava,46,0,2,0
 2021-02-20,02,Albacete,23,1,1,2
@@ -21683,6 +22099,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-20,49,Zamora,12,0,3,0
 2021-02-20,50,Zaragoza,137,3,11,2
 2021-02-20,51,Ceuta,10,0,0,0
+2021-02-20,52,Melilla,14,0,2,0
 2021-02-21,00,No consta,4,4,2,0
 2021-02-21,01,Araba/Álava,47,2,3,1
 2021-02-21,02,Albacete,23,0,3,1
@@ -21735,6 +22152,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-21,49,Zamora,5,0,1,0
 2021-02-21,50,Zaragoza,72,7,20,3
 2021-02-21,51,Ceuta,7,2,0,0
+2021-02-21,52,Melilla,8,0,1,0
 2021-02-22,00,No consta,20,1,0,0
 2021-02-22,01,Araba/Álava,48,1,3,1
 2021-02-22,02,Albacete,22,0,1,0
@@ -21787,6 +22205,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-22,49,Zamora,15,0,4,0
 2021-02-22,50,Zaragoza,111,5,19,3
 2021-02-22,51,Ceuta,17,1,0,0
+2021-02-22,52,Melilla,26,2,1,0
 2021-02-23,00,No consta,14,0,0,1
 2021-02-23,01,Araba/Álava,56,1,2,0
 2021-02-23,02,Albacete,23,2,2,0
@@ -21839,6 +22258,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-23,49,Zamora,6,1,3,0
 2021-02-23,50,Zaragoza,151,5,12,1
 2021-02-23,51,Ceuta,18,1,0,0
+2021-02-23,52,Melilla,25,2,1,0
 2021-02-24,00,No consta,16,0,2,1
 2021-02-24,01,Araba/Álava,80,2,4,0
 2021-02-24,02,Albacete,14,0,0,1
@@ -21891,6 +22311,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-24,49,Zamora,12,1,0,0
 2021-02-24,50,Zaragoza,144,6,20,3
 2021-02-24,51,Ceuta,8,0,0,0
+2021-02-24,52,Melilla,22,0,3,1
 2021-02-25,00,No consta,20,0,3,0
 2021-02-25,01,Araba/Álava,49,0,2,1
 2021-02-25,02,Albacete,14,1,1,0
@@ -21943,6 +22364,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-25,49,Zamora,4,2,2,1
 2021-02-25,50,Zaragoza,131,14,17,3
 2021-02-25,51,Ceuta,14,0,0,0
+2021-02-25,52,Melilla,16,2,3,0
 2021-02-26,00,No consta,10,0,1,0
 2021-02-26,01,Araba/Álava,57,4,6,0
 2021-02-26,02,Albacete,19,0,1,1
@@ -21995,6 +22417,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-26,49,Zamora,6,1,0,0
 2021-02-26,50,Zaragoza,142,7,19,2
 2021-02-26,51,Ceuta,35,1,0,0
+2021-02-26,52,Melilla,22,1,2,0
 2021-02-27,00,No consta,2,0,0,0
 2021-02-27,01,Araba/Álava,52,2,2,0
 2021-02-27,02,Albacete,9,0,2,0
@@ -22047,6 +22470,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-27,49,Zamora,1,0,1,0
 2021-02-27,50,Zaragoza,107,2,11,1
 2021-02-27,51,Ceuta,9,1,0,0
+2021-02-27,52,Melilla,17,0,3,1
 2021-02-28,00,No consta,5,0,1,0
 2021-02-28,01,Araba/Álava,36,1,3,0
 2021-02-28,02,Albacete,11,1,0,0
@@ -22099,6 +22523,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-28,49,Zamora,3,0,1,0
 2021-02-28,50,Zaragoza,51,6,14,2
 2021-02-28,51,Ceuta,10,0,0,0
+2021-02-28,52,Melilla,7,0,0,0
 2021-03-01,00,No consta,16,0,5,0
 2021-03-01,01,Araba/Álava,47,1,0,0
 2021-03-01,02,Albacete,12,1,3,0
@@ -22151,6 +22576,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-01,49,Zamora,7,2,1,0
 2021-03-01,50,Zaragoza,99,1,17,2
 2021-03-01,51,Ceuta,62,0,0,0
+2021-03-01,52,Melilla,33,0,3,1
 2021-03-02,00,No consta,16,2,2,0
 2021-03-02,01,Araba/Álava,47,0,0,0
 2021-03-02,02,Albacete,16,0,1,1
@@ -22203,6 +22629,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-02,49,Zamora,5,0,0,0
 2021-03-02,50,Zaragoza,170,8,20,2
 2021-03-02,51,Ceuta,15,1,0,0
+2021-03-02,52,Melilla,30,0,1,0
 2021-03-03,00,No consta,12,0,0,0
 2021-03-03,01,Araba/Álava,40,1,1,0
 2021-03-03,02,Albacete,17,1,2,0
@@ -22255,6 +22682,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-03,49,Zamora,8,0,0,0
 2021-03-03,50,Zaragoza,140,6,23,3
 2021-03-03,51,Ceuta,11,1,0,0
+2021-03-03,52,Melilla,25,0,3,0
 2021-03-04,00,No consta,20,1,1,0
 2021-03-04,01,Araba/Álava,61,1,0,0
 2021-03-04,02,Albacete,9,1,1,1
@@ -22307,6 +22735,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-04,49,Zamora,3,0,1,0
 2021-03-04,50,Zaragoza,130,2,25,5
 2021-03-04,51,Ceuta,19,1,0,0
+2021-03-04,52,Melilla,36,0,3,0
 2021-03-05,00,No consta,12,0,3,0
 2021-03-05,01,Araba/Álava,39,3,0,0
 2021-03-05,02,Albacete,12,0,4,1
@@ -22359,6 +22788,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-05,49,Zamora,4,0,0,0
 2021-03-05,50,Zaragoza,99,3,19,2
 2021-03-05,51,Ceuta,9,0,0,0
+2021-03-05,52,Melilla,39,0,3,2
 2021-03-06,00,No consta,8,0,0,0
 2021-03-06,01,Araba/Álava,37,1,0,0
 2021-03-06,02,Albacete,9,1,2,0
@@ -22411,6 +22841,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-06,49,Zamora,2,1,1,0
 2021-03-06,50,Zaragoza,68,2,11,4
 2021-03-06,51,Ceuta,14,0,0,0
+2021-03-06,52,Melilla,24,0,0,0
 2021-03-07,00,No consta,7,0,1,0
 2021-03-07,01,Araba/Álava,29,1,0,0
 2021-03-07,02,Albacete,12,0,1,0
@@ -22463,6 +22894,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-07,49,Zamora,1,0,1,0
 2021-03-07,50,Zaragoza,35,2,14,0
 2021-03-07,51,Ceuta,6,0,1,0
+2021-03-07,52,Melilla,13,1,1,1
 2021-03-08,00,No consta,7,1,0,0
 2021-03-08,01,Araba/Álava,42,0,0,0
 2021-03-08,02,Albacete,2,0,0,0
@@ -22515,6 +22947,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-08,49,Zamora,4,0,1,0
 2021-03-08,50,Zaragoza,66,1,12,0
 2021-03-08,51,Ceuta,15,0,0,0
+2021-03-08,52,Melilla,29,1,0,1
 2021-03-09,00,No consta,0,0,0,0
 2021-03-09,01,Araba/Álava,0,0,0,0
 2021-03-09,02,Albacete,0,0,0,0
@@ -22567,3 +23000,4 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-09,49,Zamora,0,0,0,0
 2021-03-09,50,Zaragoza,0,0,0,0
 2021-03-09,51,Ceuta,4,0,1,0
+2021-03-09,52,Melilla,0,0,0,0
