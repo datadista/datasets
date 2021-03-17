@@ -141,7 +141,8 @@ Description: Number of confirmed cases recorded recorded daily by Autonomous Com
 <br><br>
 **Nombre del archivo:** [ccaa_vacunas.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_vacunas.csv) <br>
 **Nivel administrativo:** Comunidad Autónoma<br>
-**Descripción:** Evolución de las dosis de vacunas contra la COVID-10 entregadas, administradas, porcentaje sobre entregadas, fecha de publicación y fecha de la última vacuna registrada.
+**Descripción:** Fecha publicación,cod_ine,CCAA,Dosis entregadas Pfizer,Dosis entregadas Moderna,Dosis entregadas AstraZeneca,Dosis entregadas totales,Dosis administradas,Porcentaje de dosis administradas por 100 habitantes,Porcentaje sobre entregadas,Personas con pauta completa,Porcentaje con pauta completa,Fecha de la última vacuna registrada,Última fecha de actualización.<br>
+**Nota:** Las columnas Porcentaje de dosis administradas por 100 habitantes y Porcentaje con pauta completa está calculada por DATADISTA en base a los datos de cifras de población oficiales por CCAA publicadas en el INE con fecha 2021-07-01.
 <br><br>
 **Nombre del archivo:** [ccaa_vacunas_personas_institucionalizadas.csv](https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_vacunas_personas_institucionalizadas.csv) <br>
 **Nivel administrativo:** Comunidad Autónoma<br>
