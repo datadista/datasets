@@ -24,7 +24,7 @@
 | Tue, 16 Mar 2021 20:22:53 +0100  | COVID 19/ccaa_vacunas.csv |
 | Mon, 15 Mar 2021 18:51:38 +0100  | COVID 19/ccaa_vacunas_personas_institucionalizadas.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
-| Sat, 26 Dec 2020 19:21:48 +0100  | COVID 19/nacional_casos_personal_sanitario.csv |
+| Wed, 17 Mar 2021 17:29:33 +0100  | COVID 19/nacional_casos_personal_sanitario.csv |
 | Tue, 16 Mar 2021 18:49:26 +0100  | COVID 19/nacional_covid19.csv |
 | Tue, 16 Mar 2021 18:49:44 +0100  | COVID 19/nacional_covid19_datos_sanidad_nueva_serie.csv |
 | Tue, 16 Mar 2021 18:49:43 +0100  | COVID 19/nacional_covid19_datos_sanidad_nueva_serie_grupos_edad.csv |
