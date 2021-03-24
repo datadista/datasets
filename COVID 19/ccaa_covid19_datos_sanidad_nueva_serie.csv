@@ -269,7 +269,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-01-14,07,Castilla y León,0,0,0,0
 2020-01-14,08,Castilla La Mancha,0,0,0,0
 2020-01-14,09,Cataluña,0,0,2,1
-2020-01-14,10,C. Valenciana,0,0,0,0
+2020-01-14,10,C. Valenciana,0,0,1,0
 2020-01-14,11,Extremadura,0,0,0,0
 2020-01-14,12,Galicia,0,0,0,0
 2020-01-14,13,Madrid,0,0,6,0
@@ -949,7 +949,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-02-17,07,Castilla y León,0,0,0,0
 2020-02-17,08,Castilla La Mancha,0,0,0,0
 2020-02-17,09,Cataluña,0,0,8,0
-2020-02-17,10,C. Valenciana,0,0,2,0
+2020-02-17,10,C. Valenciana,0,0,1,0
 2020-02-17,11,Extremadura,0,0,0,0
 2020-02-17,12,Galicia,0,0,1,0
 2020-02-17,13,Madrid,0,0,9,3
@@ -1492,7 +1492,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-15,10,C. Valenciana,112,4,61,9
 2020-03-15,11,Extremadura,32,1,7,0
 2020-03-15,12,Galicia,65,1,14,3
-2020-03-15,13,Madrid,816,79,701,66
+2020-03-15,13,Madrid,816,79,700,66
 2020-03-15,14,Murcia,20,0,5,3
 2020-03-15,15,Navarra,75,1,32,4
 2020-03-15,16,País Vasco,100,14,43,7
@@ -1580,7 +1580,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-19,18,Ceuta,4,0,0,0
 2020-03-19,19,Melilla,3,0,1,0
 2020-03-20,00,No consta,164,0,48,5
-2020-03-20,01,Andalucía,318,14,197,20
+2020-03-20,01,Andalucía,318,14,196,20
 2020-03-20,02,Aragón,105,5,59,10
 2020-03-20,03,Asturias,95,3,29,5
 2020-03-20,04,Baleares,76,1,37,7
@@ -1624,7 +1624,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-22,02,Aragón,102,11,60,9
 2020-03-22,03,Asturias,52,10,30,3
 2020-03-22,04,Baleares,63,3,27,12
-2020-03-22,05,Canarias,74,4,34,9
+2020-03-22,05,Canarias,75,4,34,9
 2020-03-22,06,Cantabria,71,2,6,2
 2020-03-22,07,Castilla y León,399,37,214,12
 2020-03-22,08,Castilla La Mancha,380,52,340,23
@@ -1672,7 +1672,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-24,10,C. Valenciana,478,31,365,45
 2020-03-24,11,Extremadura,137,16,62,6
 2020-03-24,12,Galicia,366,7,142,22
-2020-03-24,13,Madrid,3328,287,1855,125
+2020-03-24,13,Madrid,3328,287,1854,125
 2020-03-24,14,Murcia,144,4,23,9
 2020-03-24,15,Navarra,189,10,91,9
 2020-03-24,16,País Vasco,580,25,325,14
@@ -1788,7 +1788,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-30,06,Cantabria,58,15,5,2
 2020-03-30,07,Castilla y León,481,81,271,20
 2020-03-30,08,Castilla La Mancha,921,90,414,27
-2020-03-30,09,Cataluña,1641,212,714,56
+2020-03-30,09,Cataluña,1641,212,715,56
 2020-03-30,10,C. Valenciana,415,54,258,34
 2020-03-30,11,Extremadura,51,23,56,9
 2020-03-30,12,Galicia,399,27,106,15
@@ -1835,7 +1835,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-01,13,Madrid,1592,264,1007,87
 2020-04-01,14,Murcia,36,4,21,4
 2020-04-01,15,Navarra,166,11,77,6
-2020-04-01,16,País Vasco,484,43,202,11
+2020-04-01,16,País Vasco,485,43,202,11
 2020-04-01,17,La Rioja,143,6,33,4
 2020-04-01,18,Ceuta,2,0,1,1
 2020-04-01,19,Melilla,0,0,0,0
@@ -1848,7 +1848,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-02,06,Cantabria,73,8,12,2
 2020-04-02,07,Castilla y León,494,69,222,12
 2020-04-02,08,Castilla La Mancha,518,81,253,10
-2020-04-02,09,Cataluña,1345,176,501,38
+2020-04-02,09,Cataluña,1345,176,502,38
 2020-04-02,10,C. Valenciana,331,48,138,14
 2020-04-02,11,Extremadura,53,20,32,4
 2020-04-02,12,Galicia,337,25,85,8
@@ -1924,7 +1924,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-06,02,Aragón,154,37,56,8
 2020-04-06,03,Asturias,22,8,24,2
 2020-04-06,04,Baleares,58,2,27,3
-2020-04-06,05,Canarias,37,3,20,0
+2020-04-06,05,Canarias,37,3,19,0
 2020-04-06,06,Cantabria,32,8,17,1
 2020-04-06,07,Castilla y León,528,66,156,4
 2020-04-06,08,Castilla La Mancha,585,76,274,9
@@ -2092,7 +2092,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-14,10,C. Valenciana,148,32,59,4
 2020-04-14,11,Extremadura,67,8,17,0
 2020-04-14,12,Galicia,169,16,44,1
-2020-04-14,13,Madrid,1022,136,403,26
+2020-04-14,13,Madrid,1022,136,402,26
 2020-04-14,14,Murcia,23,3,3,0
 2020-04-14,15,Navarra,70,11,32,0
 2020-04-14,16,País Vasco,195,32,52,2
@@ -2172,7 +2172,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-18,10,C. Valenciana,65,11,33,2
 2020-04-18,11,Extremadura,22,7,10,1
 2020-04-18,12,Galicia,89,19,19,3
-2020-04-18,13,Madrid,524,95,192,9
+2020-04-18,13,Madrid,524,95,193,9
 2020-04-18,14,Murcia,9,1,2,0
 2020-04-18,15,Navarra,64,14,12,1
 2020-04-18,16,País Vasco,152,26,17,2
@@ -2352,7 +2352,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-27,10,C. Valenciana,48,14,26,0
 2020-04-27,11,Extremadura,15,6,9,0
 2020-04-27,12,Galicia,53,9,13,0
-2020-04-27,13,Madrid,647,53,122,13
+2020-04-27,13,Madrid,647,53,121,13
 2020-04-27,14,Murcia,7,0,2,0
 2020-04-27,15,Navarra,31,6,4,0
 2020-04-27,16,País Vasco,70,13,16,1
@@ -2515,7 +2515,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-05,13,Madrid,303,34,51,1
 2020-05-05,14,Murcia,10,1,3,1
 2020-05-05,15,Navarra,22,4,9,0
-2020-05-05,16,País Vasco,47,9,8,1
+2020-05-05,16,País Vasco,46,9,8,1
 2020-05-05,17,La Rioja,8,1,1,0
 2020-05-05,18,Ceuta,8,0,1,0
 2020-05-05,19,Melilla,0,0,0,0
@@ -2595,7 +2595,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-09,13,Madrid,86,42,40,4
 2020-05-09,14,Murcia,1,0,0,0
 2020-05-09,15,Navarra,11,1,3,0
-2020-05-09,16,País Vasco,40,7,8,1
+2020-05-09,16,País Vasco,39,7,8,1
 2020-05-09,17,La Rioja,0,2,0,0
 2020-05-09,18,Ceuta,0,0,0,0
 2020-05-09,19,Melilla,0,0,0,0
@@ -2675,7 +2675,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-13,13,Madrid,230,22,40,5
 2020-05-13,14,Murcia,6,0,4,0
 2020-05-13,15,Navarra,14,2,3,1
-2020-05-13,16,País Vasco,48,1,6,0
+2020-05-13,16,País Vasco,49,1,6,0
 2020-05-13,17,La Rioja,5,0,0,0
 2020-05-13,18,Ceuta,1,0,0,0
 2020-05-13,19,Melilla,0,0,0,0
@@ -2915,7 +2915,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-25,13,Madrid,107,25,27,3
 2020-05-25,14,Murcia,0,0,0,0
 2020-05-25,15,Navarra,5,0,1,0
-2020-05-25,16,País Vasco,13,3,3,1
+2020-05-25,16,País Vasco,14,3,3,1
 2020-05-25,17,La Rioja,3,0,1,0
 2020-05-25,18,Ceuta,5,0,1,0
 2020-05-25,19,Melilla,0,0,0,0
@@ -3155,7 +3155,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-06,13,Madrid,76,13,17,1
 2020-06-06,14,Murcia,1,0,0,0
 2020-06-06,15,Navarra,3,0,3,0
-2020-06-06,16,País Vasco,16,4,2,0
+2020-06-06,16,País Vasco,17,4,2,0
 2020-06-06,17,La Rioja,4,0,0,0
 2020-06-06,18,Ceuta,0,0,0,0
 2020-06-06,19,Melilla,0,0,0,0
@@ -3215,7 +3215,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-09,13,Madrid,128,6,12,1
 2020-06-09,14,Murcia,2,0,0,0
 2020-06-09,15,Navarra,5,0,0,0
-2020-06-09,16,País Vasco,34,1,5,0
+2020-06-09,16,País Vasco,35,1,5,0
 2020-06-09,17,La Rioja,1,0,0,0
 2020-06-09,18,Ceuta,0,0,0,0
 2020-06-09,19,Melilla,0,0,0,0
@@ -3315,7 +3315,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-14,13,Madrid,16,10,11,1
 2020-06-14,14,Murcia,0,0,0,0
 2020-06-14,15,Navarra,0,0,0,0
-2020-06-14,16,País Vasco,19,0,2,0
+2020-06-14,16,País Vasco,18,0,2,0
 2020-06-14,17,La Rioja,1,0,0,0
 2020-06-14,18,Ceuta,0,0,0,0
 2020-06-14,19,Melilla,0,0,0,0
@@ -3335,7 +3335,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-15,13,Madrid,127,4,20,1
 2020-06-15,14,Murcia,1,0,0,0
 2020-06-15,15,Navarra,1,0,0,0
-2020-06-15,16,País Vasco,29,0,1,1
+2020-06-15,16,País Vasco,30,0,1,1
 2020-06-15,17,La Rioja,0,0,0,0
 2020-06-15,18,Ceuta,0,0,0,0
 2020-06-15,19,Melilla,0,0,0,0
@@ -3355,7 +3355,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-16,13,Madrid,112,6,12,3
 2020-06-16,14,Murcia,2,0,0,0
 2020-06-16,15,Navarra,6,0,0,0
-2020-06-16,16,País Vasco,45,0,0,0
+2020-06-16,16,País Vasco,46,0,0,0
 2020-06-16,17,La Rioja,1,0,0,0
 2020-06-16,18,Ceuta,0,0,0,0
 2020-06-16,19,Melilla,0,0,0,0
@@ -3395,7 +3395,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-18,13,Madrid,103,4,19,2
 2020-06-18,14,Murcia,5,0,0,0
 2020-06-18,15,Navarra,7,0,1,0
-2020-06-18,16,País Vasco,25,1,1,0
+2020-06-18,16,País Vasco,24,1,1,0
 2020-06-18,17,La Rioja,2,0,0,0
 2020-06-18,18,Ceuta,0,0,0,0
 2020-06-18,19,Melilla,0,0,0,0
@@ -3541,7 +3541,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-06-25,19,Melilla,0,0,0,0
 2020-06-26,00,No consta,0,0,2,0
 2020-06-26,01,Andalucía,22,1,4,0
-2020-06-26,02,Aragón,26,0,2,0
+2020-06-26,02,Aragón,27,0,2,0
 2020-06-26,03,Asturias,0,0,0,0
 2020-06-26,04,Baleares,10,1,1,0
 2020-06-26,05,Canarias,1,0,2,0
@@ -3835,7 +3835,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-10,13,Madrid,70,0,7,0
 2020-07-10,14,Murcia,9,0,0,0
 2020-07-10,15,Navarra,28,0,0,0
-2020-07-10,16,País Vasco,52,0,1,0
+2020-07-10,16,País Vasco,51,0,1,0
 2020-07-10,17,La Rioja,15,0,0,0
 2020-07-10,18,Ceuta,0,0,0,0
 2020-07-10,19,Melilla,0,0,0,0
@@ -3895,7 +3895,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-13,13,Madrid,51,1,9,1
 2020-07-13,14,Murcia,4,0,0,0
 2020-07-13,15,Navarra,15,0,0,0
-2020-07-13,16,País Vasco,49,0,2,0
+2020-07-13,16,País Vasco,50,0,2,0
 2020-07-13,17,La Rioja,2,0,1,0
 2020-07-13,18,Ceuta,0,0,0,0
 2020-07-13,19,Melilla,0,0,1,0
@@ -3948,7 +3948,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-16,06,Cantabria,1,0,1,0
 2020-07-16,07,Castilla y León,20,0,3,0
 2020-07-16,08,Castilla La Mancha,26,1,7,0
-2020-07-16,09,Cataluña,857,0,16,0
+2020-07-16,09,Cataluña,858,0,16,0
 2020-07-16,10,C. Valenciana,59,0,4,0
 2020-07-16,11,Extremadura,26,0,1,0
 2020-07-16,12,Galicia,15,0,1,0
@@ -4035,7 +4035,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-20,13,Madrid,83,1,6,1
 2020-07-20,14,Murcia,12,0,1,0
 2020-07-20,15,Navarra,83,0,1,0
-2020-07-20,16,País Vasco,114,0,5,1
+2020-07-20,16,País Vasco,113,0,5,1
 2020-07-20,17,La Rioja,6,0,0,0
 2020-07-20,18,Ceuta,0,0,0,0
 2020-07-20,19,Melilla,0,0,0,0
@@ -4055,7 +4055,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-21,13,Madrid,184,1,11,0
 2020-07-21,14,Murcia,31,0,0,0
 2020-07-21,15,Navarra,126,0,1,0
-2020-07-21,16,País Vasco,146,0,4,0
+2020-07-21,16,País Vasco,147,0,4,0
 2020-07-21,17,La Rioja,26,0,0,0
 2020-07-21,18,Ceuta,0,0,0,0
 2020-07-21,19,Melilla,0,0,0,0
@@ -4228,7 +4228,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-30,06,Cantabria,14,0,5,0
 2020-07-30,07,Castilla y León,81,0,5,0
 2020-07-30,08,Castilla La Mancha,39,1,2,0
-2020-07-30,09,Cataluña,1152,5,24,2
+2020-07-30,09,Cataluña,1153,5,24,2
 2020-07-30,10,C. Valenciana,257,0,13,1
 2020-07-30,11,Extremadura,22,0,0,0
 2020-07-30,12,Galicia,31,0,4,0
@@ -4303,7 +4303,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-03,01,Andalucía,193,1,14,1
 2020-08-03,02,Aragón,367,6,45,3
 2020-08-03,03,Asturias,6,0,0,0
-2020-08-03,04,Baleares,93,0,3,0
+2020-08-03,04,Baleares,94,0,3,0
 2020-08-03,05,Canarias,15,0,2,0
 2020-08-03,06,Cantabria,35,0,2,0
 2020-08-03,07,Castilla y León,50,1,8,0
@@ -4315,7 +4315,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-03,13,Madrid,416,1,83,3
 2020-08-03,14,Murcia,39,0,8,2
 2020-08-03,15,Navarra,57,0,2,0
-2020-08-03,16,País Vasco,225,0,11,0
+2020-08-03,16,País Vasco,226,0,11,0
 2020-08-03,17,La Rioja,7,0,1,0
 2020-08-03,18,Ceuta,0,0,0,0
 2020-08-03,19,Melilla,1,0,0,0
@@ -4421,7 +4421,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-08,19,Melilla,0,0,0,0
 2020-08-09,00,No consta,28,0,3,0
 2020-08-09,01,Andalucía,251,0,15,4
-2020-08-09,02,Aragón,347,5,26,2
+2020-08-09,02,Aragón,347,5,27,2
 2020-08-09,03,Asturias,16,0,0,0
 2020-08-09,04,Baleares,97,0,2,0
 2020-08-09,05,Canarias,45,0,3,0
@@ -4441,7 +4441,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-09,19,Melilla,5,0,1,0
 2020-08-10,00,No consta,33,0,2,0
 2020-08-10,01,Andalucía,256,0,22,2
-2020-08-10,02,Aragón,459,10,33,1
+2020-08-10,02,Aragón,458,10,33,1
 2020-08-10,03,Asturias,14,0,2,0
 2020-08-10,04,Baleares,239,0,8,0
 2020-08-10,05,Canarias,86,0,4,0
@@ -4459,9 +4459,9 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-10,17,La Rioja,31,0,0,0
 2020-08-10,18,Ceuta,1,0,1,0
 2020-08-10,19,Melilla,12,0,0,0
-2020-08-11,00,No consta,62,1,3,1
+2020-08-11,00,No consta,63,1,3,1
 2020-08-11,01,Andalucía,454,1,23,4
-2020-08-11,02,Aragón,310,12,33,1
+2020-08-11,02,Aragón,309,12,33,1
 2020-08-11,03,Asturias,21,0,1,0
 2020-08-11,04,Baleares,211,0,8,2
 2020-08-11,05,Canarias,65,0,5,0
@@ -4475,7 +4475,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-11,13,Madrid,2104,3,202,9
 2020-08-11,14,Murcia,124,1,6,0
 2020-08-11,15,Navarra,157,0,6,0
-2020-08-11,16,País Vasco,417,2,23,0
+2020-08-11,16,País Vasco,416,2,23,0
 2020-08-11,17,La Rioja,34,0,0,0
 2020-08-11,18,Ceuta,0,0,0,0
 2020-08-11,19,Melilla,6,0,0,0
@@ -4495,7 +4495,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-12,13,Madrid,1978,4,211,8
 2020-08-12,14,Murcia,121,0,6,2
 2020-08-12,15,Navarra,81,1,2,1
-2020-08-12,16,País Vasco,581,1,33,2
+2020-08-12,16,País Vasco,582,1,33,2
 2020-08-12,17,La Rioja,41,0,2,0
 2020-08-12,18,Ceuta,1,0,0,0
 2020-08-12,19,Melilla,2,0,0,0
@@ -4508,20 +4508,20 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-13,06,Cantabria,61,0,8,0
 2020-08-13,07,Castilla y León,251,0,10,3
 2020-08-13,08,Castilla La Mancha,235,0,3,0
-2020-08-13,09,Cataluña,1112,5,25,0
+2020-08-13,09,Cataluña,1111,5,25,0
 2020-08-13,10,C. Valenciana,467,2,32,2
 2020-08-13,11,Extremadura,66,0,6,0
 2020-08-13,12,Galicia,143,1,5,2
 2020-08-13,13,Madrid,2199,7,219,13
 2020-08-13,14,Murcia,154,0,10,2
 2020-08-13,15,Navarra,108,0,9,1
-2020-08-13,16,País Vasco,520,0,35,5
+2020-08-13,16,País Vasco,521,0,35,5
 2020-08-13,17,La Rioja,53,0,0,0
 2020-08-13,18,Ceuta,2,0,1,0
 2020-08-13,19,Melilla,6,0,0,0
 2020-08-14,00,No consta,99,0,2,0
 2020-08-14,01,Andalucía,676,0,21,3
-2020-08-14,02,Aragón,615,11,38,3
+2020-08-14,02,Aragón,615,11,37,3
 2020-08-14,03,Asturias,33,0,1,0
 2020-08-14,04,Baleares,322,0,11,4
 2020-08-14,05,Canarias,139,1,9,1
@@ -4575,13 +4575,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-16,13,Madrid,504,8,185,6
 2020-08-16,14,Murcia,80,0,13,3
 2020-08-16,15,Navarra,60,0,2,1
-2020-08-16,16,País Vasco,425,0,17,1
+2020-08-16,16,País Vasco,426,0,17,1
 2020-08-16,17,La Rioja,38,0,1,0
 2020-08-16,18,Ceuta,5,0,0,0
 2020-08-16,19,Melilla,5,0,0,0
 2020-08-17,00,No consta,45,0,3,1
 2020-08-17,01,Andalucía,525,3,39,2
-2020-08-17,02,Aragón,390,8,30,1
+2020-08-17,02,Aragón,390,8,31,1
 2020-08-17,03,Asturias,19,0,1,0
 2020-08-17,04,Baleares,344,2,15,4
 2020-08-17,05,Canarias,95,0,16,2
@@ -4595,7 +4595,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-17,13,Madrid,1148,6,251,13
 2020-08-17,14,Murcia,98,0,12,2
 2020-08-17,15,Navarra,48,0,6,1
-2020-08-17,16,País Vasco,316,1,32,4
+2020-08-17,16,País Vasco,315,1,32,4
 2020-08-17,17,La Rioja,58,1,3,0
 2020-08-17,18,Ceuta,9,0,0,0
 2020-08-17,19,Melilla,0,0,3,0
@@ -4615,7 +4615,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-18,13,Madrid,3296,9,267,19
 2020-08-18,14,Murcia,105,1,13,0
 2020-08-18,15,Navarra,81,0,8,0
-2020-08-18,16,País Vasco,553,1,33,2
+2020-08-18,16,País Vasco,554,1,33,2
 2020-08-18,17,La Rioja,64,0,3,1
 2020-08-18,18,Ceuta,3,0,0,0
 2020-08-18,19,Melilla,0,0,1,0
@@ -4635,7 +4635,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-19,13,Madrid,3112,7,296,23
 2020-08-19,14,Murcia,130,0,15,0
 2020-08-19,15,Navarra,117,0,6,0
-2020-08-19,16,País Vasco,612,5,36,1
+2020-08-19,16,País Vasco,613,5,36,1
 2020-08-19,17,La Rioja,58,0,4,1
 2020-08-19,18,Ceuta,7,0,1,0
 2020-08-19,19,Melilla,16,0,0,0
@@ -4643,7 +4643,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-20,01,Andalucía,734,1,37,3
 2020-08-20,02,Aragón,335,6,44,1
 2020-08-20,03,Asturias,40,0,0,0
-2020-08-20,04,Baleares,344,1,13,2
+2020-08-20,04,Baleares,345,1,13,2
 2020-08-20,05,Canarias,187,2,13,3
 2020-08-20,06,Cantabria,75,0,3,0
 2020-08-20,07,Castilla y León,495,1,24,1
@@ -4690,7 +4690,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-22,08,Castilla La Mancha,341,2,9,1
 2020-08-22,09,Cataluña,549,4,27,2
 2020-08-22,10,C. Valenciana,624,3,45,1
-2020-08-22,11,Extremadura,97,1,4,0
+2020-08-22,11,Extremadura,97,1,3,0
 2020-08-22,12,Galicia,221,2,12,2
 2020-08-22,13,Madrid,1141,9,223,9
 2020-08-22,14,Murcia,264,0,24,4
@@ -4723,7 +4723,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-24,01,Andalucía,592,7,52,6
 2020-08-24,02,Aragón,153,2,36,4
 2020-08-24,03,Asturias,50,0,1,0
-2020-08-24,04,Baleares,262,4,21,7
+2020-08-24,04,Baleares,263,4,21,7
 2020-08-24,05,Canarias,213,0,16,2
 2020-08-24,06,Cantabria,51,0,7,1
 2020-08-24,07,Castilla y León,361,3,34,2
@@ -4775,7 +4775,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-26,13,Madrid,3384,11,338,13
 2020-08-26,14,Murcia,268,0,10,1
 2020-08-26,15,Navarra,245,0,9,0
-2020-08-26,16,País Vasco,775,10,44,5
+2020-08-26,16,País Vasco,776,10,44,5
 2020-08-26,17,La Rioja,89,0,8,0
 2020-08-26,18,Ceuta,5,0,0,0
 2020-08-26,19,Melilla,8,0,0,0
@@ -4795,13 +4795,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-27,13,Madrid,3379,13,330,28
 2020-08-27,14,Murcia,327,1,24,2
 2020-08-27,15,Navarra,169,0,8,0
-2020-08-27,16,País Vasco,810,2,48,3
+2020-08-27,16,País Vasco,811,2,48,3
 2020-08-27,17,La Rioja,78,0,7,3
 2020-08-27,18,Ceuta,4,0,0,0
 2020-08-27,19,Melilla,9,0,2,0
 2020-08-28,00,No consta,109,0,7,2
 2020-08-28,01,Andalucía,1064,6,66,5
-2020-08-28,02,Aragón,304,4,38,2
+2020-08-28,02,Aragón,304,5,38,2
 2020-08-28,03,Asturias,45,0,6,0
 2020-08-28,04,Baleares,299,4,19,2
 2020-08-28,05,Canarias,270,1,18,0
@@ -4867,21 +4867,21 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-31,05,Canarias,227,0,15,4
 2020-08-31,06,Cantabria,62,1,5,1
 2020-08-31,07,Castilla y León,253,8,29,3
-2020-08-31,08,Castilla La Mancha,351,2,21,2
-2020-08-31,09,Cataluña,1124,5,39,3
+2020-08-31,08,Castilla La Mancha,352,2,21,2
+2020-08-31,09,Cataluña,1125,5,39,3
 2020-08-31,10,C. Valenciana,453,3,56,5
 2020-08-31,11,Extremadura,103,0,5,0
 2020-08-31,12,Galicia,185,2,26,2
 2020-08-31,13,Madrid,1451,19,307,16
 2020-08-31,14,Murcia,261,0,40,4
 2020-08-31,15,Navarra,147,1,4,0
-2020-08-31,16,País Vasco,480,4,50,3
+2020-08-31,16,País Vasco,482,4,50,3
 2020-08-31,17,La Rioja,41,1,6,1
 2020-08-31,18,Ceuta,14,0,0,0
 2020-08-31,19,Melilla,11,0,0,0
 2020-09-01,00,No consta,81,0,7,1
 2020-09-01,01,Andalucía,996,5,79,7
-2020-09-01,02,Aragón,216,12,28,3
+2020-09-01,02,Aragón,216,11,28,3
 2020-09-01,03,Asturias,39,0,2,2
 2020-09-01,04,Baleares,264,4,13,2
 2020-09-01,05,Canarias,247,2,18,4
@@ -4910,7 +4910,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-02,08,Castilla La Mancha,705,2,13,2
 2020-09-02,09,Cataluña,1156,6,35,3
 2020-09-02,10,C. Valenciana,758,4,43,9
-2020-09-02,11,Extremadura,119,0,7,0
+2020-09-02,11,Extremadura,119,0,6,0
 2020-09-02,12,Galicia,285,5,30,4
 2020-09-02,13,Madrid,3824,23,339,12
 2020-09-02,14,Murcia,443,0,29,6
@@ -4950,7 +4950,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-04,08,Castilla La Mancha,782,4,20,2
 2020-09-04,09,Cataluña,1465,7,46,3
 2020-09-04,10,C. Valenciana,682,6,53,5
-2020-09-04,11,Extremadura,153,2,6,1
+2020-09-04,11,Extremadura,153,2,5,1
 2020-09-04,12,Galicia,241,3,28,2
 2020-09-04,13,Madrid,5214,21,425,22
 2020-09-04,14,Murcia,417,1,28,4
@@ -4995,7 +4995,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-06,13,Madrid,1075,14,236,19
 2020-09-06,14,Murcia,296,3,25,7
 2020-09-06,15,Navarra,112,1,11,0
-2020-09-06,16,País Vasco,529,6,29,5
+2020-09-06,16,País Vasco,530,6,29,5
 2020-09-06,17,La Rioja,74,1,6,2
 2020-09-06,18,Ceuta,11,0,0,0
 2020-09-06,19,Melilla,13,0,5,0
@@ -5033,9 +5033,9 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-08,11,Extremadura,125,4,11,1
 2020-09-08,12,Galicia,259,3,27,3
 2020-09-08,13,Madrid,5171,21,413,25
-2020-09-08,14,Murcia,372,1,39,7
+2020-09-08,14,Murcia,372,2,39,7
 2020-09-08,15,Navarra,201,0,17,0
-2020-09-08,16,País Vasco,707,9,61,5
+2020-09-08,16,País Vasco,708,9,61,5
 2020-09-08,17,La Rioja,38,1,11,0
 2020-09-08,18,Ceuta,20,0,1,0
 2020-09-08,19,Melilla,32,0,1,0
@@ -5075,7 +5075,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-10,13,Madrid,4792,25,430,20
 2020-09-10,14,Murcia,441,6,30,1
 2020-09-10,15,Navarra,315,1,19,1
-2020-09-10,16,País Vasco,644,8,47,4
+2020-09-10,16,País Vasco,645,8,47,4
 2020-09-10,17,La Rioja,52,2,7,0
 2020-09-10,18,Ceuta,10,0,0,0
 2020-09-10,19,Melilla,31,0,1,1
@@ -5095,7 +5095,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-11,13,Madrid,6653,23,509,23
 2020-09-11,14,Murcia,465,4,42,5
 2020-09-11,15,Navarra,303,1,12,1
-2020-09-11,16,País Vasco,738,9,57,6
+2020-09-11,16,País Vasco,737,9,57,6
 2020-09-11,17,La Rioja,114,0,11,0
 2020-09-11,18,Ceuta,19,1,0,0
 2020-09-11,19,Melilla,26,0,1,0
@@ -5115,7 +5115,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-12,13,Madrid,2151,34,392,21
 2020-09-12,14,Murcia,455,2,37,6
 2020-09-12,15,Navarra,284,3,15,1
-2020-09-12,16,País Vasco,544,10,35,1
+2020-09-12,16,País Vasco,545,10,35,1
 2020-09-12,17,La Rioja,129,0,13,1
 2020-09-12,18,Ceuta,15,1,1,0
 2020-09-12,19,Melilla,23,1,1,0
@@ -5215,13 +5215,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-17,13,Madrid,5724,31,482,24
 2020-09-17,14,Murcia,638,2,30,3
 2020-09-17,15,Navarra,283,3,23,0
-2020-09-17,16,País Vasco,567,23,30,3
+2020-09-17,16,País Vasco,568,23,30,3
 2020-09-17,17,La Rioja,125,1,10,2
 2020-09-17,18,Ceuta,11,0,1,0
 2020-09-17,19,Melilla,4,0,1,0
 2020-09-18,00,No consta,63,0,3,0
 2020-09-18,01,Andalucía,1645,10,90,12
-2020-09-18,02,Aragón,437,8,43,2
+2020-09-18,02,Aragón,437,8,42,2
 2020-09-18,03,Asturias,96,0,4,0
 2020-09-18,04,Baleares,179,3,10,4
 2020-09-18,05,Canarias,204,2,11,5
@@ -5255,13 +5255,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-19,13,Madrid,1850,43,349,17
 2020-09-19,14,Murcia,554,3,22,3
 2020-09-19,15,Navarra,196,2,15,2
-2020-09-19,16,País Vasco,505,10,26,1
+2020-09-19,16,País Vasco,507,10,26,1
 2020-09-19,17,La Rioja,117,4,8,0
 2020-09-19,18,Ceuta,9,1,0,0
 2020-09-19,19,Melilla,26,0,4,0
 2020-09-20,00,No consta,37,0,7,1
 2020-09-20,01,Andalucía,745,13,62,8
-2020-09-20,02,Aragón,263,5,21,3
+2020-09-20,02,Aragón,263,6,21,3
 2020-09-20,03,Asturias,57,0,4,0
 2020-09-20,04,Baleares,78,4,13,2
 2020-09-20,05,Canarias,116,1,15,3
@@ -5270,7 +5270,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-20,08,Castilla La Mancha,486,12,19,2
 2020-09-20,09,Cataluña,479,4,39,6
 2020-09-20,10,C. Valenciana,269,3,40,2
-2020-09-20,11,Extremadura,177,5,17,4
+2020-09-20,11,Extremadura,177,5,18,4
 2020-09-20,12,Galicia,178,3,19,2
 2020-09-20,13,Madrid,1207,33,287,21
 2020-09-20,14,Murcia,278,1,19,4
@@ -5287,7 +5287,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-21,05,Canarias,170,2,16,4
 2020-09-21,06,Cantabria,51,2,9,1
 2020-09-21,07,Castilla y León,483,12,72,6
-2020-09-21,08,Castilla La Mancha,460,10,29,5
+2020-09-21,08,Castilla La Mancha,459,10,29,5
 2020-09-21,09,Cataluña,1243,11,35,5
 2020-09-21,10,C. Valenciana,364,2,51,7
 2020-09-21,11,Extremadura,191,4,24,1
@@ -5301,7 +5301,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-21,19,Melilla,25,0,1,0
 2020-09-22,00,No consta,49,1,3,0
 2020-09-22,01,Andalucía,1313,17,101,7
-2020-09-22,02,Aragón,262,11,38,1
+2020-09-22,02,Aragón,262,10,38,1
 2020-09-22,03,Asturias,81,0,7,2
 2020-09-22,04,Baleares,166,6,13,3
 2020-09-22,05,Canarias,156,2,11,5
@@ -5315,7 +5315,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-22,13,Madrid,5458,37,518,34
 2020-09-22,14,Murcia,458,3,34,0
 2020-09-22,15,Navarra,426,1,27,2
-2020-09-22,16,País Vasco,470,8,29,2
+2020-09-22,16,País Vasco,471,8,29,2
 2020-09-22,17,La Rioja,83,2,15,0
 2020-09-22,18,Ceuta,20,0,5,3
 2020-09-22,19,Melilla,47,0,3,1
@@ -5327,7 +5327,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-23,05,Canarias,148,0,16,5
 2020-09-23,06,Cantabria,66,0,5,1
 2020-09-23,07,Castilla y León,924,12,71,6
-2020-09-23,08,Castilla La Mancha,892,3,33,1
+2020-09-23,08,Castilla La Mancha,893,3,33,1
 2020-09-23,09,Cataluña,1378,8,45,3
 2020-09-23,10,C. Valenciana,516,6,26,1
 2020-09-23,11,Extremadura,190,4,26,1
@@ -5355,7 +5355,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-24,13,Madrid,4677,50,429,21
 2020-09-24,14,Murcia,675,3,35,6
 2020-09-24,15,Navarra,335,1,15,2
-2020-09-24,16,País Vasco,440,7,27,3
+2020-09-24,16,País Vasco,441,7,27,3
 2020-09-24,17,La Rioja,136,1,7,0
 2020-09-24,18,Ceuta,18,0,0,0
 2020-09-24,19,Melilla,24,0,1,0
@@ -5368,7 +5368,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-25,06,Cantabria,52,0,6,3
 2020-09-25,07,Castilla y León,991,14,82,6
 2020-09-25,08,Castilla La Mancha,802,5,26,3
-2020-09-25,09,Cataluña,1291,9,36,1
+2020-09-25,09,Cataluña,1293,9,36,1
 2020-09-25,10,C. Valenciana,522,6,31,5
 2020-09-25,11,Extremadura,201,6,13,1
 2020-09-25,12,Galicia,219,2,21,5
@@ -5395,12 +5395,12 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-26,13,Madrid,1476,44,217,18
 2020-09-26,14,Murcia,477,2,28,6
 2020-09-26,15,Navarra,363,2,14,1
-2020-09-26,16,País Vasco,537,5,18,1
+2020-09-26,16,País Vasco,538,5,18,1
 2020-09-26,17,La Rioja,69,1,8,1
 2020-09-26,18,Ceuta,18,0,1,0
 2020-09-26,19,Melilla,19,0,1,0
-2020-09-27,00,No consta,35,1,2,0
-2020-09-27,01,Andalucía,704,21,52,8
+2020-09-27,00,No consta,34,1,2,0
+2020-09-27,01,Andalucía,705,21,52,8
 2020-09-27,02,Aragón,391,6,25,3
 2020-09-27,03,Asturias,63,0,6,1
 2020-09-27,04,Baleares,59,1,4,0
@@ -5435,7 +5435,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-28,13,Madrid,1975,44,371,30
 2020-09-28,14,Murcia,249,1,28,5
 2020-09-28,15,Navarra,322,2,14,0
-2020-09-28,16,País Vasco,343,7,33,11
+2020-09-28,16,País Vasco,342,7,33,11
 2020-09-28,17,La Rioja,84,2,4,0
 2020-09-28,18,Ceuta,21,0,1,0
 2020-09-28,19,Melilla,16,0,2,0
@@ -5455,7 +5455,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-29,13,Madrid,4608,47,395,23
 2020-09-29,14,Murcia,382,5,31,5
 2020-09-29,15,Navarra,272,3,19,0
-2020-09-29,16,País Vasco,504,11,25,2
+2020-09-29,16,País Vasco,506,11,25,2
 2020-09-29,17,La Rioja,66,2,9,0
 2020-09-29,18,Ceuta,12,0,0,0
 2020-09-29,19,Melilla,46,0,0,0
@@ -5468,7 +5468,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-30,06,Cantabria,44,0,4,1
 2020-09-30,07,Castilla y León,903,15,77,7
 2020-09-30,08,Castilla La Mancha,732,8,37,2
-2020-09-30,09,Cataluña,1498,16,53,6
+2020-09-30,09,Cataluña,1499,16,53,6
 2020-09-30,10,C. Valenciana,488,5,29,6
 2020-09-30,11,Extremadura,166,8,13,0
 2020-09-30,12,Galicia,186,5,23,3
@@ -5510,7 +5510,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-02,08,Castilla La Mancha,700,12,38,3
 2020-10-02,09,Cataluña,1820,8,65,8
 2020-10-02,10,C. Valenciana,523,3,36,2
-2020-10-02,11,Extremadura,184,8,12,0
+2020-10-02,11,Extremadura,184,8,11,0
 2020-10-02,12,Galicia,223,5,23,2
 2020-10-02,13,Madrid,4083,42,360,28
 2020-10-02,14,Murcia,439,3,36,2
@@ -5550,7 +5550,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-04,08,Castilla La Mancha,310,4,20,1
 2020-10-04,09,Cataluña,592,12,38,1
 2020-10-04,10,C. Valenciana,228,7,26,2
-2020-10-04,11,Extremadura,107,1,5,0
+2020-10-04,11,Extremadura,107,1,4,0
 2020-10-04,12,Galicia,262,5,22,3
 2020-10-04,13,Madrid,546,23,180,10
 2020-10-04,14,Murcia,363,1,25,3
@@ -5564,7 +5564,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-05,02,Aragón,276,8,22,1
 2020-10-05,03,Asturias,84,0,19,2
 2020-10-05,04,Baleares,83,1,12,0
-2020-10-05,05,Canarias,79,2,8,3
+2020-10-05,05,Canarias,80,2,8,3
 2020-10-05,06,Cantabria,37,0,5,0
 2020-10-05,07,Castilla y León,555,14,56,7
 2020-10-05,08,Castilla La Mancha,577,10,44,3
@@ -5595,7 +5595,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-06,13,Madrid,3427,39,293,25
 2020-10-06,14,Murcia,505,1,40,7
 2020-10-06,15,Navarra,268,3,31,1
-2020-10-06,16,País Vasco,481,6,31,2
+2020-10-06,16,País Vasco,483,6,31,2
 2020-10-06,17,La Rioja,115,0,7,3
 2020-10-06,18,Ceuta,21,0,2,0
 2020-10-06,19,Melilla,34,1,0,0
@@ -5613,9 +5613,9 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-07,11,Extremadura,200,3,11,1
 2020-10-07,12,Galicia,288,4,21,2
 2020-10-07,13,Madrid,3052,35,280,20
-2020-10-07,14,Murcia,476,5,29,5
+2020-10-07,14,Murcia,476,6,29,5
 2020-10-07,15,Navarra,417,5,25,2
-2020-10-07,16,País Vasco,516,2,23,1
+2020-10-07,16,País Vasco,517,2,23,1
 2020-10-07,17,La Rioja,118,0,7,1
 2020-10-07,18,Ceuta,37,0,0,0
 2020-10-07,19,Melilla,40,0,3,0
@@ -5633,7 +5633,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-08,11,Extremadura,213,5,15,3
 2020-10-08,12,Galicia,462,3,27,4
 2020-10-08,13,Madrid,3031,38,303,13
-2020-10-08,14,Murcia,440,6,28,3
+2020-10-08,14,Murcia,440,5,28,3
 2020-10-08,15,Navarra,476,6,29,3
 2020-10-08,16,País Vasco,520,9,30,4
 2020-10-08,17,La Rioja,88,1,8,3
@@ -5648,14 +5648,14 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-09,06,Cantabria,66,2,6,0
 2020-10-09,07,Castilla y León,1034,19,88,7
 2020-10-09,08,Castilla La Mancha,895,8,46,1
-2020-10-09,09,Cataluña,2859,17,79,4
+2020-10-09,09,Cataluña,2860,17,79,4
 2020-10-09,10,C. Valenciana,493,7,37,3
 2020-10-09,11,Extremadura,250,1,17,2
 2020-10-09,12,Galicia,387,4,24,2
 2020-10-09,13,Madrid,3311,40,323,20
 2020-10-09,14,Murcia,433,2,37,5
 2020-10-09,15,Navarra,477,4,27,3
-2020-10-09,16,País Vasco,671,11,36,1
+2020-10-09,16,País Vasco,672,11,36,1
 2020-10-09,17,La Rioja,130,2,10,0
 2020-10-09,18,Ceuta,28,1,1,0
 2020-10-09,19,Melilla,48,2,4,0
@@ -5670,18 +5670,18 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-10,08,Castilla La Mancha,538,10,33,2
 2020-10-10,09,Cataluña,1154,17,64,1
 2020-10-10,10,C. Valenciana,377,7,47,5
-2020-10-10,11,Extremadura,188,4,15,0
+2020-10-10,11,Extremadura,188,4,14,0
 2020-10-10,12,Galicia,330,2,29,3
 2020-10-10,13,Madrid,812,32,176,9
 2020-10-10,14,Murcia,362,4,33,5
 2020-10-10,15,Navarra,434,2,25,1
-2020-10-10,16,País Vasco,647,7,16,3
+2020-10-10,16,País Vasco,646,7,16,3
 2020-10-10,17,La Rioja,78,1,8,1
 2020-10-10,18,Ceuta,27,0,1,0
 2020-10-10,19,Melilla,57,0,6,0
 2020-10-11,00,No consta,57,0,6,0
 2020-10-11,01,Andalucía,1103,21,119,5
-2020-10-11,02,Aragón,390,3,23,5
+2020-10-11,02,Aragón,390,3,24,5
 2020-10-11,03,Asturias,161,0,24,2
 2020-10-11,04,Baleares,108,2,12,3
 2020-10-11,05,Canarias,118,2,9,1
@@ -5726,7 +5726,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-13,04,Baleares,110,4,10,1
 2020-10-13,05,Canarias,65,2,12,2
 2020-10-13,06,Cantabria,71,1,4,0
-2020-10-13,07,Castilla y León,790,18,94,7
+2020-10-13,07,Castilla y León,790,18,95,7
 2020-10-13,08,Castilla La Mancha,634,12,35,1
 2020-10-13,09,Cataluña,2955,12,97,8
 2020-10-13,10,C. Valenciana,579,3,61,10
@@ -5748,9 +5748,9 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-14,06,Cantabria,58,0,3,1
 2020-10-14,07,Castilla y León,1057,15,106,7
 2020-10-14,08,Castilla La Mancha,771,9,39,4
-2020-10-14,09,Cataluña,3636,10,92,8
+2020-10-14,09,Cataluña,3637,10,92,8
 2020-10-14,10,C. Valenciana,1032,8,68,5
-2020-10-14,11,Extremadura,314,4,15,3
+2020-10-14,11,Extremadura,314,4,14,3
 2020-10-14,12,Galicia,253,5,39,4
 2020-10-14,13,Madrid,3111,35,329,25
 2020-10-14,14,Murcia,702,2,38,8
@@ -5788,7 +5788,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-16,06,Cantabria,100,1,8,0
 2020-10-16,07,Castilla y León,1343,6,122,6
 2020-10-16,08,Castilla La Mancha,987,9,35,2
-2020-10-16,09,Cataluña,4141,24,120,11
+2020-10-16,09,Cataluña,4142,24,120,11
 2020-10-16,10,C. Valenciana,1055,8,62,12
 2020-10-16,11,Extremadura,287,4,15,0
 2020-10-16,12,Galicia,386,7,40,1
@@ -5835,13 +5835,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-18,13,Madrid,538,27,155,10
 2020-10-18,14,Murcia,334,5,37,7
 2020-10-18,15,Navarra,546,2,20,2
-2020-10-18,16,País Vasco,718,10,30,3
+2020-10-18,16,País Vasco,719,10,30,3
 2020-10-18,17,La Rioja,96,0,17,4
 2020-10-18,18,Ceuta,12,0,0,0
 2020-10-18,19,Melilla,81,0,3,1
 2020-10-19,00,No consta,181,2,10,2
 2020-10-19,01,Andalucía,2632,25,175,13
-2020-10-19,02,Aragón,728,9,47,8
+2020-10-19,02,Aragón,727,9,47,8
 2020-10-19,03,Asturias,210,2,39,1
 2020-10-19,04,Baleares,157,2,3,1
 2020-10-19,05,Canarias,64,2,20,3
@@ -5875,7 +5875,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-20,13,Madrid,2851,36,266,13
 2020-10-20,14,Murcia,727,3,50,6
 2020-10-20,15,Navarra,433,8,33,6
-2020-10-20,16,País Vasco,910,4,56,2
+2020-10-20,16,País Vasco,911,4,56,2
 2020-10-20,17,La Rioja,188,1,20,2
 2020-10-20,18,Ceuta,27,0,1,1
 2020-10-20,19,Melilla,56,0,5,0
@@ -5895,13 +5895,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-21,13,Madrid,2782,36,283,17
 2020-10-21,14,Murcia,744,4,38,6
 2020-10-21,15,Navarra,637,4,39,4
-2020-10-21,16,País Vasco,1108,6,43,5
+2020-10-21,16,País Vasco,1106,6,43,5
 2020-10-21,17,La Rioja,249,0,17,1
 2020-10-21,18,Ceuta,49,0,1,0
 2020-10-21,19,Melilla,84,0,4,0
 2020-10-22,00,No consta,189,0,13,1
 2020-10-22,01,Andalucía,4547,38,193,12
-2020-10-22,02,Aragón,1196,11,75,11
+2020-10-22,02,Aragón,1196,11,74,11
 2020-10-22,03,Asturias,323,7,51,3
 2020-10-22,04,Baleares,250,3,13,1
 2020-10-22,05,Canarias,150,3,13,4
@@ -5935,7 +5935,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-23,13,Madrid,2817,34,282,13
 2020-10-23,14,Murcia,1023,4,62,6
 2020-10-23,15,Navarra,511,6,42,2
-2020-10-23,16,País Vasco,1299,7,45,3
+2020-10-23,16,País Vasco,1301,7,45,3
 2020-10-23,17,La Rioja,214,4,14,3
 2020-10-23,18,Ceuta,35,0,2,0
 2020-10-23,19,Melilla,137,0,6,0
@@ -5955,13 +5955,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-24,13,Madrid,644,23,182,15
 2020-10-24,14,Murcia,766,7,67,8
 2020-10-24,15,Navarra,736,2,29,3
-2020-10-24,16,País Vasco,1088,8,37,2
+2020-10-24,16,País Vasco,1089,8,37,2
 2020-10-24,17,La Rioja,127,3,13,1
 2020-10-24,18,Ceuta,62,1,7,1
 2020-10-24,19,Melilla,101,2,10,0
 2020-10-25,00,No consta,76,0,11,3
 2020-10-25,01,Andalucía,1650,44,182,19
-2020-10-25,02,Aragón,760,7,76,3
+2020-10-25,02,Aragón,760,7,77,3
 2020-10-25,03,Asturias,247,3,40,1
 2020-10-25,04,Baleares,113,1,13,1
 2020-10-25,05,Canarias,43,0,3,1
@@ -6000,7 +6000,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-26,18,Ceuta,37,0,0,0
 2020-10-26,19,Melilla,83,0,4,0
 2020-10-27,00,No consta,144,2,14,2
-2020-10-27,01,Andalucía,4448,39,277,17
+2020-10-27,01,Andalucía,4448,39,277,18
 2020-10-27,02,Aragón,1188,18,87,3
 2020-10-27,03,Asturias,346,6,56,8
 2020-10-27,04,Baleares,262,3,5,2
@@ -6015,7 +6015,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-27,13,Madrid,2724,31,260,14
 2020-10-27,14,Murcia,981,9,59,8
 2020-10-27,15,Navarra,541,9,40,4
-2020-10-27,16,País Vasco,1307,5,54,7
+2020-10-27,16,País Vasco,1306,5,54,7
 2020-10-27,17,La Rioja,181,2,19,2
 2020-10-27,18,Ceuta,59,1,4,0
 2020-10-27,19,Melilla,89,1,5,0
@@ -6028,21 +6028,21 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-28,06,Cantabria,198,1,20,0
 2020-10-28,07,Castilla y León,1952,28,142,12
 2020-10-28,08,Castilla La Mancha,1254,19,39,6
-2020-10-28,09,Cataluña,5481,35,150,8
+2020-10-28,09,Cataluña,5482,35,150,8
 2020-10-28,10,C. Valenciana,1872,14,132,11
 2020-10-28,11,Extremadura,515,5,28,2
 2020-10-28,12,Galicia,653,6,63,9
 2020-10-28,13,Madrid,2359,32,220,17
 2020-10-28,14,Murcia,900,6,65,5
 2020-10-28,15,Navarra,583,5,51,5
-2020-10-28,16,País Vasco,1352,14,43,4
+2020-10-28,16,País Vasco,1353,14,43,4
 2020-10-28,17,La Rioja,236,2,15,1
 2020-10-28,18,Ceuta,74,1,5,0
 2020-10-28,19,Melilla,93,1,4,1
 2020-10-29,00,No consta,197,0,18,1
 2020-10-29,01,Andalucía,4937,47,312,25
 2020-10-29,02,Aragón,1226,13,117,8
-2020-10-29,03,Asturias,444,10,74,2
+2020-10-29,03,Asturias,443,10,74,2
 2020-10-29,04,Baleares,246,2,11,2
 2020-10-29,05,Canarias,104,1,9,2
 2020-10-29,06,Cantabria,179,1,15,1
@@ -6052,7 +6052,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-29,10,C. Valenciana,1887,13,106,14
 2020-10-29,11,Extremadura,539,6,33,2
 2020-10-29,12,Galicia,684,11,53,6
-2020-10-29,13,Madrid,2278,40,212,11
+2020-10-29,13,Madrid,2277,40,211,11
 2020-10-29,14,Murcia,894,8,61,12
 2020-10-29,15,Navarra,656,3,32,6
 2020-10-29,16,País Vasco,1452,8,53,6
@@ -6084,7 +6084,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-31,02,Aragón,1048,16,83,7
 2020-10-31,03,Asturias,289,9,53,4
 2020-10-31,04,Baleares,180,1,7,0
-2020-10-31,05,Canarias,132,3,2,0
+2020-10-31,05,Canarias,133,3,2,0
 2020-10-31,06,Cantabria,195,1,23,4
 2020-10-31,07,Castilla y León,1692,22,138,10
 2020-10-31,08,Castilla La Mancha,735,19,54,3
@@ -6121,7 +6121,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-01,19,Melilla,72,0,6,4
 2020-11-02,00,No consta,138,0,12,1
 2020-11-02,01,Andalucía,1743,50,246,26
-2020-11-02,02,Aragón,626,18,61,6
+2020-11-02,02,Aragón,626,18,62,6
 2020-11-02,03,Asturias,246,17,73,3
 2020-11-02,04,Baleares,177,2,16,1
 2020-11-02,05,Canarias,58,2,11,2
@@ -6161,7 +6161,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-03,19,Melilla,73,1,3,1
 2020-11-04,00,No consta,200,3,17,5
 2020-11-04,01,Andalucía,4743,58,334,26
-2020-11-04,02,Aragón,1030,30,106,9
+2020-11-04,02,Aragón,1030,30,105,9
 2020-11-04,03,Asturias,436,25,79,4
 2020-11-04,04,Baleares,248,2,18,4
 2020-11-04,05,Canarias,153,0,9,0
@@ -6175,7 +6175,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-04,13,Madrid,2689,38,220,21
 2020-11-04,14,Murcia,953,13,49,5
 2020-11-04,15,Navarra,437,4,32,3
-2020-11-04,16,País Vasco,1486,10,56,3
+2020-11-04,16,País Vasco,1484,10,56,3
 2020-11-04,17,La Rioja,295,4,18,2
 2020-11-04,18,Ceuta,85,0,2,0
 2020-11-04,19,Melilla,46,2,7,0
@@ -6195,11 +6195,11 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-05,13,Madrid,2239,34,184,16
 2020-11-05,14,Murcia,1043,14,73,7
 2020-11-05,15,Navarra,354,6,31,4
-2020-11-05,16,País Vasco,1567,9,61,3
+2020-11-05,16,País Vasco,1569,9,61,3
 2020-11-05,17,La Rioja,245,3,21,2
 2020-11-05,18,Ceuta,78,3,1,0
 2020-11-05,19,Melilla,59,0,4,1
-2020-11-06,00,No consta,167,2,14,1
+2020-11-06,00,No consta,168,2,14,1
 2020-11-06,01,Andalucía,5011,76,302,29
 2020-11-06,02,Aragón,1027,33,86,7
 2020-11-06,03,Asturias,558,23,104,6
@@ -6208,19 +6208,19 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-06,06,Cantabria,222,2,21,2
 2020-11-06,07,Castilla y León,2125,39,187,8
 2020-11-06,08,Castilla La Mancha,1105,20,53,4
-2020-11-06,09,Cataluña,3983,53,140,12
-2020-11-06,10,C. Valenciana,2145,19,168,17
+2020-11-06,09,Cataluña,3984,53,140,12
+2020-11-06,10,C. Valenciana,2146,19,168,17
 2020-11-06,11,Extremadura,504,8,30,3
 2020-11-06,12,Galicia,658,10,44,3
 2020-11-06,13,Madrid,2458,29,161,12
 2020-11-06,14,Murcia,1064,10,74,10
 2020-11-06,15,Navarra,336,9,31,4
-2020-11-06,16,País Vasco,1449,12,65,7
+2020-11-06,16,País Vasco,1447,12,65,7
 2020-11-06,17,La Rioja,234,4,15,2
 2020-11-06,18,Ceuta,90,1,2,0
 2020-11-06,19,Melilla,52,2,3,2
 2020-11-07,00,No consta,93,0,10,0
-2020-11-07,01,Andalucía,3187,47,235,21
+2020-11-07,01,Andalucía,3187,47,234,21
 2020-11-07,02,Aragón,746,22,76,4
 2020-11-07,03,Asturias,292,20,73,2
 2020-11-07,04,Baleares,334,4,12,1
@@ -6240,7 +6240,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-07,18,Ceuta,38,2,1,0
 2020-11-07,19,Melilla,28,2,2,2
 2020-11-08,00,No consta,68,0,9,3
-2020-11-08,01,Andalucía,1885,59,201,22
+2020-11-08,01,Andalucía,1885,59,202,22
 2020-11-08,02,Aragón,379,27,58,1
 2020-11-08,03,Asturias,470,13,59,8
 2020-11-08,04,Baleares,134,0,9,4
@@ -6272,15 +6272,15 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-09,10,C. Valenciana,1408,21,165,19
 2020-11-09,11,Extremadura,353,8,35,5
 2020-11-09,12,Galicia,461,11,60,10
-2020-11-09,13,Madrid,1149,19,145,14
+2020-11-09,13,Madrid,1149,19,145,15
 2020-11-09,14,Murcia,845,12,66,5
 2020-11-09,15,Navarra,233,3,19,3
-2020-11-09,16,País Vasco,1227,7,79,6
+2020-11-09,16,País Vasco,1229,7,79,6
 2020-11-09,17,La Rioja,118,1,14,2
 2020-11-09,18,Ceuta,58,2,8,0
 2020-11-09,19,Melilla,42,0,2,1
 2020-11-10,00,No consta,127,2,8,0
-2020-11-10,01,Andalucía,4357,60,267,36
+2020-11-10,01,Andalucía,4358,60,267,36
 2020-11-10,02,Aragón,805,40,94,12
 2020-11-10,03,Asturias,521,20,93,5
 2020-11-10,04,Baleares,236,2,13,3
@@ -6288,7 +6288,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-10,06,Cantabria,253,3,28,5
 2020-11-10,07,Castilla y León,1822,38,178,12
 2020-11-10,08,Castilla La Mancha,949,6,55,5
-2020-11-10,09,Cataluña,3642,51,140,12
+2020-11-10,09,Cataluña,3643,51,140,12
 2020-11-10,10,C. Valenciana,1802,26,203,16
 2020-11-10,11,Extremadura,417,7,29,6
 2020-11-10,12,Galicia,481,10,65,6
@@ -6315,12 +6315,12 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-11,13,Madrid,1972,31,177,14
 2020-11-11,14,Murcia,879,13,71,8
 2020-11-11,15,Navarra,251,5,14,2
-2020-11-11,16,País Vasco,1371,21,60,7
+2020-11-11,16,País Vasco,1370,21,60,7
 2020-11-11,17,La Rioja,184,4,9,1
 2020-11-11,18,Ceuta,46,0,4,0
 2020-11-11,19,Melilla,54,2,5,0
 2020-11-12,00,No consta,152,2,7,2
-2020-11-12,01,Andalucía,4262,64,257,29
+2020-11-12,01,Andalucía,4263,64,256,29
 2020-11-12,02,Aragón,619,34,62,3
 2020-11-12,03,Asturias,675,17,78,4
 2020-11-12,04,Baleares,227,2,12,2
@@ -6335,13 +6335,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-12,13,Madrid,1912,22,177,8
 2020-11-12,14,Murcia,744,12,59,3
 2020-11-12,15,Navarra,233,3,26,2
-2020-11-12,16,País Vasco,1413,20,53,9
+2020-11-12,16,País Vasco,1414,20,53,9
 2020-11-12,17,La Rioja,170,2,15,2
 2020-11-12,18,Ceuta,46,2,3,1
 2020-11-12,19,Melilla,25,0,2,0
 2020-11-13,00,No consta,126,3,7,0
-2020-11-13,01,Andalucía,4152,56,244,27
-2020-11-13,02,Aragón,580,42,79,4
+2020-11-13,01,Andalucía,4151,56,245,27
+2020-11-13,02,Aragón,581,42,78,4
 2020-11-13,03,Asturias,807,25,88,3
 2020-11-13,04,Baleares,231,5,9,4
 2020-11-13,05,Canarias,174,1,13,3
@@ -6360,11 +6360,11 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-13,18,Ceuta,33,2,2,0
 2020-11-13,19,Melilla,23,2,1,2
 2020-11-14,00,No consta,103,2,8,2
-2020-11-14,01,Andalucía,2300,57,228,16
+2020-11-14,01,Andalucía,2300,58,228,16
 2020-11-14,02,Aragón,330,15,40,6
 2020-11-14,03,Asturias,442,26,68,5
 2020-11-14,04,Baleares,153,2,8,0
-2020-11-14,05,Canarias,103,1,9,2
+2020-11-14,05,Canarias,103,1,10,2
 2020-11-14,06,Cantabria,193,1,14,2
 2020-11-14,07,Castilla y León,1124,30,117,7
 2020-11-14,08,Castilla La Mancha,551,15,53,4
@@ -6375,7 +6375,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-14,13,Madrid,439,24,109,5
 2020-11-14,14,Murcia,459,9,44,12
 2020-11-14,15,Navarra,151,8,21,2
-2020-11-14,16,País Vasco,1045,10,31,8
+2020-11-14,16,País Vasco,1046,10,31,8
 2020-11-14,17,La Rioja,87,3,17,2
 2020-11-14,18,Ceuta,20,0,3,0
 2020-11-14,19,Melilla,52,0,2,1
@@ -6408,14 +6408,14 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-16,06,Cantabria,238,2,28,2
 2020-11-16,07,Castilla y León,926,38,147,7
 2020-11-16,08,Castilla La Mancha,647,17,45,3
-2020-11-16,09,Cataluña,2540,58,119,9
+2020-11-16,09,Cataluña,2540,58,120,9
 2020-11-16,10,C. Valenciana,1090,26,149,12
 2020-11-16,11,Extremadura,203,8,25,2
 2020-11-16,12,Galicia,466,4,46,5
 2020-11-16,13,Madrid,1554,27,178,14
 2020-11-16,14,Murcia,439,10,55,9
 2020-11-16,15,Navarra,148,6,20,2
-2020-11-16,16,País Vasco,831,14,44,4
+2020-11-16,16,País Vasco,830,14,44,4
 2020-11-16,17,La Rioja,78,3,10,2
 2020-11-16,18,Ceuta,40,1,0,0
 2020-11-16,19,Melilla,25,0,3,0
@@ -6425,7 +6425,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-17,03,Asturias,399,16,103,6
 2020-11-17,04,Baleares,187,3,21,1
 2020-11-17,05,Canarias,149,2,10,2
-2020-11-17,06,Cantabria,276,0,25,4
+2020-11-17,06,Cantabria,276,0,24,4
 2020-11-17,07,Castilla y León,1509,50,112,12
 2020-11-17,08,Castilla La Mancha,667,24,40,4
 2020-11-17,09,Cataluña,2456,58,136,8
@@ -6441,7 +6441,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-17,19,Melilla,29,1,1,1
 2020-11-18,00,No consta,86,3,9,0
 2020-11-18,01,Andalucía,3189,50,241,25
-2020-11-18,02,Aragón,528,16,46,4
+2020-11-18,02,Aragón,528,16,45,4
 2020-11-18,03,Asturias,458,18,89,4
 2020-11-18,04,Baleares,181,0,10,1
 2020-11-18,05,Canarias,118,1,6,2
@@ -6455,7 +6455,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-18,13,Madrid,1592,14,139,13
 2020-11-18,14,Murcia,494,13,35,5
 2020-11-18,15,Navarra,140,11,11,1
-2020-11-18,16,País Vasco,974,17,44,6
+2020-11-18,16,País Vasco,975,17,44,6
 2020-11-18,17,La Rioja,130,2,9,1
 2020-11-18,18,Ceuta,43,0,4,1
 2020-11-18,19,Melilla,49,0,2,0
@@ -6480,7 +6480,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-19,18,Ceuta,27,1,1,0
 2020-11-19,19,Melilla,34,1,2,1
 2020-11-20,00,No consta,66,4,6,2
-2020-11-20,01,Andalucía,2725,65,230,21
+2020-11-20,01,Andalucía,2726,65,230,21
 2020-11-20,02,Aragón,375,17,47,4
 2020-11-20,03,Asturias,357,23,91,2
 2020-11-20,04,Baleares,133,2,5,2
@@ -6488,14 +6488,14 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-20,06,Cantabria,168,3,17,3
 2020-11-20,07,Castilla y León,890,27,118,7
 2020-11-20,08,Castilla La Mancha,543,17,24,7
-2020-11-20,09,Cataluña,1696,42,94,7
+2020-11-20,09,Cataluña,1696,43,95,7
 2020-11-20,10,C. Valenciana,1616,22,118,8
 2020-11-20,11,Extremadura,185,11,20,0
 2020-11-20,12,Galicia,553,15,45,9
 2020-11-20,13,Madrid,1650,30,130,8
 2020-11-20,14,Murcia,312,8,42,3
 2020-11-20,15,Navarra,139,10,8,1
-2020-11-20,16,País Vasco,844,16,40,5
+2020-11-20,16,País Vasco,845,16,40,5
 2020-11-20,17,La Rioja,117,3,13,4
 2020-11-20,18,Ceuta,36,1,2,1
 2020-11-20,19,Melilla,44,0,3,0
@@ -6535,7 +6535,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-22,13,Madrid,271,5,94,4
 2020-11-22,14,Murcia,83,9,25,1
 2020-11-22,15,Navarra,117,6,4,0
-2020-11-22,16,País Vasco,475,16,26,3
+2020-11-22,16,País Vasco,476,16,26,3
 2020-11-22,17,La Rioja,77,0,2,0
 2020-11-22,18,Ceuta,11,1,1,0
 2020-11-22,19,Melilla,6,1,1,0
@@ -6555,13 +6555,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-23,13,Madrid,1272,10,160,10
 2020-11-23,14,Murcia,251,9,23,3
 2020-11-23,15,Navarra,153,4,8,4
-2020-11-23,16,País Vasco,569,13,22,4
+2020-11-23,16,País Vasco,568,13,22,4
 2020-11-23,17,La Rioja,52,3,7,0
 2020-11-23,18,Ceuta,24,0,3,0
 2020-11-23,19,Melilla,28,0,1,1
 2020-11-24,00,No consta,51,1,8,1
 2020-11-24,01,Andalucía,2129,37,177,22
-2020-11-24,02,Aragón,316,23,31,2
+2020-11-24,02,Aragón,317,23,31,2
 2020-11-24,03,Asturias,400,25,73,5
 2020-11-24,04,Baleares,182,4,18,3
 2020-11-24,05,Canarias,144,0,17,3
@@ -6588,14 +6588,14 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-25,06,Cantabria,119,2,22,1
 2020-11-25,07,Castilla y León,636,22,79,6
 2020-11-25,08,Castilla La Mancha,503,10,26,5
-2020-11-25,09,Cataluña,1449,58,86,6
+2020-11-25,09,Cataluña,1449,58,85,6
 2020-11-25,10,C. Valenciana,1332,24,111,12
 2020-11-25,11,Extremadura,201,6,9,6
 2020-11-25,12,Galicia,448,3,37,2
 2020-11-25,13,Madrid,1383,21,126,12
 2020-11-25,14,Murcia,283,7,30,6
 2020-11-25,15,Navarra,142,6,9,1
-2020-11-25,16,País Vasco,580,16,52,6
+2020-11-25,16,País Vasco,579,16,52,6
 2020-11-25,17,La Rioja,94,5,11,2
 2020-11-25,18,Ceuta,14,0,3,0
 2020-11-25,19,Melilla,15,0,2,2
@@ -6608,20 +6608,20 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-26,06,Cantabria,99,4,14,0
 2020-11-26,07,Castilla y León,725,32,77,10
 2020-11-26,08,Castilla La Mancha,417,13,36,2
-2020-11-26,09,Cataluña,1323,42,77,5
+2020-11-26,09,Cataluña,1323,42,78,5
 2020-11-26,10,C. Valenciana,1203,23,98,7
 2020-11-26,11,Extremadura,267,12,22,2
 2020-11-26,12,Galicia,454,11,37,6
 2020-11-26,13,Madrid,1259,20,125,13
 2020-11-26,14,Murcia,263,4,29,7
 2020-11-26,15,Navarra,164,6,9,2
-2020-11-26,16,País Vasco,595,15,42,7
+2020-11-26,16,País Vasco,597,15,42,7
 2020-11-26,17,La Rioja,65,0,17,1
 2020-11-26,18,Ceuta,10,0,4,0
 2020-11-26,19,Melilla,20,1,1,0
 2020-11-27,00,No consta,33,5,3,0
 2020-11-27,01,Andalucía,1865,44,134,6
-2020-11-27,02,Aragón,311,13,39,1
+2020-11-27,02,Aragón,311,13,40,1
 2020-11-27,03,Asturias,266,27,62,1
 2020-11-27,04,Baleares,167,0,7,1
 2020-11-27,05,Canarias,123,3,13,2
@@ -6635,13 +6635,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-27,13,Madrid,1633,30,114,10
 2020-11-27,14,Murcia,248,4,24,4
 2020-11-27,15,Navarra,108,5,9,0
-2020-11-27,16,País Vasco,616,14,37,3
+2020-11-27,16,País Vasco,615,14,37,3
 2020-11-27,17,La Rioja,123,4,6,0
 2020-11-27,18,Ceuta,20,0,0,0
 2020-11-27,19,Melilla,26,0,2,0
 2020-11-28,00,No consta,29,2,6,0
 2020-11-28,01,Andalucía,945,49,127,11
-2020-11-28,02,Aragón,295,9,23,5
+2020-11-28,02,Aragón,296,9,23,5
 2020-11-28,03,Asturias,144,10,36,1
 2020-11-28,04,Baleares,199,2,12,0
 2020-11-28,05,Canarias,134,3,14,4
@@ -6695,32 +6695,32 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-30,13,Madrid,1285,18,155,14
 2020-11-30,14,Murcia,179,3,17,4
 2020-11-30,15,Navarra,78,4,6,1
-2020-11-30,16,País Vasco,425,9,24,2
+2020-11-30,16,País Vasco,424,9,24,2
 2020-11-30,17,La Rioja,34,2,6,0
 2020-11-30,18,Ceuta,10,0,3,0
 2020-11-30,19,Melilla,24,0,1,0
 2020-12-01,00,No consta,33,3,5,0
 2020-12-01,01,Andalucía,1434,42,142,10
-2020-12-01,02,Aragón,352,12,30,8
+2020-12-01,02,Aragón,352,12,30,9
 2020-12-01,03,Asturias,245,16,43,4
 2020-12-01,04,Baleares,216,0,8,2
 2020-12-01,05,Canarias,186,1,13,4
 2020-12-01,06,Cantabria,198,3,15,2
 2020-12-01,07,Castilla y León,551,20,74,4
 2020-12-01,08,Castilla La Mancha,501,8,25,4
-2020-12-01,09,Cataluña,1466,31,67,3
+2020-12-01,09,Cataluña,1466,32,67,3
 2020-12-01,10,C. Valenciana,1198,21,94,5
 2020-12-01,11,Extremadura,171,5,9,0
 2020-12-01,12,Galicia,375,7,32,2
 2020-12-01,13,Madrid,1542,12,106,7
 2020-12-01,14,Murcia,249,7,14,2
 2020-12-01,15,Navarra,77,2,7,0
-2020-12-01,16,País Vasco,566,21,38,2
+2020-12-01,16,País Vasco,567,21,38,2
 2020-12-01,17,La Rioja,86,3,14,1
 2020-12-01,18,Ceuta,14,1,2,0
 2020-12-01,19,Melilla,22,1,2,1
 2020-12-02,00,No consta,34,1,4,1
-2020-12-02,01,Andalucía,1323,41,109,14
+2020-12-02,01,Andalucía,1323,41,111,14
 2020-12-02,02,Aragón,284,5,33,2
 2020-12-02,03,Asturias,229,20,38,3
 2020-12-02,04,Baleares,220,6,11,2
@@ -6728,14 +6728,14 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-02,06,Cantabria,119,1,16,4
 2020-12-02,07,Castilla y León,371,26,68,5
 2020-12-02,08,Castilla La Mancha,519,8,31,2
-2020-12-02,09,Cataluña,1394,24,65,1
-2020-12-02,10,C. Valenciana,1159,25,76,11
+2020-12-02,09,Cataluña,1394,24,66,1
+2020-12-02,10,C. Valenciana,1160,25,76,11
 2020-12-02,11,Extremadura,175,8,6,1
 2020-12-02,12,Galicia,355,6,34,4
 2020-12-02,13,Madrid,1409,13,105,5
 2020-12-02,14,Murcia,227,3,14,4
 2020-12-02,15,Navarra,119,6,5,0
-2020-12-02,16,País Vasco,570,13,32,4
+2020-12-02,16,País Vasco,569,13,32,4
 2020-12-02,17,La Rioja,46,4,8,0
 2020-12-02,18,Ceuta,9,0,0,0
 2020-12-02,19,Melilla,31,1,1,0
@@ -6747,7 +6747,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-03,05,Canarias,153,0,18,1
 2020-12-03,06,Cantabria,151,3,15,3
 2020-12-03,07,Castilla y León,447,25,63,2
-2020-12-03,08,Castilla La Mancha,471,10,20,3
+2020-12-03,08,Castilla La Mancha,472,10,20,3
 2020-12-03,09,Cataluña,1212,36,60,4
 2020-12-03,10,C. Valenciana,1115,16,86,3
 2020-12-03,11,Extremadura,161,6,7,0
@@ -6755,7 +6755,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-03,13,Madrid,1310,13,109,7
 2020-12-03,14,Murcia,154,2,11,0
 2020-12-03,15,Navarra,82,3,6,0
-2020-12-03,16,País Vasco,466,16,27,2
+2020-12-03,16,País Vasco,465,16,27,2
 2020-12-03,17,La Rioja,41,1,5,2
 2020-12-03,18,Ceuta,9,0,1,0
 2020-12-03,19,Melilla,9,0,2,0
@@ -6800,7 +6800,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-05,18,Ceuta,16,0,1,0
 2020-12-05,19,Melilla,3,0,1,0
 2020-12-06,00,No consta,4,1,2,0
-2020-12-06,01,Andalucía,423,31,65,5
+2020-12-06,01,Andalucía,423,32,66,5
 2020-12-06,02,Aragón,119,10,33,3
 2020-12-06,03,Asturias,117,7,18,5
 2020-12-06,04,Baleares,188,1,10,0
@@ -6815,7 +6815,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-06,13,Madrid,318,8,90,7
 2020-12-06,14,Murcia,23,4,10,2
 2020-12-06,15,Navarra,85,6,8,2
-2020-12-06,16,País Vasco,295,14,21,2
+2020-12-06,16,País Vasco,298,14,21,2
 2020-12-06,17,La Rioja,48,3,2,2
 2020-12-06,18,Ceuta,8,0,1,0
 2020-12-06,19,Melilla,6,0,3,0
@@ -6835,7 +6835,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-07,13,Madrid,510,19,101,7
 2020-12-07,14,Murcia,110,6,15,2
 2020-12-07,15,Navarra,66,1,8,0
-2020-12-07,16,País Vasco,303,20,30,2
+2020-12-07,16,País Vasco,304,20,30,2
 2020-12-07,17,La Rioja,14,1,4,0
 2020-12-07,18,Ceuta,0,0,1,0
 2020-12-07,19,Melilla,9,0,0,0
@@ -6849,7 +6849,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-08,07,Castilla y León,156,22,46,6
 2020-12-08,08,Castilla La Mancha,283,8,21,1
 2020-12-08,09,Cataluña,432,19,48,4
-2020-12-08,10,C. Valenciana,567,19,74,10
+2020-12-08,10,C. Valenciana,567,19,73,10
 2020-12-08,11,Extremadura,71,3,8,1
 2020-12-08,12,Galicia,353,9,36,4
 2020-12-08,13,Madrid,436,4,94,8
@@ -6861,7 +6861,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-08,19,Melilla,7,0,5,0
 2020-12-09,00,No consta,30,0,4,0
 2020-12-09,01,Andalucía,888,28,76,11
-2020-12-09,02,Aragón,176,21,35,3
+2020-12-09,02,Aragón,176,21,34,3
 2020-12-09,03,Asturias,130,17,27,3
 2020-12-09,04,Baleares,306,3,14,4
 2020-12-09,05,Canarias,196,0,26,3
@@ -6895,7 +6895,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-10,13,Madrid,2162,12,131,10
 2020-12-10,14,Murcia,225,5,18,4
 2020-12-10,15,Navarra,113,2,12,0
-2020-12-10,16,País Vasco,537,17,26,0
+2020-12-10,16,País Vasco,538,17,27,0
 2020-12-10,17,La Rioja,55,0,5,0
 2020-12-10,18,Ceuta,11,0,1,0
 2020-12-10,19,Melilla,25,0,0,0
@@ -6908,14 +6908,14 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-11,06,Cantabria,75,3,16,1
 2020-12-11,07,Castilla y León,403,17,46,3
 2020-12-11,08,Castilla La Mancha,588,25,31,4
-2020-12-11,09,Cataluña,1813,20,56,4
+2020-12-11,09,Cataluña,1814,20,57,4
 2020-12-11,10,C. Valenciana,1810,25,102,7
 2020-12-11,11,Extremadura,234,3,12,1
 2020-12-11,12,Galicia,356,4,37,5
 2020-12-11,13,Madrid,2565,18,160,11
 2020-12-11,14,Murcia,255,6,10,2
 2020-12-11,15,Navarra,105,3,16,1
-2020-12-11,16,País Vasco,565,12,27,3
+2020-12-11,16,País Vasco,564,12,28,3
 2020-12-11,17,La Rioja,91,0,9,2
 2020-12-11,18,Ceuta,16,0,2,0
 2020-12-11,19,Melilla,14,0,0,0
@@ -6960,7 +6960,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-13,18,Ceuta,2,0,0,0
 2020-12-13,19,Melilla,1,0,0,0
 2020-12-14,00,No consta,23,1,5,3
-2020-12-14,01,Andalucía,915,22,88,11
+2020-12-14,01,Andalucía,916,22,88,11
 2020-12-14,02,Aragón,191,8,33,1
 2020-12-14,03,Asturias,125,13,17,3
 2020-12-14,04,Baleares,390,2,23,5
@@ -6981,7 +6981,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-14,19,Melilla,26,0,1,0
 2020-12-15,00,No consta,29,1,3,0
 2020-12-15,01,Andalucía,1346,20,85,9
-2020-12-15,02,Aragón,263,9,28,7
+2020-12-15,02,Aragón,263,8,28,7
 2020-12-15,03,Asturias,117,8,24,2
 2020-12-15,04,Baleares,481,8,17,1
 2020-12-15,05,Canarias,309,5,22,3
@@ -6995,20 +6995,20 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-15,13,Madrid,2428,18,157,8
 2020-12-15,14,Murcia,184,3,20,0
 2020-12-15,15,Navarra,96,1,8,2
-2020-12-15,16,País Vasco,584,8,30,1
+2020-12-15,16,País Vasco,583,8,30,1
 2020-12-15,17,La Rioja,51,0,2,0
 2020-12-15,18,Ceuta,7,0,2,0
 2020-12-15,19,Melilla,32,0,1,0
 2020-12-16,00,No consta,33,0,3,2
 2020-12-16,01,Andalucía,1172,21,70,8
-2020-12-16,02,Aragón,215,6,21,2
+2020-12-16,02,Aragón,214,6,21,2
 2020-12-16,03,Asturias,96,10,17,1
 2020-12-16,04,Baleares,570,5,20,1
 2020-12-16,05,Canarias,225,4,23,2
 2020-12-16,06,Cantabria,76,4,9,0
 2020-12-16,07,Castilla y León,336,17,45,2
 2020-12-16,08,Castilla La Mancha,662,11,32,6
-2020-12-16,09,Cataluña,2018,13,66,7
+2020-12-16,09,Cataluña,2018,14,66,7
 2020-12-16,10,C. Valenciana,2324,17,121,4
 2020-12-16,11,Extremadura,346,3,20,1
 2020-12-16,12,Galicia,448,4,45,6
@@ -7035,7 +7035,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-17,13,Madrid,2106,25,148,8
 2020-12-17,14,Murcia,197,2,18,1
 2020-12-17,15,Navarra,64,3,10,1
-2020-12-17,16,País Vasco,471,14,20,2
+2020-12-17,16,País Vasco,472,14,20,2
 2020-12-17,17,La Rioja,76,2,4,0
 2020-12-17,18,Ceuta,7,0,0,0
 2020-12-17,19,Melilla,27,0,2,0
@@ -7100,8 +7100,8 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-20,18,Ceuta,2,0,0,0
 2020-12-20,19,Melilla,3,0,1,0
 2020-12-21,00,No consta,51,0,7,1
-2020-12-21,01,Andalucía,906,26,89,9
-2020-12-21,02,Aragón,165,12,28,2
+2020-12-21,01,Andalucía,906,26,90,9
+2020-12-21,02,Aragón,164,12,27,2
 2020-12-21,03,Asturias,77,4,18,1
 2020-12-21,04,Baleares,493,4,28,1
 2020-12-21,05,Canarias,144,4,16,2
@@ -7128,7 +7128,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-22,06,Cantabria,60,2,4,0
 2020-12-22,07,Castilla y León,319,9,38,2
 2020-12-22,08,Castilla La Mancha,740,9,33,8
-2020-12-22,09,Cataluña,2721,27,82,8
+2020-12-22,09,Cataluña,2722,27,82,8
 2020-12-22,10,C. Valenciana,2720,23,161,12
 2020-12-22,11,Extremadura,410,4,29,1
 2020-12-22,12,Galicia,379,2,33,5
@@ -7175,7 +7175,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-24,13,Madrid,919,7,109,6
 2020-12-24,14,Murcia,247,2,15,2
 2020-12-24,15,Navarra,104,1,9,1
-2020-12-24,16,País Vasco,383,10,17,1
+2020-12-24,16,País Vasco,382,10,17,1
 2020-12-24,17,La Rioja,64,1,0,0
 2020-12-24,18,Ceuta,1,0,0,0
 2020-12-24,19,Melilla,4,0,2,0
@@ -7215,13 +7215,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-26,13,Madrid,810,17,111,9
 2020-12-26,14,Murcia,166,5,17,4
 2020-12-26,15,Navarra,73,1,7,0
-2020-12-26,16,País Vasco,198,7,15,2
+2020-12-26,16,País Vasco,199,7,15,2
 2020-12-26,17,La Rioja,52,2,3,1
 2020-12-26,18,Ceuta,10,0,0,0
 2020-12-26,19,Melilla,2,0,0,0
 2020-12-27,00,No consta,30,1,6,0
 2020-12-27,01,Andalucía,547,15,66,4
-2020-12-27,02,Aragón,146,7,24,2
+2020-12-27,02,Aragón,146,7,23,2
 2020-12-27,03,Asturias,82,3,12,2
 2020-12-27,04,Baleares,344,4,31,8
 2020-12-27,05,Canarias,128,2,15,6
@@ -7229,7 +7229,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-27,07,Castilla y León,151,15,23,0
 2020-12-27,08,Castilla La Mancha,302,11,51,3
 2020-12-27,09,Cataluña,898,26,88,10
-2020-12-27,10,C. Valenciana,1429,27,175,13
+2020-12-27,10,C. Valenciana,1430,27,175,13
 2020-12-27,11,Extremadura,228,5,12,0
 2020-12-27,12,Galicia,305,3,39,4
 2020-12-27,13,Madrid,792,21,106,15
@@ -7241,15 +7241,15 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-27,19,Melilla,3,0,0,0
 2020-12-28,00,No consta,67,1,3,2
 2020-12-28,01,Andalucía,1255,13,92,10
-2020-12-28,02,Aragón,279,8,29,1
+2020-12-28,02,Aragón,280,8,29,1
 2020-12-28,03,Asturias,73,6,12,0
 2020-12-28,04,Baleares,513,5,35,1
 2020-12-28,05,Canarias,244,4,14,2
 2020-12-28,06,Cantabria,64,2,9,0
 2020-12-28,07,Castilla y León,329,7,27,4
 2020-12-28,08,Castilla La Mancha,777,12,43,5
-2020-12-28,09,Cataluña,3587,25,110,4
-2020-12-28,10,C. Valenciana,2804,44,210,14
+2020-12-28,09,Cataluña,3587,26,110,4
+2020-12-28,10,C. Valenciana,2803,44,210,14
 2020-12-28,11,Extremadura,545,6,25,1
 2020-12-28,12,Galicia,383,8,37,4
 2020-12-28,13,Madrid,3224,20,194,13
@@ -7263,8 +7263,8 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-29,01,Andalucía,1787,10,78,6
 2020-12-29,02,Aragón,410,13,24,3
 2020-12-29,03,Asturias,144,3,11,1
-2020-12-29,04,Baleares,599,1,30,5
-2020-12-29,05,Canarias,271,3,14,4
+2020-12-29,04,Baleares,599,1,31,5
+2020-12-29,05,Canarias,272,3,14,4
 2020-12-29,06,Cantabria,112,1,5,2
 2020-12-29,07,Castilla y León,487,7,47,4
 2020-12-29,08,Castilla La Mancha,1039,14,43,6
@@ -7275,13 +7275,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-29,13,Madrid,4054,17,191,11
 2020-12-29,14,Murcia,484,4,19,1
 2020-12-29,15,Navarra,135,2,9,2
-2020-12-29,16,País Vasco,468,16,23,3
+2020-12-29,16,País Vasco,467,16,23,3
 2020-12-29,17,La Rioja,114,0,6,1
 2020-12-29,18,Ceuta,22,1,0,0
 2020-12-29,19,Melilla,18,0,0,1
 2020-12-30,00,No consta,141,1,4,0
 2020-12-30,01,Andalucía,1962,18,77,4
-2020-12-30,02,Aragón,453,9,29,6
+2020-12-30,02,Aragón,454,9,30,6
 2020-12-30,03,Asturias,125,5,13,1
 2020-12-30,04,Baleares,562,0,25,4
 2020-12-30,05,Canarias,228,4,16,2
@@ -7300,15 +7300,15 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-30,18,Ceuta,16,0,0,0
 2020-12-30,19,Melilla,28,2,0,0
 2020-12-31,00,No consta,64,0,4,0
-2020-12-31,01,Andalucía,1764,19,48,7
+2020-12-31,01,Andalucía,1764,19,50,7
 2020-12-31,02,Aragón,362,7,33,6
 2020-12-31,03,Asturias,111,5,8,0
-2020-12-31,04,Baleares,569,5,14,6
+2020-12-31,04,Baleares,569,5,14,7
 2020-12-31,05,Canarias,307,5,13,2
 2020-12-31,06,Cantabria,42,2,6,1
 2020-12-31,07,Castilla y León,446,2,25,3
 2020-12-31,08,Castilla La Mancha,1040,14,43,0
-2020-12-31,09,Cataluña,3654,29,91,14
+2020-12-31,09,Cataluña,3655,29,91,14
 2020-12-31,10,C. Valenciana,3263,44,168,16
 2020-12-31,11,Extremadura,574,5,14,0
 2020-12-31,12,Galicia,549,6,40,6
@@ -7320,7 +7320,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-31,18,Ceuta,12,0,0,0
 2020-12-31,19,Melilla,23,0,0,0
 2021-01-01,00,No consta,47,0,1,2
-2021-01-01,01,Andalucía,807,12,79,9
+2021-01-01,01,Andalucía,808,12,78,9
 2021-01-01,02,Aragón,152,2,14,1
 2021-01-01,03,Asturias,79,6,14,1
 2021-01-01,04,Baleares,278,3,18,2
@@ -7328,7 +7328,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-01,06,Cantabria,149,5,6,0
 2021-01-01,07,Castilla y León,282,11,23,1
 2021-01-01,08,Castilla La Mancha,522,14,29,6
-2021-01-01,09,Cataluña,929,29,93,5
+2021-01-01,09,Cataluña,930,29,93,5
 2021-01-01,10,C. Valenciana,2062,39,191,18
 2021-01-01,11,Extremadura,379,4,24,2
 2021-01-01,12,Galicia,393,3,29,3
@@ -7339,9 +7339,9 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-01,17,La Rioja,72,0,7,0
 2021-01-01,18,Ceuta,9,0,1,0
 2021-01-01,19,Melilla,12,0,0,0
-2021-01-02,00,No consta,75,1,5,0
+2021-01-02,00,No consta,74,1,5,0
 2021-01-02,01,Andalucía,1094,17,91,12
-2021-01-02,02,Aragón,217,4,30,1
+2021-01-02,02,Aragón,217,4,31,1
 2021-01-02,03,Asturias,62,3,14,1
 2021-01-02,04,Baleares,447,3,19,3
 2021-01-02,05,Canarias,180,4,7,3
@@ -7349,13 +7349,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-02,07,Castilla y León,430,8,30,4
 2021-01-02,08,Castilla La Mancha,518,10,38,3
 2021-01-02,09,Cataluña,1520,35,90,5
-2021-01-02,10,C. Valenciana,2450,34,183,12
+2021-01-02,10,C. Valenciana,2451,34,183,12
 2021-01-02,11,Extremadura,623,4,36,2
 2021-01-02,12,Galicia,338,5,27,7
 2021-01-02,13,Madrid,1221,16,156,8
 2021-01-02,14,Murcia,518,6,27,7
 2021-01-02,15,Navarra,69,3,3,1
-2021-01-02,16,País Vasco,277,9,19,1
+2021-01-02,16,País Vasco,278,9,19,1
 2021-01-02,17,La Rioja,36,1,9,2
 2021-01-02,18,Ceuta,29,0,1,0
 2021-01-02,19,Melilla,13,0,1,0
@@ -7363,14 +7363,14 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-03,01,Andalucía,1110,25,104,6
 2021-01-03,02,Aragón,217,6,22,2
 2021-01-03,03,Asturias,130,4,12,1
-2021-01-03,04,Baleares,376,4,23,6
+2021-01-03,04,Baleares,376,5,23,6
 2021-01-03,05,Canarias,161,3,8,1
 2021-01-03,06,Cantabria,87,0,7,0
 2021-01-03,07,Castilla y León,372,5,44,5
 2021-01-03,08,Castilla La Mancha,634,6,42,1
 2021-01-03,09,Cataluña,1260,30,85,10
-2021-01-03,10,C. Valenciana,2318,38,191,13
-2021-01-03,11,Extremadura,542,7,34,1
+2021-01-03,10,C. Valenciana,2321,38,190,13
+2021-01-03,11,Extremadura,543,7,34,1
 2021-01-03,12,Galicia,422,6,41,2
 2021-01-03,13,Madrid,1115,12,214,16
 2021-01-03,14,Murcia,311,1,26,2
@@ -7388,9 +7388,9 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-04,06,Cantabria,127,2,13,4
 2021-01-04,07,Castilla y León,821,8,56,8
 2021-01-04,08,Castilla La Mancha,1242,8,56,3
-2021-01-04,09,Cataluña,4384,20,125,14
+2021-01-04,09,Cataluña,4384,20,126,14
 2021-01-04,10,C. Valenciana,3879,50,289,22
-2021-01-04,11,Extremadura,789,5,41,4
+2021-01-04,11,Extremadura,790,5,41,4
 2021-01-04,12,Galicia,451,5,51,5
 2021-01-04,13,Madrid,4640,25,303,15
 2021-01-04,14,Murcia,925,0,51,6
@@ -7407,10 +7407,10 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-05,05,Canarias,242,1,23,1
 2021-01-05,06,Cantabria,131,0,16,2
 2021-01-05,07,Castilla y León,1150,9,69,9
-2021-01-05,08,Castilla La Mancha,1889,13,47,5
-2021-01-05,09,Cataluña,4811,35,114,8
-2021-01-05,10,C. Valenciana,5779,48,275,23
-2021-01-05,11,Extremadura,1123,15,29,2
+2021-01-05,08,Castilla La Mancha,1889,13,46,5
+2021-01-05,09,Cataluña,4811,36,114,8
+2021-01-05,10,C. Valenciana,5777,48,274,23
+2021-01-05,11,Extremadura,1126,15,29,2
 2021-01-05,12,Galicia,719,8,46,5
 2021-01-05,13,Madrid,7299,38,321,29
 2021-01-05,14,Murcia,1275,5,54,6
@@ -7428,29 +7428,29 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-06,06,Cantabria,144,1,10,2
 2021-01-06,07,Castilla y León,664,8,47,6
 2021-01-06,08,Castilla La Mancha,1094,5,50,2
-2021-01-06,09,Cataluña,1210,22,83,9
-2021-01-06,10,C. Valenciana,3917,41,194,13
+2021-01-06,09,Cataluña,1210,23,83,9
+2021-01-06,10,C. Valenciana,3921,41,194,13
 2021-01-06,11,Extremadura,671,8,34,3
 2021-01-06,12,Galicia,761,4,40,7
-2021-01-06,13,Madrid,1473,19,199,17
+2021-01-06,13,Madrid,1473,19,198,17
 2021-01-06,14,Murcia,621,4,34,5
 2021-01-06,15,Navarra,143,2,8,1
-2021-01-06,16,País Vasco,456,7,26,2
+2021-01-06,16,País Vasco,455,7,26,2
 2021-01-06,17,La Rioja,107,0,13,4
 2021-01-06,18,Ceuta,9,0,3,1
 2021-01-06,19,Melilla,12,0,2,0
 2021-01-07,00,No consta,108,1,9,0
-2021-01-07,01,Andalucía,3235,20,146,12
-2021-01-07,02,Aragón,455,4,43,2
+2021-01-07,01,Andalucía,3236,20,146,12
+2021-01-07,02,Aragón,455,4,42,2
 2021-01-07,03,Asturias,149,2,13,0
 2021-01-07,04,Baleares,748,4,31,5
 2021-01-07,05,Canarias,238,3,19,3
 2021-01-07,06,Cantabria,140,0,15,1
 2021-01-07,07,Castilla y León,1109,18,62,6
-2021-01-07,08,Castilla La Mancha,1844,13,52,7
+2021-01-07,08,Castilla La Mancha,1842,13,52,7
 2021-01-07,09,Cataluña,4389,34,113,9
-2021-01-07,10,C. Valenciana,5125,62,302,18
-2021-01-07,11,Extremadura,1251,6,45,5
+2021-01-07,10,C. Valenciana,5125,62,305,18
+2021-01-07,11,Extremadura,1252,6,45,5
 2021-01-07,12,Galicia,744,3,41,9
 2021-01-07,13,Madrid,4576,24,262,23
 2021-01-07,14,Murcia,1474,7,58,8
@@ -7460,17 +7460,17 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-07,18,Ceuta,23,1,0,0
 2021-01-07,19,Melilla,27,0,0,0
 2021-01-08,00,No consta,142,0,7,1
-2021-01-08,01,Andalucía,4446,36,178,17
+2021-01-08,01,Andalucía,4458,36,178,17
 2021-01-08,02,Aragón,668,13,45,3
 2021-01-08,03,Asturias,198,3,17,2
 2021-01-08,04,Baleares,609,5,30,6
 2021-01-08,05,Canarias,295,2,21,5
 2021-01-08,06,Cantabria,112,0,17,1
 2021-01-08,07,Castilla y León,1491,12,88,5
-2021-01-08,08,Castilla La Mancha,1876,14,48,4
-2021-01-08,09,Cataluña,4853,36,104,6
-2021-01-08,10,C. Valenciana,6724,53,303,33
-2021-01-08,11,Extremadura,1248,8,37,1
+2021-01-08,08,Castilla La Mancha,1879,14,48,4
+2021-01-08,09,Cataluña,4853,36,105,6
+2021-01-08,10,C. Valenciana,6724,52,300,33
+2021-01-08,11,Extremadura,1251,8,37,1
 2021-01-08,12,Galicia,901,7,50,5
 2021-01-08,13,Madrid,6253,28,243,20
 2021-01-08,14,Murcia,1644,3,63,7
@@ -7480,7 +7480,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-08,18,Ceuta,36,0,0,0
 2021-01-08,19,Melilla,37,0,4,0
 2021-01-09,00,No consta,100,1,3,0
-2021-01-09,01,Andalucía,3296,21,141,19
+2021-01-09,01,Andalucía,3300,21,142,19
 2021-01-09,02,Aragón,436,7,27,2
 2021-01-09,03,Asturias,156,5,16,1
 2021-01-09,04,Baleares,559,2,24,5
@@ -7489,7 +7489,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-09,07,Castilla y León,949,14,38,3
 2021-01-09,08,Castilla La Mancha,1318,19,54,4
 2021-01-09,09,Cataluña,1979,42,95,5
-2021-01-09,10,C. Valenciana,5560,49,225,14
+2021-01-09,10,C. Valenciana,5574,49,226,17
 2021-01-09,11,Extremadura,1007,11,38,4
 2021-01-09,12,Galicia,698,9,60,9
 2021-01-09,13,Madrid,474,16,67,14
@@ -7504,33 +7504,33 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-10,02,Aragón,290,6,30,2
 2021-01-10,03,Asturias,190,2,32,0
 2021-01-10,04,Baleares,464,3,25,6
-2021-01-10,05,Canarias,229,0,32,3
+2021-01-10,05,Canarias,229,1,32,3
 2021-01-10,06,Cantabria,119,1,8,3
 2021-01-10,07,Castilla y León,804,6,67,8
 2021-01-10,08,Castilla La Mancha,733,7,47,8
-2021-01-10,09,Cataluña,1552,38,120,8
-2021-01-10,10,C. Valenciana,3475,48,240,22
+2021-01-10,09,Cataluña,1552,40,120,8
+2021-01-10,10,C. Valenciana,3477,48,241,23
 2021-01-10,11,Extremadura,790,15,40,7
 2021-01-10,12,Galicia,795,3,59,10
 2021-01-10,13,Madrid,496,27,133,17
 2021-01-10,14,Murcia,777,4,59,5
 2021-01-10,15,Navarra,143,1,9,1
-2021-01-10,16,País Vasco,549,8,24,0
+2021-01-10,16,País Vasco,548,8,24,0
 2021-01-10,17,La Rioja,125,2,7,3
 2021-01-10,18,Ceuta,18,0,2,0
 2021-01-10,19,Melilla,23,1,0,0
-2021-01-11,00,No consta,189,1,5,2
-2021-01-11,01,Andalucía,5011,29,231,22
-2021-01-11,02,Aragón,421,11,67,5
+2021-01-11,00,No consta,188,1,5,2
+2021-01-11,01,Andalucía,5011,29,232,22
+2021-01-11,02,Aragón,420,11,67,5
 2021-01-11,03,Asturias,260,7,30,0
-2021-01-11,04,Baleares,763,5,29,3
-2021-01-11,05,Canarias,243,3,15,7
+2021-01-11,04,Baleares,763,7,29,3
+2021-01-11,05,Canarias,243,3,16,7
 2021-01-11,06,Cantabria,207,2,19,5
 2021-01-11,07,Castilla y León,1841,12,84,11
-2021-01-11,08,Castilla La Mancha,1932,24,102,7
-2021-01-11,09,Cataluña,5443,44,156,12
-2021-01-11,10,C. Valenciana,6054,70,376,23
-2021-01-11,11,Extremadura,1269,10,50,1
+2021-01-11,08,Castilla La Mancha,1934,24,102,7
+2021-01-11,09,Cataluña,5444,44,156,12
+2021-01-11,10,C. Valenciana,6049,70,374,23
+2021-01-11,11,Extremadura,1270,10,50,1
 2021-01-11,12,Galicia,806,10,67,9
 2021-01-11,13,Madrid,4384,23,268,20
 2021-01-11,14,Murcia,2035,7,93,10
@@ -7540,36 +7540,36 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-11,18,Ceuta,25,0,0,0
 2021-01-11,19,Melilla,61,0,1,2
 2021-01-12,00,No consta,181,0,11,1
-2021-01-12,01,Andalucía,6294,34,238,32
+2021-01-12,01,Andalucía,6298,34,238,32
 2021-01-12,02,Aragón,695,11,53,6
 2021-01-12,03,Asturias,321,1,43,2
-2021-01-12,04,Baleares,698,9,36,7
+2021-01-12,04,Baleares,698,10,36,7
 2021-01-12,05,Canarias,359,2,16,1
 2021-01-12,06,Cantabria,127,2,17,1
-2021-01-12,07,Castilla y León,2157,14,109,8
-2021-01-12,08,Castilla La Mancha,2361,19,86,8
-2021-01-12,09,Cataluña,5232,46,160,10
-2021-01-12,10,C. Valenciana,8078,63,373,37
-2021-01-12,11,Extremadura,1307,16,49,1
+2021-01-12,07,Castilla y León,2158,14,109,8
+2021-01-12,08,Castilla La Mancha,2362,19,86,8
+2021-01-12,09,Cataluña,5233,46,160,10
+2021-01-12,10,C. Valenciana,8082,63,372,37
+2021-01-12,11,Extremadura,1306,16,50,1
 2021-01-12,12,Galicia,1214,9,75,10
 2021-01-12,13,Madrid,4579,16,321,25
 2021-01-12,14,Murcia,2274,10,93,14
 2021-01-12,15,Navarra,197,5,9,0
-2021-01-12,16,País Vasco,667,8,29,4
+2021-01-12,16,País Vasco,666,8,29,4
 2021-01-12,17,La Rioja,287,2,8,0
 2021-01-12,18,Ceuta,34,0,2,1
 2021-01-12,19,Melilla,60,1,2,0
 2021-01-13,00,No consta,172,3,9,0
-2021-01-13,01,Andalucía,6475,35,253,34
+2021-01-13,01,Andalucía,6471,35,254,34
 2021-01-13,02,Aragón,894,10,67,5
 2021-01-13,03,Asturias,277,1,35,2
 2021-01-13,04,Baleares,724,7,30,3
 2021-01-13,05,Canarias,338,3,23,5
 2021-01-13,06,Cantabria,181,2,21,0
-2021-01-13,07,Castilla y León,2248,9,116,14
-2021-01-13,08,Castilla La Mancha,3002,23,123,4
+2021-01-13,07,Castilla y León,2249,9,117,14
+2021-01-13,08,Castilla La Mancha,3000,23,124,4
 2021-01-13,09,Cataluña,4615,41,118,11
-2021-01-13,10,C. Valenciana,8081,63,385,26
+2021-01-13,10,C. Valenciana,8073,63,386,26
 2021-01-13,11,Extremadura,1383,13,69,5
 2021-01-13,12,Galicia,1240,9,98,19
 2021-01-13,13,Madrid,5462,33,378,26
@@ -7579,8 +7579,8 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-13,17,La Rioja,381,4,25,4
 2021-01-13,18,Ceuta,37,0,4,0
 2021-01-13,19,Melilla,60,1,1,3
-2021-01-14,00,No consta,162,4,11,1
-2021-01-14,01,Andalucía,6670,38,286,24
+2021-01-14,00,No consta,162,3,11,1
+2021-01-14,01,Andalucía,6674,38,287,24
 2021-01-14,02,Aragón,837,12,62,8
 2021-01-14,03,Asturias,329,4,31,4
 2021-01-14,04,Baleares,664,5,44,6
@@ -7589,47 +7589,47 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-14,07,Castilla y León,2442,10,147,14
 2021-01-14,08,Castilla La Mancha,2835,23,104,7
 2021-01-14,09,Cataluña,4030,40,140,8
-2021-01-14,10,C. Valenciana,7955,69,436,36
-2021-01-14,11,Extremadura,1262,7,66,7
+2021-01-14,10,C. Valenciana,7962,69,436,36
+2021-01-14,11,Extremadura,1262,8,66,7
 2021-01-14,12,Galicia,1261,10,88,12
 2021-01-14,13,Madrid,5734,26,370,22
 2021-01-14,14,Murcia,2074,15,97,13
 2021-01-14,15,Navarra,247,0,11,2
-2021-01-14,16,País Vasco,693,10,33,4
+2021-01-14,16,País Vasco,694,10,33,4
 2021-01-14,17,La Rioja,211,2,21,7
 2021-01-14,18,Ceuta,22,0,1,0
 2021-01-14,19,Melilla,52,0,2,0
 2021-01-15,00,No consta,195,1,9,0
-2021-01-15,01,Andalucía,7654,43,316,33
+2021-01-15,01,Andalucía,7655,43,317,33
 2021-01-15,02,Aragón,905,12,55,4
 2021-01-15,03,Asturias,360,3,34,2
-2021-01-15,04,Baleares,659,9,34,9
+2021-01-15,04,Baleares,659,10,34,9
 2021-01-15,05,Canarias,263,1,15,7
 2021-01-15,06,Cantabria,184,0,17,1
 2021-01-15,07,Castilla y León,2850,21,145,10
-2021-01-15,08,Castilla La Mancha,3127,26,135,6
+2021-01-15,08,Castilla La Mancha,3129,26,135,6
 2021-01-15,09,Cataluña,4098,29,150,16
-2021-01-15,10,C. Valenciana,9675,91,435,32
+2021-01-15,10,C. Valenciana,9649,92,435,32
 2021-01-15,11,Extremadura,1459,14,54,6
 2021-01-15,12,Galicia,1423,15,94,14
 2021-01-15,13,Madrid,6526,47,408,28
 2021-01-15,14,Murcia,1988,14,116,16
 2021-01-15,15,Navarra,219,2,11,1
-2021-01-15,16,País Vasco,730,16,43,0
+2021-01-15,16,País Vasco,728,16,43,0
 2021-01-15,17,La Rioja,364,4,29,0
 2021-01-15,18,Ceuta,18,1,2,1
 2021-01-15,19,Melilla,63,1,2,0
 2021-01-16,00,No consta,109,3,8,2
 2021-01-16,01,Andalucía,4268,48,335,31
-2021-01-16,02,Aragón,717,5,49,1
+2021-01-16,02,Aragón,717,5,48,1
 2021-01-16,03,Asturias,259,7,26,2
 2021-01-16,04,Baleares,576,2,34,4
 2021-01-16,05,Canarias,250,4,14,3
 2021-01-16,06,Cantabria,149,0,27,4
 2021-01-16,07,Castilla y León,1817,14,122,9
-2021-01-16,08,Castilla La Mancha,2064,28,92,8
+2021-01-16,08,Castilla La Mancha,2066,28,93,8
 2021-01-16,09,Cataluña,1910,27,122,16
-2021-01-16,10,C. Valenciana,6251,87,374,29
+2021-01-16,10,C. Valenciana,6270,87,376,29
 2021-01-16,11,Extremadura,855,14,59,7
 2021-01-16,12,Galicia,1303,11,93,17
 2021-01-16,13,Madrid,1601,43,258,20
@@ -7643,13 +7643,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-17,01,Andalucía,3230,49,275,31
 2021-01-17,02,Aragón,410,4,51,0
 2021-01-17,03,Asturias,279,7,31,1
-2021-01-17,04,Baleares,406,8,42,5
+2021-01-17,04,Baleares,407,8,42,5
 2021-01-17,05,Canarias,163,6,21,6
 2021-01-17,06,Cantabria,125,3,12,3
 2021-01-17,07,Castilla y León,1578,13,114,12
-2021-01-17,08,Castilla La Mancha,1114,27,106,6
+2021-01-17,08,Castilla La Mancha,1119,27,107,6
 2021-01-17,09,Cataluña,1411,40,110,11
-2021-01-17,10,C. Valenciana,4799,80,375,28
+2021-01-17,10,C. Valenciana,4811,80,378,28
 2021-01-17,11,Extremadura,804,11,44,3
 2021-01-17,12,Galicia,990,17,87,10
 2021-01-17,13,Madrid,1221,31,263,22
@@ -7660,159 +7660,159 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-17,18,Ceuta,17,2,2,0
 2021-01-17,19,Melilla,31,0,5,0
 2021-01-18,00,No consta,176,0,16,0
-2021-01-18,01,Andalucía,6277,56,361,45
+2021-01-18,01,Andalucía,6279,56,362,45
 2021-01-18,02,Aragón,548,15,82,7
 2021-01-18,03,Asturias,274,11,48,2
 2021-01-18,04,Baleares,605,3,33,1
 2021-01-18,05,Canarias,292,6,24,8
 2021-01-18,06,Cantabria,118,5,24,1
-2021-01-18,07,Castilla y León,2367,25,197,20
-2021-01-18,08,Castilla La Mancha,1983,28,133,12
-2021-01-18,09,Cataluña,4673,37,190,18
-2021-01-18,10,C. Valenciana,6489,85,568,27
+2021-01-18,07,Castilla y León,2368,25,197,20
+2021-01-18,08,Castilla La Mancha,1984,28,134,12
+2021-01-18,09,Cataluña,4674,38,191,18
+2021-01-18,10,C. Valenciana,6472,85,568,27
 2021-01-18,11,Extremadura,1291,12,84,5
 2021-01-18,12,Galicia,1361,16,104,20
-2021-01-18,13,Madrid,5765,47,433,43
+2021-01-18,13,Madrid,5765,47,432,44
 2021-01-18,14,Murcia,1890,18,109,15
 2021-01-18,15,Navarra,255,0,21,2
-2021-01-18,16,País Vasco,667,14,38,4
-2021-01-18,17,La Rioja,240,2,25,4
+2021-01-18,16,País Vasco,667,14,40,5
+2021-01-18,17,La Rioja,239,2,25,4
 2021-01-18,18,Ceuta,30,0,0,0
 2021-01-18,19,Melilla,77,0,7,3
 2021-01-19,00,No consta,176,1,12,1
-2021-01-19,01,Andalucía,7533,79,371,41
-2021-01-19,02,Aragón,828,11,71,5
+2021-01-19,01,Andalucía,7533,80,371,41
+2021-01-19,02,Aragón,828,11,70,5
 2021-01-19,03,Asturias,373,8,49,0
 2021-01-19,04,Baleares,716,2,38,4
 2021-01-19,05,Canarias,295,6,20,6
 2021-01-19,06,Cantabria,204,4,15,0
 2021-01-19,07,Castilla y León,2884,15,212,20
-2021-01-19,08,Castilla La Mancha,2374,35,109,16
-2021-01-19,09,Cataluña,4623,51,169,8
-2021-01-19,10,C. Valenciana,8029,114,493,35
+2021-01-19,08,Castilla La Mancha,2375,35,109,16
+2021-01-19,09,Cataluña,4624,52,169,8
+2021-01-19,10,C. Valenciana,8032,114,493,35
 2021-01-19,11,Extremadura,1156,24,90,7
 2021-01-19,12,Galicia,1441,11,131,22
-2021-01-19,13,Madrid,7729,51,462,30
+2021-01-19,13,Madrid,7729,51,465,31
 2021-01-19,14,Murcia,2035,22,141,14
 2021-01-19,15,Navarra,222,2,22,3
-2021-01-19,16,País Vasco,852,11,53,2
+2021-01-19,16,País Vasco,851,11,53,2
 2021-01-19,17,La Rioja,412,2,26,3
 2021-01-19,18,Ceuta,38,0,2,0
 2021-01-19,19,Melilla,88,0,4,0
 2021-01-20,00,No consta,161,3,10,4
-2021-01-20,01,Andalucía,7630,68,392,47
+2021-01-20,01,Andalucía,7631,68,392,47
 2021-01-20,02,Aragón,786,12,65,7
 2021-01-20,03,Asturias,438,9,55,5
-2021-01-20,04,Baleares,623,4,27,7
+2021-01-20,04,Baleares,624,4,27,7
 2021-01-20,05,Canarias,319,2,10,3
 2021-01-20,06,Cantabria,206,2,24,2
 2021-01-20,07,Castilla y León,2973,26,223,12
-2021-01-20,08,Castilla La Mancha,3126,37,152,11
+2021-01-20,08,Castilla La Mancha,3124,37,152,11
 2021-01-20,09,Cataluña,4060,41,149,13
-2021-01-20,10,C. Valenciana,8361,80,453,30
+2021-01-20,10,C. Valenciana,8365,80,454,31
 2021-01-20,11,Extremadura,1136,12,77,9
 2021-01-20,12,Galicia,1901,19,118,14
-2021-01-20,13,Madrid,6374,57,391,34
+2021-01-20,13,Madrid,6374,57,392,34
 2021-01-20,14,Murcia,1873,23,135,17
 2021-01-20,15,Navarra,239,3,20,3
-2021-01-20,16,País Vasco,927,16,59,5
+2021-01-20,16,País Vasco,929,16,59,5
 2021-01-20,17,La Rioja,391,1,23,5
 2021-01-20,18,Ceuta,55,0,3,0
 2021-01-20,19,Melilla,96,0,4,1
 2021-01-21,00,No consta,144,2,14,1
-2021-01-21,01,Andalucía,7927,76,433,48
-2021-01-21,02,Aragón,745,18,85,7
+2021-01-21,01,Andalucía,7926,76,433,48
+2021-01-21,02,Aragón,745,18,84,7
 2021-01-21,03,Asturias,510,11,59,1
 2021-01-21,04,Baleares,695,7,49,4
 2021-01-21,05,Canarias,323,1,19,6
 2021-01-21,06,Cantabria,196,2,24,0
 2021-01-21,07,Castilla y León,2825,21,223,20
-2021-01-21,08,Castilla La Mancha,2728,35,123,9
-2021-01-21,09,Cataluña,3755,45,136,16
-2021-01-21,10,C. Valenciana,8469,89,494,39
-2021-01-21,11,Extremadura,1051,24,64,10
+2021-01-21,08,Castilla La Mancha,2726,35,123,9
+2021-01-21,09,Cataluña,3756,45,136,16
+2021-01-21,10,C. Valenciana,8462,89,495,39
+2021-01-21,11,Extremadura,1052,24,64,10
 2021-01-21,12,Galicia,1974,9,126,17
 2021-01-21,13,Madrid,5939,55,397,26
 2021-01-21,14,Murcia,1507,26,131,21
 2021-01-21,15,Navarra,335,2,21,3
 2021-01-21,16,País Vasco,914,24,65,5
-2021-01-21,17,La Rioja,391,2,22,2
+2021-01-21,17,La Rioja,390,2,22,2
 2021-01-21,18,Ceuta,40,0,1,0
 2021-01-21,19,Melilla,86,0,7,0
 2021-01-22,00,No consta,170,0,16,0
 2021-01-22,01,Andalucía,8798,92,425,43
-2021-01-22,02,Aragón,871,13,86,4
+2021-01-22,02,Aragón,871,13,87,4
 2021-01-22,03,Asturias,523,11,62,3
 2021-01-22,04,Baleares,629,5,29,5
 2021-01-22,05,Canarias,289,6,25,8
 2021-01-22,06,Cantabria,196,3,29,3
-2021-01-22,07,Castilla y León,3023,30,239,14
-2021-01-22,08,Castilla La Mancha,2832,46,111,13
+2021-01-22,07,Castilla y León,3024,30,239,14
+2021-01-22,08,Castilla La Mancha,2833,46,111,13
 2021-01-22,09,Cataluña,3798,60,113,17
-2021-01-22,10,C. Valenciana,7516,118,448,40
+2021-01-22,10,C. Valenciana,7515,118,449,43
 2021-01-22,11,Extremadura,1022,17,74,4
 2021-01-22,12,Galicia,1981,26,152,18
-2021-01-22,13,Madrid,7187,53,435,24
+2021-01-22,13,Madrid,7187,53,434,23
 2021-01-22,14,Murcia,1474,20,100,10
 2021-01-22,15,Navarra,291,2,13,4
-2021-01-22,16,País Vasco,889,25,74,3
+2021-01-22,16,País Vasco,888,25,74,3
 2021-01-22,17,La Rioja,344,2,21,6
 2021-01-22,18,Ceuta,40,0,5,0
 2021-01-22,19,Melilla,85,0,7,1
 2021-01-23,00,No consta,102,0,11,0
-2021-01-23,01,Andalucía,5276,68,351,30
-2021-01-23,02,Aragón,643,11,61,8
+2021-01-23,01,Andalucía,5278,69,352,30
+2021-01-23,02,Aragón,642,11,61,8
 2021-01-23,03,Asturias,354,9,47,1
 2021-01-23,04,Baleares,523,6,31,6
 2021-01-23,05,Canarias,283,7,17,4
 2021-01-23,06,Cantabria,168,3,12,5
 2021-01-23,07,Castilla y León,2069,20,175,20
-2021-01-23,08,Castilla La Mancha,1608,30,98,9
-2021-01-23,09,Cataluña,1615,26,92,11
-2021-01-23,10,C. Valenciana,4862,115,370,32
+2021-01-23,08,Castilla La Mancha,1609,30,98,9
+2021-01-23,09,Cataluña,1615,26,94,11
+2021-01-23,10,C. Valenciana,4863,115,370,33
 2021-01-23,11,Extremadura,636,17,60,12
 2021-01-23,12,Galicia,1472,18,119,12
 2021-01-23,13,Madrid,1656,46,252,16
 2021-01-23,14,Murcia,1250,20,109,13
 2021-01-23,15,Navarra,181,4,10,2
-2021-01-23,16,País Vasco,778,17,48,6
+2021-01-23,16,País Vasco,780,17,48,6
 2021-01-23,17,La Rioja,182,3,23,5
 2021-01-23,18,Ceuta,22,0,1,2
 2021-01-23,19,Melilla,37,0,2,0
 2021-01-24,00,No consta,83,4,10,1
-2021-01-24,01,Andalucía,3609,85,339,31
+2021-01-24,01,Andalucía,3610,85,341,31
 2021-01-24,02,Aragón,518,4,50,0
 2021-01-24,03,Asturias,507,9,50,4
-2021-01-24,04,Baleares,239,2,31,2
+2021-01-24,04,Baleares,239,3,31,2
 2021-01-24,05,Canarias,222,5,30,6
 2021-01-24,06,Cantabria,97,4,9,4
 2021-01-24,07,Castilla y León,1395,26,155,12
-2021-01-24,08,Castilla La Mancha,976,38,104,15
-2021-01-24,09,Cataluña,1217,48,87,9
-2021-01-24,10,C. Valenciana,3517,107,334,22
+2021-01-24,08,Castilla La Mancha,976,39,104,15
+2021-01-24,09,Cataluña,1219,49,87,9
+2021-01-24,10,C. Valenciana,3516,107,334,22
 2021-01-24,11,Extremadura,489,16,70,9
 2021-01-24,12,Galicia,1470,21,115,16
 2021-01-24,13,Madrid,1111,43,231,12
 2021-01-24,14,Murcia,662,29,80,7
 2021-01-24,15,Navarra,174,3,13,3
-2021-01-24,16,País Vasco,674,23,41,4
+2021-01-24,16,País Vasco,673,23,41,4
 2021-01-24,17,La Rioja,160,4,15,3
 2021-01-24,18,Ceuta,27,1,3,0
 2021-01-24,19,Melilla,30,0,3,2
 2021-01-25,00,No consta,176,2,15,1
-2021-01-25,01,Andalucía,6173,76,463,49
+2021-01-25,01,Andalucía,6174,76,463,49
 2021-01-25,02,Aragón,533,19,72,3
 2021-01-25,03,Asturias,429,5,72,6
 2021-01-25,04,Baleares,525,5,38,12
 2021-01-25,05,Canarias,216,2,22,2
 2021-01-25,06,Cantabria,171,5,33,5
 2021-01-25,07,Castilla y León,2357,25,242,13
-2021-01-25,08,Castilla La Mancha,1673,32,111,12
-2021-01-25,09,Cataluña,4111,45,151,15
-2021-01-25,10,C. Valenciana,5304,120,466,19
+2021-01-25,08,Castilla La Mancha,1672,32,111,12
+2021-01-25,09,Cataluña,4111,53,151,15
+2021-01-25,10,C. Valenciana,5302,120,465,19
 2021-01-25,11,Extremadura,781,22,49,5
 2021-01-25,12,Galicia,1488,10,139,22
-2021-01-25,13,Madrid,5564,55,431,32
+2021-01-25,13,Madrid,5564,55,430,32
 2021-01-25,14,Murcia,1421,27,105,6
 2021-01-25,15,Navarra,266,5,17,4
 2021-01-25,16,País Vasco,863,16,56,9
@@ -7820,19 +7820,19 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-25,18,Ceuta,44,0,1,0
 2021-01-25,19,Melilla,74,0,4,2
 2021-01-26,00,No consta,169,2,10,1
-2021-01-26,01,Andalucía,7207,91,502,36
+2021-01-26,01,Andalucía,7206,91,502,36
 2021-01-26,02,Aragón,854,15,65,8
 2021-01-26,03,Asturias,613,4,78,7
 2021-01-26,04,Baleares,553,4,28,5
-2021-01-26,05,Canarias,322,1,16,5
+2021-01-26,05,Canarias,323,1,16,5
 2021-01-26,06,Cantabria,128,1,21,2
 2021-01-26,07,Castilla y León,2624,39,210,22
 2021-01-26,08,Castilla La Mancha,2260,30,107,16
-2021-01-26,09,Cataluña,3804,41,118,6
-2021-01-26,10,C. Valenciana,6699,97,453,25
+2021-01-26,09,Cataluña,3805,44,118,6
+2021-01-26,10,C. Valenciana,6702,97,453,25
 2021-01-26,11,Extremadura,836,31,86,7
 2021-01-26,12,Galicia,1767,25,161,18
-2021-01-26,13,Madrid,6515,65,356,25
+2021-01-26,13,Madrid,6515,65,357,25
 2021-01-26,14,Murcia,1404,28,103,14
 2021-01-26,15,Navarra,202,5,13,0
 2021-01-26,16,País Vasco,917,14,64,13
@@ -7840,22 +7840,22 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-26,18,Ceuta,25,0,1,0
 2021-01-26,19,Melilla,75,0,3,1
 2021-01-27,00,No consta,201,2,9,0
-2021-01-27,01,Andalucía,7299,109,484,41
-2021-01-27,02,Aragón,889,18,64,5
+2021-01-27,01,Andalucía,7300,109,484,41
+2021-01-27,02,Aragón,889,18,63,5
 2021-01-27,03,Asturias,578,13,66,4
 2021-01-27,04,Baleares,357,6,37,6
 2021-01-27,05,Canarias,326,4,25,7
 2021-01-27,06,Cantabria,201,5,21,3
 2021-01-27,07,Castilla y León,2566,32,211,18
 2021-01-27,08,Castilla La Mancha,2000,45,84,7
-2021-01-27,09,Cataluña,3332,42,118,10
-2021-01-27,10,C. Valenciana,6939,120,400,34
+2021-01-27,09,Cataluña,3332,45,118,10
+2021-01-27,10,C. Valenciana,6938,120,401,35
 2021-01-27,11,Extremadura,725,21,62,2
 2021-01-27,12,Galicia,1541,22,165,27
-2021-01-27,13,Madrid,5805,54,353,27
+2021-01-27,13,Madrid,5805,54,352,27
 2021-01-27,14,Murcia,992,23,125,9
 2021-01-27,15,Navarra,239,7,19,2
-2021-01-27,16,País Vasco,1032,20,59,6
+2021-01-27,16,País Vasco,1033,20,59,6
 2021-01-27,17,La Rioja,437,1,29,6
 2021-01-27,18,Ceuta,54,1,2,0
 2021-01-27,19,Melilla,67,2,3,0
@@ -7866,13 +7866,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-28,04,Baleares,449,5,34,3
 2021-01-28,05,Canarias,335,4,28,5
 2021-01-28,06,Cantabria,151,3,26,7
-2021-01-28,07,Castilla y León,2126,31,200,16
-2021-01-28,08,Castilla La Mancha,1944,35,87,12
-2021-01-28,09,Cataluña,3364,31,131,8
-2021-01-28,10,C. Valenciana,5998,116,398,22
+2021-01-28,07,Castilla y León,2125,31,200,16
+2021-01-28,08,Castilla La Mancha,1945,35,87,12
+2021-01-28,09,Cataluña,3365,32,130,8
+2021-01-28,10,C. Valenciana,5995,116,399,22
 2021-01-28,11,Extremadura,645,17,52,2
 2021-01-28,12,Galicia,1593,36,138,26
-2021-01-28,13,Madrid,5380,63,331,31
+2021-01-28,13,Madrid,5381,63,332,31
 2021-01-28,14,Murcia,947,31,104,8
 2021-01-28,15,Navarra,257,3,9,0
 2021-01-28,16,País Vasco,1053,15,70,9
@@ -7880,7 +7880,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-28,18,Ceuta,35,2,2,0
 2021-01-28,19,Melilla,74,0,11,1
 2021-01-29,00,No consta,136,0,17,3
-2021-01-29,01,Andalucía,6399,85,430,43
+2021-01-29,01,Andalucía,6404,85,430,43
 2021-01-29,02,Aragón,692,12,62,4
 2021-01-29,03,Asturias,534,11,75,5
 2021-01-29,04,Baleares,312,6,33,6
@@ -7888,8 +7888,8 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-29,06,Cantabria,187,3,20,3
 2021-01-29,07,Castilla y León,2331,32,198,16
 2021-01-29,08,Castilla La Mancha,1842,38,94,9
-2021-01-29,09,Cataluña,3338,42,112,8
-2021-01-29,10,C. Valenciana,5569,99,377,32
+2021-01-29,09,Cataluña,3338,43,112,8
+2021-01-29,10,C. Valenciana,5567,100,378,32
 2021-01-29,11,Extremadura,634,11,63,6
 2021-01-29,12,Galicia,1532,27,132,28
 2021-01-29,13,Madrid,5942,62,364,26
@@ -7900,27 +7900,27 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-29,18,Ceuta,35,1,1,0
 2021-01-29,19,Melilla,67,0,8,1
 2021-01-30,00,No consta,82,2,6,0
-2021-01-30,01,Andalucía,4359,90,405,37
-2021-01-30,02,Aragón,451,6,48,6
+2021-01-30,01,Andalucía,4362,90,407,37
+2021-01-30,02,Aragón,451,6,47,6
 2021-01-30,03,Asturias,378,10,68,3
 2021-01-30,04,Baleares,322,3,22,6
 2021-01-30,05,Canarias,246,4,17,4
 2021-01-30,06,Cantabria,122,2,8,2
-2021-01-30,07,Castilla y León,1393,31,146,15
-2021-01-30,08,Castilla La Mancha,948,36,79,13
+2021-01-30,07,Castilla y León,1393,31,147,15
+2021-01-30,08,Castilla La Mancha,947,36,79,13
 2021-01-30,09,Cataluña,1300,43,75,7
-2021-01-30,10,C. Valenciana,3859,92,254,29
+2021-01-30,10,C. Valenciana,3861,92,255,29
 2021-01-30,11,Extremadura,297,19,25,6
-2021-01-30,12,Galicia,1183,21,113,23
+2021-01-30,12,Galicia,1183,21,112,22
 2021-01-30,13,Madrid,1347,56,206,6
 2021-01-30,14,Murcia,688,24,76,3
 2021-01-30,15,Navarra,194,4,12,1
-2021-01-30,16,País Vasco,721,16,51,7
+2021-01-30,16,País Vasco,722,16,51,7
 2021-01-30,17,La Rioja,149,5,18,5
 2021-01-30,18,Ceuta,27,0,1,0
 2021-01-30,19,Melilla,58,1,2,2
 2021-01-31,00,No consta,54,1,8,0
-2021-01-31,01,Andalucía,2769,97,352,41
+2021-01-31,01,Andalucía,2768,97,353,41
 2021-01-31,02,Aragón,269,18,35,2
 2021-01-31,03,Asturias,334,4,51,7
 2021-01-31,04,Baleares,156,7,10,4
@@ -7928,11 +7928,11 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-31,06,Cantabria,79,3,10,0
 2021-01-31,07,Castilla y León,881,37,150,5
 2021-01-31,08,Castilla La Mancha,486,28,59,4
-2021-01-31,09,Cataluña,806,36,66,8
-2021-01-31,10,C. Valenciana,2157,88,242,16
-2021-01-31,11,Extremadura,198,14,32,4
-2021-01-31,12,Galicia,967,21,126,23
-2021-01-31,13,Madrid,871,46,216,19
+2021-01-31,09,Cataluña,806,38,66,8
+2021-01-31,10,C. Valenciana,2156,88,242,16
+2021-01-31,11,Extremadura,198,14,31,4
+2021-01-31,12,Galicia,968,21,127,22
+2021-01-31,13,Madrid,872,46,217,19
 2021-01-31,14,Murcia,193,20,51,10
 2021-01-31,15,Navarra,173,2,10,4
 2021-01-31,16,País Vasco,803,12,35,3
@@ -7940,48 +7940,48 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-31,18,Ceuta,22,0,2,0
 2021-01-31,19,Melilla,20,0,2,0
 2021-02-01,00,No consta,93,3,16,1
-2021-02-01,01,Andalucía,4657,103,374,36
-2021-02-01,02,Aragón,424,22,71,13
+2021-02-01,01,Andalucía,4664,103,375,36
+2021-02-01,02,Aragón,423,22,70,13
 2021-02-01,03,Asturias,478,13,74,3
 2021-02-01,04,Baleares,310,7,27,3
 2021-02-01,05,Canarias,240,4,22,6
 2021-02-01,06,Cantabria,139,3,16,3
 2021-02-01,07,Castilla y León,1462,35,178,16
 2021-02-01,08,Castilla La Mancha,949,45,70,9
-2021-02-01,09,Cataluña,3144,16,120,12
-2021-02-01,10,C. Valenciana,3198,101,376,27
+2021-02-01,09,Cataluña,3145,16,120,12
+2021-02-01,10,C. Valenciana,3197,101,377,27
 2021-02-01,11,Extremadura,390,17,54,2
 2021-02-01,12,Galicia,1084,26,110,31
-2021-02-01,13,Madrid,4124,54,348,17
+2021-02-01,13,Madrid,4124,54,347,17
 2021-02-01,14,Murcia,542,23,58,11
 2021-02-01,15,Navarra,204,1,11,0
-2021-02-01,16,País Vasco,708,20,46,8
+2021-02-01,16,País Vasco,709,22,46,8
 2021-02-01,17,La Rioja,110,3,25,3
 2021-02-01,18,Ceuta,45,1,1,0
 2021-02-01,19,Melilla,54,1,5,2
 2021-02-02,00,No consta,82,2,15,3
-2021-02-02,01,Andalucía,5093,100,428,28
+2021-02-02,01,Andalucía,5098,100,427,28
 2021-02-02,02,Aragón,701,13,57,3
 2021-02-02,03,Asturias,455,15,75,7
 2021-02-02,04,Baleares,295,4,29,1
 2021-02-02,05,Canarias,196,2,19,6
 2021-02-02,06,Cantabria,145,2,8,3
 2021-02-02,07,Castilla y León,1515,29,142,18
-2021-02-02,08,Castilla La Mancha,1301,27,59,8
-2021-02-02,09,Cataluña,3085,37,116,8
+2021-02-02,08,Castilla La Mancha,1302,27,59,8
+2021-02-02,09,Cataluña,3085,38,116,8
 2021-02-02,10,C. Valenciana,4205,76,287,26
 2021-02-02,11,Extremadura,384,22,41,4
 2021-02-02,12,Galicia,1165,27,115,17
-2021-02-02,13,Madrid,4966,50,286,29
+2021-02-02,13,Madrid,4966,50,287,29
 2021-02-02,14,Murcia,695,23,85,8
 2021-02-02,15,Navarra,182,1,11,0
-2021-02-02,16,País Vasco,885,16,70,9
+2021-02-02,16,País Vasco,887,17,70,9
 2021-02-02,17,La Rioja,300,5,27,1
 2021-02-02,18,Ceuta,41,0,1,0
 2021-02-02,19,Melilla,54,0,4,0
 2021-02-03,00,No consta,81,0,11,2
-2021-02-03,01,Andalucía,5007,100,383,37
-2021-02-03,02,Aragón,597,14,49,9
+2021-02-03,01,Andalucía,5010,100,384,36
+2021-02-03,02,Aragón,597,14,48,9
 2021-02-03,03,Asturias,396,11,67,4
 2021-02-03,04,Baleares,226,4,16,5
 2021-02-03,05,Canarias,268,1,11,5
@@ -7989,10 +7989,10 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-03,07,Castilla y León,1475,35,171,15
 2021-02-03,08,Castilla La Mancha,1157,29,49,5
 2021-02-03,09,Cataluña,2641,34,109,8
-2021-02-03,10,C. Valenciana,4059,76,244,16
+2021-02-03,10,C. Valenciana,4060,76,244,16
 2021-02-03,11,Extremadura,305,14,35,4
 2021-02-03,12,Galicia,1154,27,104,16
-2021-02-03,13,Madrid,4269,56,277,24
+2021-02-03,13,Madrid,4270,56,277,24
 2021-02-03,14,Murcia,497,14,55,8
 2021-02-03,15,Navarra,243,3,14,1
 2021-02-03,16,País Vasco,854,17,56,6
@@ -8000,36 +8000,36 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-03,18,Ceuta,42,1,1,0
 2021-02-03,19,Melilla,55,1,1,0
 2021-02-04,00,No consta,65,3,8,1
-2021-02-04,01,Andalucía,4815,82,345,40
-2021-02-04,02,Aragón,576,17,69,2
+2021-02-04,01,Andalucía,4816,83,345,40
+2021-02-04,02,Aragón,576,17,70,2
 2021-02-04,03,Asturias,429,11,61,7
 2021-02-04,04,Baleares,153,2,5,4
 2021-02-04,05,Canarias,215,1,22,5
 2021-02-04,06,Cantabria,136,1,8,2
 2021-02-04,07,Castilla y León,1307,32,173,13
 2021-02-04,08,Castilla La Mancha,900,43,59,9
-2021-02-04,09,Cataluña,2478,37,97,4
-2021-02-04,10,C. Valenciana,3109,93,204,10
+2021-02-04,09,Cataluña,2478,39,97,4
+2021-02-04,10,C. Valenciana,3108,93,205,10
 2021-02-04,11,Extremadura,267,15,25,3
 2021-02-04,12,Galicia,985,29,125,24
 2021-02-04,13,Madrid,3786,22,320,20
 2021-02-04,14,Murcia,456,20,42,5
 2021-02-04,15,Navarra,227,2,13,1
-2021-02-04,16,País Vasco,816,14,58,5
+2021-02-04,16,País Vasco,814,14,58,5
 2021-02-04,17,La Rioja,129,1,21,0
 2021-02-04,18,Ceuta,22,0,0,1
 2021-02-04,19,Melilla,50,0,3,0
 2021-02-05,00,No consta,78,3,4,0
-2021-02-05,01,Andalucía,4415,87,344,38
-2021-02-05,02,Aragón,585,21,58,2
+2021-02-05,01,Andalucía,4420,87,346,39
+2021-02-05,02,Aragón,584,21,58,2
 2021-02-05,03,Asturias,416,9,52,3
 2021-02-05,04,Baleares,178,5,12,6
 2021-02-05,05,Canarias,226,3,14,3
 2021-02-05,06,Cantabria,86,4,6,2
 2021-02-05,07,Castilla y León,1120,31,162,13
 2021-02-05,08,Castilla La Mancha,854,33,58,12
-2021-02-05,09,Cataluña,2277,34,76,5
-2021-02-05,10,C. Valenciana,2760,73,211,21
+2021-02-05,09,Cataluña,2277,34,77,6
+2021-02-05,10,C. Valenciana,2761,73,211,21
 2021-02-05,11,Extremadura,227,10,16,5
 2021-02-05,12,Galicia,862,24,111,15
 2021-02-05,13,Madrid,4285,40,303,18
@@ -8040,7 +8040,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-05,18,Ceuta,40,1,0,0
 2021-02-05,19,Melilla,69,1,5,1
 2021-02-06,00,No consta,34,2,4,0
-2021-02-06,01,Andalucía,2712,75,240,18
+2021-02-06,01,Andalucía,2716,75,240,18
 2021-02-06,02,Aragón,306,7,40,5
 2021-02-06,03,Asturias,261,4,44,6
 2021-02-06,04,Baleares,158,2,17,2
@@ -8049,7 +8049,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-06,07,Castilla y León,600,31,90,7
 2021-02-06,08,Castilla La Mancha,503,36,27,3
 2021-02-06,09,Cataluña,851,38,58,3
-2021-02-06,10,C. Valenciana,1744,63,158,15
+2021-02-06,10,C. Valenciana,1744,63,158,16
 2021-02-06,11,Extremadura,121,12,9,2
 2021-02-06,12,Galicia,763,17,73,16
 2021-02-06,13,Madrid,918,40,174,12
@@ -8059,7 +8059,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-06,17,La Rioja,63,7,15,5
 2021-02-06,18,Ceuta,17,0,0,1
 2021-02-06,19,Melilla,26,0,3,1
-2021-02-07,00,No consta,28,0,5,1
+2021-02-07,00,No consta,27,0,5,1
 2021-02-07,01,Andalucía,1452,73,221,21
 2021-02-07,02,Aragón,201,12,33,3
 2021-02-07,03,Asturias,255,6,39,4
@@ -8069,58 +8069,58 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-07,07,Castilla y León,483,24,98,4
 2021-02-07,08,Castilla La Mancha,217,28,30,3
 2021-02-07,09,Cataluña,549,26,58,9
-2021-02-07,10,C. Valenciana,587,52,122,14
-2021-02-07,11,Extremadura,78,20,15,0
+2021-02-07,10,C. Valenciana,587,52,123,14
+2021-02-07,11,Extremadura,79,20,15,0
 2021-02-07,12,Galicia,518,16,63,18
 2021-02-07,13,Madrid,501,41,153,12
 2021-02-07,14,Murcia,108,12,21,2
 2021-02-07,15,Navarra,84,5,4,0
-2021-02-07,16,País Vasco,576,24,32,10
+2021-02-07,16,País Vasco,577,24,32,10
 2021-02-07,17,La Rioja,51,3,6,1
 2021-02-07,18,Ceuta,14,0,1,0
 2021-02-07,19,Melilla,13,3,3,0
 2021-02-08,00,No consta,46,1,10,1
-2021-02-08,01,Andalucía,2420,92,312,39
+2021-02-08,01,Andalucía,2421,92,313,39
 2021-02-08,02,Aragón,282,19,66,5
 2021-02-08,03,Asturias,237,6,54,2
 2021-02-08,04,Baleares,146,2,10,0
 2021-02-08,05,Canarias,165,2,19,11
 2021-02-08,06,Cantabria,98,0,14,0
-2021-02-08,07,Castilla y León,787,26,109,9
+2021-02-08,07,Castilla y León,788,26,109,9
 2021-02-08,08,Castilla La Mancha,596,26,36,5
-2021-02-08,09,Cataluña,2549,29,93,8
-2021-02-08,10,C. Valenciana,1524,68,186,14
+2021-02-08,09,Cataluña,2550,29,94,8
+2021-02-08,10,C. Valenciana,1524,68,187,15
 2021-02-08,11,Extremadura,187,6,25,2
 2021-02-08,12,Galicia,584,23,102,13
-2021-02-08,13,Madrid,2858,42,281,25
+2021-02-08,13,Madrid,2858,42,282,25
 2021-02-08,14,Murcia,308,16,38,4
 2021-02-08,15,Navarra,145,3,14,0
-2021-02-08,16,País Vasco,601,14,54,4
+2021-02-08,16,País Vasco,602,14,54,4
 2021-02-08,17,La Rioja,39,6,11,2
 2021-02-08,18,Ceuta,32,0,1,0
 2021-02-08,19,Melilla,32,0,3,0
 2021-02-09,00,No consta,47,1,5,0
 2021-02-09,01,Andalucía,3263,77,268,34
-2021-02-09,02,Aragón,497,9,84,6
+2021-02-09,02,Aragón,497,10,84,5
 2021-02-09,03,Asturias,280,10,56,4
 2021-02-09,04,Baleares,173,1,14,2
 2021-02-09,05,Canarias,188,2,22,3
 2021-02-09,06,Cantabria,95,0,15,4
 2021-02-09,07,Castilla y León,748,37,93,7
 2021-02-09,08,Castilla La Mancha,576,17,24,2
-2021-02-09,09,Cataluña,2240,22,75,6
+2021-02-09,09,Cataluña,2241,22,75,7
 2021-02-09,10,C. Valenciana,1722,63,144,9
 2021-02-09,11,Extremadura,122,9,19,1
 2021-02-09,12,Galicia,676,24,102,4
-2021-02-09,13,Madrid,3391,46,240,17
+2021-02-09,13,Madrid,3391,46,243,17
 2021-02-09,14,Murcia,282,13,32,3
 2021-02-09,15,Navarra,92,3,6,0
-2021-02-09,16,País Vasco,682,12,70,6
+2021-02-09,16,País Vasco,683,12,70,6
 2021-02-09,17,La Rioja,69,4,10,1
 2021-02-09,18,Ceuta,35,0,1,0
 2021-02-09,19,Melilla,35,2,6,1
 2021-02-10,00,No consta,48,1,3,0
-2021-02-10,01,Andalucía,2860,89,225,15
+2021-02-10,01,Andalucía,2861,89,225,14
 2021-02-10,02,Aragón,407,10,47,7
 2021-02-10,03,Asturias,266,12,55,2
 2021-02-10,04,Baleares,106,3,16,3
@@ -8132,10 +8132,10 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-10,10,C. Valenciana,1458,75,108,9
 2021-02-10,11,Extremadura,141,11,15,2
 2021-02-10,12,Galicia,728,19,83,13
-2021-02-10,13,Madrid,2820,36,216,10
+2021-02-10,13,Madrid,2820,36,217,10
 2021-02-10,14,Murcia,218,14,24,4
 2021-02-10,15,Navarra,102,2,10,0
-2021-02-10,16,País Vasco,617,15,52,4
+2021-02-10,16,País Vasco,618,15,52,4
 2021-02-10,17,La Rioja,44,2,12,1
 2021-02-10,18,Ceuta,20,0,0,0
 2021-02-10,19,Melilla,45,1,3,0
@@ -8148,31 +8148,31 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-11,06,Cantabria,60,0,8,3
 2021-02-11,07,Castilla y León,598,22,86,6
 2021-02-11,08,Castilla La Mancha,411,19,20,2
-2021-02-11,09,Cataluña,1666,27,77,6
+2021-02-11,09,Cataluña,1666,27,79,6
 2021-02-11,10,C. Valenciana,1203,53,101,9
 2021-02-11,11,Extremadura,122,11,17,2
 2021-02-11,12,Galicia,548,15,61,14
-2021-02-11,13,Madrid,2378,41,200,22
-2021-02-11,14,Murcia,213,16,21,2
+2021-02-11,13,Madrid,2378,41,200,23
+2021-02-11,14,Murcia,213,16,21,3
 2021-02-11,15,Navarra,102,4,9,3
-2021-02-11,16,País Vasco,579,12,31,1
+2021-02-11,16,País Vasco,579,13,32,1
 2021-02-11,17,La Rioja,51,3,11,1
 2021-02-11,18,Ceuta,29,0,0,0
 2021-02-11,19,Melilla,46,0,3,1
 2021-02-12,00,No consta,37,1,5,0
-2021-02-12,01,Andalucía,2363,65,202,17
-2021-02-12,02,Aragón,325,13,46,5
-2021-02-12,03,Asturias,223,11,55,6
+2021-02-12,01,Andalucía,2367,65,202,17
+2021-02-12,02,Aragón,325,12,47,5
+2021-02-12,03,Asturias,222,11,55,6
 2021-02-12,04,Baleares,152,3,8,0
 2021-02-12,05,Canarias,171,5,20,5
 2021-02-12,06,Cantabria,83,0,18,1
 2021-02-12,07,Castilla y León,615,26,89,7
 2021-02-12,08,Castilla La Mancha,357,24,25,1
 2021-02-12,09,Cataluña,1644,22,65,6
-2021-02-12,10,C. Valenciana,1101,38,96,6
+2021-02-12,10,C. Valenciana,1101,39,98,6
 2021-02-12,11,Extremadura,85,12,9,3
 2021-02-12,12,Galicia,515,12,72,10
-2021-02-12,13,Madrid,2736,41,206,15
+2021-02-12,13,Madrid,2736,41,209,15
 2021-02-12,14,Murcia,286,15,15,1
 2021-02-12,15,Navarra,85,2,13,2
 2021-02-12,16,País Vasco,549,15,50,5
@@ -8180,7 +8180,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-12,18,Ceuta,24,1,2,0
 2021-02-12,19,Melilla,48,0,2,1
 2021-02-13,00,No consta,14,2,1,0
-2021-02-13,01,Andalucía,1365,44,126,16
+2021-02-13,01,Andalucía,1366,44,126,16
 2021-02-13,02,Aragón,243,8,13,5
 2021-02-13,03,Asturias,190,8,24,1
 2021-02-13,04,Baleares,85,4,9,2
@@ -8188,20 +8188,20 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-13,06,Cantabria,13,1,12,2
 2021-02-13,07,Castilla y León,353,20,41,4
 2021-02-13,08,Castilla La Mancha,194,18,13,1
-2021-02-13,09,Cataluña,627,20,59,5
-2021-02-13,10,C. Valenciana,696,43,65,4
+2021-02-13,09,Cataluña,627,20,60,5
+2021-02-13,10,C. Valenciana,696,44,66,5
 2021-02-13,11,Extremadura,93,2,9,1
 2021-02-13,12,Galicia,370,13,41,9
-2021-02-13,13,Madrid,585,41,109,8
+2021-02-13,13,Madrid,585,40,110,8
 2021-02-13,14,Murcia,125,10,20,2
 2021-02-13,15,Navarra,57,1,6,1
-2021-02-13,16,País Vasco,385,14,27,2
+2021-02-13,16,País Vasco,386,14,27,2
 2021-02-13,17,La Rioja,29,4,4,0
 2021-02-13,18,Ceuta,20,0,1,0
 2021-02-13,19,Melilla,8,1,0,0
 2021-02-14,00,No consta,8,1,2,0
-2021-02-14,01,Andalucía,725,43,152,10
-2021-02-14,02,Aragón,93,4,14,3
+2021-02-14,01,Andalucía,725,43,153,10
+2021-02-14,02,Aragón,93,4,13,3
 2021-02-14,03,Asturias,142,5,25,2
 2021-02-14,04,Baleares,56,3,4,0
 2021-02-14,05,Canarias,132,0,8,4
@@ -8209,13 +8209,13 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-14,07,Castilla y León,198,13,37,5
 2021-02-14,08,Castilla La Mancha,102,16,16,5
 2021-02-14,09,Cataluña,358,11,39,3
-2021-02-14,10,C. Valenciana,247,38,53,11
+2021-02-14,10,C. Valenciana,247,38,51,11
 2021-02-14,11,Extremadura,33,8,9,0
 2021-02-14,12,Galicia,352,16,39,7
-2021-02-14,13,Madrid,402,30,102,5
+2021-02-14,13,Madrid,402,31,103,5
 2021-02-14,14,Murcia,34,10,12,1
 2021-02-14,15,Navarra,48,3,5,0
-2021-02-14,16,País Vasco,367,15,22,3
+2021-02-14,16,País Vasco,367,16,22,3
 2021-02-14,17,La Rioja,26,3,3,0
 2021-02-14,18,Ceuta,23,0,0,0
 2021-02-14,19,Melilla,13,0,1,0
@@ -8232,16 +8232,16 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-15,10,C. Valenciana,688,39,88,7
 2021-02-15,11,Extremadura,77,5,15,1
 2021-02-15,12,Galicia,369,14,50,4
-2021-02-15,13,Madrid,2087,46,206,20
+2021-02-15,13,Madrid,2088,46,208,20
 2021-02-15,14,Murcia,163,7,22,3
 2021-02-15,15,Navarra,61,1,8,1
-2021-02-15,16,País Vasco,404,14,34,5
+2021-02-15,16,País Vasco,403,14,34,5
 2021-02-15,17,La Rioja,33,2,5,0
 2021-02-15,18,Ceuta,22,0,0,0
 2021-02-15,19,Melilla,24,0,0,0
 2021-02-16,00,No consta,17,1,1,0
 2021-02-16,01,Andalucía,1923,59,148,18
-2021-02-16,02,Aragón,273,17,31,4
+2021-02-16,02,Aragón,273,19,31,4
 2021-02-16,03,Asturias,168,8,29,3
 2021-02-16,04,Baleares,101,2,3,0
 2021-02-16,05,Canarias,162,1,18,1
@@ -8260,8 +8260,8 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-16,18,Ceuta,36,0,1,0
 2021-02-16,19,Melilla,34,0,1,0
 2021-02-17,00,No consta,25,1,2,0
-2021-02-17,01,Andalucía,1608,46,173,20
-2021-02-17,02,Aragón,247,15,32,0
+2021-02-17,01,Andalucía,1608,46,174,20
+2021-02-17,02,Aragón,247,15,34,0
 2021-02-17,03,Asturias,190,2,22,0
 2021-02-17,04,Baleares,104,2,6,0
 2021-02-17,05,Canarias,142,4,7,5
@@ -8269,19 +8269,19 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-17,07,Castilla y León,403,25,55,4
 2021-02-17,08,Castilla La Mancha,254,14,11,0
 2021-02-17,09,Cataluña,1556,21,57,4
-2021-02-17,10,C. Valenciana,665,37,65,7
+2021-02-17,10,C. Valenciana,665,37,66,7
 2021-02-17,11,Extremadura,48,3,4,0
 2021-02-17,12,Galicia,381,8,53,8
-2021-02-17,13,Madrid,1949,37,175,12
+2021-02-17,13,Madrid,1949,37,176,12
 2021-02-17,14,Murcia,135,5,19,4
 2021-02-17,15,Navarra,79,0,9,3
-2021-02-17,16,País Vasco,485,8,36,4
+2021-02-17,16,País Vasco,485,9,36,4
 2021-02-17,17,La Rioja,39,2,8,0
 2021-02-17,18,Ceuta,18,1,0,2
 2021-02-17,19,Melilla,21,2,1,1
 2021-02-18,00,No consta,18,2,3,0
-2021-02-18,01,Andalucía,1529,50,155,22
-2021-02-18,02,Aragón,205,6,23,7
+2021-02-18,01,Andalucía,1531,50,155,22
+2021-02-18,02,Aragón,205,5,22,7
 2021-02-18,03,Asturias,189,8,33,6
 2021-02-18,04,Baleares,78,2,4,0
 2021-02-18,05,Canarias,167,0,14,7
@@ -8289,19 +8289,19 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-18,07,Castilla y León,390,10,51,3
 2021-02-18,08,Castilla La Mancha,229,15,8,1
 2021-02-18,09,Cataluña,1685,19,60,3
-2021-02-18,10,C. Valenciana,523,40,52,6
+2021-02-18,10,C. Valenciana,524,41,52,6
 2021-02-18,11,Extremadura,65,3,11,1
-2021-02-18,12,Galicia,328,8,41,10
+2021-02-18,12,Galicia,328,8,40,10
 2021-02-18,13,Madrid,1792,26,154,14
 2021-02-18,14,Murcia,131,9,20,0
 2021-02-18,15,Navarra,72,2,8,0
-2021-02-18,16,País Vasco,451,16,28,0
+2021-02-18,16,País Vasco,450,16,28,0
 2021-02-18,17,La Rioja,15,3,2,0
 2021-02-18,18,Ceuta,8,0,0,0
 2021-02-18,19,Melilla,18,1,1,0
 2021-02-19,00,No consta,18,3,3,1
-2021-02-19,01,Andalucía,1353,45,119,12
-2021-02-19,02,Aragón,241,6,28,4
+2021-02-19,01,Andalucía,1354,45,119,12
+2021-02-19,02,Aragón,241,6,27,4
 2021-02-19,03,Asturias,163,7,35,1
 2021-02-19,04,Baleares,93,1,8,0
 2021-02-19,05,Canarias,126,3,10,3
@@ -8309,10 +8309,10 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-19,07,Castilla y León,350,12,58,2
 2021-02-19,08,Castilla La Mancha,216,11,12,3
 2021-02-19,09,Cataluña,1533,7,54,4
-2021-02-19,10,C. Valenciana,532,24,43,6
+2021-02-19,10,C. Valenciana,532,23,45,6
 2021-02-19,11,Extremadura,65,4,9,1
 2021-02-19,12,Galicia,332,11,46,6
-2021-02-19,13,Madrid,1926,43,152,13
+2021-02-19,13,Madrid,1926,43,153,13
 2021-02-19,14,Murcia,138,8,14,2
 2021-02-19,15,Navarra,62,3,8,0
 2021-02-19,16,País Vasco,456,14,36,1
@@ -8324,7 +8324,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-20,02,Aragón,160,8,16,2
 2021-02-20,03,Asturias,144,12,29,0
 2021-02-20,04,Baleares,55,2,2,0
-2021-02-20,05,Canarias,177,2,18,7
+2021-02-20,05,Canarias,178,2,18,7
 2021-02-20,06,Cantabria,48,0,9,0
 2021-02-20,07,Castilla y León,219,6,28,6
 2021-02-20,08,Castilla La Mancha,107,4,3,2
@@ -8335,34 +8335,34 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-20,13,Madrid,443,21,107,7
 2021-02-20,14,Murcia,92,10,12,0
 2021-02-20,15,Navarra,59,2,2,0
-2021-02-20,16,País Vasco,303,3,26,1
+2021-02-20,16,País Vasco,303,4,26,1
 2021-02-20,17,La Rioja,13,1,2,1
 2021-02-20,18,Ceuta,11,0,1,1
 2021-02-20,19,Melilla,14,0,2,0
 2021-02-21,00,No consta,4,4,2,0
 2021-02-21,01,Andalucía,358,38,89,9
-2021-02-21,02,Aragón,100,7,23,3
+2021-02-21,02,Aragón,100,7,24,3
 2021-02-21,03,Asturias,110,8,17,2
 2021-02-21,04,Baleares,33,3,9,0
 2021-02-21,05,Canarias,147,4,16,3
 2021-02-21,06,Cantabria,47,2,8,4
 2021-02-21,07,Castilla y León,143,11,43,2
 2021-02-21,08,Castilla La Mancha,61,9,13,2
-2021-02-21,09,Cataluña,372,12,35,3
+2021-02-21,09,Cataluña,373,13,35,3
 2021-02-21,10,C. Valenciana,163,17,35,3
 2021-02-21,11,Extremadura,18,2,2,1
 2021-02-21,12,Galicia,215,6,26,8
 2021-02-21,13,Madrid,368,21,89,9
 2021-02-21,14,Murcia,37,4,16,3
 2021-02-21,15,Navarra,58,0,2,0
-2021-02-21,16,País Vasco,295,5,18,2
+2021-02-21,16,País Vasco,298,5,18,2
 2021-02-21,17,La Rioja,4,0,1,1
 2021-02-21,18,Ceuta,7,2,0,0
 2021-02-21,19,Melilla,8,0,1,0
 2021-02-22,00,No consta,20,1,0,0
-2021-02-22,01,Andalucía,1024,50,123,9
+2021-02-22,01,Andalucía,1024,50,124,9
 2021-02-22,02,Aragón,174,7,30,3
-2021-02-22,03,Asturias,121,6,27,5
+2021-02-22,03,Asturias,121,7,27,5
 2021-02-22,04,Baleares,51,2,6,1
 2021-02-22,05,Canarias,182,3,12,3
 2021-02-22,06,Cantabria,63,0,20,2
@@ -8372,16 +8372,16 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-22,10,C. Valenciana,313,28,60,5
 2021-02-22,11,Extremadura,37,4,4,1
 2021-02-22,12,Galicia,259,7,27,8
-2021-02-22,13,Madrid,1519,37,147,14
+2021-02-22,13,Madrid,1519,37,148,14
 2021-02-22,14,Murcia,119,4,15,0
 2021-02-22,15,Navarra,61,1,2,1
 2021-02-22,16,País Vasco,389,10,25,3
 2021-02-22,17,La Rioja,18,3,2,0
 2021-02-22,18,Ceuta,17,1,0,0
-2021-02-22,19,Melilla,26,2,1,0
+2021-02-22,19,Melilla,27,2,1,0
 2021-02-23,00,No consta,13,0,0,0
 2021-02-23,01,Andalucía,1128,41,107,4
-2021-02-23,02,Aragón,212,6,19,1
+2021-02-23,02,Aragón,212,5,19,1
 2021-02-23,03,Asturias,158,4,28,2
 2021-02-23,04,Baleares,55,2,8,0
 2021-02-23,05,Canarias,203,4,13,0
@@ -8400,7 +8400,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-23,18,Ceuta,18,1,0,0
 2021-02-23,19,Melilla,25,2,1,0
 2021-02-24,00,No consta,16,0,2,2
-2021-02-24,01,Andalucía,1067,48,115,11
+2021-02-24,01,Andalucía,1067,48,117,11
 2021-02-24,02,Aragón,182,6,31,5
 2021-02-24,03,Asturias,141,8,22,1
 2021-02-24,04,Baleares,58,0,8,0
@@ -8408,7 +8408,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-24,06,Cantabria,58,3,8,3
 2021-02-24,07,Castilla y León,265,16,33,1
 2021-02-24,08,Castilla La Mancha,125,4,4,1
-2021-02-24,09,Cataluña,1401,10,58,2
+2021-02-24,09,Cataluña,1401,11,58,2
 2021-02-24,10,C. Valenciana,380,27,32,3
 2021-02-24,11,Extremadura,43,4,1,1
 2021-02-24,12,Galicia,271,10,32,3
@@ -8427,12 +8427,12 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-25,05,Canarias,206,0,19,4
 2021-02-25,06,Cantabria,44,1,9,1
 2021-02-25,07,Castilla y León,232,16,47,4
-2021-02-25,08,Castilla La Mancha,220,9,9,0
-2021-02-25,09,Cataluña,1296,15,51,1
-2021-02-25,10,C. Valenciana,353,17,28,3
+2021-02-25,08,Castilla La Mancha,218,9,9,0
+2021-02-25,09,Cataluña,1297,15,52,1
+2021-02-25,10,C. Valenciana,353,18,28,3
 2021-02-25,11,Extremadura,35,1,2,0
 2021-02-25,12,Galicia,286,7,33,5
-2021-02-25,13,Madrid,1332,24,118,8
+2021-02-25,13,Madrid,1332,24,119,9
 2021-02-25,14,Murcia,95,14,9,3
 2021-02-25,15,Navarra,51,1,2,1
 2021-02-25,16,País Vasco,323,6,19,2
@@ -8440,19 +8440,19 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-25,18,Ceuta,14,0,0,0
 2021-02-25,19,Melilla,16,2,3,0
 2021-02-26,00,No consta,11,0,1,0
-2021-02-26,01,Andalucía,1101,38,101,6
+2021-02-26,01,Andalucía,1102,38,101,6
 2021-02-26,02,Aragón,188,9,26,2
 2021-02-26,03,Asturias,162,5,34,1
 2021-02-26,04,Baleares,73,1,1,0
 2021-02-26,05,Canarias,167,1,15,5
 2021-02-26,06,Cantabria,55,0,10,3
 2021-02-26,07,Castilla y León,294,19,30,4
-2021-02-26,08,Castilla La Mancha,176,4,9,1
-2021-02-26,09,Cataluña,1343,10,65,5
+2021-02-26,08,Castilla La Mancha,176,4,10,1
+2021-02-26,09,Cataluña,1344,10,65,5
 2021-02-26,10,C. Valenciana,347,14,32,5
 2021-02-26,11,Extremadura,37,7,6,0
 2021-02-26,12,Galicia,211,11,29,4
-2021-02-26,13,Madrid,1585,17,132,9
+2021-02-26,13,Madrid,1584,17,132,9
 2021-02-26,14,Murcia,96,7,12,3
 2021-02-26,15,Navarra,45,0,5,1
 2021-02-26,16,País Vasco,310,13,32,5
@@ -8460,7 +8460,7 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-26,18,Ceuta,35,1,1,0
 2021-02-26,19,Melilla,23,1,2,0
 2021-02-27,00,No consta,2,0,0,0
-2021-02-27,01,Andalucía,613,36,78,7
+2021-02-27,01,Andalucía,616,36,78,8
 2021-02-27,02,Aragón,129,3,14,1
 2021-02-27,03,Asturias,103,7,16,5
 2021-02-27,04,Baleares,33,0,1,0
@@ -8475,12 +8475,12 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-27,13,Madrid,478,19,83,5
 2021-02-27,14,Murcia,44,4,11,0
 2021-02-27,15,Navarra,46,1,2,1
-2021-02-27,16,País Vasco,254,14,16,3
+2021-02-27,16,País Vasco,254,14,17,3
 2021-02-27,17,La Rioja,10,0,5,1
 2021-02-27,18,Ceuta,9,1,1,0
 2021-02-27,19,Melilla,17,0,3,1
 2021-02-28,00,No consta,5,0,1,0
-2021-02-28,01,Andalucía,423,35,68,12
+2021-02-28,01,Andalucía,423,36,68,12
 2021-02-28,02,Aragón,63,6,19,2
 2021-02-28,03,Asturias,101,9,14,3
 2021-02-28,04,Baleares,41,1,7,2
@@ -8495,12 +8495,12 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-28,13,Madrid,285,24,72,5
 2021-02-28,14,Murcia,56,2,14,1
 2021-02-28,15,Navarra,42,1,0,0
-2021-02-28,16,País Vasco,219,8,14,0
+2021-02-28,16,País Vasco,218,8,14,0
 2021-02-28,17,La Rioja,16,1,1,0
 2021-02-28,18,Ceuta,10,0,0,0
 2021-02-28,19,Melilla,7,0,0,0
-2021-03-01,00,No consta,17,0,5,0
-2021-03-01,01,Andalucía,283,32,77,6
+2021-03-01,00,No consta,18,0,5,0
+2021-03-01,01,Andalucía,284,32,77,6
 2021-03-01,02,Aragón,139,3,27,3
 2021-03-01,03,Asturias,163,5,24,2
 2021-03-01,04,Baleares,29,1,2,0
@@ -8508,28 +8508,28 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-01,06,Cantabria,40,1,5,0
 2021-03-01,07,Castilla y León,266,12,24,1
 2021-03-01,08,Castilla La Mancha,142,6,9,1
-2021-03-01,09,Cataluña,1580,10,50,1
-2021-03-01,10,C. Valenciana,189,5,23,3
+2021-03-01,09,Cataluña,1580,10,51,1
+2021-03-01,10,C. Valenciana,189,5,24,3
 2021-03-01,11,Extremadura,42,1,2,0
 2021-03-01,12,Galicia,107,3,31,5
-2021-03-01,13,Madrid,1346,20,125,15
+2021-03-01,13,Madrid,1346,20,128,15
 2021-03-01,14,Murcia,84,5,8,1
 2021-03-01,15,Navarra,62,0,4,1
-2021-03-01,16,País Vasco,346,5,14,1
+2021-03-01,16,País Vasco,345,5,14,1
 2021-03-01,17,La Rioja,18,0,1,0
 2021-03-01,18,Ceuta,62,0,1,0
 2021-03-01,19,Melilla,33,0,3,1
 2021-03-02,00,No consta,16,2,2,0
-2021-03-02,01,Andalucía,836,33,96,11
+2021-03-02,01,Andalucía,836,34,95,11
 2021-03-02,02,Aragón,222,9,26,3
 2021-03-02,03,Asturias,148,5,28,2
 2021-03-02,04,Baleares,49,0,4,0
 2021-03-02,05,Canarias,168,3,14,6
 2021-03-02,06,Cantabria,48,2,3,0
 2021-03-02,07,Castilla y León,198,11,24,3
-2021-03-02,08,Castilla La Mancha,140,10,5,1
-2021-03-02,09,Cataluña,1413,7,54,2
-2021-03-02,10,C. Valenciana,255,12,35,2
+2021-03-02,08,Castilla La Mancha,141,10,5,1
+2021-03-02,09,Cataluña,1414,7,54,2
+2021-03-02,10,C. Valenciana,256,12,35,3
 2021-03-02,11,Extremadura,39,1,1,0
 2021-03-02,12,Galicia,198,3,21,5
 2021-03-02,13,Madrid,1447,20,101,17
@@ -8540,8 +8540,8 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-02,18,Ceuta,15,1,0,1
 2021-03-02,19,Melilla,30,0,1,0
 2021-03-03,00,No consta,11,0,0,0
-2021-03-03,01,Andalucía,1151,31,100,5
-2021-03-03,02,Aragón,178,11,28,4
+2021-03-03,01,Andalucía,1151,31,101,5
+2021-03-03,02,Aragón,178,11,29,4
 2021-03-03,03,Asturias,135,7,22,2
 2021-03-03,04,Baleares,42,2,4,1
 2021-03-03,05,Canarias,170,1,18,2
@@ -8549,26 +8549,26 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-03,07,Castilla y León,228,8,28,4
 2021-03-03,08,Castilla La Mancha,167,6,6,0
 2021-03-03,09,Cataluña,1232,10,44,5
-2021-03-03,10,C. Valenciana,252,10,17,0
+2021-03-03,10,C. Valenciana,255,10,17,0
 2021-03-03,11,Extremadura,35,1,5,1
 2021-03-03,12,Galicia,202,2,22,4
-2021-03-03,13,Madrid,1412,25,112,5
-2021-03-03,14,Murcia,92,1,3,2
+2021-03-03,13,Madrid,1412,25,110,5
+2021-03-03,14,Murcia,92,1,4,2
 2021-03-03,15,Navarra,55,3,6,0
-2021-03-03,16,País Vasco,315,2,14,1
+2021-03-03,16,País Vasco,314,2,14,1
 2021-03-03,17,La Rioja,23,0,4,0
 2021-03-03,18,Ceuta,11,1,1,0
 2021-03-03,19,Melilla,25,0,3,0
-2021-03-04,00,No consta,19,1,1,0
-2021-03-04,01,Andalucía,1140,32,88,10
+2021-03-04,00,No consta,18,1,1,0
+2021-03-04,01,Andalucía,1141,32,88,11
 2021-03-04,02,Aragón,166,2,32,5
 2021-03-04,03,Asturias,160,3,25,1
 2021-03-04,04,Baleares,42,2,4,0
-2021-03-04,05,Canarias,213,3,12,4
+2021-03-04,05,Canarias,214,3,12,4
 2021-03-04,06,Cantabria,43,0,8,1
 2021-03-04,07,Castilla y León,199,12,36,0
 2021-03-04,08,Castilla La Mancha,142,3,5,2
-2021-03-04,09,Cataluña,1059,8,49,2
+2021-03-04,09,Cataluña,1060,8,49,2
 2021-03-04,10,C. Valenciana,243,5,18,2
 2021-03-04,11,Extremadura,23,0,1,0
 2021-03-04,12,Galicia,174,3,31,5
@@ -8579,23 +8579,23 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-04,17,La Rioja,25,1,6,1
 2021-03-04,18,Ceuta,19,1,1,1
 2021-03-04,19,Melilla,37,0,3,0
-2021-03-05,00,No consta,11,0,2,0
-2021-03-05,01,Andalucía,986,22,75,9
+2021-03-05,00,No consta,11,0,1,0
+2021-03-05,01,Andalucía,987,23,75,10
 2021-03-05,02,Aragón,139,3,24,2
 2021-03-05,03,Asturias,142,6,17,0
 2021-03-05,04,Baleares,56,1,6,1
-2021-03-05,05,Canarias,179,4,17,6
+2021-03-05,05,Canarias,181,4,19,6
 2021-03-05,06,Cantabria,26,4,10,3
 2021-03-05,07,Castilla y León,219,4,34,2
 2021-03-05,08,Castilla La Mancha,161,5,10,1
-2021-03-05,09,Cataluña,1220,6,55,1
-2021-03-05,10,C. Valenciana,218,7,18,2
+2021-03-05,09,Cataluña,1221,6,55,1
+2021-03-05,10,C. Valenciana,219,7,18,2
 2021-03-05,11,Extremadura,31,2,2,0
 2021-03-05,12,Galicia,161,6,23,2
-2021-03-05,13,Madrid,1526,19,138,19
+2021-03-05,13,Madrid,1526,19,140,19
 2021-03-05,14,Murcia,78,5,8,3
 2021-03-05,15,Navarra,62,0,2,0
-2021-03-05,16,País Vasco,265,10,23,0
+2021-03-05,16,País Vasco,264,11,23,0
 2021-03-05,17,La Rioja,12,1,1,0
 2021-03-05,18,Ceuta,9,0,2,1
 2021-03-05,19,Melilla,39,0,3,2
@@ -8620,322 +8620,342 @@ Fecha,cod_ine,CCAA,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-06,18,Ceuta,14,0,0,0
 2021-03-06,19,Melilla,24,0,0,0
 2021-03-07,00,No consta,8,0,1,0
-2021-03-07,01,Andalucía,330,16,75,7
+2021-03-07,01,Andalucía,329,16,75,9
 2021-03-07,02,Aragón,40,2,18,3
 2021-03-07,03,Asturias,126,0,11,2
 2021-03-07,04,Baleares,25,0,0,0
-2021-03-07,05,Canarias,122,3,17,1
+2021-03-07,05,Canarias,123,3,18,2
 2021-03-07,06,Cantabria,44,2,2,1
-2021-03-07,07,Castilla y León,106,5,19,5
+2021-03-07,07,Castilla y León,106,5,20,5
 2021-03-07,08,Castilla La Mancha,52,2,5,0
-2021-03-07,09,Cataluña,344,5,37,1
-2021-03-07,10,C. Valenciana,84,9,15,1
+2021-03-07,09,Cataluña,346,5,37,1
+2021-03-07,10,C. Valenciana,85,9,15,1
 2021-03-07,11,Extremadura,14,2,5,0
 2021-03-07,12,Galicia,80,5,18,5
 2021-03-07,13,Madrid,262,17,86,8
 2021-03-07,14,Murcia,18,2,5,0
 2021-03-07,15,Navarra,49,0,4,1
-2021-03-07,16,País Vasco,213,8,10,0
+2021-03-07,16,País Vasco,215,9,10,0
 2021-03-07,17,La Rioja,8,0,5,0
 2021-03-07,18,Ceuta,6,0,1,1
 2021-03-07,19,Melilla,13,1,1,1
 2021-03-08,00,No consta,10,1,1,0
-2021-03-08,01,Andalucía,780,18,95,4
+2021-03-08,01,Andalucía,782,18,94,4
 2021-03-08,02,Aragón,104,5,21,2
 2021-03-08,03,Asturias,102,3,18,1
 2021-03-08,04,Baleares,37,1,3,0
-2021-03-08,05,Canarias,191,1,15,3
+2021-03-08,05,Canarias,192,1,15,3
 2021-03-08,06,Cantabria,27,2,12,2
-2021-03-08,07,Castilla y León,189,6,25,0
-2021-03-08,08,Castilla La Mancha,116,3,6,1
-2021-03-08,09,Cataluña,1257,12,69,2
+2021-03-08,07,Castilla y León,189,6,26,0
+2021-03-08,08,Castilla La Mancha,118,3,8,2
+2021-03-08,09,Cataluña,1260,12,69,2
 2021-03-08,10,C. Valenciana,128,8,17,2
 2021-03-08,11,Extremadura,40,2,4,0
 2021-03-08,12,Galicia,172,4,15,3
-2021-03-08,13,Madrid,1257,18,135,8
+2021-03-08,13,Madrid,1257,18,136,8
 2021-03-08,14,Murcia,107,2,10,1
 2021-03-08,15,Navarra,61,2,3,1
-2021-03-08,16,País Vasco,278,4,4,3
+2021-03-08,16,País Vasco,277,7,4,3
 2021-03-08,17,La Rioja,13,0,8,0
 2021-03-08,18,Ceuta,15,0,1,0
 2021-03-08,19,Melilla,31,1,3,2
 2021-03-09,00,No consta,14,1,1,0
-2021-03-09,01,Andalucía,1049,23,84,12
+2021-03-09,01,Andalucía,1050,23,84,12
 2021-03-09,02,Aragón,168,5,20,3
 2021-03-09,03,Asturias,104,1,16,0
 2021-03-09,04,Baleares,38,1,4,1
-2021-03-09,05,Canarias,198,3,9,5
+2021-03-09,05,Canarias,198,3,8,6
 2021-03-09,06,Cantabria,48,1,5,0
 2021-03-09,07,Castilla y León,217,9,20,0
 2021-03-09,08,Castilla La Mancha,138,4,7,1
-2021-03-09,09,Cataluña,1182,7,61,4
-2021-03-09,10,C. Valenciana,184,7,19,3
+2021-03-09,09,Cataluña,1183,8,63,4
+2021-03-09,10,C. Valenciana,184,7,20,3
 2021-03-09,11,Extremadura,54,0,3,0
 2021-03-09,12,Galicia,154,1,25,3
-2021-03-09,13,Madrid,1495,22,104,9
+2021-03-09,13,Madrid,1495,23,107,9
 2021-03-09,14,Murcia,64,3,9,1
 2021-03-09,15,Navarra,52,0,5,0
-2021-03-09,16,País Vasco,275,5,5,0
+2021-03-09,16,País Vasco,275,7,6,0
 2021-03-09,17,La Rioja,18,1,2,1
 2021-03-09,18,Ceuta,15,0,2,0
 2021-03-09,19,Melilla,38,0,1,0
 2021-03-10,00,No consta,17,0,0,0
-2021-03-10,01,Andalucía,978,15,67,7
+2021-03-10,01,Andalucía,980,15,70,7
 2021-03-10,02,Aragón,143,2,21,2
-2021-03-10,03,Asturias,100,4,24,0
+2021-03-10,03,Asturias,100,5,24,0
 2021-03-10,04,Baleares,42,0,2,0
 2021-03-10,05,Canarias,229,1,17,5
 2021-03-10,06,Cantabria,44,1,9,0
 2021-03-10,07,Castilla y León,189,4,23,1
 2021-03-10,08,Castilla La Mancha,193,0,8,1
-2021-03-10,09,Cataluña,1130,11,44,2
+2021-03-10,09,Cataluña,1132,11,44,2
 2021-03-10,10,C. Valenciana,157,6,14,3
 2021-03-10,11,Extremadura,60,2,3,0
 2021-03-10,12,Galicia,158,3,13,2
-2021-03-10,13,Madrid,1347,19,106,10
-2021-03-10,14,Murcia,94,1,12,0
+2021-03-10,13,Madrid,1353,19,107,10
+2021-03-10,14,Murcia,94,1,12,1
 2021-03-10,15,Navarra,70,2,4,1
-2021-03-10,16,País Vasco,320,9,5,0
+2021-03-10,16,País Vasco,322,11,6,0
 2021-03-10,17,La Rioja,24,1,2,0
 2021-03-10,18,Ceuta,14,1,0,0
 2021-03-10,19,Melilla,24,0,0,0
 2021-03-11,00,No consta,8,0,1,0
-2021-03-11,01,Andalucía,914,22,71,7
+2021-03-11,01,Andalucía,915,22,74,8
 2021-03-11,02,Aragón,156,1,18,4
 2021-03-11,03,Asturias,142,2,26,2
 2021-03-11,04,Baleares,41,2,5,0
-2021-03-11,05,Canarias,233,4,13,4
+2021-03-11,05,Canarias,233,4,14,5
 2021-03-11,06,Cantabria,39,1,6,0
 2021-03-11,07,Castilla y León,211,10,19,1
 2021-03-11,08,Castilla La Mancha,150,0,6,0
-2021-03-11,09,Cataluña,1061,4,22,2
-2021-03-11,10,C. Valenciana,161,4,14,2
+2021-03-11,09,Cataluña,1063,4,25,3
+2021-03-11,10,C. Valenciana,162,4,13,2
 2021-03-11,11,Extremadura,70,1,4,0
-2021-03-11,12,Galicia,202,3,21,6
-2021-03-11,13,Madrid,1278,15,106,9
-2021-03-11,14,Murcia,72,1,13,2
+2021-03-11,12,Galicia,202,3,22,6
+2021-03-11,13,Madrid,1281,15,106,9
+2021-03-11,14,Murcia,72,1,13,3
 2021-03-11,15,Navarra,73,1,8,0
-2021-03-11,16,País Vasco,310,3,6,1
+2021-03-11,16,País Vasco,310,5,8,1
 2021-03-11,17,La Rioja,19,1,3,1
 2021-03-11,18,Ceuta,6,0,1,0
 2021-03-11,19,Melilla,41,0,3,0
 2021-03-12,00,No consta,12,0,0,0
-2021-03-12,01,Andalucía,939,12,72,6
+2021-03-12,01,Andalucía,941,14,81,6
 2021-03-12,02,Aragón,122,8,23,1
 2021-03-12,03,Asturias,160,2,13,0
 2021-03-12,04,Baleares,41,0,2,0
 2021-03-12,05,Canarias,244,0,17,2
 2021-03-12,06,Cantabria,45,0,4,1
-2021-03-12,07,Castilla y León,212,8,25,0
-2021-03-12,08,Castilla La Mancha,133,5,3,1
-2021-03-12,09,Cataluña,1208,6,24,2
-2021-03-12,10,C. Valenciana,162,6,11,2
+2021-03-12,07,Castilla y León,212,8,24,0
+2021-03-12,08,Castilla La Mancha,134,5,3,1
+2021-03-12,09,Cataluña,1229,6,24,2
+2021-03-12,10,C. Valenciana,169,6,11,3
 2021-03-12,11,Extremadura,100,1,3,1
 2021-03-12,12,Galicia,181,6,19,6
-2021-03-12,13,Madrid,1576,20,135,10
+2021-03-12,13,Madrid,1582,21,138,10
 2021-03-12,14,Murcia,60,2,14,1
 2021-03-12,15,Navarra,54,1,7,0
-2021-03-12,16,País Vasco,282,4,3,0
-2021-03-12,17,La Rioja,24,2,1,0
+2021-03-12,16,País Vasco,283,4,5,0
+2021-03-12,17,La Rioja,23,2,1,0
 2021-03-12,18,Ceuta,19,0,3,0
 2021-03-12,19,Melilla,28,0,2,0
 2021-03-13,00,No consta,8,1,0,0
-2021-03-13,01,Andalucía,521,10,52,7
+2021-03-13,01,Andalucía,520,11,60,7
 2021-03-13,02,Aragón,101,2,15,1
 2021-03-13,03,Asturias,96,3,5,1
 2021-03-13,04,Baleares,20,0,2,0
 2021-03-13,05,Canarias,166,1,12,1
 2021-03-13,06,Cantabria,46,1,8,0
-2021-03-13,07,Castilla y León,126,8,14,1
-2021-03-13,08,Castilla La Mancha,70,2,3,0
-2021-03-13,09,Cataluña,450,5,43,2
-2021-03-13,10,C. Valenciana,112,1,11,3
+2021-03-13,07,Castilla y León,126,8,16,2
+2021-03-13,08,Castilla La Mancha,72,2,3,0
+2021-03-13,09,Cataluña,461,6,44,3
+2021-03-13,10,C. Valenciana,108,1,11,3
 2021-03-13,11,Extremadura,44,0,4,0
 2021-03-13,12,Galicia,124,6,21,3
-2021-03-13,13,Madrid,396,13,74,4
+2021-03-13,13,Madrid,398,13,74,4
 2021-03-13,14,Murcia,68,1,10,4
 2021-03-13,15,Navarra,53,0,2,3
-2021-03-13,16,País Vasco,273,6,0,0
+2021-03-13,16,País Vasco,272,6,1,0
 2021-03-13,17,La Rioja,5,0,2,2
 2021-03-13,18,Ceuta,7,0,1,0
 2021-03-13,19,Melilla,17,0,3,0
 2021-03-14,00,No consta,4,0,2,0
-2021-03-14,01,Andalucía,341,20,53,4
+2021-03-14,01,Andalucía,342,21,60,4
 2021-03-14,02,Aragón,45,1,11,2
 2021-03-14,03,Asturias,104,3,18,1
 2021-03-14,04,Baleares,23,0,1,0
 2021-03-14,05,Canarias,123,3,18,2
 2021-03-14,06,Cantabria,26,0,5,0
 2021-03-14,07,Castilla y León,78,7,14,2
-2021-03-14,08,Castilla La Mancha,51,3,2,0
-2021-03-14,09,Cataluña,303,1,17,3
-2021-03-14,10,C. Valenciana,58,4,7,1
+2021-03-14,08,Castilla La Mancha,50,3,3,0
+2021-03-14,09,Cataluña,305,1,17,3
+2021-03-14,10,C. Valenciana,58,5,7,1
 2021-03-14,11,Extremadura,18,0,1,0
-2021-03-14,12,Galicia,110,1,10,1
-2021-03-14,13,Madrid,276,9,74,4
+2021-03-14,12,Galicia,110,1,11,1
+2021-03-14,13,Madrid,277,9,74,4
 2021-03-14,14,Murcia,21,0,6,1
 2021-03-14,15,Navarra,44,0,5,1
-2021-03-14,16,País Vasco,220,3,2,0
+2021-03-14,16,País Vasco,221,3,2,0
 2021-03-14,17,La Rioja,13,1,1,0
 2021-03-14,18,Ceuta,10,0,4,0
 2021-03-14,19,Melilla,11,2,6,2
-2021-03-15,00,No consta,13,0,1,0
-2021-03-15,01,Andalucía,731,17,69,7
+2021-03-15,00,No consta,14,0,1,0
+2021-03-15,01,Andalucía,733,17,82,8
 2021-03-15,02,Aragón,102,4,17,2
-2021-03-15,03,Asturias,110,2,20,1
+2021-03-15,03,Asturias,111,2,20,1
 2021-03-15,04,Baleares,34,1,3,0
-2021-03-15,05,Canarias,241,3,10,4
+2021-03-15,05,Canarias,241,4,10,4
 2021-03-15,06,Cantabria,54,0,5,1
 2021-03-15,07,Castilla y León,223,7,30,2
-2021-03-15,08,Castilla La Mancha,129,7,4,0
-2021-03-15,09,Cataluña,1464,4,27,1
-2021-03-15,10,C. Valenciana,97,10,12,1
-2021-03-15,11,Extremadura,105,2,4,1
+2021-03-15,08,Castilla La Mancha,134,7,5,0
+2021-03-15,09,Cataluña,1477,4,29,1
+2021-03-15,10,C. Valenciana,99,10,11,1
+2021-03-15,11,Extremadura,106,2,4,1
 2021-03-15,12,Galicia,135,3,16,0
-2021-03-15,13,Madrid,1301,16,116,9
+2021-03-15,13,Madrid,1309,16,119,9
 2021-03-15,14,Murcia,80,0,6,1
 2021-03-15,15,Navarra,73,1,5,0
-2021-03-15,16,País Vasco,330,1,2,0
+2021-03-15,16,País Vasco,332,2,2,0
 2021-03-15,17,La Rioja,6,1,6,0
 2021-03-15,18,Ceuta,18,1,7,0
 2021-03-15,19,Melilla,50,0,0,1
-2021-03-16,00,No consta,10,0,1,0
-2021-03-16,01,Andalucía,990,21,60,3
+2021-03-16,00,No consta,9,0,1,0
+2021-03-16,01,Andalucía,997,22,71,3
 2021-03-16,02,Aragón,148,6,16,3
-2021-03-16,03,Asturias,146,4,13,0
+2021-03-16,03,Asturias,145,4,13,0
 2021-03-16,04,Baleares,43,0,2,0
-2021-03-16,05,Canarias,230,4,12,2
+2021-03-16,05,Canarias,231,4,13,3
 2021-03-16,06,Cantabria,42,0,6,3
 2021-03-16,07,Castilla y León,223,10,18,1
-2021-03-16,08,Castilla La Mancha,149,3,1,0
-2021-03-16,09,Cataluña,1346,8,31,1
-2021-03-16,10,C. Valenciana,109,2,11,1
-2021-03-16,11,Extremadura,120,0,3,0
+2021-03-16,08,Castilla La Mancha,152,3,1,0
+2021-03-16,09,Cataluña,1368,8,35,2
+2021-03-16,10,C. Valenciana,110,2,12,1
+2021-03-16,11,Extremadura,120,0,2,0
 2021-03-16,12,Galicia,164,4,24,2
-2021-03-16,13,Madrid,1549,19,101,20
-2021-03-16,14,Murcia,54,1,9,0
+2021-03-16,13,Madrid,1568,21,105,21
+2021-03-16,14,Murcia,55,1,9,0
 2021-03-16,15,Navarra,101,2,8,2
-2021-03-16,16,País Vasco,314,1,0,0
+2021-03-16,16,País Vasco,318,4,0,0
 2021-03-16,17,La Rioja,10,0,1,0
 2021-03-16,18,Ceuta,17,0,4,0
 2021-03-16,19,Melilla,49,0,1,1
-2021-03-17,00,No consta,12,0,2,0
-2021-03-17,01,Andalucía,880,12,67,1
+2021-03-17,00,No consta,11,0,2,0
+2021-03-17,01,Andalucía,890,14,86,2
 2021-03-17,02,Aragón,114,3,16,4
 2021-03-17,03,Asturias,132,3,28,2
 2021-03-17,04,Baleares,62,1,2,0
 2021-03-17,05,Canarias,224,2,17,2
 2021-03-17,06,Cantabria,48,1,11,1
-2021-03-17,07,Castilla y León,232,6,26,4
-2021-03-17,08,Castilla La Mancha,139,3,6,0
-2021-03-17,09,Cataluña,1173,2,29,0
-2021-03-17,10,C. Valenciana,135,3,11,2
+2021-03-17,07,Castilla y León,233,8,29,4
+2021-03-17,08,Castilla La Mancha,148,3,7,0
+2021-03-17,09,Cataluña,1208,3,32,0
+2021-03-17,10,C. Valenciana,133,3,14,4
 2021-03-17,11,Extremadura,78,0,9,0
 2021-03-17,12,Galicia,199,4,7,2
-2021-03-17,13,Madrid,1483,8,104,11
+2021-03-17,13,Madrid,1508,16,105,11
 2021-03-17,14,Murcia,59,0,7,1
-2021-03-17,15,Navarra,68,0,4,2
-2021-03-17,16,País Vasco,353,3,1,0
-2021-03-17,17,La Rioja,21,1,1,0
+2021-03-17,15,Navarra,68,0,5,2
+2021-03-17,16,País Vasco,355,6,1,0
+2021-03-17,17,La Rioja,21,1,2,0
 2021-03-17,18,Ceuta,35,0,1,0
 2021-03-17,19,Melilla,48,1,3,1
-2021-03-18,00,No consta,11,0,0,0
-2021-03-18,01,Andalucía,977,11,52,1
+2021-03-18,00,No consta,10,0,0,0
+2021-03-18,01,Andalucía,1011,11,70,1
 2021-03-18,02,Aragón,215,7,20,2
 2021-03-18,03,Asturias,135,1,15,5
 2021-03-18,04,Baleares,47,0,0,0
-2021-03-18,05,Canarias,211,2,16,1
+2021-03-18,05,Canarias,213,2,16,1
 2021-03-18,06,Cantabria,37,0,7,1
-2021-03-18,07,Castilla y León,205,3,18,1
-2021-03-18,08,Castilla La Mancha,130,1,8,0
-2021-03-18,09,Cataluña,980,4,16,0
-2021-03-18,10,C. Valenciana,114,0,10,0
-2021-03-18,11,Extremadura,74,0,6,0
+2021-03-18,07,Castilla y León,208,4,19,2
+2021-03-18,08,Castilla La Mancha,161,1,8,0
+2021-03-18,09,Cataluña,1249,5,25,1
+2021-03-18,10,C. Valenciana,112,4,11,0
+2021-03-18,11,Extremadura,75,0,6,0
 2021-03-18,12,Galicia,190,2,20,5
-2021-03-18,13,Madrid,1645,0,91,12
-2021-03-18,14,Murcia,81,1,3,0
-2021-03-18,15,Navarra,119,0,6,2
-2021-03-18,16,País Vasco,382,0,0,0
+2021-03-18,13,Madrid,1694,8,93,12
+2021-03-18,14,Murcia,83,2,6,0
+2021-03-18,15,Navarra,122,0,6,2
+2021-03-18,16,País Vasco,393,3,0,0
 2021-03-18,17,La Rioja,40,0,3,0
 2021-03-18,18,Ceuta,13,0,1,0
 2021-03-18,19,Melilla,39,0,2,0
-2021-03-19,00,No consta,12,0,1,0
-2021-03-19,01,Andalucía,845,3,28,2
-2021-03-19,02,Aragón,164,1,16,3
+2021-03-19,00,No consta,13,0,3,0
+2021-03-19,01,Andalucía,960,8,58,2
+2021-03-19,02,Aragón,164,6,16,3
 2021-03-19,03,Asturias,143,4,17,0
 2021-03-19,04,Baleares,68,0,0,0
-2021-03-19,05,Canarias,214,3,10,2
+2021-03-19,05,Canarias,217,3,10,2
 2021-03-19,06,Cantabria,38,1,6,1
-2021-03-19,07,Castilla y León,199,3,15,0
-2021-03-19,08,Castilla La Mancha,81,2,1,0
-2021-03-19,09,Cataluña,829,1,10,0
-2021-03-19,10,C. Valenciana,53,0,4,0
+2021-03-19,07,Castilla y León,211,6,22,1
+2021-03-19,08,Castilla La Mancha,150,2,3,1
+2021-03-19,09,Cataluña,1245,1,20,0
+2021-03-19,10,C. Valenciana,58,2,4,0
 2021-03-19,11,Extremadura,54,0,7,1
-2021-03-19,12,Galicia,134,3,16,1
-2021-03-19,13,Madrid,370,0,69,7
-2021-03-19,14,Murcia,15,0,2,1
-2021-03-19,15,Navarra,101,1,4,1
-2021-03-19,16,País Vasco,277,0,0,0
+2021-03-19,12,Galicia,135,3,16,1
+2021-03-19,13,Madrid,381,9,73,7
+2021-03-19,14,Murcia,16,0,5,2
+2021-03-19,15,Navarra,102,1,4,1
+2021-03-19,16,País Vasco,278,0,0,0
 2021-03-19,17,La Rioja,32,0,2,0
 2021-03-19,18,Ceuta,16,0,2,1
 2021-03-19,19,Melilla,38,0,3,2
-2021-03-20,00,No consta,11,0,2,0
-2021-03-20,01,Andalucía,339,0,10,1
-2021-03-20,02,Aragón,107,0,5,1
+2021-03-20,00,No consta,13,0,1,0
+2021-03-20,01,Andalucía,449,6,44,3
+2021-03-20,02,Aragón,107,2,5,2
 2021-03-20,03,Asturias,65,2,13,0
 2021-03-20,04,Baleares,39,0,0,0
-2021-03-20,05,Canarias,221,3,19,2
-2021-03-20,06,Cantabria,54,0,5,2
-2021-03-20,07,Castilla y León,134,5,5,0
-2021-03-20,08,Castilla La Mancha,23,3,0,0
-2021-03-20,09,Cataluña,204,0,5,0
-2021-03-20,10,C. Valenciana,34,0,5,0
+2021-03-20,05,Canarias,223,3,19,4
+2021-03-20,06,Cantabria,53,0,4,2
+2021-03-20,07,Castilla y León,136,9,13,1
+2021-03-20,08,Castilla La Mancha,56,3,0,0
+2021-03-20,09,Cataluña,423,2,8,0
+2021-03-20,10,C. Valenciana,45,1,10,0
 2021-03-20,11,Extremadura,30,2,0,1
-2021-03-20,12,Galicia,89,2,11,2
-2021-03-20,13,Madrid,345,0,53,7
-2021-03-20,14,Murcia,54,0,1,0
-2021-03-20,15,Navarra,90,1,5,1
-2021-03-20,16,País Vasco,252,0,0,0
+2021-03-20,12,Galicia,90,2,12,2
+2021-03-20,13,Madrid,395,8,67,8
+2021-03-20,14,Murcia,71,0,5,0
+2021-03-20,15,Navarra,91,1,5,1
+2021-03-20,16,País Vasco,252,5,1,0
 2021-03-20,17,La Rioja,14,1,0,0
 2021-03-20,18,Ceuta,28,1,0,0
 2021-03-20,19,Melilla,20,0,0,0
 2021-03-21,00,No consta,5,0,0,0
-2021-03-21,01,Andalucía,74,0,5,0
-2021-03-21,02,Aragón,38,0,13,1
-2021-03-21,03,Asturias,61,1,8,0
-2021-03-21,04,Baleares,14,0,0,0
-2021-03-21,05,Canarias,152,3,15,0
+2021-03-21,01,Andalucía,252,7,31,1
+2021-03-21,02,Aragón,38,1,16,2
+2021-03-21,03,Asturias,61,1,9,0
+2021-03-21,04,Baleares,29,0,0,0
+2021-03-21,05,Canarias,155,3,16,0
 2021-03-21,06,Cantabria,16,0,3,2
-2021-03-21,07,Castilla y León,99,1,6,1
-2021-03-21,08,Castilla La Mancha,10,0,0,0
-2021-03-21,09,Cataluña,65,0,1,0
-2021-03-21,10,C. Valenciana,54,0,12,0
-2021-03-21,11,Extremadura,54,0,2,0
-2021-03-21,12,Galicia,43,0,2,0
-2021-03-21,13,Madrid,238,0,3,0
-2021-03-21,14,Murcia,20,0,0,0
-2021-03-21,15,Navarra,66,1,9,3
-2021-03-21,16,País Vasco,278,0,0,0
-2021-03-21,17,La Rioja,15,1,3,1
-2021-03-21,18,Ceuta,5,1,0,0
-2021-03-21,19,Melilla,11,1,2,1
-2021-03-22,00,No consta,0,0,0,0
-2021-03-22,01,Andalucía,0,0,0,0
-2021-03-22,02,Aragón,0,0,0,0
-2021-03-22,03,Asturias,0,0,0,0
-2021-03-22,04,Baleares,0,0,0,0
-2021-03-22,05,Canarias,0,0,1,0
-2021-03-22,06,Cantabria,0,0,0,0
-2021-03-22,07,Castilla y León,0,0,1,0
-2021-03-22,08,Castilla La Mancha,0,0,0,0
-2021-03-22,09,Cataluña,0,0,0,0
-2021-03-22,10,C. Valenciana,0,0,0,0
-2021-03-22,11,Extremadura,0,0,0,0
-2021-03-22,12,Galicia,0,0,0,0
-2021-03-22,13,Madrid,0,0,0,0
-2021-03-22,14,Murcia,0,0,0,0
-2021-03-22,15,Navarra,0,0,0,0
-2021-03-22,16,País Vasco,19,0,0,0
-2021-03-22,17,La Rioja,0,0,0,0
-2021-03-22,18,Ceuta,3,0,0,0
-2021-03-22,19,Melilla,0,0,0,0
+2021-03-21,07,Castilla y León,101,2,10,1
+2021-03-21,08,Castilla La Mancha,50,0,2,0
+2021-03-21,09,Cataluña,327,4,21,1
+2021-03-21,10,C. Valenciana,46,1,12,1
+2021-03-21,11,Extremadura,56,0,3,0
+2021-03-21,12,Galicia,91,1,8,1
+2021-03-21,13,Madrid,317,1,33,0
+2021-03-21,14,Murcia,33,0,3,0
+2021-03-21,15,Navarra,68,1,10,3
+2021-03-21,16,País Vasco,282,1,1,0
+2021-03-21,17,La Rioja,17,1,3,1
+2021-03-21,18,Ceuta,5,2,0,0
+2021-03-21,19,Melilla,12,1,1,1
+2021-03-22,00,No consta,9,0,1,0
+2021-03-22,01,Andalucía,120,0,13,0
+2021-03-22,02,Aragón,106,0,16,0
+2021-03-22,03,Asturias,117,1,11,1
+2021-03-22,04,Baleares,22,0,0,0
+2021-03-22,05,Canarias,222,0,15,2
+2021-03-22,06,Cantabria,52,0,7,0
+2021-03-22,07,Castilla y León,171,1,20,0
+2021-03-22,08,Castilla La Mancha,9,1,0,0
+2021-03-22,09,Cataluña,127,1,2,1
+2021-03-22,10,C. Valenciana,16,0,2,0
+2021-03-22,11,Extremadura,64,0,2,0
+2021-03-22,12,Galicia,45,0,6,1
+2021-03-22,13,Madrid,1287,0,4,0
+2021-03-22,14,Murcia,47,1,1,2
+2021-03-22,15,Navarra,118,0,9,1
+2021-03-22,16,País Vasco,348,0,0,0
+2021-03-22,17,La Rioja,17,0,1,0
+2021-03-22,18,Ceuta,14,1,0,0
+2021-03-22,19,Melilla,30,0,4,0
+2021-03-23,00,No consta,0,0,0,0
+2021-03-23,01,Andalucía,0,0,0,0
+2021-03-23,02,Aragón,0,0,0,0
+2021-03-23,03,Asturias,0,0,0,0
+2021-03-23,04,Baleares,0,0,0,0
+2021-03-23,05,Canarias,0,0,0,0
+2021-03-23,06,Cantabria,0,0,0,0
+2021-03-23,07,Castilla y León,0,0,0,0
+2021-03-23,08,Castilla La Mancha,0,0,0,0
+2021-03-23,09,Cataluña,0,0,0,0
+2021-03-23,10,C. Valenciana,0,0,0,0
+2021-03-23,11,Extremadura,0,0,0,0
+2021-03-23,12,Galicia,0,0,0,0
+2021-03-23,13,Madrid,0,0,0,0
+2021-03-23,14,Murcia,11,0,0,0
+2021-03-23,15,Navarra,0,0,0,0
+2021-03-23,16,País Vasco,39,0,0,0
+2021-03-23,17,La Rioja,0,0,0,0
+2021-03-23,18,Ceuta,4,0,0,0
+2021-03-23,19,Melilla,0,0,0,0
