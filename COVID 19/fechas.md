@@ -21,7 +21,7 @@
 | Tue, 6 Apr 2021 19:14:08 +0200  | COVID 19/ccaa_ia14d.csv |
 | Tue, 6 Apr 2021 19:14:13 +0200  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
 | Sat, 10 Oct 2020 10:19:17 +0200  | COVID 19/ccaa_pcr_realizadas_diarias.csv |
-| Tue, 6 Apr 2021 20:07:48 +0200  | COVID 19/ccaa_vacunas.csv |
+| Wed, 7 Apr 2021 10:55:27 +0200  | COVID 19/ccaa_vacunas.csv |
 | Tue, 6 Apr 2021 20:07:50 +0200  | COVID 19/ccaa_vacunas_grupos_etarios_1_dosis.csv |
 | Tue, 6 Apr 2021 20:07:50 +0200  | COVID 19/ccaa_vacunas_grupos_etarios_pauta_completa.csv |
 | Tue, 6 Apr 2021 20:07:49 +0200  | COVID 19/ccaa_vacunas_personas_institucionalizadas.csv |
