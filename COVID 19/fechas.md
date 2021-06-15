@@ -28,13 +28,14 @@
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Wed, 17 Mar 2021 17:29:33 +0100  | COVID 19/nacional_casos_personal_sanitario.csv |
 | Mon, 14 Jun 2021 19:02:06 +0200  | COVID 19/nacional_covid19.csv |
-| Fri, 11 Jun 2021 18:14:59 +0200  | COVID 19/nacional_covid19_datos_sanidad_nueva_serie.csv |
-| Fri, 11 Jun 2021 18:14:57 +0200  | COVID 19/nacional_covid19_datos_sanidad_nueva_serie_grupos_edad.csv |
+| Tue, 15 Jun 2021 16:45:13 +0200  | COVID 19/nacional_covid19_datos_sanidad_nueva_serie.csv |
+| Tue, 15 Jun 2021 16:45:11 +0200  | COVID 19/nacional_covid19_datos_sanidad_nueva_serie_grupos_edad.csv |
 | Tue, 5 May 2020 18:24:41 +0200  | COVID 19/provincia_covid19_ERTE.csv |
 | Fri, 11 Jun 2021 18:14:57 +0200  | COVID 19/provincias_covid19_datos_isciii_nueva_serie.csv |
 | Tue, 15 Jun 2021 16:41:28 +0200  | COVID 19/provincias_covid19_datos_sanidad_nueva_serie.csv |
 | Sun, 6 Sep 2020 10:01:24 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_final.csv |
 | Thu, 14 May 2020 10:38:36 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_ronda.csv |
 | Thu, 4 Jun 2020 18:55:56 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_y_segunda_ronda.csv |
+| Tue, 15 Jun 2021 16:45:10 +0200  | COVID 19/provincias_ocupacion_camas_uci.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
 | Thu, 30 Apr 2020 13:45:21 +0200  | COVID 19/talleres_reparacion_vehiculos_industriales.csv |
