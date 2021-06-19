@@ -31,7 +31,7 @@
 | Fri, 18 Jun 2021 17:30:44 +0200  | COVID 19/nacional_covid19_datos_sanidad_nueva_serie.csv |
 | Fri, 18 Jun 2021 17:30:43 +0200  | COVID 19/nacional_covid19_datos_sanidad_nueva_serie_grupos_edad.csv |
 | Tue, 5 May 2020 18:24:41 +0200  | COVID 19/provincia_covid19_ERTE.csv |
-| Fri, 11 Jun 2021 18:14:57 +0200  | COVID 19/provincias_covid19_datos_isciii_nueva_serie.csv |
+| Sat, 19 Jun 2021 14:26:58 +0200  | COVID 19/provincias_covid19_datos_isciii_nueva_serie.csv |
 | Fri, 18 Jun 2021 17:30:17 +0200  | COVID 19/provincias_covid19_datos_sanidad_nueva_serie.csv |
 | Sun, 6 Sep 2020 10:01:24 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_final.csv |
 | Thu, 14 May 2020 10:38:36 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_ronda.csv |
