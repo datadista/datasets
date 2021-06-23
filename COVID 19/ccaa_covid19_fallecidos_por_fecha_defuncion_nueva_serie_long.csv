@@ -3961,7 +3961,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2020-07-16,19,Melilla,0
 2020-07-17,00,No consta,0
 2020-07-17,01,Andalucía,0
-2020-07-17,02,Aragón,0
+2020-07-17,02,Aragón,1
 2020-07-17,03,Asturias,0
 2020-07-17,04,Baleares,1
 2020-07-17,05,Canarias,0
@@ -5221,7 +5221,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2020-09-17,19,Melilla,0
 2020-09-18,00,No consta,0
 2020-09-18,01,Andalucía,10
-2020-09-18,02,Aragón,8
+2020-09-18,02,Aragón,7
 2020-09-18,03,Asturias,0
 2020-09-18,04,Baleares,3
 2020-09-18,05,Canarias,2
@@ -6060,7 +6060,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2020-10-29,18,Ceuta,1
 2020-10-29,19,Melilla,1
 2020-10-30,00,No consta,1
-2020-10-30,01,Andalucía,52
+2020-10-30,01,Andalucía,49
 2020-10-30,02,Aragón,16
 2020-10-30,03,Asturias,7
 2020-10-30,04,Baleares,0
@@ -6328,7 +6328,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2020-11-12,06,Cantabria,4
 2020-11-12,07,Castilla y León,35
 2020-11-12,08,Castilla La Mancha,20
-2020-11-12,09,Cataluña,66
+2020-11-12,09,Cataluña,65
 2020-11-12,10,C. Valenciana,23
 2020-11-12,11,Extremadura,11
 2020-11-12,12,Galicia,12
@@ -6360,7 +6360,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2020-11-13,18,Ceuta,2
 2020-11-13,19,Melilla,2
 2020-11-14,00,No consta,2
-2020-11-14,01,Andalucía,58
+2020-11-14,01,Andalucía,57
 2020-11-14,02,Aragón,15
 2020-11-14,03,Asturias,26
 2020-11-14,04,Baleares,2
@@ -6928,7 +6928,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2020-12-12,06,Cantabria,2
 2020-12-12,07,Castilla y León,17
 2020-12-12,08,Castilla La Mancha,14
-2020-12-12,09,Cataluña,32
+2020-12-12,09,Cataluña,33
 2020-12-12,10,C. Valenciana,18
 2020-12-12,11,Extremadura,3
 2020-12-12,12,Galicia,4
@@ -7280,7 +7280,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2020-12-29,18,Ceuta,1
 2020-12-29,19,Melilla,0
 2020-12-30,00,No consta,1
-2020-12-30,01,Andalucía,18
+2020-12-30,01,Andalucía,17
 2020-12-30,02,Aragón,8
 2020-12-30,03,Asturias,5
 2020-12-30,04,Baleares,3
@@ -7321,7 +7321,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2020-12-31,19,Melilla,0
 2021-01-01,00,No consta,0
 2021-01-01,01,Andalucía,13
-2021-01-01,02,Aragón,2
+2021-01-01,02,Aragón,3
 2021-01-01,03,Asturias,6
 2021-01-01,04,Baleares,3
 2021-01-01,05,Canarias,2
@@ -7407,7 +7407,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-01-05,05,Canarias,1
 2021-01-05,06,Cantabria,0
 2021-01-05,07,Castilla y León,9
-2021-01-05,08,Castilla La Mancha,14
+2021-01-05,08,Castilla La Mancha,15
 2021-01-05,09,Cataluña,48
 2021-01-05,10,C. Valenciana,47
 2021-01-05,11,Extremadura,15
@@ -7468,7 +7468,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-01-08,06,Cantabria,0
 2021-01-08,07,Castilla y León,12
 2021-01-08,08,Castilla La Mancha,14
-2021-01-08,09,Cataluña,48
+2021-01-08,09,Cataluña,47
 2021-01-08,10,C. Valenciana,53
 2021-01-08,11,Extremadura,8
 2021-01-08,12,Galicia,7
@@ -7508,7 +7508,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-01-10,06,Cantabria,1
 2021-01-10,07,Castilla y León,6
 2021-01-10,08,Castilla La Mancha,7
-2021-01-10,09,Cataluña,59
+2021-01-10,09,Cataluña,60
 2021-01-10,10,C. Valenciana,50
 2021-01-10,11,Extremadura,15
 2021-01-10,12,Galicia,3
@@ -7568,7 +7568,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-01-13,06,Cantabria,2
 2021-01-13,07,Castilla y León,9
 2021-01-13,08,Castilla La Mancha,22
-2021-01-13,09,Cataluña,56
+2021-01-13,09,Cataluña,57
 2021-01-13,10,C. Valenciana,64
 2021-01-13,11,Extremadura,13
 2021-01-13,12,Galicia,9
@@ -7603,7 +7603,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-01-15,01,Andalucía,45
 2021-01-15,02,Aragón,11
 2021-01-15,03,Asturias,3
-2021-01-15,04,Baleares,10
+2021-01-15,04,Baleares,11
 2021-01-15,05,Canarias,2
 2021-01-15,06,Cantabria,0
 2021-01-15,07,Castilla y León,21
@@ -7840,7 +7840,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-01-26,18,Ceuta,0
 2021-01-26,19,Melilla,0
 2021-01-27,00,No consta,2
-2021-01-27,01,Andalucía,110
+2021-01-27,01,Andalucía,109
 2021-01-27,02,Aragón,18
 2021-01-27,03,Asturias,13
 2021-01-27,04,Baleares,7
@@ -7889,7 +7889,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-01-29,07,Castilla y León,32
 2021-01-29,08,Castilla La Mancha,38
 2021-01-29,09,Cataluña,77
-2021-01-29,10,C. Valenciana,105
+2021-01-29,10,C. Valenciana,104
 2021-01-29,11,Extremadura,11
 2021-01-29,12,Galicia,28
 2021-01-29,13,Madrid,62
@@ -7960,14 +7960,14 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-02-01,18,Ceuta,1
 2021-02-01,19,Melilla,1
 2021-02-02,00,No consta,2
-2021-02-02,01,Andalucía,103
+2021-02-02,01,Andalucía,102
 2021-02-02,02,Aragón,13
 2021-02-02,03,Asturias,15
 2021-02-02,04,Baleares,5
 2021-02-02,05,Canarias,2
 2021-02-02,06,Cantabria,2
 2021-02-02,07,Castilla y León,29
-2021-02-02,08,Castilla La Mancha,27
+2021-02-02,08,Castilla La Mancha,28
 2021-02-02,09,Cataluña,63
 2021-02-02,10,C. Valenciana,82
 2021-02-02,11,Extremadura,21
@@ -7981,7 +7981,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-02-02,19,Melilla,0
 2021-02-03,00,No consta,0
 2021-02-03,01,Andalucía,103
-2021-02-03,02,Aragón,14
+2021-02-03,02,Aragón,15
 2021-02-03,03,Asturias,11
 2021-02-03,04,Baleares,6
 2021-02-03,05,Canarias,1
@@ -8000,7 +8000,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-02-03,18,Ceuta,1
 2021-02-03,19,Melilla,1
 2021-02-04,00,No consta,3
-2021-02-04,01,Andalucía,84
+2021-02-04,01,Andalucía,83
 2021-02-04,02,Aragón,16
 2021-02-04,03,Asturias,11
 2021-02-04,04,Baleares,7
@@ -8080,7 +8080,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-02-07,18,Ceuta,0
 2021-02-07,19,Melilla,3
 2021-02-08,00,No consta,1
-2021-02-08,01,Andalucía,93
+2021-02-08,01,Andalucía,92
 2021-02-08,02,Aragón,19
 2021-02-08,03,Asturias,6
 2021-02-08,04,Baleares,3
@@ -8100,7 +8100,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-02-08,18,Ceuta,0
 2021-02-08,19,Melilla,0
 2021-02-09,00,No consta,1
-2021-02-09,01,Andalucía,76
+2021-02-09,01,Andalucía,75
 2021-02-09,02,Aragón,10
 2021-02-09,03,Asturias,10
 2021-02-09,04,Baleares,5
@@ -8160,7 +8160,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-02-11,18,Ceuta,0
 2021-02-11,19,Melilla,0
 2021-02-12,00,No consta,1
-2021-02-12,01,Andalucía,64
+2021-02-12,01,Andalucía,63
 2021-02-12,02,Aragón,12
 2021-02-12,03,Asturias,11
 2021-02-12,04,Baleares,3
@@ -8207,7 +8207,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-02-14,05,Canarias,0
 2021-02-14,06,Cantabria,3
 2021-02-14,07,Castilla y León,15
-2021-02-14,08,Castilla La Mancha,16
+2021-02-14,08,Castilla La Mancha,15
 2021-02-14,09,Cataluña,21
 2021-02-14,10,C. Valenciana,39
 2021-02-14,11,Extremadura,8
@@ -8227,7 +8227,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-02-15,05,Canarias,2
 2021-02-15,06,Cantabria,2
 2021-02-15,07,Castilla y León,19
-2021-02-15,08,Castilla La Mancha,9
+2021-02-15,08,Castilla La Mancha,11
 2021-02-15,09,Cataluña,39
 2021-02-15,10,C. Valenciana,40
 2021-02-15,11,Extremadura,5
@@ -8260,7 +8260,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-02-16,18,Ceuta,0
 2021-02-16,19,Melilla,0
 2021-02-17,00,No consta,1
-2021-02-17,01,Andalucía,47
+2021-02-17,01,Andalucía,48
 2021-02-17,02,Aragón,14
 2021-02-17,03,Asturias,2
 2021-02-17,04,Baleares,2
@@ -8368,7 +8368,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-02-22,06,Cantabria,0
 2021-02-22,07,Castilla y León,15
 2021-02-22,08,Castilla La Mancha,12
-2021-02-22,09,Cataluña,20
+2021-02-22,09,Cataluña,21
 2021-02-22,10,C. Valenciana,32
 2021-02-22,11,Extremadura,4
 2021-02-22,12,Galicia,7
@@ -8420,7 +8420,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-02-24,18,Ceuta,0
 2021-02-24,19,Melilla,0
 2021-02-25,00,No consta,0
-2021-02-25,01,Andalucía,42
+2021-02-25,01,Andalucía,41
 2021-02-25,02,Aragón,15
 2021-02-25,03,Asturias,11
 2021-02-25,04,Baleares,0
@@ -8460,7 +8460,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-02-26,18,Ceuta,1
 2021-02-26,19,Melilla,1
 2021-02-27,00,No consta,0
-2021-02-27,01,Andalucía,37
+2021-02-27,01,Andalucía,36
 2021-02-27,02,Aragón,3
 2021-02-27,03,Asturias,7
 2021-02-27,04,Baleares,1
@@ -8568,7 +8568,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-03-04,06,Cantabria,0
 2021-03-04,07,Castilla y León,15
 2021-03-04,08,Castilla La Mancha,4
-2021-03-04,09,Cataluña,26
+2021-03-04,09,Cataluña,27
 2021-03-04,10,C. Valenciana,6
 2021-03-04,11,Extremadura,0
 2021-03-04,12,Galicia,3
@@ -8580,7 +8580,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-03-04,18,Ceuta,1
 2021-03-04,19,Melilla,0
 2021-03-05,00,No consta,0
-2021-03-05,01,Andalucía,24
+2021-03-05,01,Andalucía,25
 2021-03-05,02,Aragón,3
 2021-03-05,03,Asturias,6
 2021-03-05,04,Baleares,1
@@ -8780,7 +8780,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-03-14,18,Ceuta,0
 2021-03-14,19,Melilla,2
 2021-03-15,00,No consta,0
-2021-03-15,01,Andalucía,19
+2021-03-15,01,Andalucía,20
 2021-03-15,02,Aragón,4
 2021-03-15,03,Asturias,2
 2021-03-15,04,Baleares,1
@@ -8800,7 +8800,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-03-15,18,Ceuta,1
 2021-03-15,19,Melilla,0
 2021-03-16,00,No consta,0
-2021-03-16,01,Andalucía,23
+2021-03-16,01,Andalucía,22
 2021-03-16,02,Aragón,5
 2021-03-16,03,Asturias,4
 2021-03-16,04,Baleares,0
@@ -8820,7 +8820,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-03-16,18,Ceuta,0
 2021-03-16,19,Melilla,0
 2021-03-17,00,No consta,0
-2021-03-17,01,Andalucía,20
+2021-03-17,01,Andalucía,22
 2021-03-17,02,Aragón,3
 2021-03-17,03,Asturias,3
 2021-03-17,04,Baleares,1
@@ -8840,7 +8840,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-03-17,18,Ceuta,0
 2021-03-17,19,Melilla,1
 2021-03-18,00,No consta,0
-2021-03-18,01,Andalucía,15
+2021-03-18,01,Andalucía,16
 2021-03-18,02,Aragón,8
 2021-03-18,03,Asturias,1
 2021-03-18,04,Baleares,1
@@ -8860,7 +8860,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-03-18,18,Ceuta,0
 2021-03-18,19,Melilla,0
 2021-03-19,00,No consta,0
-2021-03-19,01,Andalucía,12
+2021-03-19,01,Andalucía,11
 2021-03-19,02,Aragón,6
 2021-03-19,03,Asturias,4
 2021-03-19,04,Baleares,0
@@ -8948,7 +8948,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-03-23,06,Cantabria,0
 2021-03-23,07,Castilla y León,8
 2021-03-23,08,Castilla La Mancha,3
-2021-03-23,09,Cataluña,15
+2021-03-23,09,Cataluña,16
 2021-03-23,10,C. Valenciana,3
 2021-03-23,11,Extremadura,1
 2021-03-23,12,Galicia,6
@@ -8980,7 +8980,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-03-24,18,Ceuta,0
 2021-03-24,19,Melilla,0
 2021-03-25,00,No consta,0
-2021-03-25,01,Andalucía,14
+2021-03-25,01,Andalucía,15
 2021-03-25,02,Aragón,5
 2021-03-25,03,Asturias,1
 2021-03-25,04,Baleares,0
@@ -9020,7 +9020,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-03-26,18,Ceuta,0
 2021-03-26,19,Melilla,1
 2021-03-27,00,No consta,0
-2021-03-27,01,Andalucía,14
+2021-03-27,01,Andalucía,15
 2021-03-27,02,Aragón,2
 2021-03-27,03,Asturias,4
 2021-03-27,04,Baleares,0
@@ -9128,7 +9128,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-04-01,06,Cantabria,0
 2021-04-01,07,Castilla y León,7
 2021-04-01,08,Castilla La Mancha,2
-2021-04-01,09,Cataluña,13
+2021-04-01,09,Cataluña,14
 2021-04-01,10,C. Valenciana,0
 2021-04-01,11,Extremadura,1
 2021-04-01,12,Galicia,0
@@ -9461,14 +9461,14 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-04-17,19,Melilla,0
 2021-04-18,00,No consta,0
 2021-04-18,01,Andalucía,10
-2021-04-18,02,Aragón,3
+2021-04-18,02,Aragón,2
 2021-04-18,03,Asturias,1
 2021-04-18,04,Baleares,0
 2021-04-18,05,Canarias,3
 2021-04-18,06,Cantabria,0
 2021-04-18,07,Castilla y León,7
 2021-04-18,08,Castilla La Mancha,1
-2021-04-18,09,Cataluña,5
+2021-04-18,09,Cataluña,6
 2021-04-18,10,C. Valenciana,0
 2021-04-18,11,Extremadura,2
 2021-04-18,12,Galicia,3
@@ -9608,7 +9608,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-04-25,06,Cantabria,1
 2021-04-25,07,Castilla y León,1
 2021-04-25,08,Castilla La Mancha,4
-2021-04-25,09,Cataluña,12
+2021-04-25,09,Cataluña,13
 2021-04-25,10,C. Valenciana,1
 2021-04-25,11,Extremadura,1
 2021-04-25,12,Galicia,2
@@ -9748,7 +9748,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-05-02,06,Cantabria,0
 2021-05-02,07,Castilla y León,3
 2021-05-02,08,Castilla La Mancha,4
-2021-05-02,09,Cataluña,7
+2021-05-02,09,Cataluña,8
 2021-05-02,10,C. Valenciana,1
 2021-05-02,11,Extremadura,0
 2021-05-02,12,Galicia,1
@@ -9880,7 +9880,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-05-08,18,Ceuta,2
 2021-05-08,19,Melilla,1
 2021-05-09,00,No consta,0
-2021-05-09,01,Andalucía,11
+2021-05-09,01,Andalucía,12
 2021-05-09,02,Aragón,5
 2021-05-09,03,Asturias,0
 2021-05-09,04,Baleares,2
@@ -9888,7 +9888,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-05-09,06,Cantabria,0
 2021-05-09,07,Castilla y León,4
 2021-05-09,08,Castilla La Mancha,2
-2021-05-09,09,Cataluña,7
+2021-05-09,09,Cataluña,8
 2021-05-09,10,C. Valenciana,1
 2021-05-09,11,Extremadura,0
 2021-05-09,12,Galicia,0
@@ -10008,7 +10008,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-05-15,06,Cantabria,0
 2021-05-15,07,Castilla y León,1
 2021-05-15,08,Castilla La Mancha,4
-2021-05-15,09,Cataluña,3
+2021-05-15,09,Cataluña,4
 2021-05-15,10,C. Valenciana,0
 2021-05-15,11,Extremadura,0
 2021-05-15,12,Galicia,4
@@ -10067,7 +10067,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-05-18,05,Canarias,1
 2021-05-18,06,Cantabria,0
 2021-05-18,07,Castilla y León,2
-2021-05-18,08,Castilla La Mancha,1
+2021-05-18,08,Castilla La Mancha,2
 2021-05-18,09,Cataluña,3
 2021-05-18,10,C. Valenciana,2
 2021-05-18,11,Extremadura,1
@@ -10268,7 +10268,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-05-28,06,Cantabria,0
 2021-05-28,07,Castilla y León,2
 2021-05-28,08,Castilla La Mancha,1
-2021-05-28,09,Cataluña,3
+2021-05-28,09,Cataluña,4
 2021-05-28,10,C. Valenciana,0
 2021-05-28,11,Extremadura,0
 2021-05-28,12,Galicia,0
@@ -10312,7 +10312,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-05-30,10,C. Valenciana,0
 2021-05-30,11,Extremadura,2
 2021-05-30,12,Galicia,1
-2021-05-30,13,Madrid,7
+2021-05-30,13,Madrid,8
 2021-05-30,14,Murcia,0
 2021-05-30,15,Navarra,1
 2021-05-30,16,País Vasco,5
@@ -10347,7 +10347,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-06-01,05,Canarias,0
 2021-06-01,06,Cantabria,0
 2021-06-01,07,Castilla y León,3
-2021-06-01,08,Castilla La Mancha,2
+2021-06-01,08,Castilla La Mancha,1
 2021-06-01,09,Cataluña,0
 2021-06-01,10,C. Valenciana,2
 2021-06-01,11,Extremadura,0
@@ -10440,7 +10440,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-06-05,18,Ceuta,0
 2021-06-05,19,Melilla,0
 2021-06-06,00,No consta,0
-2021-06-06,01,Andalucía,7
+2021-06-06,01,Andalucía,8
 2021-06-06,02,Aragón,4
 2021-06-06,03,Asturias,0
 2021-06-06,04,Baleares,0
@@ -10460,7 +10460,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-06-06,18,Ceuta,0
 2021-06-06,19,Melilla,0
 2021-06-07,00,No consta,0
-2021-06-07,01,Andalucía,7
+2021-06-07,01,Andalucía,6
 2021-06-07,02,Aragón,2
 2021-06-07,03,Asturias,0
 2021-06-07,04,Baleares,0
@@ -10500,7 +10500,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-06-08,18,Ceuta,0
 2021-06-08,19,Melilla,0
 2021-06-09,00,No consta,0
-2021-06-09,01,Andalucía,6
+2021-06-09,01,Andalucía,5
 2021-06-09,02,Aragón,3
 2021-06-09,03,Asturias,0
 2021-06-09,04,Baleares,0
@@ -10520,7 +10520,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-06-09,18,Ceuta,0
 2021-06-09,19,Melilla,0
 2021-06-10,00,No consta,0
-2021-06-10,01,Andalucía,6
+2021-06-10,01,Andalucía,7
 2021-06-10,02,Aragón,0
 2021-06-10,03,Asturias,0
 2021-06-10,04,Baleares,0
@@ -10581,7 +10581,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-06-12,19,Melilla,0
 2021-06-13,00,No consta,1
 2021-06-13,01,Andalucía,0
-2021-06-13,02,Aragón,2
+2021-06-13,02,Aragón,3
 2021-06-13,03,Asturias,0
 2021-06-13,04,Baleares,0
 2021-06-13,05,Canarias,0
@@ -10620,7 +10620,7 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-06-14,18,Ceuta,0
 2021-06-14,19,Melilla,0
 2021-06-15,00,No consta,0
-2021-06-15,01,Andalucía,6
+2021-06-15,01,Andalucía,11
 2021-06-15,02,Aragón,0
 2021-06-15,03,Asturias,1
 2021-06-15,04,Baleares,0
@@ -10648,14 +10648,14 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-06-16,06,Cantabria,1
 2021-06-16,07,Castilla y León,0
 2021-06-16,08,Castilla La Mancha,1
-2021-06-16,09,Cataluña,0
+2021-06-16,09,Cataluña,2
 2021-06-16,10,C. Valenciana,1
 2021-06-16,11,Extremadura,0
 2021-06-16,12,Galicia,0
 2021-06-16,13,Madrid,4
 2021-06-16,14,Murcia,0
 2021-06-16,15,Navarra,1
-2021-06-16,16,País Vasco,2
+2021-06-16,16,País Vasco,3
 2021-06-16,17,La Rioja,0
 2021-06-16,18,Ceuta,0
 2021-06-16,19,Melilla,0
@@ -10668,14 +10668,14 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-06-17,06,Cantabria,0
 2021-06-17,07,Castilla y León,0
 2021-06-17,08,Castilla La Mancha,0
-2021-06-17,09,Cataluña,0
+2021-06-17,09,Cataluña,1
 2021-06-17,10,C. Valenciana,0
 2021-06-17,11,Extremadura,0
 2021-06-17,12,Galicia,1
 2021-06-17,13,Madrid,0
 2021-06-17,14,Murcia,1
 2021-06-17,15,Navarra,0
-2021-06-17,16,País Vasco,2
+2021-06-17,16,País Vasco,3
 2021-06-17,17,La Rioja,0
 2021-06-17,18,Ceuta,0
 2021-06-17,19,Melilla,0
@@ -10695,18 +10695,18 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-06-18,13,Madrid,0
 2021-06-18,14,Murcia,0
 2021-06-18,15,Navarra,0
-2021-06-18,16,País Vasco,0
+2021-06-18,16,País Vasco,1
 2021-06-18,17,La Rioja,0
 2021-06-18,18,Ceuta,0
 2021-06-18,19,Melilla,0
 2021-06-19,00,No consta,0
 2021-06-19,01,Andalucía,0
 2021-06-19,02,Aragón,0
-2021-06-19,03,Asturias,0
+2021-06-19,03,Asturias,1
 2021-06-19,04,Baleares,0
 2021-06-19,05,Canarias,0
 2021-06-19,06,Cantabria,0
-2021-06-19,07,Castilla y León,0
+2021-06-19,07,Castilla y León,1
 2021-06-19,08,Castilla La Mancha,1
 2021-06-19,09,Cataluña,0
 2021-06-19,10,C. Valenciana,0
@@ -10715,18 +10715,18 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-06-19,13,Madrid,0
 2021-06-19,14,Murcia,0
 2021-06-19,15,Navarra,0
-2021-06-19,16,País Vasco,0
+2021-06-19,16,País Vasco,1
 2021-06-19,17,La Rioja,0
 2021-06-19,18,Ceuta,0
 2021-06-19,19,Melilla,0
 2021-06-20,00,No consta,0
-2021-06-20,01,Andalucía,1
+2021-06-20,01,Andalucía,4
 2021-06-20,02,Aragón,0
 2021-06-20,03,Asturias,0
 2021-06-20,04,Baleares,0
 2021-06-20,05,Canarias,2
 2021-06-20,06,Cantabria,0
-2021-06-20,07,Castilla y León,1
+2021-06-20,07,Castilla y León,2
 2021-06-20,08,Castilla La Mancha,0
 2021-06-20,09,Cataluña,0
 2021-06-20,10,C. Valenciana,0
@@ -10735,12 +10735,12 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-06-20,13,Madrid,0
 2021-06-20,14,Murcia,0
 2021-06-20,15,Navarra,0
-2021-06-20,16,País Vasco,0
+2021-06-20,16,País Vasco,1
 2021-06-20,17,La Rioja,0
 2021-06-20,18,Ceuta,0
 2021-06-20,19,Melilla,0
 2021-06-21,00,No consta,0
-2021-06-21,01,Andalucía,0
+2021-06-21,01,Andalucía,1
 2021-06-21,02,Aragón,0
 2021-06-21,03,Asturias,0
 2021-06-21,04,Baleares,0
@@ -10759,3 +10759,23 @@ Fecha,cod_ccaa,CCAA,Fallecidos
 2021-06-21,17,La Rioja,0
 2021-06-21,18,Ceuta,0
 2021-06-21,19,Melilla,0
+2021-06-22,00,No consta,0
+2021-06-22,01,Andalucía,0
+2021-06-22,02,Aragón,0
+2021-06-22,03,Asturias,0
+2021-06-22,04,Baleares,0
+2021-06-22,05,Canarias,0
+2021-06-22,06,Cantabria,0
+2021-06-22,07,Castilla y León,0
+2021-06-22,08,Castilla La Mancha,0
+2021-06-22,09,Cataluña,0
+2021-06-22,10,C. Valenciana,0
+2021-06-22,11,Extremadura,0
+2021-06-22,12,Galicia,0
+2021-06-22,13,Madrid,0
+2021-06-22,14,Murcia,0
+2021-06-22,15,Navarra,0
+2021-06-22,16,País Vasco,0
+2021-06-22,17,La Rioja,0
+2021-06-22,18,Ceuta,0
+2021-06-22,19,Melilla,0
