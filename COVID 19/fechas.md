@@ -21,9 +21,9 @@
 | Wed, 23 Jun 2021 19:27:58 +0200  | COVID 19/ccaa_ia14d.csv |
 | Wed, 23 Jun 2021 19:28:04 +0200  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
 | Sat, 10 Oct 2020 10:19:17 +0200  | COVID 19/ccaa_pcr_realizadas_diarias.csv |
-| Wed, 23 Jun 2021 18:54:45 +0200  | COVID 19/ccaa_vacunas.csv |
-| Wed, 23 Jun 2021 18:54:47 +0200  | COVID 19/ccaa_vacunas_grupos_etarios_1_dosis.csv |
-| Wed, 23 Jun 2021 18:54:48 +0200  | COVID 19/ccaa_vacunas_grupos_etarios_pauta_completa.csv |
+| Thu, 24 Jun 2021 18:15:45 +0200  | COVID 19/ccaa_vacunas.csv |
+| Thu, 24 Jun 2021 18:15:48 +0200  | COVID 19/ccaa_vacunas_grupos_etarios_1_dosis.csv |
+| Thu, 24 Jun 2021 18:15:49 +0200  | COVID 19/ccaa_vacunas_grupos_etarios_pauta_completa.csv |
 | Thu, 3 Jun 2021 19:04:55 +0200  | COVID 19/ccaa_vacunas_personas_institucionalizadas.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Wed, 17 Mar 2021 17:29:33 +0100  | COVID 19/nacional_casos_personal_sanitario.csv |
@@ -36,6 +36,6 @@
 | Sun, 6 Sep 2020 10:01:24 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_final.csv |
 | Thu, 14 May 2020 10:38:36 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_ronda.csv |
 | Thu, 4 Jun 2020 18:55:56 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_y_segunda_ronda.csv |
-| Tue, 22 Jun 2021 18:12:46 +0200  | COVID 19/provincias_ocupacion_camas_uci.csv |
+| Wed, 23 Jun 2021 19:36:34 +0200  | COVID 19/provincias_ocupacion_camas_uci.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
 | Thu, 30 Apr 2020 13:45:21 +0200  | COVID 19/talleres_reparacion_vehiculos_industriales.csv |
