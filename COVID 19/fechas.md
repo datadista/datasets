@@ -21,9 +21,9 @@
 | Thu, 8 Jul 2021 20:14:37 +0200  | COVID 19/ccaa_ia14d.csv |
 | Thu, 8 Jul 2021 20:14:46 +0200  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
 | Sat, 10 Oct 2020 10:19:17 +0200  | COVID 19/ccaa_pcr_realizadas_diarias.csv |
-| Thu, 8 Jul 2021 18:06:56 +0200  | COVID 19/ccaa_vacunas.csv |
-| Thu, 8 Jul 2021 18:25:06 +0200  | COVID 19/ccaa_vacunas_grupos_etarios_1_dosis.csv |
-| Thu, 8 Jul 2021 18:07:01 +0200  | COVID 19/ccaa_vacunas_grupos_etarios_pauta_completa.csv |
+| Fri, 9 Jul 2021 17:57:29 +0200  | COVID 19/ccaa_vacunas.csv |
+| Fri, 9 Jul 2021 17:57:32 +0200  | COVID 19/ccaa_vacunas_grupos_etarios_1_dosis.csv |
+| Fri, 9 Jul 2021 17:57:33 +0200  | COVID 19/ccaa_vacunas_grupos_etarios_pauta_completa.csv |
 | Thu, 3 Jun 2021 19:04:55 +0200  | COVID 19/ccaa_vacunas_personas_institucionalizadas.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Wed, 7 Jul 2021 18:30:45 +0200  | COVID 19/grupos_edad_ia14d.csv |
