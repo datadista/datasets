@@ -37,6 +37,6 @@
 | Sun, 6 Sep 2020 10:01:24 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_final.csv |
 | Thu, 14 May 2020 10:38:36 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_ronda.csv |
 | Thu, 4 Jun 2020 18:55:56 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_y_segunda_ronda.csv |
-| Tue, 6 Jul 2021 18:41:31 +0200  | COVID 19/provincias_ocupacion_camas_uci.csv |
+| Thu, 15 Jul 2021 19:25:53 +0200  | COVID 19/provincias_ocupacion_camas_uci.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
 | Thu, 30 Apr 2020 13:45:21 +0200  | COVID 19/talleres_reparacion_vehiculos_industriales.csv |
