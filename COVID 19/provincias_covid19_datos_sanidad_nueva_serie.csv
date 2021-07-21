@@ -3982,7 +3982,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-03-16,05,Ávila,12,0,12,1
 2020-03-16,06,Badajoz,19,0,3,0
 2020-03-16,07,Balears,22,0,17,2
-2020-03-16,08,Barcelona,586,17,319,41
+2020-03-16,08,Barcelona,586,17,318,41
 2020-03-16,09,Burgos,18,1,16,6
 2020-03-16,10,Cáceres,36,2,13,2
 2020-03-16,11,Cádiz,20,0,3,0
@@ -5433,7 +5433,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-12,25,Lleida,26,1,4,1
 2020-04-12,26,La Rioja,29,5,8,0
 2020-04-12,27,Lugo,2,1,1,0
-2020-04-12,28,Madrid,406,125,268,23
+2020-04-12,28,Madrid,406,125,269,23
 2020-04-12,29,Málaga,15,6,2,0
 2020-04-12,30,Murcia,10,3,8,3
 2020-04-12,31,Navarra,130,11,26,0
@@ -6089,7 +6089,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-04-24,45,Toledo,42,6,30,2
 2020-04-24,46,Valencia/València,40,5,12,0
 2020-04-24,47,Valladolid,59,9,12,1
-2020-04-24,48,Bizkaia,125,7,14,1
+2020-04-24,48,Bizkaia,124,7,14,1
 2020-04-24,49,Zamora,8,2,1,0
 2020-04-24,50,Zaragoza,54,13,18,1
 2020-04-24,51,Ceuta,0,0,0,0
@@ -7386,7 +7386,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-19,17,Girona,24,2,0,0
 2020-05-19,18,Granada,3,1,1,0
 2020-05-19,19,Guadalajara,4,1,0,0
-2020-05-19,20,Gipuzkoa,4,1,0,0
+2020-05-19,20,Gipuzkoa,3,1,0,0
 2020-05-19,21,Huelva,0,0,0,0
 2020-05-19,22,Huesca,8,0,0,0
 2020-05-19,23,Jaén,2,0,1,1
@@ -7834,7 +7834,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-27,41,Sevilla,0,0,0,0
 2020-05-27,42,Soria,3,0,0,0
 2020-05-27,43,Tarragona,4,2,1,0
-2020-05-27,44,Teruel,0,1,0,0
+2020-05-27,44,Teruel,0,1,1,0
 2020-05-27,45,Toledo,9,0,1,1
 2020-05-27,46,Valencia/València,12,0,0,0
 2020-05-27,47,Valladolid,4,1,3,0
@@ -7887,7 +7887,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-05-28,41,Sevilla,0,0,0,0
 2020-05-28,42,Soria,7,2,0,0
 2020-05-28,43,Tarragona,5,0,1,0
-2020-05-28,44,Teruel,2,0,0,0
+2020-05-28,44,Teruel,3,0,0,0
 2020-05-28,45,Toledo,18,1,2,0
 2020-05-28,46,Valencia/València,4,0,0,0
 2020-05-28,47,Valladolid,10,2,2,0
@@ -10142,7 +10142,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-10,17,Girona,43,0,0,0
 2020-07-10,18,Granada,6,0,0,0
 2020-07-10,19,Guadalajara,5,0,0,0
-2020-07-10,20,Gipuzkoa,25,0,0,0
+2020-07-10,20,Gipuzkoa,24,0,0,0
 2020-07-10,21,Huelva,1,0,0,0
 2020-07-10,22,Huesca,9,0,2,1
 2020-07-10,23,Jaén,0,0,0,0
@@ -10490,7 +10490,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-07-16,47,Valladolid,2,0,0,0
 2020-07-16,48,Bizkaia,42,0,1,0
 2020-07-16,49,Zamora,0,0,0,0
-2020-07-16,50,Zaragoza,162,0,14,1
+2020-07-16,50,Zaragoza,163,0,14,1
 2020-07-16,51,Ceuta,0,0,0,0
 2020-07-16,52,Melilla,1,0,0,0
 2020-07-17,00,No consta,11,0,0,0
@@ -11766,7 +11766,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-09,51,Ceuta,0,0,0,0
 2020-08-09,52,Melilla,5,0,1,0
 2020-08-10,00,No consta,33,0,2,0
-2020-08-10,01,Araba/Álava,49,0,5,0
+2020-08-10,01,Araba/Álava,48,0,5,0
 2020-08-10,02,Albacete,8,1,1,0
 2020-08-10,03,Alicante/Alacant,95,1,9,0
 2020-08-10,04,Almería,69,0,7,0
@@ -11997,7 +11997,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-14,17,Girona,60,0,0,0
 2020-08-14,18,Granada,46,0,3,0
 2020-08-14,19,Guadalajara,27,0,1,0
-2020-08-14,20,Gipuzkoa,75,1,1,0
+2020-08-14,20,Gipuzkoa,73,1,1,0
 2020-08-14,21,Huelva,7,0,0,0
 2020-08-14,22,Huesca,52,0,2,0
 2020-08-14,23,Jaén,13,0,2,0
@@ -12209,7 +12209,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-18,17,Girona,85,0,3,0
 2020-08-18,18,Granada,64,0,6,0
 2020-08-18,19,Guadalajara,45,0,0,0
-2020-08-18,20,Gipuzkoa,93,0,7,0
+2020-08-18,20,Gipuzkoa,92,0,7,0
 2020-08-18,21,Huelva,14,0,0,0
 2020-08-18,22,Huesca,52,3,3,0
 2020-08-18,23,Jaén,21,0,0,0
@@ -12376,7 +12376,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-21,25,Lleida,132,0,1,0
 2020-08-21,26,La Rioja,55,1,3,0
 2020-08-21,27,Lugo,39,1,2,0
-2020-08-21,28,Madrid,4291,9,298,21
+2020-08-21,28,Madrid,4292,9,298,21
 2020-08-21,29,Málaga,267,2,12,1
 2020-08-21,30,Murcia,293,0,19,2
 2020-08-21,31,Navarra,158,0,2,0
@@ -12402,7 +12402,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-08-21,51,Ceuta,3,0,0,0
 2020-08-21,52,Melilla,4,0,0,0
 2020-08-22,00,No consta,54,0,2,1
-2020-08-22,01,Araba/Álava,144,0,6,0
+2020-08-22,01,Araba/Álava,143,0,6,0
 2020-08-22,02,Albacete,65,0,1,0
 2020-08-22,03,Alicante/Alacant,128,1,14,1
 2020-08-22,04,Almería,153,1,8,0
@@ -13693,7 +13693,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-15,17,Girona,167,0,1,0
 2020-09-15,18,Granada,101,1,13,2
 2020-09-15,19,Guadalajara,58,2,2,0
-2020-09-15,20,Gipuzkoa,184,3,14,2
+2020-09-15,20,Gipuzkoa,183,3,14,2
 2020-09-15,21,Huelva,40,0,1,0
 2020-09-15,22,Huesca,39,1,2,1
 2020-09-15,23,Jaén,86,1,7,0
@@ -13882,7 +13882,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-18,47,Valladolid,286,1,26,4
 2020-09-18,48,Bizkaia,287,4,16,3
 2020-09-18,49,Zamora,53,1,7,0
-2020-09-18,50,Zaragoza,323,5,32,2
+2020-09-18,50,Zaragoza,322,5,32,2
 2020-09-18,51,Ceuta,11,0,1,0
 2020-09-18,52,Melilla,25,0,1,0
 2020-09-19,00,No consta,38,0,5,2
@@ -13935,7 +13935,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-19,47,Valladolid,233,1,17,4
 2020-09-19,48,Bizkaia,255,8,12,0
 2020-09-19,49,Zamora,52,1,4,1
-2020-09-19,50,Zaragoza,313,7,21,1
+2020-09-19,50,Zaragoza,312,7,21,1
 2020-09-19,51,Ceuta,9,1,0,0
 2020-09-19,52,Melilla,26,0,4,0
 2020-09-20,00,No consta,37,0,7,1
@@ -14052,7 +14052,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-22,05,Ávila,43,1,7,0
 2020-09-22,06,Badajoz,120,4,9,0
 2020-09-22,07,Balears,166,6,13,3
-2020-09-22,08,Barcelona,1011,2,29,7
+2020-09-22,08,Barcelona,1012,2,29,7
 2020-09-22,09,Burgos,111,1,3,0
 2020-09-22,10,Cáceres,92,2,9,0
 2020-09-22,11,Cádiz,122,2,4,1
@@ -14278,7 +14278,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-26,19,Guadalajara,94,0,2,0
 2020-09-26,20,Gipuzkoa,124,1,5,0
 2020-09-26,21,Huelva,55,0,3,0
-2020-09-26,22,Huesca,38,1,6,1
+2020-09-26,22,Huesca,39,1,6,1
 2020-09-26,23,Jaén,138,1,5,1
 2020-09-26,24,León,119,1,6,2
 2020-09-26,25,Lleida,37,2,0,0
@@ -14359,7 +14359,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-09-27,47,Valladolid,29,6,19,3
 2020-09-27,48,Bizkaia,199,3,9,0
 2020-09-27,49,Zamora,5,1,7,1
-2020-09-27,50,Zaragoza,313,3,21,0
+2020-09-27,50,Zaragoza,314,3,21,0
 2020-09-27,51,Ceuta,6,0,1,0
 2020-09-27,52,Melilla,38,0,1,0
 2020-09-28,00,No consta,34,1,4,3
@@ -14859,7 +14859,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-07,17,Girona,224,0,3,0
 2020-10-07,18,Granada,498,0,25,2
 2020-10-07,19,Guadalajara,131,1,4,0
-2020-10-07,20,Gipuzkoa,212,1,6,1
+2020-10-07,20,Gipuzkoa,211,1,6,1
 2020-10-07,21,Huelva,43,2,3,0
 2020-10-07,22,Huesca,81,0,7,0
 2020-10-07,23,Jaén,285,2,11,0
@@ -15018,7 +15018,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-10,17,Girona,100,1,2,0
 2020-10-10,18,Granada,433,2,16,0
 2020-10-10,19,Guadalajara,75,4,4,0
-2020-10-10,20,Gipuzkoa,287,1,5,1
+2020-10-10,20,Gipuzkoa,285,1,5,1
 2020-10-10,21,Huelva,78,0,4,0
 2020-10-10,22,Huesca,87,1,2,1
 2020-10-10,23,Jaén,205,1,14,1
@@ -15132,7 +15132,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-12,25,Lleida,71,1,4,0
 2020-10-12,26,La Rioja,85,1,12,2
 2020-10-12,27,Lugo,25,0,3,0
-2020-10-12,28,Madrid,649,26,171,9
+2020-10-12,28,Madrid,650,26,171,9
 2020-10-12,29,Málaga,91,4,14,2
 2020-10-12,30,Murcia,323,3,38,2
 2020-10-12,31,Navarra,379,4,15,1
@@ -15344,7 +15344,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-16,25,Lleida,272,1,6,1
 2020-10-16,26,La Rioja,197,0,7,2
 2020-10-16,27,Lugo,16,0,2,0
-2020-10-16,28,Madrid,3120,26,303,17
+2020-10-16,28,Madrid,3122,26,303,17
 2020-10-16,29,Málaga,336,3,12,2
 2020-10-16,30,Murcia,564,4,54,6
 2020-10-16,31,Navarra,562,7,19,2
@@ -15556,7 +15556,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-20,25,Lleida,273,2,3,1
 2020-10-20,26,La Rioja,188,1,20,2
 2020-10-20,27,Lugo,45,0,2,0
-2020-10-20,28,Madrid,2857,36,265,13
+2020-10-20,28,Madrid,2858,36,265,13
 2020-10-20,29,Málaga,334,4,25,1
 2020-10-20,30,Murcia,724,2,50,6
 2020-10-20,31,Navarra,433,8,33,6
@@ -15631,7 +15631,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-21,47,Valladolid,455,3,35,1
 2020-10-21,48,Bizkaia,448,5,29,2
 2020-10-21,49,Zamora,125,1,11,0
-2020-10-21,50,Zaragoza,666,5,43,5
+2020-10-21,50,Zaragoza,667,5,43,5
 2020-10-21,51,Ceuta,49,0,1,0
 2020-10-21,52,Melilla,84,0,4,0
 2020-10-22,00,No consta,174,0,10,1
@@ -15947,7 +15947,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-27,45,Toledo,494,13,27,3
 2020-10-27,46,Valencia/València,1004,8,83,9
 2020-10-27,47,Valladolid,588,2,36,2
-2020-10-27,48,Bizkaia,549,1,36,5
+2020-10-27,48,Bizkaia,548,1,36,5
 2020-10-27,49,Zamora,131,0,20,0
 2020-10-27,50,Zaragoza,822,11,53,0
 2020-10-27,51,Ceuta,59,1,4,0
@@ -15972,7 +15972,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-28,17,Girona,691,6,5,0
 2020-10-28,18,Granada,1265,8,48,1
 2020-10-28,19,Guadalajara,139,4,0,1
-2020-10-28,20,Gipuzkoa,631,6,27,1
+2020-10-28,20,Gipuzkoa,630,6,27,1
 2020-10-28,21,Huelva,248,2,14,0
 2020-10-28,22,Huesca,266,1,14,5
 2020-10-28,23,Jaén,518,5,36,1
@@ -16025,7 +16025,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-29,17,Girona,514,3,6,0
 2020-10-29,18,Granada,1196,12,75,7
 2020-10-29,19,Guadalajara,98,2,1,0
-2020-10-29,20,Gipuzkoa,631,2,40,3
+2020-10-29,20,Gipuzkoa,630,2,40,3
 2020-10-29,21,Huelva,259,0,17,1
 2020-10-29,22,Huesca,300,3,17,3
 2020-10-29,23,Jaén,496,7,49,3
@@ -16086,7 +16086,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-30,25,Lleida,254,1,3,0
 2020-10-30,26,La Rioja,231,3,14,4
 2020-10-30,27,Lugo,138,1,4,1
-2020-10-30,28,Madrid,2644,11,217,14
+2020-10-30,28,Madrid,2645,11,217,14
 2020-10-30,29,Málaga,499,4,37,3
 2020-10-30,30,Murcia,1022,8,57,6
 2020-10-30,31,Navarra,601,7,51,4
@@ -16106,7 +16106,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-30,45,Toledo,362,6,17,0
 2020-10-30,46,Valencia/València,1128,4,77,9
 2020-10-30,47,Valladolid,551,6,45,6
-2020-10-30,48,Bizkaia,720,5,37,7
+2020-10-30,48,Bizkaia,719,5,37,7
 2020-10-30,49,Zamora,256,4,6,1
 2020-10-30,50,Zaragoza,902,8,54,8
 2020-10-30,51,Ceuta,96,3,2,0
@@ -16131,7 +16131,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-31,17,Girona,380,6,5,1
 2020-10-31,18,Granada,645,6,50,9
 2020-10-31,19,Guadalajara,68,2,2,0
-2020-10-31,20,Gipuzkoa,640,3,19,3
+2020-10-31,20,Gipuzkoa,639,3,19,3
 2020-10-31,21,Huelva,156,0,11,1
 2020-10-31,22,Huesca,259,4,12,1
 2020-10-31,23,Jaén,355,8,24,4
@@ -16161,7 +16161,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-10-31,47,Valladolid,321,8,32,0
 2020-10-31,48,Bizkaia,469,2,22,1
 2020-10-31,49,Zamora,142,2,15,2
-2020-10-31,50,Zaragoza,705,11,48,4
+2020-10-31,50,Zaragoza,703,11,48,4
 2020-10-31,51,Ceuta,36,2,4,0
 2020-10-31,52,Melilla,102,3,3,1
 2020-11-01,00,No consta,94,3,9,2
@@ -16265,7 +16265,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-02,45,Toledo,404,7,17,1
 2020-11-02,46,Valencia/València,782,8,82,9
 2020-11-02,47,Valladolid,173,6,40,4
-2020-11-02,48,Bizkaia,563,4,49,6
+2020-11-02,48,Bizkaia,562,4,49,6
 2020-11-02,49,Zamora,56,4,10,0
 2020-11-02,50,Zaragoza,489,11,35,0
 2020-11-02,51,Ceuta,74,1,7,0
@@ -16483,7 +16483,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-06,51,Ceuta,90,1,2,0
 2020-11-06,52,Melilla,52,2,3,2
 2020-11-07,00,No consta,88,0,8,0
-2020-11-07,01,Araba/Álava,98,1,6,0
+2020-11-07,01,Araba/Álava,97,1,6,0
 2020-11-07,02,Albacete,94,1,12,2
 2020-11-07,03,Alicante/Alacant,559,10,44,2
 2020-11-07,04,Almería,299,1,12,0
@@ -16636,7 +16636,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-09,45,Toledo,286,13,17,2
 2020-11-09,46,Valencia/València,695,12,103,10
 2020-11-09,47,Valladolid,264,14,35,3
-2020-11-09,48,Bizkaia,598,3,55,5
+2020-11-09,48,Bizkaia,597,3,55,5
 2020-11-09,49,Zamora,67,4,13,1
 2020-11-09,50,Zaragoza,417,15,46,5
 2020-11-09,51,Ceuta,58,2,8,0
@@ -17191,7 +17191,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-20,17,Girona,185,4,7,1
 2020-11-20,18,Granada,502,15,47,1
 2020-11-20,19,Guadalajara,71,1,1,0
-2020-11-20,20,Gipuzkoa,360,5,25,3
+2020-11-20,20,Gipuzkoa,358,5,25,3
 2020-11-20,21,Huelva,195,1,10,0
 2020-11-20,22,Huesca,91,5,7,0
 2020-11-20,23,Jaén,332,10,28,2
@@ -17358,7 +17358,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-23,25,Lleida,117,4,2,0
 2020-11-23,26,La Rioja,52,3,7,0
 2020-11-23,27,Lugo,37,1,4,0
-2020-11-23,28,Madrid,1285,11,161,11
+2020-11-23,28,Madrid,1284,11,161,11
 2020-11-23,29,Málaga,203,12,31,4
 2020-11-23,30,Murcia,249,9,23,3
 2020-11-23,31,Navarra,153,4,9,4
@@ -17562,7 +17562,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-11-27,17,Girona,209,7,7,0
 2020-11-27,18,Granada,203,12,19,1
 2020-11-27,19,Guadalajara,43,0,2,0
-2020-11-27,20,Gipuzkoa,242,7,3,1
+2020-11-27,20,Gipuzkoa,241,7,3,1
 2020-11-27,21,Huelva,150,1,9,0
 2020-11-27,22,Huesca,48,2,7,0
 2020-11-27,23,Jaén,152,2,13,1
@@ -17855,7 +17855,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-02,45,Toledo,232,4,12,1
 2020-12-02,46,Valencia/València,758,16,48,9
 2020-12-02,47,Valladolid,80,8,13,0
-2020-12-02,48,Bizkaia,279,7,28,3
+2020-12-02,48,Bizkaia,278,7,28,3
 2020-12-02,49,Zamora,24,2,4,1
 2020-12-02,50,Zaragoza,213,3,18,1
 2020-12-02,51,Ceuta,9,0,0,0
@@ -19167,7 +19167,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2020-12-27,32,Ourense,25,0,4,0
 2020-12-27,33,Asturias,82,3,11,2
 2020-12-27,34,Palencia,20,2,4,0
-2020-12-27,35,Las Palmas,42,0,4,4
+2020-12-27,35,Las Palmas,42,0,4,5
 2020-12-27,36,Pontevedra,111,1,12,1
 2020-12-27,37,Salamanca,13,1,1,0
 2020-12-27,38,Santa Cruz de Tenerife,86,2,11,1
@@ -19443,7 +19443,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-01,43,Tarragona,132,4,9,0
 2021-01-01,44,Teruel,18,0,2,0
 2021-01-01,45,Toledo,154,3,11,1
-2021-01-01,46,Valencia/València,1045,28,109,9
+2021-01-01,46,Valencia/València,1044,28,109,9
 2021-01-01,47,Valladolid,73,2,5,0
 2021-01-01,48,Bizkaia,123,5,13,1
 2021-01-01,49,Zamora,10,0,2,0
@@ -19500,7 +19500,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-02,47,Valladolid,86,0,9,1
 2021-01-02,48,Bizkaia,129,4,13,0
 2021-01-02,49,Zamora,10,2,1,0
-2021-01-02,50,Zaragoza,136,3,16,1
+2021-01-02,50,Zaragoza,137,3,16,1
 2021-01-02,51,Ceuta,29,0,1,0
 2021-01-02,52,Melilla,13,0,1,0
 2021-01-03,00,No consta,55,1,2,0
@@ -19553,7 +19553,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-03,47,Valladolid,87,2,5,0
 2021-01-03,48,Bizkaia,186,5,20,0
 2021-01-03,49,Zamora,10,1,2,0
-2021-01-03,50,Zaragoza,167,3,11,2
+2021-01-03,50,Zaragoza,165,3,11,2
 2021-01-03,51,Ceuta,14,0,0,0
 2021-01-03,52,Melilla,22,0,3,0
 2021-01-04,00,No consta,117,1,7,0
@@ -19581,7 +19581,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-04,22,Huesca,55,0,7,0
 2021-01-04,23,Jaén,167,3,8,0
 2021-01-04,24,León,123,0,9,3
-2021-01-04,25,Lleida,199,1,3,0
+2021-01-04,25,Lleida,200,1,3,0
 2021-01-04,26,La Rioja,82,1,5,2
 2021-01-04,27,Lugo,50,0,1,0
 2021-01-04,28,Madrid,4653,24,299,16
@@ -19604,7 +19604,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-04,45,Toledo,435,2,20,1
 2021-01-04,46,Valencia/València,1911,28,170,11
 2021-01-04,47,Valladolid,188,3,11,0
-2021-01-04,48,Bizkaia,188,9,28,2
+2021-01-04,48,Bizkaia,189,9,28,2
 2021-01-04,49,Zamora,47,0,3,2
 2021-01-04,50,Zaragoza,208,4,20,0
 2021-01-04,51,Ceuta,29,0,2,0
@@ -19629,7 +19629,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-05,17,Girona,456,5,5,0
 2021-01-05,18,Granada,376,5,24,3
 2021-01-05,19,Guadalajara,165,3,4,0
-2021-01-05,20,Gipuzkoa,194,6,0,1
+2021-01-05,20,Gipuzkoa,195,6,0,1
 2021-01-05,21,Huelva,135,0,5,0
 2021-01-05,22,Huesca,86,0,1,1
 2021-01-05,23,Jaén,352,1,12,0
@@ -19659,7 +19659,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-05,47,Valladolid,267,4,20,1
 2021-01-05,48,Bizkaia,278,7,20,0
 2021-01-05,49,Zamora,72,0,11,1
-2021-01-05,50,Zaragoza,403,7,23,6
+2021-01-05,50,Zaragoza,404,7,23,6
 2021-01-05,51,Ceuta,31,0,2,0
 2021-01-05,52,Melilla,56,0,0,0
 2021-01-06,00,No consta,83,1,3,0
@@ -19712,7 +19712,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-06,47,Valladolid,160,1,13,3
 2021-01-06,48,Bizkaia,280,5,20,1
 2021-01-06,49,Zamora,32,2,1,0
-2021-01-06,50,Zaragoza,309,6,12,2
+2021-01-06,50,Zaragoza,310,6,12,2
 2021-01-06,51,Ceuta,9,0,3,1
 2021-01-06,52,Melilla,12,0,2,0
 2021-01-07,00,No consta,102,1,8,0
@@ -19735,7 +19735,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-07,17,Girona,381,6,6,0
 2021-01-07,18,Granada,378,2,18,3
 2021-01-07,19,Guadalajara,173,1,9,0
-2021-01-07,20,Gipuzkoa,145,4,2,1
+2021-01-07,20,Gipuzkoa,146,4,2,1
 2021-01-07,21,Huelva,179,0,3,0
 2021-01-07,22,Huesca,97,1,1,1
 2021-01-07,23,Jaén,233,2,15,0
@@ -19763,13 +19763,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-07,45,Toledo,676,5,24,2
 2021-01-07,46,Valencia/València,2550,34,182,14
 2021-01-07,47,Valladolid,294,6,9,0
-2021-01-07,48,Bizkaia,250,7,17,3
+2021-01-07,48,Bizkaia,251,7,17,3
 2021-01-07,49,Zamora,23,0,2,0
 2021-01-07,50,Zaragoza,277,2,29,1
 2021-01-07,51,Ceuta,23,1,0,0
 2021-01-07,52,Melilla,27,0,0,0
 2021-01-08,00,No consta,123,0,6,1
-2021-01-08,01,Araba/Álava,87,4,5,0
+2021-01-08,01,Araba/Álava,88,4,5,0
 2021-01-08,02,Albacete,243,2,6,1
 2021-01-08,03,Alicante/Alacant,2479,14,130,15
 2021-01-08,04,Almería,447,1,11,2
@@ -19812,13 +19812,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-08,41,Sevilla,612,5,33,2
 2021-01-08,42,Soria,28,0,5,1
 2021-01-08,43,Tarragona,478,9,5,1
-2021-01-08,44,Teruel,74,2,5,0
+2021-01-08,44,Teruel,75,2,5,0
 2021-01-08,45,Toledo,749,7,15,1
 2021-01-08,46,Valencia/València,3674,35,185,21
 2021-01-08,47,Valladolid,370,4,26,1
 2021-01-08,48,Bizkaia,326,2,33,2
 2021-01-08,49,Zamora,113,0,4,1
-2021-01-08,50,Zaragoza,486,10,23,2
+2021-01-08,50,Zaragoza,485,10,24,2
 2021-01-08,51,Ceuta,35,0,0,0
 2021-01-08,52,Melilla,37,0,3,0
 2021-01-09,00,No consta,94,1,3,0
@@ -19846,7 +19846,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-09,22,Huesca,31,0,5,1
 2021-01-09,23,Jaén,209,1,11,1
 2021-01-09,24,León,258,2,6,0
-2021-01-09,25,Lleida,84,2,2,0
+2021-01-09,25,Lleida,85,2,2,0
 2021-01-09,26,La Rioja,176,0,12,1
 2021-01-09,27,Lugo,64,1,4,2
 2021-01-09,28,Madrid,481,16,66,14
@@ -19865,7 +19865,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-09,41,Sevilla,630,3,30,3
 2021-01-09,42,Soria,16,0,0,0
 2021-01-09,43,Tarragona,303,6,9,0
-2021-01-09,44,Teruel,58,1,3,0
+2021-01-09,44,Teruel,57,1,3,0
 2021-01-09,45,Toledo,251,7,12,1
 2021-01-09,46,Valencia/València,2721,35,128,8
 2021-01-09,47,Valladolid,161,4,11,1
@@ -19875,7 +19875,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-09,51,Ceuta,27,0,4,0
 2021-01-09,52,Melilla,19,0,1,0
 2021-01-10,00,No consta,78,0,13,0
-2021-01-10,01,Araba/Álava,53,0,5,0
+2021-01-10,01,Araba/Álava,54,0,5,0
 2021-01-10,02,Albacete,188,1,11,1
 2021-01-10,03,Alicante/Alacant,1444,18,108,12
 2021-01-10,04,Almería,292,4,17,5
@@ -19977,7 +19977,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-11,47,Valladolid,513,3,20,1
 2021-01-11,48,Bizkaia,470,11,22,4
 2021-01-11,49,Zamora,92,1,5,1
-2021-01-11,50,Zaragoza,261,10,48,3
+2021-01-11,50,Zaragoza,260,10,48,3
 2021-01-11,51,Ceuta,25,0,0,0
 2021-01-11,52,Melilla,61,0,1,2
 2021-01-12,00,No consta,170,0,9,1
@@ -20002,7 +20002,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-12,19,Guadalajara,222,3,7,1
 2021-01-12,20,Gipuzkoa,222,2,3,1
 2021-01-12,21,Huelva,471,3,9,5
-2021-01-12,22,Huesca,84,1,4,1
+2021-01-12,22,Huesca,83,1,4,1
 2021-01-12,23,Jaén,453,3,17,2
 2021-01-12,24,León,358,1,19,3
 2021-01-12,25,Lleida,286,4,6,1
@@ -20024,7 +20024,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-12,41,Sevilla,1017,3,32,4
 2021-01-12,42,Soria,56,1,7,0
 2021-01-12,43,Tarragona,578,1,12,0
-2021-01-12,44,Teruel,148,0,5,0
+2021-01-12,44,Teruel,147,0,5,0
 2021-01-12,45,Toledo,704,7,38,4
 2021-01-12,46,Valencia/València,4213,35,214,18
 2021-01-12,47,Valladolid,554,4,23,0
@@ -20077,13 +20077,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-13,41,Sevilla,1113,4,57,5
 2021-01-13,42,Soria,82,0,3,0
 2021-01-13,43,Tarragona,544,7,10,0
-2021-01-13,44,Teruel,162,0,5,2
+2021-01-13,44,Teruel,162,0,4,2
 2021-01-13,45,Toledo,997,8,52,1
 2021-01-13,46,Valencia/València,4093,31,235,19
 2021-01-13,47,Valladolid,578,2,30,3
 2021-01-13,48,Bizkaia,406,13,27,2
 2021-01-13,49,Zamora,167,0,5,3
-2021-01-13,50,Zaragoza,646,7,40,2
+2021-01-13,50,Zaragoza,648,7,41,2
 2021-01-13,51,Ceuta,38,0,4,0
 2021-01-13,52,Melilla,60,1,1,3
 2021-01-14,00,No consta,158,3,10,1
@@ -20094,12 +20094,12 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-14,05,Ávila,162,2,16,1
 2021-01-14,06,Badajoz,978,6,48,6
 2021-01-14,07,Balears,663,6,44,6
-2021-01-14,08,Barcelona,3039,46,116,8
+2021-01-14,08,Barcelona,3039,46,117,8
 2021-01-14,09,Burgos,164,0,15,1
 2021-01-14,10,Cáceres,285,2,15,0
 2021-01-14,11,Cádiz,1164,20,64,3
 2021-01-14,12,Castellón/Castelló,797,5,41,3
-2021-01-14,13,Ciudad Real,740,9,35,0
+2021-01-14,13,Ciudad Real,741,9,35,0
 2021-01-14,14,Córdoba,571,0,20,3
 2021-01-14,15,A Coruña,608,3,44,4
 2021-01-14,16,Cuenca,376,2,16,1
@@ -20114,14 +20114,14 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-14,25,Lleida,172,3,4,1
 2021-01-14,26,La Rioja,210,2,16,2
 2021-01-14,27,Lugo,72,2,4,0
-2021-01-14,28,Madrid,5762,27,375,24
+2021-01-14,28,Madrid,5763,27,375,24
 2021-01-14,29,Málaga,1492,10,70,7
 2021-01-14,30,Murcia,2073,17,98,13
 2021-01-14,31,Navarra,247,0,13,2
 2021-01-14,32,Ourense,191,1,17,2
 2021-01-14,33,Asturias,329,4,30,4
 2021-01-14,34,Palencia,228,2,14,1
-2021-01-14,35,Las Palmas,288,2,12,8
+2021-01-14,35,Las Palmas,288,2,12,7
 2021-01-14,36,Pontevedra,390,4,23,6
 2021-01-14,37,Salamanca,461,1,14,2
 2021-01-14,38,Santa Cruz de Tenerife,77,4,4,2
@@ -20130,7 +20130,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-14,41,Sevilla,1175,8,49,4
 2021-01-14,42,Soria,45,0,3,0
 2021-01-14,43,Tarragona,514,7,14,2
-2021-01-14,44,Teruel,120,3,0,0
+2021-01-14,44,Teruel,118,3,0,0
 2021-01-14,45,Toledo,1068,9,42,2
 2021-01-14,46,Valencia/València,3993,41,234,28
 2021-01-14,47,Valladolid,600,4,37,3
@@ -20147,7 +20147,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-15,05,Ávila,221,0,16,1
 2021-01-15,06,Badajoz,1024,8,39,3
 2021-01-15,07,Balears,663,11,34,9
-2021-01-15,08,Barcelona,3118,42,134,12
+2021-01-15,08,Barcelona,3119,42,134,12
 2021-01-15,09,Burgos,215,4,9,0
 2021-01-15,10,Cáceres,436,6,14,3
 2021-01-15,11,Cádiz,1294,17,45,6
@@ -20170,26 +20170,26 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-15,28,Madrid,6565,46,408,28
 2021-01-15,29,Málaga,1690,11,62,6
 2021-01-15,30,Murcia,1988,15,116,16
-2021-01-15,31,Navarra,219,2,11,1
+2021-01-15,31,Navarra,220,2,11,1
 2021-01-15,32,Ourense,179,1,14,0
 2021-01-15,33,Asturias,360,3,35,3
 2021-01-15,34,Palencia,225,3,14,2
 2021-01-15,35,Las Palmas,195,0,12,4
 2021-01-15,36,Pontevedra,453,5,29,3
 2021-01-15,37,Salamanca,439,4,21,2
-2021-01-15,38,Santa Cruz de Tenerife,68,2,4,3
+2021-01-15,38,Santa Cruz de Tenerife,68,2,4,2
 2021-01-15,39,Cantabria,184,0,17,1
 2021-01-15,40,Segovia,346,2,11,1
 2021-01-15,41,Sevilla,1435,6,69,7
 2021-01-15,42,Soria,91,0,8,1
-2021-01-15,43,Tarragona,485,8,16,2
-2021-01-15,44,Teruel,145,3,7,0
+2021-01-15,43,Tarragona,486,8,16,2
+2021-01-15,44,Teruel,145,3,8,0
 2021-01-15,45,Toledo,1074,10,42,0
 2021-01-15,46,Valencia/València,4410,46,268,17
 2021-01-15,47,Valladolid,754,5,35,2
 2021-01-15,48,Bizkaia,431,11,32,0
 2021-01-15,49,Zamora,159,2,9,1
-2021-01-15,50,Zaragoza,617,6,31,3
+2021-01-15,50,Zaragoza,616,6,31,3
 2021-01-15,51,Ceuta,18,1,2,1
 2021-01-15,52,Melilla,63,1,2,0
 2021-01-16,00,No consta,111,3,6,2
@@ -20212,7 +20212,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-16,17,Girona,119,5,1,0
 2021-01-16,18,Granada,268,6,36,5
 2021-01-16,19,Guadalajara,174,0,8,1
-2021-01-16,20,Gipuzkoa,150,6,2,0
+2021-01-16,20,Gipuzkoa,151,6,2,0
 2021-01-16,21,Huelva,303,3,14,1
 2021-01-16,22,Huesca,37,2,4,0
 2021-01-16,23,Jaén,290,6,23,4
@@ -20227,7 +20227,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-16,32,Ourense,198,0,16,0
 2021-01-16,33,Asturias,259,7,26,3
 2021-01-16,34,Palencia,165,3,11,1
-2021-01-16,35,Las Palmas,210,1,11,4
+2021-01-16,35,Las Palmas,210,1,11,3
 2021-01-16,36,Pontevedra,385,5,29,5
 2021-01-16,37,Salamanca,272,1,21,1
 2021-01-16,38,Santa Cruz de Tenerife,40,3,3,0
@@ -20238,11 +20238,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-16,43,Tarragona,289,8,6,2
 2021-01-16,44,Teruel,136,0,7,0
 2021-01-16,45,Toledo,699,10,34,2
-2021-01-16,46,Valencia/València,3245,45,195,12
+2021-01-16,46,Valencia/València,3244,45,195,12
 2021-01-16,47,Valladolid,359,3,22,2
 2021-01-16,48,Bizkaia,361,11,26,6
 2021-01-16,49,Zamora,131,2,6,0
-2021-01-16,50,Zaragoza,542,4,27,1
+2021-01-16,50,Zaragoza,544,4,27,1
 2021-01-16,51,Ceuta,31,2,1,1
 2021-01-16,52,Melilla,21,0,2,0
 2021-01-17,00,No consta,76,1,10,2
@@ -20280,7 +20280,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-17,32,Ourense,130,1,15,0
 2021-01-17,33,Asturias,279,7,31,1
 2021-01-17,34,Palencia,204,2,18,4
-2021-01-17,35,Las Palmas,133,0,15,5
+2021-01-17,35,Las Palmas,133,0,15,6
 2021-01-17,36,Pontevedra,257,4,20,1
 2021-01-17,37,Salamanca,268,1,15,2
 2021-01-17,38,Santa Cruz de Tenerife,31,6,6,0
@@ -20289,7 +20289,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-17,41,Sevilla,505,7,40,6
 2021-01-17,42,Soria,63,0,7,1
 2021-01-17,43,Tarragona,192,8,13,1
-2021-01-17,44,Teruel,138,1,6,0
+2021-01-17,44,Teruel,137,1,6,0
 2021-01-17,45,Toledo,261,12,45,4
 2021-01-17,46,Valencia/València,2155,47,174,13
 2021-01-17,47,Valladolid,375,2,22,1
@@ -20342,13 +20342,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-18,41,Sevilla,1185,8,64,9
 2021-01-18,42,Soria,53,0,8,0
 2021-01-18,43,Tarragona,521,6,16,3
-2021-01-18,44,Teruel,103,2,13,1
+2021-01-18,44,Teruel,103,2,12,1
 2021-01-18,45,Toledo,629,12,56,5
 2021-01-18,46,Valencia/València,2971,44,314,16
 2021-01-18,47,Valladolid,730,5,35,9
 2021-01-18,48,Bizkaia,427,10,32,3
 2021-01-18,49,Zamora,112,0,11,0
-2021-01-18,50,Zaragoza,360,9,44,6
+2021-01-18,50,Zaragoza,361,9,45,6
 2021-01-18,51,Ceuta,30,0,0,0
 2021-01-18,52,Melilla,76,0,7,3
 2021-01-19,00,No consta,169,1,13,1
@@ -20371,9 +20371,9 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-19,17,Girona,368,3,9,0
 2021-01-19,18,Granada,878,13,35,5
 2021-01-19,19,Guadalajara,255,2,15,1
-2021-01-19,20,Gipuzkoa,246,2,3,0
+2021-01-19,20,Gipuzkoa,247,2,3,0
 2021-01-19,21,Huelva,495,2,23,3
-2021-01-19,22,Huesca,75,2,5,0
+2021-01-19,22,Huesca,76,2,5,0
 2021-01-19,23,Jaén,607,5,31,2
 2021-01-19,24,León,523,2,38,1
 2021-01-19,25,Lleida,224,2,6,0
@@ -20401,7 +20401,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-19,47,Valladolid,723,4,58,10
 2021-01-19,48,Bizkaia,531,8,46,2
 2021-01-19,49,Zamora,200,0,12,1
-2021-01-19,50,Zaragoza,574,9,44,3
+2021-01-19,50,Zaragoza,573,9,43,3
 2021-01-19,51,Ceuta,38,0,2,0
 2021-01-19,52,Melilla,88,0,4,0
 2021-01-20,00,No consta,161,2,9,3
@@ -20412,7 +20412,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-20,05,Ávila,152,1,16,0
 2021-01-20,06,Badajoz,832,8,62,8
 2021-01-20,07,Balears,625,4,26,7
-2021-01-20,08,Barcelona,3046,40,142,11
+2021-01-20,08,Barcelona,3047,40,142,11
 2021-01-20,09,Burgos,219,1,19,0
 2021-01-20,10,Cáceres,305,4,14,1
 2021-01-20,11,Cádiz,1309,17,69,12
@@ -20424,7 +20424,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-20,17,Girona,344,6,8,0
 2021-01-20,18,Granada,887,12,43,11
 2021-01-20,19,Guadalajara,359,3,16,2
-2021-01-20,20,Gipuzkoa,251,5,4,0
+2021-01-20,20,Gipuzkoa,252,5,4,0
 2021-01-20,21,Huelva,557,2,30,1
 2021-01-20,22,Huesca,95,0,3,1
 2021-01-20,23,Jaén,439,2,32,1
@@ -20454,7 +20454,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-20,47,Valladolid,703,9,55,3
 2021-01-20,48,Bizkaia,570,9,52,4
 2021-01-20,49,Zamora,220,1,7,0
-2021-01-20,50,Zaragoza,570,8,46,4
+2021-01-20,50,Zaragoza,569,8,46,4
 2021-01-20,51,Ceuta,55,0,3,0
 2021-01-20,52,Melilla,97,0,4,1
 2021-01-21,00,No consta,136,2,12,1
@@ -20465,7 +20465,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-21,05,Ávila,162,1,8,2
 2021-01-21,06,Badajoz,721,19,43,6
 2021-01-21,07,Balears,694,7,49,5
-2021-01-21,08,Barcelona,2817,47,128,15
+2021-01-21,08,Barcelona,2818,47,128,15
 2021-01-21,09,Burgos,200,1,20,1
 2021-01-21,10,Cáceres,333,5,22,4
 2021-01-21,11,Cádiz,1312,15,69,5
@@ -20477,7 +20477,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-21,17,Girona,335,9,5,1
 2021-01-21,18,Granada,793,7,54,7
 2021-01-21,19,Guadalajara,329,0,21,1
-2021-01-21,20,Gipuzkoa,268,5,2,1
+2021-01-21,20,Gipuzkoa,269,5,2,1
 2021-01-21,21,Huelva,563,3,27,1
 2021-01-21,22,Huesca,43,2,9,0
 2021-01-21,23,Jaén,478,3,47,5
@@ -20505,9 +20505,9 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-21,45,Toledo,1041,17,38,4
 2021-01-21,46,Valencia/València,3984,45,283,15
 2021-01-21,47,Valladolid,666,4,61,8
-2021-01-21,48,Bizkaia,543,19,52,4
+2021-01-21,48,Bizkaia,544,19,52,4
 2021-01-21,49,Zamora,209,3,10,0
-2021-01-21,50,Zaragoza,508,15,55,4
+2021-01-21,50,Zaragoza,508,15,54,4
 2021-01-21,51,Ceuta,40,0,1,0
 2021-01-21,52,Melilla,86,0,7,0
 2021-01-22,00,No consta,158,0,14,0
@@ -20530,7 +20530,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-22,17,Girona,311,8,6,3
 2021-01-22,18,Granada,881,11,51,3
 2021-01-22,19,Guadalajara,250,1,19,3
-2021-01-22,20,Gipuzkoa,249,6,2,0
+2021-01-22,20,Gipuzkoa,250,6,2,0
 2021-01-22,21,Huelva,592,8,31,2
 2021-01-22,22,Huesca,65,1,12,0
 2021-01-22,23,Jaén,566,9,32,5
@@ -20545,7 +20545,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-22,32,Ourense,244,0,23,2
 2021-01-22,33,Asturias,523,11,62,3
 2021-01-22,34,Palencia,329,5,20,1
-2021-01-22,35,Las Palmas,212,2,16,5
+2021-01-22,35,Las Palmas,212,2,16,6
 2021-01-22,36,Pontevedra,549,8,46,4
 2021-01-22,37,Salamanca,464,4,42,3
 2021-01-22,38,Santa Cruz de Tenerife,78,4,10,2
@@ -20558,9 +20558,9 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-22,45,Toledo,1051,16,40,5
 2021-01-22,46,Valencia/València,3339,49,237,21
 2021-01-22,47,Valladolid,749,5,49,3
-2021-01-22,48,Bizkaia,522,15,53,1
+2021-01-22,48,Bizkaia,523,15,53,1
 2021-01-22,49,Zamora,176,2,17,3
-2021-01-22,50,Zaragoza,582,9,45,4
+2021-01-22,50,Zaragoza,583,9,45,4
 2021-01-22,51,Ceuta,40,0,5,0
 2021-01-22,52,Melilla,85,0,6,1
 2021-01-23,00,No consta,96,0,10,0
@@ -20601,7 +20601,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-23,35,Las Palmas,220,4,16,4
 2021-01-23,36,Pontevedra,401,6,42,1
 2021-01-23,37,Salamanca,381,3,22,2
-2021-01-23,38,Santa Cruz de Tenerife,64,3,2,0
+2021-01-23,38,Santa Cruz de Tenerife,64,3,2,1
 2021-01-23,39,Cantabria,168,3,12,5
 2021-01-23,40,Segovia,186,4,14,1
 2021-01-23,41,Sevilla,1088,6,65,4
@@ -20636,7 +20636,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-24,17,Girona,86,12,4,0
 2021-01-24,18,Granada,243,7,34,5
 2021-01-24,19,Guadalajara,207,3,11,2
-2021-01-24,20,Gipuzkoa,210,9,2,0
+2021-01-24,20,Gipuzkoa,211,9,2,0
 2021-01-24,21,Huelva,170,3,16,0
 2021-01-24,22,Huesca,30,0,6,0
 2021-01-24,23,Jaén,183,5,24,1
@@ -20654,7 +20654,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-24,35,Las Palmas,197,4,24,5
 2021-01-24,36,Pontevedra,602,3,29,4
 2021-01-24,37,Salamanca,230,4,29,0
-2021-01-24,38,Santa Cruz de Tenerife,25,1,6,2
+2021-01-24,38,Santa Cruz de Tenerife,25,1,6,1
 2021-01-24,39,Cantabria,97,5,9,4
 2021-01-24,40,Segovia,124,3,8,0
 2021-01-24,41,Sevilla,497,10,63,8
@@ -20666,7 +20666,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-24,47,Valladolid,370,6,42,5
 2021-01-24,48,Bizkaia,361,11,33,5
 2021-01-24,49,Zamora,34,1,7,0
-2021-01-24,50,Zaragoza,292,4,31,1
+2021-01-24,50,Zaragoza,291,4,31,1
 2021-01-24,51,Ceuta,27,1,3,0
 2021-01-24,52,Melilla,30,0,3,2
 2021-01-25,00,No consta,163,2,12,1
@@ -20713,9 +20713,9 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-25,41,Sevilla,1175,12,97,9
 2021-01-25,42,Soria,83,3,6,1
 2021-01-25,43,Tarragona,356,12,10,3
-2021-01-25,44,Teruel,117,1,18,1
+2021-01-25,44,Teruel,116,1,18,1
 2021-01-25,45,Toledo,697,11,33,2
-2021-01-25,46,Valencia/València,2484,54,237,17
+2021-01-25,46,Valencia/València,2483,54,237,17
 2021-01-25,47,Valladolid,582,3,65,3
 2021-01-25,48,Bizkaia,537,15,35,8
 2021-01-25,49,Zamora,104,1,19,1
@@ -20772,7 +20772,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-26,47,Valladolid,611,12,57,5
 2021-01-26,48,Bizkaia,528,12,51,11
 2021-01-26,49,Zamora,117,3,12,1
-2021-01-26,50,Zaragoza,615,11,38,5
+2021-01-26,50,Zaragoza,612,11,38,5
 2021-01-26,51,Ceuta,25,0,1,0
 2021-01-26,52,Melilla,75,0,3,1
 2021-01-27,00,No consta,199,2,10,0
@@ -20797,13 +20797,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-27,19,Guadalajara,244,1,7,0
 2021-01-27,20,Gipuzkoa,287,7,0,0
 2021-01-27,21,Huelva,443,8,25,1
-2021-01-27,22,Huesca,56,1,6,0
+2021-01-27,22,Huesca,55,1,6,0
 2021-01-27,23,Jaén,423,4,31,6
 2021-01-27,24,León,586,4,45,2
 2021-01-27,25,Lleida,222,2,1,0
 2021-01-27,26,La Rioja,437,1,29,6
 2021-01-27,27,Lugo,145,2,11,1
-2021-01-27,28,Madrid,5874,51,355,28
+2021-01-27,28,Madrid,5873,51,355,28
 2021-01-27,29,Málaga,1651,16,90,1
 2021-01-27,30,Murcia,992,22,124,9
 2021-01-27,31,Navarra,239,6,19,2
@@ -20811,7 +20811,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-27,33,Asturias,578,13,64,5
 2021-01-27,34,Palencia,339,4,20,4
 2021-01-27,35,Las Palmas,289,2,21,4
-2021-01-27,36,Pontevedra,500,6,38,7
+2021-01-27,36,Pontevedra,501,6,38,7
 2021-01-27,37,Salamanca,414,5,36,1
 2021-01-27,38,Santa Cruz de Tenerife,38,2,4,2
 2021-01-27,39,Cantabria,201,5,21,3
@@ -20825,7 +20825,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-27,47,Valladolid,519,8,43,5
 2021-01-27,48,Bizkaia,639,12,55,5
 2021-01-27,49,Zamora,168,4,20,1
-2021-01-27,50,Zaragoza,571,15,32,3
+2021-01-27,50,Zaragoza,572,15,32,3
 2021-01-27,51,Ceuta,54,1,2,0
 2021-01-27,52,Melilla,67,2,3,0
 2021-01-28,00,No consta,146,5,15,1
@@ -20848,7 +20848,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-28,17,Girona,271,2,6,0
 2021-01-28,18,Granada,746,10,40,5
 2021-01-28,19,Guadalajara,245,2,8,0
-2021-01-28,20,Gipuzkoa,288,5,2,0
+2021-01-28,20,Gipuzkoa,289,5,2,0
 2021-01-28,21,Huelva,445,3,25,1
 2021-01-28,22,Huesca,51,1,3,0
 2021-01-28,23,Jaén,530,3,28,3
@@ -20872,13 +20872,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-28,41,Sevilla,1561,12,91,10
 2021-01-28,42,Soria,73,2,11,1
 2021-01-28,43,Tarragona,311,7,4,0
-2021-01-28,44,Teruel,139,3,15,0
+2021-01-28,44,Teruel,140,3,15,0
 2021-01-28,45,Toledo,837,12,26,4
 2021-01-28,46,Valencia/València,2991,59,216,12
 2021-01-28,47,Valladolid,434,2,48,6
 2021-01-28,48,Bizkaia,661,7,58,5
 2021-01-28,49,Zamora,127,1,15,1
-2021-01-28,50,Zaragoza,503,11,48,6
+2021-01-28,50,Zaragoza,502,11,47,5
 2021-01-28,51,Ceuta,35,2,2,0
 2021-01-28,52,Melilla,74,0,10,1
 2021-01-29,00,No consta,136,0,19,3
@@ -20901,7 +20901,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-29,17,Girona,316,9,12,0
 2021-01-29,18,Granada,751,7,52,10
 2021-01-29,19,Guadalajara,151,2,18,2
-2021-01-29,20,Gipuzkoa,247,2,6,1
+2021-01-29,20,Gipuzkoa,248,2,6,1
 2021-01-29,21,Huelva,509,5,27,1
 2021-01-29,22,Huesca,60,2,1,0
 2021-01-29,23,Jaén,347,6,26,1
@@ -20916,7 +20916,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-29,32,Ourense,144,3,12,2
 2021-01-29,33,Asturias,534,11,75,5
 2021-01-29,34,Palencia,324,6,20,3
-2021-01-29,35,Las Palmas,246,2,30,2
+2021-01-29,35,Las Palmas,246,2,30,1
 2021-01-29,36,Pontevedra,530,6,40,6
 2021-01-29,37,Salamanca,494,6,29,2
 2021-01-29,38,Santa Cruz de Tenerife,61,1,2,3
@@ -20931,7 +20931,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-29,47,Valladolid,457,5,54,3
 2021-01-29,48,Bizkaia,539,10,53,8
 2021-01-29,49,Zamora,154,2,15,0
-2021-01-29,50,Zaragoza,456,9,29,3
+2021-01-29,50,Zaragoza,456,9,28,3
 2021-01-29,51,Ceuta,35,1,1,0
 2021-01-29,52,Melilla,67,0,8,1
 2021-01-30,00,No consta,86,2,5,0
@@ -20954,7 +20954,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-30,17,Girona,107,11,9,0
 2021-01-30,18,Granada,244,9,43,5
 2021-01-30,19,Guadalajara,143,4,7,0
-2021-01-30,20,Gipuzkoa,236,7,5,1
+2021-01-30,20,Gipuzkoa,237,7,5,1
 2021-01-30,21,Huelva,265,3,26,0
 2021-01-30,22,Huesca,43,0,3,0
 2021-01-30,23,Jaén,221,7,29,3
@@ -20972,7 +20972,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-30,35,Las Palmas,219,3,12,4
 2021-01-30,36,Pontevedra,359,6,26,3
 2021-01-30,37,Salamanca,209,6,21,2
-2021-01-30,38,Santa Cruz de Tenerife,27,1,4,1
+2021-01-30,38,Santa Cruz de Tenerife,27,1,4,2
 2021-01-30,39,Cantabria,122,2,8,2
 2021-01-30,40,Segovia,136,8,12,1
 2021-01-30,41,Sevilla,893,16,82,5
@@ -20984,7 +20984,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-30,47,Valladolid,186,8,34,5
 2021-01-30,48,Bizkaia,409,8,39,4
 2021-01-30,49,Zamora,104,1,15,0
-2021-01-30,50,Zaragoza,297,6,33,2
+2021-01-30,50,Zaragoza,298,6,32,2
 2021-01-30,51,Ceuta,27,0,1,0
 2021-01-30,52,Melilla,58,1,2,2
 2021-01-31,00,No consta,50,1,7,0
@@ -21007,7 +21007,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-01-31,17,Girona,78,8,8,2
 2021-01-31,18,Granada,119,13,47,5
 2021-01-31,19,Guadalajara,120,3,15,0
-2021-01-31,20,Gipuzkoa,277,4,7,0
+2021-01-31,20,Gipuzkoa,279,4,7,0
 2021-01-31,21,Huelva,118,5,23,1
 2021-01-31,22,Huesca,5,2,6,1
 2021-01-31,23,Jaén,130,5,25,2
@@ -21090,7 +21090,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-01,47,Valladolid,359,7,42,4
 2021-02-01,48,Bizkaia,436,13,40,6
 2021-02-01,49,Zamora,33,4,8,2
-2021-02-01,50,Zaragoza,281,12,39,9
+2021-02-01,50,Zaragoza,283,12,39,9
 2021-02-01,51,Ceuta,45,1,1,0
 2021-02-01,52,Melilla,54,1,5,2
 2021-02-02,00,No consta,81,2,14,2
@@ -21115,7 +21115,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-02,19,Guadalajara,242,3,12,2
 2021-02-02,20,Gipuzkoa,311,6,4,0
 2021-02-02,21,Huelva,365,3,26,0
-2021-02-02,22,Huesca,39,1,2,0
+2021-02-02,22,Huesca,40,1,2,0
 2021-02-02,23,Jaén,348,9,34,1
 2021-02-02,24,León,383,1,35,4
 2021-02-02,25,Lleida,165,4,2,1
@@ -21137,13 +21137,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-02,41,Sevilla,1106,15,83,7
 2021-02-02,42,Soria,74,1,5,0
 2021-02-02,43,Tarragona,226,8,13,0
-2021-02-02,44,Teruel,187,1,6,0
+2021-02-02,44,Teruel,186,1,6,0
 2021-02-02,45,Toledo,494,10,22,3
 2021-02-02,46,Valencia/València,2185,38,143,13
 2021-02-02,47,Valladolid,303,7,29,4
 2021-02-02,48,Bizkaia,464,10,56,8
 2021-02-02,49,Zamora,92,3,8,0
-2021-02-02,50,Zaragoza,474,11,35,4
+2021-02-02,50,Zaragoza,475,11,34,4
 2021-02-02,51,Ceuta,41,0,1,0
 2021-02-02,52,Melilla,54,0,4,0
 2021-02-03,00,No consta,77,0,10,2
@@ -21192,11 +21192,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-03,43,Tarragona,197,3,8,1
 2021-02-03,44,Teruel,120,0,6,0
 2021-02-03,45,Toledo,442,8,15,2
-2021-02-03,46,Valencia/València,2039,44,126,11
+2021-02-03,46,Valencia/València,2040,44,126,11
 2021-02-03,47,Valladolid,254,8,39,6
 2021-02-03,48,Bizkaia,493,12,43,5
 2021-02-03,49,Zamora,60,2,21,0
-2021-02-03,50,Zaragoza,433,11,28,7
+2021-02-03,50,Zaragoza,434,11,29,7
 2021-02-03,51,Ceuta,42,1,1,0
 2021-02-03,52,Melilla,55,1,1,0
 2021-02-04,00,No consta,68,3,8,1
@@ -21219,7 +21219,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-04,17,Girona,248,8,6,0
 2021-02-04,18,Granada,430,9,44,8
 2021-02-04,19,Guadalajara,106,9,7,1
-2021-02-04,20,Gipuzkoa,260,2,4,0
+2021-02-04,20,Gipuzkoa,261,2,4,0
 2021-02-04,21,Huelva,301,8,13,2
 2021-02-04,22,Huesca,44,0,1,1
 2021-02-04,23,Jaén,214,6,27,1
@@ -21227,7 +21227,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-04,25,Lleida,132,3,1,0
 2021-02-04,26,La Rioja,129,1,20,0
 2021-02-04,27,Lugo,69,0,12,2
-2021-02-04,28,Madrid,3808,23,325,20
+2021-02-04,28,Madrid,3807,23,325,20
 2021-02-04,29,Málaga,1195,16,71,8
 2021-02-04,30,Murcia,455,18,41,5
 2021-02-04,31,Navarra,227,2,13,2
@@ -21260,7 +21260,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-05,05,Ávila,41,1,9,0
 2021-02-05,06,Badajoz,179,6,14,4
 2021-02-05,07,Balears,178,8,12,6
-2021-02-05,08,Barcelona,1691,42,78,9
+2021-02-05,08,Barcelona,1692,42,78,9
 2021-02-05,09,Burgos,108,6,6,1
 2021-02-05,10,Cáceres,47,5,2,1
 2021-02-05,11,Cádiz,955,17,63,7
@@ -21272,7 +21272,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-05,17,Girona,275,6,7,0
 2021-02-05,18,Granada,373,13,39,4
 2021-02-05,19,Guadalajara,174,7,6,1
-2021-02-05,20,Gipuzkoa,240,6,2,3
+2021-02-05,20,Gipuzkoa,241,6,2,3
 2021-02-05,21,Huelva,230,5,31,2
 2021-02-05,22,Huesca,42,2,5,0
 2021-02-05,23,Jaén,260,5,19,2
@@ -21302,7 +21302,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-05,47,Valladolid,237,6,29,5
 2021-02-05,48,Bizkaia,495,11,44,3
 2021-02-05,49,Zamora,59,3,16,1
-2021-02-05,50,Zaragoza,425,15,29,2
+2021-02-05,50,Zaragoza,424,15,30,2
 2021-02-05,51,Ceuta,40,1,0,0
 2021-02-05,52,Melilla,69,1,5,1
 2021-02-06,00,No consta,35,2,3,0
@@ -21349,13 +21349,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-06,41,Sevilla,605,14,39,1
 2021-02-06,42,Soria,33,3,10,1
 2021-02-06,43,Tarragona,92,10,4,0
-2021-02-06,44,Teruel,45,0,11,0
+2021-02-06,44,Teruel,44,0,10,0
 2021-02-06,45,Toledo,161,16,9,0
 2021-02-06,46,Valencia/València,750,32,71,8
 2021-02-06,47,Valladolid,130,3,22,2
 2021-02-06,48,Bizkaia,291,9,37,3
 2021-02-06,49,Zamora,24,3,5,0
-2021-02-06,50,Zaragoza,238,6,18,3
+2021-02-06,50,Zaragoza,237,6,18,3
 2021-02-06,51,Ceuta,17,0,0,1
 2021-02-06,52,Melilla,26,0,3,1
 2021-02-07,00,No consta,26,0,5,1
@@ -21419,7 +21419,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-08,05,Ávila,44,3,3,0
 2021-02-08,06,Badajoz,154,4,14,2
 2021-02-08,07,Balears,145,3,12,3
-2021-02-08,08,Barcelona,1986,34,76,10
+2021-02-08,08,Barcelona,1987,34,76,10
 2021-02-08,09,Burgos,117,2,9,4
 2021-02-08,10,Cáceres,33,2,9,0
 2021-02-08,11,Cádiz,431,14,62,8
@@ -21428,7 +21428,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-08,14,Córdoba,131,7,28,9
 2021-02-08,15,A Coruña,277,11,49,6
 2021-02-08,16,Cuenca,61,0,8,0
-2021-02-08,17,Girona,315,6,9,1
+2021-02-08,17,Girona,314,6,9,1
 2021-02-08,18,Granada,322,9,40,3
 2021-02-08,19,Guadalajara,86,2,10,1
 2021-02-08,20,Gipuzkoa,193,4,1,1
@@ -21459,9 +21459,9 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-08,45,Toledo,285,13,13,1
 2021-02-08,46,Valencia/València,794,38,101,5
 2021-02-08,47,Valladolid,146,6,28,1
-2021-02-08,48,Bizkaia,340,7,45,2
+2021-02-08,48,Bizkaia,341,7,45,2
 2021-02-08,49,Zamora,21,1,8,2
-2021-02-08,50,Zaragoza,172,14,37,3
+2021-02-08,50,Zaragoza,171,14,37,3
 2021-02-08,51,Ceuta,32,0,1,0
 2021-02-08,52,Melilla,32,0,3,0
 2021-02-09,00,No consta,46,1,6,0
@@ -21484,7 +21484,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-09,17,Girona,252,7,2,0
 2021-02-09,18,Granada,343,12,36,3
 2021-02-09,19,Guadalajara,101,4,4,0
-2021-02-09,20,Gipuzkoa,199,3,1,1
+2021-02-09,20,Gipuzkoa,200,3,1,1
 2021-02-09,21,Huelva,159,2,13,2
 2021-02-09,22,Huesca,21,0,4,0
 2021-02-09,23,Jaén,181,3,30,1
@@ -21671,7 +21671,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-12,45,Toledo,139,14,4,1
 2021-02-12,46,Valencia/València,552,20,50,3
 2021-02-12,47,Valladolid,137,2,18,2
-2021-02-12,48,Bizkaia,322,8,43,3
+2021-02-12,48,Bizkaia,323,8,43,3
 2021-02-12,49,Zamora,13,1,1,0
 2021-02-12,50,Zaragoza,236,11,28,0
 2021-02-12,51,Ceuta,24,1,2,0
@@ -21684,7 +21684,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-13,05,Ávila,13,1,2,0
 2021-02-13,06,Badajoz,82,2,8,0
 2021-02-13,07,Balears,85,5,9,2
-2021-02-13,08,Barcelona,554,28,62,6
+2021-02-13,08,Barcelona,555,28,62,6
 2021-02-13,09,Burgos,36,1,1,1
 2021-02-13,10,Cáceres,11,0,1,1
 2021-02-13,11,Cádiz,348,7,22,4
@@ -21726,11 +21726,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-13,47,Valladolid,50,4,11,2
 2021-02-13,48,Bizkaia,228,9,26,2
 2021-02-13,49,Zamora,8,3,1,1
-2021-02-13,50,Zaragoza,199,5,9,4
+2021-02-13,50,Zaragoza,198,5,9,4
 2021-02-13,51,Ceuta,20,0,1,0
 2021-02-13,52,Melilla,8,1,0,0
 2021-02-14,00,No consta,8,0,2,0
-2021-02-14,01,Araba/Álava,51,2,4,1
+2021-02-14,01,Araba/Álava,50,2,4,1
 2021-02-14,02,Albacete,25,4,3,1
 2021-02-14,03,Alicante/Alacant,117,17,17,4
 2021-02-14,04,Almería,105,9,15,2
@@ -21802,7 +21802,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-15,17,Girona,206,3,8,0
 2021-02-15,18,Granada,212,14,20,3
 2021-02-15,19,Guadalajara,45,2,0,0
-2021-02-15,20,Gipuzkoa,107,6,0,0
+2021-02-15,20,Gipuzkoa,106,6,0,0
 2021-02-15,21,Huelva,75,5,11,0
 2021-02-15,22,Huesca,37,1,2,0
 2021-02-15,23,Jaén,72,2,10,1
@@ -21832,7 +21832,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-15,47,Valladolid,70,1,13,3
 2021-02-15,48,Bizkaia,266,8,26,3
 2021-02-15,49,Zamora,7,1,3,0
-2021-02-15,50,Zaragoza,134,6,25,1
+2021-02-15,50,Zaragoza,133,6,25,1
 2021-02-15,51,Ceuta,22,0,0,0
 2021-02-15,52,Melilla,24,0,0,0
 2021-02-16,00,No consta,17,1,1,0
@@ -21885,7 +21885,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-16,47,Valladolid,70,5,17,1
 2021-02-16,48,Bizkaia,309,7,34,4
 2021-02-16,49,Zamora,11,1,2,0
-2021-02-16,50,Zaragoza,222,12,19,3
+2021-02-16,50,Zaragoza,221,12,19,3
 2021-02-16,51,Ceuta,36,0,1,0
 2021-02-16,52,Melilla,34,0,1,0
 2021-02-17,00,No consta,25,1,2,0
@@ -21938,7 +21938,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-17,47,Valladolid,67,6,9,0
 2021-02-17,48,Bizkaia,303,4,35,4
 2021-02-17,49,Zamora,9,1,3,0
-2021-02-17,50,Zaragoza,188,10,20,0
+2021-02-17,50,Zaragoza,190,10,21,0
 2021-02-17,51,Ceuta,18,1,1,2
 2021-02-17,52,Melilla,21,2,1,1
 2021-02-18,00,No consta,18,2,3,0
@@ -21949,7 +21949,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-18,05,Ávila,12,0,1,1
 2021-02-18,06,Badajoz,32,1,7,1
 2021-02-18,07,Balears,78,2,4,0
-2021-02-18,08,Barcelona,1439,30,59,2
+2021-02-18,08,Barcelona,1440,30,59,2
 2021-02-18,09,Burgos,62,1,5,0
 2021-02-18,10,Cáceres,33,2,4,0
 2021-02-18,11,Cádiz,234,7,27,9
@@ -21985,13 +21985,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-18,41,Sevilla,344,9,34,0
 2021-02-18,42,Soria,55,0,6,0
 2021-02-18,43,Tarragona,82,4,3,2
-2021-02-18,44,Teruel,37,2,4,1
+2021-02-18,44,Teruel,38,2,4,1
 2021-02-18,45,Toledo,98,6,4,1
 2021-02-18,46,Valencia/València,259,23,31,3
 2021-02-18,47,Valladolid,58,3,8,2
 2021-02-18,48,Bizkaia,257,12,26,1
 2021-02-18,49,Zamora,13,0,3,0
-2021-02-18,50,Zaragoza,144,3,15,5
+2021-02-18,50,Zaragoza,143,3,14,5
 2021-02-18,51,Ceuta,8,0,0,0
 2021-02-18,52,Melilla,18,1,1,0
 2021-02-19,00,No consta,18,3,4,0
@@ -22014,7 +22014,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-19,17,Girona,177,3,2,1
 2021-02-19,18,Granada,170,7,16,1
 2021-02-19,19,Guadalajara,40,0,1,0
-2021-02-19,20,Gipuzkoa,116,2,0,1
+2021-02-19,20,Gipuzkoa,117,2,0,1
 2021-02-19,21,Huelva,52,1,6,1
 2021-02-19,22,Huesca,20,0,1,0
 2021-02-19,23,Jaén,72,3,8,0
@@ -22044,7 +22044,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-19,47,Valladolid,38,2,12,0
 2021-02-19,48,Bizkaia,293,12,33,3
 2021-02-19,49,Zamora,12,1,2,0
-2021-02-19,50,Zaragoza,197,5,17,3
+2021-02-19,50,Zaragoza,196,5,16,3
 2021-02-19,51,Ceuta,12,1,1,0
 2021-02-19,52,Melilla,39,0,1,0
 2021-02-20,00,No consta,14,1,3,0
@@ -22091,13 +22091,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-20,41,Sevilla,147,7,13,3
 2021-02-20,42,Soria,17,1,1,2
 2021-02-20,43,Tarragona,60,0,1,0
-2021-02-20,44,Teruel,13,4,2,0
+2021-02-20,44,Teruel,13,4,3,0
 2021-02-20,45,Toledo,25,1,1,0
 2021-02-20,46,Valencia/València,185,10,15,1
 2021-02-20,47,Valladolid,26,3,5,1
 2021-02-20,48,Bizkaia,199,3,24,1
 2021-02-20,49,Zamora,12,0,3,0
-2021-02-20,50,Zaragoza,135,3,11,1
+2021-02-20,50,Zaragoza,136,3,11,1
 2021-02-20,51,Ceuta,11,0,1,1
 2021-02-20,52,Melilla,14,0,2,0
 2021-02-21,00,No consta,5,4,2,0
@@ -22150,7 +22150,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-21,47,Valladolid,20,2,8,0
 2021-02-21,48,Bizkaia,167,3,15,1
 2021-02-21,49,Zamora,5,0,1,0
-2021-02-21,50,Zaragoza,72,7,18,4
+2021-02-21,50,Zaragoza,72,7,16,4
 2021-02-21,51,Ceuta,7,2,0,0
 2021-02-21,52,Melilla,8,0,1,0
 2021-02-22,00,No consta,21,1,0,0
@@ -22203,7 +22203,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-22,47,Valladolid,48,5,3,1
 2021-02-22,48,Bizkaia,245,8,23,4
 2021-02-22,49,Zamora,15,0,4,0
-2021-02-22,50,Zaragoza,112,5,17,2
+2021-02-22,50,Zaragoza,112,5,16,2
 2021-02-22,51,Ceuta,17,1,0,0
 2021-02-22,52,Melilla,27,2,1,0
 2021-02-23,00,No consta,12,0,0,0
@@ -22226,7 +22226,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-23,17,Girona,156,2,2,1
 2021-02-23,18,Granada,178,4,17,1
 2021-02-23,19,Guadalajara,50,3,0,0
-2021-02-23,20,Gipuzkoa,83,3,1,0
+2021-02-23,20,Gipuzkoa,82,3,1,0
 2021-02-23,21,Huelva,56,3,7,0
 2021-02-23,22,Huesca,30,0,3,0
 2021-02-23,23,Jaén,72,1,7,0
@@ -22313,7 +22313,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-24,51,Ceuta,8,0,0,0
 2021-02-24,52,Melilla,22,0,3,1
 2021-02-25,00,No consta,20,0,2,0
-2021-02-25,01,Araba/Álava,47,0,2,1
+2021-02-25,01,Araba/Álava,48,0,2,1
 2021-02-25,02,Albacete,14,2,1,0
 2021-02-25,03,Alicante/Alacant,132,6,18,3
 2021-02-25,04,Almería,147,2,14,1
@@ -22329,7 +22329,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-25,14,Córdoba,66,9,8,1
 2021-02-25,15,A Coruña,133,5,18,3
 2021-02-25,16,Cuenca,11,3,2,0
-2021-02-25,17,Girona,113,5,8,1
+2021-02-25,17,Girona,114,5,8,1
 2021-02-25,18,Granada,151,6,23,2
 2021-02-25,19,Guadalajara,66,1,0,0
 2021-02-25,20,Gipuzkoa,75,1,0,0
@@ -22337,10 +22337,10 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-25,22,Huesca,49,0,2,1
 2021-02-25,23,Jaén,46,4,8,0
 2021-02-25,24,León,56,3,12,0
-2021-02-25,25,Lleida,104,0,0,0
+2021-02-25,25,Lleida,105,0,0,0
 2021-02-25,26,La Rioja,16,0,6,1
 2021-02-25,27,Lugo,18,1,2,1
-2021-02-25,28,Madrid,1354,26,126,9
+2021-02-25,28,Madrid,1355,26,126,9
 2021-02-25,29,Málaga,184,6,22,0
 2021-02-25,30,Murcia,95,12,8,3
 2021-02-25,31,Navarra,51,1,2,1
@@ -22362,7 +22362,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-25,47,Valladolid,41,5,10,0
 2021-02-25,48,Bizkaia,197,5,17,2
 2021-02-25,49,Zamora,4,2,2,1
-2021-02-25,50,Zaragoza,132,14,13,2
+2021-02-25,50,Zaragoza,131,14,12,2
 2021-02-25,51,Ceuta,14,0,0,0
 2021-02-25,52,Melilla,16,2,3,0
 2021-02-26,00,No consta,11,0,0,0
@@ -22468,7 +22468,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-02-27,47,Valladolid,16,1,4,1
 2021-02-27,48,Bizkaia,168,9,18,3
 2021-02-27,49,Zamora,1,0,1,0
-2021-02-27,50,Zaragoza,107,2,10,1
+2021-02-27,50,Zaragoza,107,2,11,1
 2021-02-27,51,Ceuta,9,1,1,0
 2021-02-27,52,Melilla,17,0,3,1
 2021-02-28,00,No consta,3,0,1,0
@@ -22574,7 +22574,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-01,47,Valladolid,48,4,6,0
 2021-03-01,48,Bizkaia,194,4,14,1
 2021-03-01,49,Zamora,7,2,1,0
-2021-03-01,50,Zaragoza,97,2,11,2
+2021-03-01,50,Zaragoza,98,2,11,2
 2021-03-01,51,Ceuta,62,0,1,0
 2021-03-01,52,Melilla,33,0,3,1
 2021-03-02,00,No consta,14,2,2,0
@@ -22627,7 +22627,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-02,47,Valladolid,36,3,7,0
 2021-03-02,48,Bizkaia,147,6,18,1
 2021-03-02,49,Zamora,5,0,0,0
-2021-03-02,50,Zaragoza,171,8,18,2
+2021-03-02,50,Zaragoza,171,8,20,3
 2021-03-02,51,Ceuta,15,1,0,1
 2021-03-02,52,Melilla,30,0,1,0
 2021-03-03,00,No consta,9,1,0,0
@@ -22652,7 +22652,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-03,19,Guadalajara,52,0,0,0
 2021-03-03,20,Gipuzkoa,74,0,1,0
 2021-03-03,21,Huelva,33,3,3,0
-2021-03-03,22,Huesca,27,1,2,1
+2021-03-03,22,Huesca,28,1,2,1
 2021-03-03,23,Jaén,61,3,4,0
 2021-03-03,24,León,52,3,2,0
 2021-03-03,25,Lleida,115,0,1,0
@@ -22917,7 +22917,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-08,19,Guadalajara,45,0,1,0
 2021-03-08,20,Gipuzkoa,82,2,1,0
 2021-03-08,21,Huelva,16,2,1,0
-2021-03-08,22,Huesca,28,0,3,0
+2021-03-08,22,Huesca,29,0,3,0
 2021-03-08,23,Jaén,38,1,3,0
 2021-03-08,24,León,37,1,4,0
 2021-03-08,25,Lleida,109,1,4,1
@@ -22956,7 +22956,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-09,05,Ávila,4,0,0,0
 2021-03-09,06,Badajoz,26,0,1,0
 2021-03-09,07,Balears,40,2,4,2
-2021-03-09,08,Barcelona,994,10,74,5
+2021-03-09,08,Barcelona,995,10,74,5
 2021-03-09,09,Burgos,57,1,8,0
 2021-03-09,10,Cáceres,28,0,2,0
 2021-03-09,11,Cádiz,112,4,8,1
@@ -23076,7 +23076,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-11,19,Guadalajara,51,0,2,2
 2021-03-11,20,Gipuzkoa,117,1,1,0
 2021-03-11,21,Huelva,21,2,0,1
-2021-03-11,22,Huesca,29,0,2,0
+2021-03-11,22,Huesca,28,0,2,0
 2021-03-11,23,Jaén,56,4,7,0
 2021-03-11,24,León,46,3,3,0
 2021-03-11,25,Lleida,101,2,0,0
@@ -23157,7 +23157,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-12,47,Valladolid,54,2,3,0
 2021-03-12,48,Bizkaia,155,4,19,2
 2021-03-12,49,Zamora,4,0,0,0
-2021-03-12,50,Zaragoza,105,7,17,1
+2021-03-12,50,Zaragoza,105,7,16,1
 2021-03-12,51,Ceuta,19,0,3,0
 2021-03-12,52,Melilla,28,0,2,0
 2021-03-13,00,No consta,7,1,1,0
@@ -23263,7 +23263,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-14,47,Valladolid,15,2,6,2
 2021-03-14,48,Bizkaia,123,2,7,0
 2021-03-14,49,Zamora,0,0,0,0
-2021-03-14,50,Zaragoza,36,1,5,1
+2021-03-14,50,Zaragoza,36,1,6,1
 2021-03-14,51,Ceuta,10,0,3,0
 2021-03-14,52,Melilla,11,2,6,2
 2021-03-15,00,No consta,12,0,1,0
@@ -23341,7 +23341,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-16,19,Guadalajara,41,1,1,0
 2021-03-16,20,Gipuzkoa,93,2,1,0
 2021-03-16,21,Huelva,33,0,0,0
-2021-03-16,22,Huesca,15,0,1,0
+2021-03-16,22,Huesca,15,0,0,0
 2021-03-16,23,Jaén,47,0,5,0
 2021-03-16,24,León,43,2,1,0
 2021-03-16,25,Lleida,143,3,1,0
@@ -23369,7 +23369,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-16,47,Valladolid,37,1,9,1
 2021-03-16,48,Bizkaia,174,2,18,3
 2021-03-16,49,Zamora,4,0,2,0
-2021-03-16,50,Zaragoza,129,4,10,2
+2021-03-16,50,Zaragoza,128,4,10,2
 2021-03-16,51,Ceuta,17,0,4,0
 2021-03-16,52,Melilla,49,0,1,1
 2021-03-17,00,No consta,11,0,3,0
@@ -23422,7 +23422,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-17,47,Valladolid,31,3,8,2
 2021-03-17,48,Bizkaia,178,6,17,2
 2021-03-17,49,Zamora,4,0,2,0
-2021-03-17,50,Zaragoza,96,1,7,2
+2021-03-17,50,Zaragoza,97,1,7,2
 2021-03-17,51,Ceuta,35,0,1,0
 2021-03-17,52,Melilla,48,1,3,1
 2021-03-18,00,No consta,13,0,0,0
@@ -23475,7 +23475,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-18,47,Valladolid,29,1,7,1
 2021-03-18,48,Bizkaia,215,6,12,1
 2021-03-18,49,Zamora,4,0,0,0
-2021-03-18,50,Zaragoza,187,7,13,2
+2021-03-18,50,Zaragoza,187,8,13,2
 2021-03-18,51,Ceuta,13,0,1,0
 2021-03-18,52,Melilla,39,0,2,0
 2021-03-19,00,No consta,15,0,3,0
@@ -23528,7 +23528,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-19,47,Valladolid,50,3,3,2
 2021-03-19,48,Bizkaia,149,1,15,0
 2021-03-19,49,Zamora,5,0,0,1
-2021-03-19,50,Zaragoza,143,5,8,0
+2021-03-19,50,Zaragoza,143,5,9,0
 2021-03-19,51,Ceuta,16,0,3,1
 2021-03-19,52,Melilla,38,0,3,2
 2021-03-20,00,No consta,12,0,0,1
@@ -23559,7 +23559,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-20,25,Lleida,61,2,4,0
 2021-03-20,26,La Rioja,14,1,0,0
 2021-03-20,27,Lugo,2,0,1,0
-2021-03-20,28,Madrid,491,10,89,7
+2021-03-20,28,Madrid,490,10,88,7
 2021-03-20,29,Málaga,58,1,6,1
 2021-03-20,30,Murcia,70,0,4,0
 2021-03-20,31,Navarra,92,1,6,1
@@ -23634,7 +23634,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-21,47,Valladolid,13,0,4,0
 2021-03-21,48,Bizkaia,164,2,14,1
 2021-03-21,49,Zamora,0,0,1,0
-2021-03-21,50,Zaragoza,36,0,10,2
+2021-03-21,50,Zaragoza,36,0,11,2
 2021-03-21,51,Ceuta,5,2,0,0
 2021-03-21,52,Melilla,12,1,2,1
 2021-03-22,00,No consta,11,0,3,0
@@ -23687,7 +23687,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-22,47,Valladolid,38,1,8,1
 2021-03-22,48,Bizkaia,181,4,19,0
 2021-03-22,49,Zamora,14,0,1,0
-2021-03-22,50,Zaragoza,79,1,11,1
+2021-03-22,50,Zaragoza,79,1,10,1
 2021-03-22,51,Ceuta,15,1,2,0
 2021-03-22,52,Melilla,33,0,5,0
 2021-03-23,00,No consta,16,0,1,1
@@ -23710,7 +23710,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-23,17,Girona,176,2,1,1
 2021-03-23,18,Granada,160,3,12,4
 2021-03-23,19,Guadalajara,64,1,0,1
-2021-03-23,20,Gipuzkoa,138,1,0,0
+2021-03-23,20,Gipuzkoa,140,1,0,0
 2021-03-23,21,Huelva,51,1,4,0
 2021-03-23,22,Huesca,17,0,0,1
 2021-03-23,23,Jaén,47,2,2,0
@@ -23740,7 +23740,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-23,47,Valladolid,36,1,13,0
 2021-03-23,48,Bizkaia,237,1,28,2
 2021-03-23,49,Zamora,4,1,0,0
-2021-03-23,50,Zaragoza,124,0,11,0
+2021-03-23,50,Zaragoza,123,0,11,0
 2021-03-23,51,Ceuta,12,0,1,0
 2021-03-23,52,Melilla,34,0,1,0
 2021-03-24,00,No consta,10,0,0,0
@@ -23765,7 +23765,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-24,19,Guadalajara,74,1,5,0
 2021-03-24,20,Gipuzkoa,123,1,0,0
 2021-03-24,21,Huelva,52,0,2,0
-2021-03-24,22,Huesca,19,0,3,0
+2021-03-24,22,Huesca,19,0,2,0
 2021-03-24,23,Jaén,79,0,4,2
 2021-03-24,24,León,28,1,1,0
 2021-03-24,25,Lleida,138,0,2,1
@@ -23924,7 +23924,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-27,19,Guadalajara,52,0,4,1
 2021-03-27,20,Gipuzkoa,186,3,0,0
 2021-03-27,21,Huelva,26,0,1,0
-2021-03-27,22,Huesca,8,2,0,2
+2021-03-27,22,Huesca,8,2,0,1
 2021-03-27,23,Jaén,36,0,5,2
 2021-03-27,24,León,21,0,1,0
 2021-03-27,25,Lleida,121,1,4,0
@@ -23963,7 +23963,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-28,05,Ávila,6,0,0,0
 2021-03-28,06,Badajoz,47,0,4,0
 2021-03-28,07,Balears,78,0,4,0
-2021-03-28,08,Barcelona,363,11,47,6
+2021-03-28,08,Barcelona,364,11,47,6
 2021-03-28,09,Burgos,49,2,6,0
 2021-03-28,10,Cáceres,28,0,1,1
 2021-03-28,11,Cádiz,52,1,3,0
@@ -24005,7 +24005,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-28,47,Valladolid,30,1,4,0
 2021-03-28,48,Bizkaia,156,6,11,2
 2021-03-28,49,Zamora,2,0,1,0
-2021-03-28,50,Zaragoza,71,2,8,2
+2021-03-28,50,Zaragoza,71,2,9,2
 2021-03-28,51,Ceuta,10,0,3,0
 2021-03-28,52,Melilla,12,0,2,1
 2021-03-29,00,No consta,14,0,1,0
@@ -24036,7 +24036,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-29,25,Lleida,188,4,2,0
 2021-03-29,26,La Rioja,47,0,4,0
 2021-03-29,27,Lugo,12,0,0,0
-2021-03-29,28,Madrid,1868,18,154,12
+2021-03-29,28,Madrid,1867,18,154,12
 2021-03-29,29,Málaga,141,1,9,0
 2021-03-29,30,Murcia,119,1,6,0
 2021-03-29,31,Navarra,191,0,17,0
@@ -24058,18 +24058,18 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-03-29,47,Valladolid,79,1,2,2
 2021-03-29,48,Bizkaia,189,1,23,0
 2021-03-29,49,Zamora,11,0,2,0
-2021-03-29,50,Zaragoza,95,2,14,2
+2021-03-29,50,Zaragoza,95,2,13,1
 2021-03-29,51,Ceuta,26,2,1,0
 2021-03-29,52,Melilla,41,0,1,0
 2021-03-30,00,No consta,16,0,1,1
-2021-03-30,01,Araba/Álava,94,0,0,0
+2021-03-30,01,Araba/Álava,95,0,0,0
 2021-03-30,02,Albacete,3,0,1,1
 2021-03-30,03,Alicante/Alacant,60,0,4,0
 2021-03-30,04,Almería,164,4,6,2
 2021-03-30,05,Ávila,15,0,3,0
 2021-03-30,06,Badajoz,80,0,2,0
 2021-03-30,07,Balears,45,2,3,0
-2021-03-30,08,Barcelona,1346,11,50,3
+2021-03-30,08,Barcelona,1347,11,50,3
 2021-03-30,09,Burgos,89,2,11,0
 2021-03-30,10,Cáceres,30,1,2,1
 2021-03-30,11,Cádiz,235,3,7,2
@@ -24281,7 +24281,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-03,05,Ávila,17,0,0,0
 2021-04-03,06,Badajoz,84,0,5,1
 2021-04-03,07,Balears,49,0,1,0
-2021-04-03,08,Barcelona,624,14,69,6
+2021-04-03,08,Barcelona,624,14,70,6
 2021-04-03,09,Burgos,69,0,5,1
 2021-04-03,10,Cáceres,30,1,1,0
 2021-04-03,11,Cádiz,98,2,6,1
@@ -24334,7 +24334,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-04,05,Ávila,14,0,0,0
 2021-04-04,06,Badajoz,28,0,6,0
 2021-04-04,07,Balears,40,0,0,0
-2021-04-04,08,Barcelona,505,6,50,9
+2021-04-04,08,Barcelona,506,6,50,9
 2021-04-04,09,Burgos,71,1,8,3
 2021-04-04,10,Cáceres,17,0,1,0
 2021-04-04,11,Cádiz,90,1,11,1
@@ -24387,7 +24387,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-05,05,Ávila,11,0,3,0
 2021-04-05,06,Badajoz,55,0,2,0
 2021-04-05,07,Balears,35,0,2,1
-2021-04-05,08,Barcelona,499,9,48,4
+2021-04-05,08,Barcelona,500,9,48,4
 2021-04-05,09,Burgos,131,1,14,1
 2021-04-05,10,Cáceres,34,0,4,0
 2021-04-05,11,Cádiz,216,0,14,1
@@ -24401,13 +24401,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-05,19,Guadalajara,96,0,4,0
 2021-04-05,20,Gipuzkoa,217,0,0,0
 2021-04-05,21,Huelva,99,0,14,0
-2021-04-05,22,Huesca,28,1,2,0
+2021-04-05,22,Huesca,27,1,2,0
 2021-04-05,23,Jaén,115,0,11,0
 2021-04-05,24,León,66,0,7,0
 2021-04-05,25,Lleida,99,3,3,0
 2021-04-05,26,La Rioja,23,0,3,0
 2021-04-05,27,Lugo,13,0,1,1
-2021-04-05,28,Madrid,2531,20,223,22
+2021-04-05,28,Madrid,2532,20,223,22
 2021-04-05,29,Málaga,173,0,12,1
 2021-04-05,30,Murcia,117,0,7,0
 2021-04-05,31,Navarra,185,0,23,1
@@ -24429,7 +24429,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-05,47,Valladolid,81,2,16,0
 2021-04-05,48,Bizkaia,221,7,23,0
 2021-04-05,49,Zamora,13,0,1,0
-2021-04-05,50,Zaragoza,191,3,18,2
+2021-04-05,50,Zaragoza,193,3,17,2
 2021-04-05,51,Ceuta,37,0,3,0
 2021-04-05,52,Melilla,36,1,2,0
 2021-04-06,00,No consta,18,0,1,1
@@ -24440,7 +24440,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-06,05,Ávila,19,0,0,0
 2021-04-06,06,Badajoz,66,0,3,2
 2021-04-06,07,Balears,69,0,2,2
-2021-04-06,08,Barcelona,1798,15,75,9
+2021-04-06,08,Barcelona,1799,15,75,9
 2021-04-06,09,Burgos,132,1,10,2
 2021-04-06,10,Cáceres,46,0,5,0
 2021-04-06,11,Cádiz,309,0,11,1
@@ -24482,7 +24482,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-06,47,Valladolid,58,2,10,0
 2021-04-06,48,Bizkaia,342,3,28,4
 2021-04-06,49,Zamora,17,0,1,1
-2021-04-06,50,Zaragoza,322,6,18,3
+2021-04-06,50,Zaragoza,321,6,19,3
 2021-04-06,51,Ceuta,36,0,1,1
 2021-04-06,52,Melilla,58,0,6,0
 2021-04-07,00,No consta,26,0,1,0
@@ -24535,7 +24535,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-07,47,Valladolid,88,1,7,0
 2021-04-07,48,Bizkaia,359,5,28,3
 2021-04-07,49,Zamora,12,0,1,0
-2021-04-07,50,Zaragoza,260,2,27,3
+2021-04-07,50,Zaragoza,260,2,28,3
 2021-04-07,51,Ceuta,43,1,6,0
 2021-04-07,52,Melilla,51,1,8,0
 2021-04-08,00,No consta,24,0,1,1
@@ -24588,7 +24588,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-08,47,Valladolid,75,3,7,4
 2021-04-08,48,Bizkaia,319,8,34,3
 2021-04-08,49,Zamora,19,0,1,0
-2021-04-08,50,Zaragoza,264,3,22,2
+2021-04-08,50,Zaragoza,263,3,21,2
 2021-04-08,51,Ceuta,43,0,3,0
 2021-04-08,52,Melilla,42,0,2,0
 2021-04-09,00,No consta,17,0,1,0
@@ -24599,7 +24599,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-09,05,Ávila,13,0,2,0
 2021-04-09,06,Badajoz,82,0,6,1
 2021-04-09,07,Balears,70,0,4,0
-2021-04-09,08,Barcelona,1495,17,62,9
+2021-04-09,08,Barcelona,1496,17,62,9
 2021-04-09,09,Burgos,124,0,13,1
 2021-04-09,10,Cáceres,32,1,4,0
 2021-04-09,11,Cádiz,290,1,11,3
@@ -24639,7 +24639,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-09,45,Toledo,148,2,6,0
 2021-04-09,46,Valencia/València,87,0,11,2
 2021-04-09,47,Valladolid,81,3,17,1
-2021-04-09,48,Bizkaia,425,6,47,5
+2021-04-09,48,Bizkaia,426,6,47,5
 2021-04-09,49,Zamora,17,0,3,0
 2021-04-09,50,Zaragoza,191,3,15,0
 2021-04-09,51,Ceuta,29,0,1,0
@@ -24661,7 +24661,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-10,14,Córdoba,188,2,10,0
 2021-04-10,15,A Coruña,83,3,6,2
 2021-04-10,16,Cuenca,42,0,1,0
-2021-04-10,17,Girona,102,0,4,2
+2021-04-10,17,Girona,101,0,4,2
 2021-04-10,18,Granada,163,7,26,6
 2021-04-10,19,Guadalajara,47,1,3,0
 2021-04-10,20,Gipuzkoa,287,4,0,0
@@ -24694,7 +24694,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-10,47,Valladolid,34,2,6,1
 2021-04-10,48,Bizkaia,364,3,30,4
 2021-04-10,49,Zamora,13,0,2,0
-2021-04-10,50,Zaragoza,204,5,15,2
+2021-04-10,50,Zaragoza,204,5,14,2
 2021-04-10,51,Ceuta,18,0,4,0
 2021-04-10,52,Melilla,30,0,5,1
 2021-04-11,00,No consta,10,0,0,0
@@ -24800,11 +24800,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-12,47,Valladolid,79,3,9,2
 2021-04-12,48,Bizkaia,298,6,52,3
 2021-04-12,49,Zamora,16,0,1,0
-2021-04-12,50,Zaragoza,128,2,23,3
+2021-04-12,50,Zaragoza,128,2,24,3
 2021-04-12,51,Ceuta,23,0,5,0
 2021-04-12,52,Melilla,26,1,5,1
 2021-04-13,00,No consta,20,1,1,2
-2021-04-13,01,Araba/Álava,125,0,13,1
+2021-04-13,01,Araba/Álava,126,0,13,1
 2021-04-13,02,Albacete,27,1,0,0
 2021-04-13,03,Alicante/Alacant,41,0,4,0
 2021-04-13,04,Almería,211,1,9,0
@@ -24853,7 +24853,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-13,47,Valladolid,72,0,11,0
 2021-04-13,48,Bizkaia,419,3,44,4
 2021-04-13,49,Zamora,13,0,3,0
-2021-04-13,50,Zaragoza,277,2,21,4
+2021-04-13,50,Zaragoza,277,2,20,4
 2021-04-13,51,Ceuta,47,0,3,2
 2021-04-13,52,Melilla,36,1,5,0
 2021-04-14,00,No consta,19,1,4,1
@@ -24864,7 +24864,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-14,05,Ávila,14,0,3,0
 2021-04-14,06,Badajoz,79,1,1,0
 2021-04-14,07,Balears,44,0,1,0
-2021-04-14,08,Barcelona,1602,17,66,8
+2021-04-14,08,Barcelona,1603,17,66,8
 2021-04-14,09,Burgos,76,1,7,0
 2021-04-14,10,Cáceres,41,1,4,0
 2021-04-14,11,Cádiz,241,2,9,1
@@ -24906,7 +24906,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-14,47,Valladolid,95,1,8,0
 2021-04-14,48,Bizkaia,431,4,33,3
 2021-04-14,49,Zamora,12,0,6,1
-2021-04-14,50,Zaragoza,216,6,28,1
+2021-04-14,50,Zaragoza,217,6,28,1
 2021-04-14,51,Ceuta,11,0,5,1
 2021-04-14,52,Melilla,33,0,4,0
 2021-04-15,00,No consta,24,1,1,0
@@ -24959,7 +24959,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-15,47,Valladolid,64,2,10,0
 2021-04-15,48,Bizkaia,409,1,23,1
 2021-04-15,49,Zamora,20,0,1,1
-2021-04-15,50,Zaragoza,256,1,22,5
+2021-04-15,50,Zaragoza,254,1,21,5
 2021-04-15,51,Ceuta,16,1,2,0
 2021-04-15,52,Melilla,37,0,7,0
 2021-04-16,00,No consta,30,0,4,0
@@ -24984,7 +24984,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-16,19,Guadalajara,112,0,12,2
 2021-04-16,20,Gipuzkoa,358,2,1,0
 2021-04-16,21,Huelva,152,0,12,2
-2021-04-16,22,Huesca,49,1,5,0
+2021-04-16,22,Huesca,49,1,4,0
 2021-04-16,23,Jaén,197,1,24,1
 2021-04-16,24,León,76,0,4,1
 2021-04-16,25,Lleida,214,0,6,0
@@ -25012,7 +25012,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-16,47,Valladolid,69,0,11,0
 2021-04-16,48,Bizkaia,353,8,43,4
 2021-04-16,49,Zamora,37,1,6,0
-2021-04-16,50,Zaragoza,283,1,33,6
+2021-04-16,50,Zaragoza,283,1,32,5
 2021-04-16,51,Ceuta,30,0,4,0
 2021-04-16,52,Melilla,29,0,2,2
 2021-04-17,00,No consta,11,0,0,0
@@ -25088,7 +25088,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-18,17,Girona,92,1,2,0
 2021-04-18,18,Granada,132,3,21,6
 2021-04-18,19,Guadalajara,51,0,7,2
-2021-04-18,20,Gipuzkoa,301,2,1,0
+2021-04-18,20,Gipuzkoa,302,2,1,0
 2021-04-18,21,Huelva,39,0,3,1
 2021-04-18,22,Huesca,10,0,1,0
 2021-04-18,23,Jaén,77,0,7,2
@@ -25118,7 +25118,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-18,47,Valladolid,35,2,4,1
 2021-04-18,48,Bizkaia,257,5,23,3
 2021-04-18,49,Zamora,4,0,1,0
-2021-04-18,50,Zaragoza,105,2,15,2
+2021-04-18,50,Zaragoza,105,2,14,2
 2021-04-18,51,Ceuta,7,0,0,0
 2021-04-18,52,Melilla,6,0,3,2
 2021-04-19,00,No consta,17,0,1,0
@@ -25165,13 +25165,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-19,41,Sevilla,359,3,36,5
 2021-04-19,42,Soria,8,0,0,0
 2021-04-19,43,Tarragona,162,0,1,0
-2021-04-19,44,Teruel,16,2,0,1
+2021-04-19,44,Teruel,15,2,0,1
 2021-04-19,45,Toledo,179,0,14,0
 2021-04-19,46,Valencia/València,60,1,7,3
 2021-04-19,47,Valladolid,90,1,9,1
 2021-04-19,48,Bizkaia,313,4,50,4
 2021-04-19,49,Zamora,18,0,4,0
-2021-04-19,50,Zaragoza,134,3,32,1
+2021-04-19,50,Zaragoza,136,3,31,1
 2021-04-19,51,Ceuta,13,0,2,0
 2021-04-19,52,Melilla,20,1,1,1
 2021-04-20,00,No consta,24,0,2,1
@@ -25191,12 +25191,12 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-20,14,Córdoba,156,1,15,2
 2021-04-20,15,A Coruña,76,0,4,3
 2021-04-20,16,Cuenca,55,0,3,0
-2021-04-20,17,Girona,342,2,5,1
+2021-04-20,17,Girona,341,2,5,1
 2021-04-20,18,Granada,368,2,26,8
 2021-04-20,19,Guadalajara,112,1,3,0
 2021-04-20,20,Gipuzkoa,417,5,0,0
 2021-04-20,21,Huelva,121,0,9,1
-2021-04-20,22,Huesca,49,0,8,1
+2021-04-20,22,Huesca,50,0,9,1
 2021-04-20,23,Jaén,175,1,15,3
 2021-04-20,24,León,70,1,9,2
 2021-04-20,25,Lleida,262,0,1,0
@@ -25218,13 +25218,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-20,41,Sevilla,526,5,28,5
 2021-04-20,42,Soria,15,0,1,0
 2021-04-20,43,Tarragona,200,0,2,1
-2021-04-20,44,Teruel,20,1,0,0
+2021-04-20,44,Teruel,19,1,0,0
 2021-04-20,45,Toledo,156,5,9,1
 2021-04-20,46,Valencia/València,104,2,8,2
 2021-04-20,47,Valladolid,92,0,23,1
 2021-04-20,48,Bizkaia,432,6,55,6
 2021-04-20,49,Zamora,28,0,7,0
-2021-04-20,50,Zaragoza,270,4,21,2
+2021-04-20,50,Zaragoza,271,4,21,2
 2021-04-20,51,Ceuta,14,0,0,0
 2021-04-20,52,Melilla,35,0,3,0
 2021-04-21,00,No consta,16,0,2,0
@@ -25277,7 +25277,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-21,47,Valladolid,71,2,9,1
 2021-04-21,48,Bizkaia,471,4,49,5
 2021-04-21,49,Zamora,8,1,2,0
-2021-04-21,50,Zaragoza,269,2,29,3
+2021-04-21,50,Zaragoza,268,2,29,3
 2021-04-21,51,Ceuta,18,1,0,0
 2021-04-21,52,Melilla,34,0,1,1
 2021-04-22,00,No consta,18,0,4,0
@@ -25288,7 +25288,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-22,05,Ávila,13,0,2,0
 2021-04-22,06,Badajoz,99,1,7,1
 2021-04-22,07,Balears,54,1,3,0
-2021-04-22,08,Barcelona,1536,9,50,5
+2021-04-22,08,Barcelona,1535,9,50,5
 2021-04-22,09,Burgos,88,0,13,0
 2021-04-22,10,Cáceres,20,0,5,2
 2021-04-22,11,Cádiz,178,0,15,2
@@ -25341,7 +25341,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-23,05,Ávila,3,0,1,1
 2021-04-23,06,Badajoz,38,1,2,0
 2021-04-23,07,Balears,55,0,2,0
-2021-04-23,08,Barcelona,1341,8,49,4
+2021-04-23,08,Barcelona,1341,9,49,4
 2021-04-23,09,Burgos,47,1,6,0
 2021-04-23,10,Cáceres,35,0,1,2
 2021-04-23,11,Cádiz,212,1,12,2
@@ -25381,7 +25381,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-23,45,Toledo,176,2,3,0
 2021-04-23,46,Valencia/València,192,0,7,0
 2021-04-23,47,Valladolid,38,1,4,2
-2021-04-23,48,Bizkaia,463,12,45,12
+2021-04-23,48,Bizkaia,464,12,45,12
 2021-04-23,49,Zamora,6,0,3,0
 2021-04-23,50,Zaragoza,234,1,13,1
 2021-04-23,51,Ceuta,14,0,1,0
@@ -25406,7 +25406,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-24,17,Girona,135,5,1,0
 2021-04-24,18,Granada,151,3,27,6
 2021-04-24,19,Guadalajara,73,1,3,0
-2021-04-24,20,Gipuzkoa,288,4,1,0
+2021-04-24,20,Gipuzkoa,289,4,1,0
 2021-04-24,21,Huelva,77,1,7,0
 2021-04-24,22,Huesca,21,0,2,0
 2021-04-24,23,Jaén,106,2,6,0
@@ -25436,14 +25436,14 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-24,47,Valladolid,72,2,9,2
 2021-04-24,48,Bizkaia,317,5,32,5
 2021-04-24,49,Zamora,6,1,3,0
-2021-04-24,50,Zaragoza,116,3,18,4
+2021-04-24,50,Zaragoza,118,3,20,4
 2021-04-24,51,Ceuta,9,0,2,0
 2021-04-24,52,Melilla,11,1,1,0
 2021-04-25,00,No consta,6,0,1,0
 2021-04-25,01,Araba/Álava,74,1,3,1
 2021-04-25,02,Albacete,19,0,0,0
 2021-04-25,03,Alicante/Alacant,22,1,2,2
-2021-04-25,04,Almería,91,0,8,3
+2021-04-25,04,Almería,92,0,8,3
 2021-04-25,05,Ávila,11,0,2,0
 2021-04-25,06,Badajoz,36,1,6,0
 2021-04-25,07,Balears,41,1,4,1
@@ -25500,7 +25500,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-26,05,Ávila,19,0,0,0
 2021-04-26,06,Badajoz,45,0,5,0
 2021-04-26,07,Balears,64,1,1,1
-2021-04-26,08,Barcelona,1954,7,61,6
+2021-04-26,08,Barcelona,1953,7,61,6
 2021-04-26,09,Burgos,122,0,6,0
 2021-04-26,10,Cáceres,28,1,2,0
 2021-04-26,11,Cádiz,91,2,13,2
@@ -25542,7 +25542,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-26,47,Valladolid,70,2,7,0
 2021-04-26,48,Bizkaia,335,3,45,5
 2021-04-26,49,Zamora,17,1,0,0
-2021-04-26,50,Zaragoza,234,6,32,3
+2021-04-26,50,Zaragoza,234,6,31,3
 2021-04-26,51,Ceuta,10,1,3,0
 2021-04-26,52,Melilla,13,0,1,0
 2021-04-27,00,No consta,22,0,0,0
@@ -25595,7 +25595,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-27,47,Valladolid,76,1,15,1
 2021-04-27,48,Bizkaia,403,4,42,5
 2021-04-27,49,Zamora,26,0,2,0
-2021-04-27,50,Zaragoza,300,2,15,3
+2021-04-27,50,Zaragoza,298,2,15,3
 2021-04-27,51,Ceuta,10,0,4,1
 2021-04-27,52,Melilla,26,0,0,0
 2021-04-28,00,No consta,24,0,1,0
@@ -25606,7 +25606,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-28,05,Ávila,9,0,1,0
 2021-04-28,06,Badajoz,48,1,4,0
 2021-04-28,07,Balears,79,1,3,0
-2021-04-28,08,Barcelona,1544,5,45,4
+2021-04-28,08,Barcelona,1543,5,45,4
 2021-04-28,09,Burgos,115,0,12,0
 2021-04-28,10,Cáceres,52,1,4,1
 2021-04-28,11,Cádiz,118,4,13,1
@@ -25648,7 +25648,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-28,47,Valladolid,68,3,7,1
 2021-04-28,48,Bizkaia,410,5,40,8
 2021-04-28,49,Zamora,14,0,1,0
-2021-04-28,50,Zaragoza,321,1,21,0
+2021-04-28,50,Zaragoza,322,1,21,0
 2021-04-28,51,Ceuta,5,0,1,0
 2021-04-28,52,Melilla,15,0,0,0
 2021-04-29,00,No consta,11,0,1,0
@@ -25673,13 +25673,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-29,19,Guadalajara,65,0,1,0
 2021-04-29,20,Gipuzkoa,346,3,0,0
 2021-04-29,21,Huelva,94,0,6,1
-2021-04-29,22,Huesca,50,0,4,0
+2021-04-29,22,Huesca,49,0,4,0
 2021-04-29,23,Jaén,131,2,10,0
 2021-04-29,24,León,54,0,4,2
 2021-04-29,25,Lleida,115,0,4,0
 2021-04-29,26,La Rioja,67,1,4,0
 2021-04-29,27,Lugo,27,0,1,0
-2021-04-29,28,Madrid,2070,14,174,17
+2021-04-29,28,Madrid,2069,14,174,17
 2021-04-29,29,Málaga,223,0,5,0
 2021-04-29,30,Murcia,122,1,8,2
 2021-04-29,31,Navarra,151,1,16,3
@@ -25694,14 +25694,14 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-29,40,Segovia,29,0,1,1
 2021-04-29,41,Sevilla,465,3,31,5
 2021-04-29,42,Soria,5,0,1,0
-2021-04-29,43,Tarragona,123,1,3,1
+2021-04-29,43,Tarragona,124,1,3,1
 2021-04-29,44,Teruel,28,0,1,0
 2021-04-29,45,Toledo,233,3,8,2
 2021-04-29,46,Valencia/València,77,1,2,1
 2021-04-29,47,Valladolid,45,1,15,0
 2021-04-29,48,Bizkaia,367,3,37,5
 2021-04-29,49,Zamora,5,1,4,0
-2021-04-29,50,Zaragoza,289,2,23,0
+2021-04-29,50,Zaragoza,290,2,23,0
 2021-04-29,51,Ceuta,2,0,0,0
 2021-04-29,52,Melilla,12,0,0,0
 2021-04-30,00,No consta,21,0,0,1
@@ -25712,7 +25712,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-30,05,Ávila,23,0,2,0
 2021-04-30,06,Badajoz,66,0,5,0
 2021-04-30,07,Balears,54,1,8,2
-2021-04-30,08,Barcelona,1438,11,56,1
+2021-04-30,08,Barcelona,1439,11,56,1
 2021-04-30,09,Burgos,65,0,7,0
 2021-04-30,10,Cáceres,46,0,2,0
 2021-04-30,11,Cádiz,129,1,7,1
@@ -25754,7 +25754,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-04-30,47,Valladolid,60,1,13,0
 2021-04-30,48,Bizkaia,391,1,40,4
 2021-04-30,49,Zamora,15,0,1,0
-2021-04-30,50,Zaragoza,343,3,27,5
+2021-04-30,50,Zaragoza,343,3,26,5
 2021-04-30,51,Ceuta,5,2,3,0
 2021-04-30,52,Melilla,24,0,6,0
 2021-05-01,00,No consta,7,0,2,0
@@ -25807,7 +25807,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-01,47,Valladolid,26,0,4,1
 2021-05-01,48,Bizkaia,290,5,31,2
 2021-05-01,49,Zamora,10,0,5,1
-2021-05-01,50,Zaragoza,188,3,12,0
+2021-05-01,50,Zaragoza,188,3,15,0
 2021-05-01,51,Ceuta,4,0,0,0
 2021-05-01,52,Melilla,8,0,1,0
 2021-05-02,00,No consta,2,0,0,1
@@ -25860,7 +25860,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-02,47,Valladolid,18,1,5,2
 2021-05-02,48,Bizkaia,265,1,17,4
 2021-05-02,49,Zamora,4,0,0,0
-2021-05-02,50,Zaragoza,146,1,15,1
+2021-05-02,50,Zaragoza,146,1,14,1
 2021-05-02,51,Ceuta,2,0,1,1
 2021-05-02,52,Melilla,1,0,2,0
 2021-05-03,00,No consta,13,0,1,0
@@ -25913,7 +25913,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-03,47,Valladolid,49,3,8,1
 2021-05-03,48,Bizkaia,348,5,35,3
 2021-05-03,49,Zamora,12,1,1,0
-2021-05-03,50,Zaragoza,154,0,18,0
+2021-05-03,50,Zaragoza,153,0,18,0
 2021-05-03,51,Ceuta,2,3,2,2
 2021-05-03,52,Melilla,14,1,0,0
 2021-05-04,00,No consta,14,0,1,0
@@ -25966,11 +25966,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-04,47,Valladolid,47,2,6,0
 2021-05-04,48,Bizkaia,363,5,39,4
 2021-05-04,49,Zamora,20,1,2,0
-2021-05-04,50,Zaragoza,303,1,29,3
+2021-05-04,50,Zaragoza,301,1,30,3
 2021-05-04,51,Ceuta,2,0,0,0
 2021-05-04,52,Melilla,18,2,0,0
 2021-05-05,00,No consta,14,0,3,1
-2021-05-05,01,Araba/Álava,67,1,1,0
+2021-05-05,01,Araba/Álava,68,1,1,0
 2021-05-05,02,Albacete,16,0,1,0
 2021-05-05,03,Alicante/Alacant,45,0,2,0
 2021-05-05,04,Almería,87,1,5,0
@@ -26044,7 +26044,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-06,19,Guadalajara,59,0,2,0
 2021-05-06,20,Gipuzkoa,221,2,0,0
 2021-05-06,21,Huelva,87,0,4,1
-2021-05-06,22,Huesca,25,1,4,0
+2021-05-06,22,Huesca,25,1,3,0
 2021-05-06,23,Jaén,148,1,13,0
 2021-05-06,24,León,64,0,6,1
 2021-05-06,25,Lleida,67,0,3,0
@@ -26072,7 +26072,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-06,47,Valladolid,38,0,4,0
 2021-05-06,48,Bizkaia,317,6,29,3
 2021-05-06,49,Zamora,8,0,1,1
-2021-05-06,50,Zaragoza,221,3,19,3
+2021-05-06,50,Zaragoza,220,3,19,3
 2021-05-06,51,Ceuta,1,0,2,0
 2021-05-06,52,Melilla,37,1,2,0
 2021-05-07,00,No consta,15,0,2,0
@@ -26242,7 +26242,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-10,05,Ávila,11,0,0,0
 2021-05-10,06,Badajoz,32,0,4,0
 2021-05-10,07,Balears,49,0,3,0
-2021-05-10,08,Barcelona,1163,2,47,3
+2021-05-10,08,Barcelona,1162,2,47,3
 2021-05-10,09,Burgos,83,0,6,2
 2021-05-10,10,Cáceres,18,0,3,0
 2021-05-10,11,Cádiz,84,1,4,1
@@ -26284,7 +26284,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-10,47,Valladolid,35,1,8,0
 2021-05-10,48,Bizkaia,253,4,14,1
 2021-05-10,49,Zamora,21,0,1,0
-2021-05-10,50,Zaragoza,117,1,15,2
+2021-05-10,50,Zaragoza,117,1,16,2
 2021-05-10,51,Ceuta,1,0,0,0
 2021-05-10,52,Melilla,26,1,0,0
 2021-05-11,00,No consta,18,0,0,1
@@ -26337,7 +26337,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-11,47,Valladolid,43,0,4,1
 2021-05-11,48,Bizkaia,305,6,38,1
 2021-05-11,49,Zamora,13,0,2,1
-2021-05-11,50,Zaragoza,183,3,13,2
+2021-05-11,50,Zaragoza,185,3,13,1
 2021-05-11,51,Ceuta,0,0,0,0
 2021-05-11,52,Melilla,18,0,4,1
 2021-05-12,00,No consta,16,0,0,0
@@ -26390,7 +26390,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-12,47,Valladolid,45,0,2,1
 2021-05-12,48,Bizkaia,275,2,23,3
 2021-05-12,49,Zamora,11,0,2,0
-2021-05-12,50,Zaragoza,197,6,15,0
+2021-05-12,50,Zaragoza,198,6,15,0
 2021-05-12,51,Ceuta,1,1,1,0
 2021-05-12,52,Melilla,13,0,1,0
 2021-05-13,00,No consta,20,0,0,0
@@ -26401,7 +26401,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-13,05,Ávila,12,0,0,1
 2021-05-13,06,Badajoz,66,0,3,0
 2021-05-13,07,Balears,41,1,1,0
-2021-05-13,08,Barcelona,852,4,28,2
+2021-05-13,08,Barcelona,850,4,28,2
 2021-05-13,09,Burgos,54,1,4,0
 2021-05-13,10,Cáceres,27,0,1,1
 2021-05-13,11,Cádiz,89,0,6,0
@@ -26415,7 +26415,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-13,19,Guadalajara,52,0,0,0
 2021-05-13,20,Gipuzkoa,112,4,0,0
 2021-05-13,21,Huelva,126,1,10,0
-2021-05-13,22,Huesca,38,0,2,1
+2021-05-13,22,Huesca,39,0,2,1
 2021-05-13,23,Jaén,133,1,10,1
 2021-05-13,24,León,67,0,3,0
 2021-05-13,25,Lleida,82,0,1,1
@@ -26443,11 +26443,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-13,47,Valladolid,24,3,2,0
 2021-05-13,48,Bizkaia,248,3,17,0
 2021-05-13,49,Zamora,29,1,3,0
-2021-05-13,50,Zaragoza,189,4,22,1
+2021-05-13,50,Zaragoza,189,4,23,1
 2021-05-13,51,Ceuta,3,0,0,0
 2021-05-13,52,Melilla,10,0,2,0
 2021-05-14,00,No consta,16,0,1,0
-2021-05-14,01,Araba/Álava,32,0,3,0
+2021-05-14,01,Araba/Álava,32,0,4,0
 2021-05-14,02,Albacete,38,0,3,0
 2021-05-14,03,Alicante/Alacant,37,1,4,1
 2021-05-14,04,Almería,40,0,4,1
@@ -26496,7 +26496,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-14,47,Valladolid,68,2,1,0
 2021-05-14,48,Bizkaia,215,3,21,0
 2021-05-14,49,Zamora,15,0,1,0
-2021-05-14,50,Zaragoza,149,2,17,1
+2021-05-14,50,Zaragoza,150,2,17,1
 2021-05-14,51,Ceuta,3,0,0,0
 2021-05-14,52,Melilla,16,0,1,1
 2021-05-15,00,No consta,16,0,2,0
@@ -26507,7 +26507,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-15,05,Ávila,14,0,0,0
 2021-05-15,06,Badajoz,27,0,3,0
 2021-05-15,07,Balears,47,0,2,0
-2021-05-15,08,Barcelona,229,4,15,1
+2021-05-15,08,Barcelona,229,4,16,1
 2021-05-15,09,Burgos,36,1,4,0
 2021-05-15,10,Cáceres,12,0,2,0
 2021-05-15,11,Cádiz,54,1,6,0
@@ -26549,7 +26549,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-15,47,Valladolid,32,0,5,0
 2021-05-15,48,Bizkaia,173,5,11,0
 2021-05-15,49,Zamora,2,0,0,0
-2021-05-15,50,Zaragoza,135,4,13,3
+2021-05-15,50,Zaragoza,135,4,14,3
 2021-05-15,51,Ceuta,0,1,0,0
 2021-05-15,52,Melilla,7,1,1,0
 2021-05-16,00,No consta,6,0,1,0
@@ -26600,9 +26600,9 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-16,45,Toledo,23,0,7,2
 2021-05-16,46,Valencia/València,26,0,3,0
 2021-05-16,47,Valladolid,30,1,5,0
-2021-05-16,48,Bizkaia,151,1,4,1
+2021-05-16,48,Bizkaia,151,1,6,1
 2021-05-16,49,Zamora,6,0,2,0
-2021-05-16,50,Zaragoza,53,2,13,2
+2021-05-16,50,Zaragoza,54,2,13,3
 2021-05-16,51,Ceuta,0,0,0,0
 2021-05-16,52,Melilla,3,0,1,1
 2021-05-17,00,No consta,23,0,4,0
@@ -26655,11 +26655,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-17,47,Valladolid,57,0,5,0
 2021-05-17,48,Bizkaia,150,2,17,1
 2021-05-17,49,Zamora,10,1,2,0
-2021-05-17,50,Zaragoza,98,0,24,2
+2021-05-17,50,Zaragoza,99,0,24,2
 2021-05-17,51,Ceuta,0,0,0,0
 2021-05-17,52,Melilla,22,0,2,0
 2021-05-18,00,No consta,20,0,0,0
-2021-05-18,01,Araba/Álava,31,1,5,0
+2021-05-18,01,Araba/Álava,31,1,7,0
 2021-05-18,02,Albacete,46,0,2,0
 2021-05-18,03,Alicante/Alacant,59,0,2,0
 2021-05-18,04,Almería,65,0,4,0
@@ -26706,9 +26706,9 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-18,45,Toledo,153,1,4,1
 2021-05-18,46,Valencia/València,80,2,8,1
 2021-05-18,47,Valladolid,65,0,5,0
-2021-05-18,48,Bizkaia,217,2,16,4
+2021-05-18,48,Bizkaia,217,2,17,4
 2021-05-18,49,Zamora,13,0,1,0
-2021-05-18,50,Zaragoza,220,3,16,4
+2021-05-18,50,Zaragoza,220,3,15,3
 2021-05-18,51,Ceuta,1,0,2,0
 2021-05-18,52,Melilla,6,0,2,0
 2021-05-19,00,No consta,13,1,2,0
@@ -26761,11 +26761,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-19,47,Valladolid,56,0,7,1
 2021-05-19,48,Bizkaia,227,1,18,3
 2021-05-19,49,Zamora,14,0,1,0
-2021-05-19,50,Zaragoza,205,3,9,0
+2021-05-19,50,Zaragoza,205,3,10,0
 2021-05-19,51,Ceuta,9,0,1,0
 2021-05-19,52,Melilla,16,0,1,0
 2021-05-20,00,No consta,14,0,1,0
-2021-05-20,01,Araba/Álava,25,0,1,0
+2021-05-20,01,Araba/Álava,25,0,2,1
 2021-05-20,02,Albacete,31,0,2,0
 2021-05-20,03,Alicante/Alacant,35,0,1,1
 2021-05-20,04,Almería,59,0,3,0
@@ -26812,7 +26812,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-20,45,Toledo,127,0,6,1
 2021-05-20,46,Valencia/València,60,0,4,1
 2021-05-20,47,Valladolid,75,1,4,0
-2021-05-20,48,Bizkaia,228,2,9,1
+2021-05-20,48,Bizkaia,228,2,11,1
 2021-05-20,49,Zamora,7,0,0,0
 2021-05-20,50,Zaragoza,197,2,13,0
 2021-05-20,51,Ceuta,1,0,0,0
@@ -26865,13 +26865,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-21,45,Toledo,131,0,5,1
 2021-05-21,46,Valencia/València,76,1,6,0
 2021-05-21,47,Valladolid,90,0,3,2
-2021-05-21,48,Bizkaia,230,5,17,1
+2021-05-21,48,Bizkaia,230,5,18,1
 2021-05-21,49,Zamora,6,0,1,0
-2021-05-21,50,Zaragoza,162,2,12,2
+2021-05-21,50,Zaragoza,161,2,12,2
 2021-05-21,51,Ceuta,0,0,0,0
 2021-05-21,52,Melilla,10,0,1,0
 2021-05-22,00,No consta,14,0,0,0
-2021-05-22,01,Araba/Álava,27,1,3,0
+2021-05-22,01,Araba/Álava,27,1,3,1
 2021-05-22,02,Albacete,24,0,0,0
 2021-05-22,03,Alicante/Alacant,24,0,1,1
 2021-05-22,04,Almería,42,0,5,0
@@ -26971,7 +26971,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-23,45,Toledo,15,0,3,1
 2021-05-23,46,Valencia/València,20,0,0,0
 2021-05-23,47,Valladolid,34,0,6,2
-2021-05-23,48,Bizkaia,128,2,6,0
+2021-05-23,48,Bizkaia,128,2,7,0
 2021-05-23,49,Zamora,5,0,0,1
 2021-05-23,50,Zaragoza,61,0,8,1
 2021-05-23,51,Ceuta,1,0,0,0
@@ -26984,7 +26984,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-24,05,Ávila,15,0,3,1
 2021-05-24,06,Badajoz,62,0,1,0
 2021-05-24,07,Balears,44,0,4,0
-2021-05-24,08,Barcelona,525,5,18,5
+2021-05-24,08,Barcelona,526,5,18,5
 2021-05-24,09,Burgos,44,1,5,1
 2021-05-24,10,Cáceres,18,1,0,0
 2021-05-24,11,Cádiz,107,0,7,0
@@ -27019,18 +27019,18 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-24,40,Segovia,20,0,2,0
 2021-05-24,41,Sevilla,318,3,24,1
 2021-05-24,42,Soria,5,0,1,0
-2021-05-24,43,Tarragona,103,1,2,0
+2021-05-24,43,Tarragona,104,1,2,0
 2021-05-24,44,Teruel,6,0,0,0
 2021-05-24,45,Toledo,110,1,3,2
 2021-05-24,46,Valencia/València,87,0,9,0
 2021-05-24,47,Valladolid,87,0,4,0
-2021-05-24,48,Bizkaia,160,1,11,2
+2021-05-24,48,Bizkaia,160,1,12,2
 2021-05-24,49,Zamora,9,0,2,0
 2021-05-24,50,Zaragoza,101,1,18,7
 2021-05-24,51,Ceuta,16,0,1,0
 2021-05-24,52,Melilla,20,0,2,0
 2021-05-25,00,No consta,16,0,1,0
-2021-05-25,01,Araba/Álava,30,0,1,0
+2021-05-25,01,Araba/Álava,30,0,3,0
 2021-05-25,02,Albacete,25,0,2,1
 2021-05-25,03,Alicante/Alacant,52,0,1,0
 2021-05-25,04,Almería,48,0,9,3
@@ -27077,7 +27077,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-25,45,Toledo,127,1,5,0
 2021-05-25,46,Valencia/València,116,1,11,2
 2021-05-25,47,Valladolid,80,0,5,1
-2021-05-25,48,Bizkaia,218,1,9,1
+2021-05-25,48,Bizkaia,218,1,13,2
 2021-05-25,49,Zamora,11,0,2,0
 2021-05-25,50,Zaragoza,138,2,6,2
 2021-05-25,51,Ceuta,6,0,0,0
@@ -27102,7 +27102,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-26,17,Girona,98,0,1,0
 2021-05-26,18,Granada,223,1,16,4
 2021-05-26,19,Guadalajara,46,0,1,1
-2021-05-26,20,Gipuzkoa,101,2,0,0
+2021-05-26,20,Gipuzkoa,102,2,0,0
 2021-05-26,21,Huelva,139,1,2,0
 2021-05-26,22,Huesca,20,0,1,0
 2021-05-26,23,Jaén,169,0,10,1
@@ -27130,7 +27130,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-26,45,Toledo,101,1,7,2
 2021-05-26,46,Valencia/València,83,0,7,1
 2021-05-26,47,Valladolid,62,0,6,2
-2021-05-26,48,Bizkaia,172,6,8,0
+2021-05-26,48,Bizkaia,172,6,12,0
 2021-05-26,49,Zamora,11,0,0,0
 2021-05-26,50,Zaragoza,113,1,10,0
 2021-05-26,51,Ceuta,9,0,1,0
@@ -27157,7 +27157,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-27,19,Guadalajara,33,1,1,0
 2021-05-27,20,Gipuzkoa,136,1,0,0
 2021-05-27,21,Huelva,129,0,5,0
-2021-05-27,22,Huesca,29,0,2,1
+2021-05-27,22,Huesca,28,0,2,1
 2021-05-27,23,Jaén,192,0,12,2
 2021-05-27,24,León,66,0,4,0
 2021-05-27,25,Lleida,24,0,1,0
@@ -27183,7 +27183,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-27,45,Toledo,121,1,6,0
 2021-05-27,46,Valencia/València,87,0,6,1
 2021-05-27,47,Valladolid,81,0,2,0
-2021-05-27,48,Bizkaia,170,0,8,0
+2021-05-27,48,Bizkaia,170,0,11,0
 2021-05-27,49,Zamora,13,0,0,0
 2021-05-27,50,Zaragoza,111,0,10,0
 2021-05-27,51,Ceuta,3,0,1,0
@@ -27208,7 +27208,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-28,17,Girona,79,0,1,0
 2021-05-28,18,Granada,199,1,16,4
 2021-05-28,19,Guadalajara,54,0,0,0
-2021-05-28,20,Gipuzkoa,118,1,0,0
+2021-05-28,20,Gipuzkoa,119,1,0,0
 2021-05-28,21,Huelva,123,0,6,0
 2021-05-28,22,Huesca,29,0,2,0
 2021-05-28,23,Jaén,138,1,6,0
@@ -27236,9 +27236,9 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-28,45,Toledo,105,1,5,0
 2021-05-28,46,Valencia/València,88,0,8,0
 2021-05-28,47,Valladolid,82,0,8,1
-2021-05-28,48,Bizkaia,203,0,3,2
+2021-05-28,48,Bizkaia,203,0,5,2
 2021-05-28,49,Zamora,21,1,1,0
-2021-05-28,50,Zaragoza,136,1,12,0
+2021-05-28,50,Zaragoza,136,1,11,0
 2021-05-28,51,Ceuta,5,0,0,0
 2021-05-28,52,Melilla,14,0,3,0
 2021-05-29,00,No consta,13,0,0,0
@@ -27289,7 +27289,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-29,45,Toledo,29,1,3,1
 2021-05-29,46,Valencia/València,55,0,5,0
 2021-05-29,47,Valladolid,40,0,4,0
-2021-05-29,48,Bizkaia,160,2,6,0
+2021-05-29,48,Bizkaia,160,2,11,0
 2021-05-29,49,Zamora,0,0,0,0
 2021-05-29,50,Zaragoza,80,1,6,1
 2021-05-29,51,Ceuta,31,1,0,0
@@ -27342,7 +27342,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-30,45,Toledo,33,1,7,1
 2021-05-30,46,Valencia/València,19,0,2,1
 2021-05-30,47,Valladolid,23,0,3,2
-2021-05-30,48,Bizkaia,130,4,0,0
+2021-05-30,48,Bizkaia,130,4,8,0
 2021-05-30,49,Zamora,1,0,0,0
 2021-05-30,50,Zaragoza,41,0,10,1
 2021-05-30,51,Ceuta,7,0,0,0
@@ -27364,7 +27364,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-31,14,Córdoba,110,2,7,1
 2021-05-31,15,A Coruña,33,0,5,1
 2021-05-31,16,Cuenca,3,0,1,0
-2021-05-31,17,Girona,98,1,0,0
+2021-05-31,17,Girona,99,1,0,0
 2021-05-31,18,Granada,183,2,11,1
 2021-05-31,19,Guadalajara,21,0,1,0
 2021-05-31,20,Gipuzkoa,135,1,0,0
@@ -27375,7 +27375,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-31,25,Lleida,30,0,0,0
 2021-05-31,26,La Rioja,46,0,5,1
 2021-05-31,27,Lugo,14,0,1,0
-2021-05-31,28,Madrid,861,9,76,9
+2021-05-31,28,Madrid,862,9,76,9
 2021-05-31,29,Málaga,241,1,13,2
 2021-05-31,30,Murcia,73,0,7,0
 2021-05-31,31,Navarra,70,0,3,0
@@ -27395,9 +27395,9 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-05-31,45,Toledo,30,0,2,0
 2021-05-31,46,Valencia/València,93,0,3,0
 2021-05-31,47,Valladolid,104,0,5,1
-2021-05-31,48,Bizkaia,166,6,3,1
+2021-05-31,48,Bizkaia,166,6,12,1
 2021-05-31,49,Zamora,30,2,2,0
-2021-05-31,50,Zaragoza,95,4,12,3
+2021-05-31,50,Zaragoza,95,4,13,3
 2021-05-31,51,Ceuta,7,0,0,0
 2021-05-31,52,Melilla,11,0,1,0
 2021-06-01,00,No consta,12,0,2,0
@@ -27446,11 +27446,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-01,43,Tarragona,91,0,0,0
 2021-06-01,44,Teruel,7,0,0,0
 2021-06-01,45,Toledo,94,1,4,1
-2021-06-01,46,Valencia/València,107,1,6,1
+2021-06-01,46,Valencia/València,106,1,6,1
 2021-06-01,47,Valladolid,84,0,6,0
-2021-06-01,48,Bizkaia,170,0,4,1
+2021-06-01,48,Bizkaia,170,0,9,1
 2021-06-01,49,Zamora,8,1,2,0
-2021-06-01,50,Zaragoza,123,1,9,0
+2021-06-01,50,Zaragoza,122,1,10,1
 2021-06-01,51,Ceuta,17,0,0,0
 2021-06-01,52,Melilla,11,0,1,0
 2021-06-02,00,No consta,11,0,0,0
@@ -27461,7 +27461,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-02,05,Ávila,15,1,3,0
 2021-06-02,06,Badajoz,38,0,0,0
 2021-06-02,07,Balears,41,0,2,1
-2021-06-02,08,Barcelona,686,0,17,1
+2021-06-02,08,Barcelona,685,0,17,1
 2021-06-02,09,Burgos,45,0,1,1
 2021-06-02,10,Cáceres,21,1,0,0
 2021-06-02,11,Cádiz,178,0,4,0
@@ -27473,7 +27473,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-02,17,Girona,71,2,1,0
 2021-06-02,18,Granada,218,2,11,0
 2021-06-02,19,Guadalajara,40,0,1,0
-2021-06-02,20,Gipuzkoa,91,3,0,0
+2021-06-02,20,Gipuzkoa,92,3,0,0
 2021-06-02,21,Huelva,141,0,7,1
 2021-06-02,22,Huesca,28,0,0,1
 2021-06-02,23,Jaén,168,0,6,0
@@ -27501,7 +27501,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-02,45,Toledo,138,1,5,1
 2021-06-02,46,Valencia/València,103,0,9,2
 2021-06-02,47,Valladolid,66,0,7,0
-2021-06-02,48,Bizkaia,158,2,1,0
+2021-06-02,48,Bizkaia,158,2,3,1
 2021-06-02,49,Zamora,16,0,0,0
 2021-06-02,50,Zaragoza,118,1,8,0
 2021-06-02,51,Ceuta,13,1,0,0
@@ -27554,9 +27554,9 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-03,45,Toledo,39,1,2,0
 2021-06-03,46,Valencia/València,99,0,9,0
 2021-06-03,47,Valladolid,65,1,5,1
-2021-06-03,48,Bizkaia,159,4,1,0
+2021-06-03,48,Bizkaia,159,4,5,1
 2021-06-03,49,Zamora,23,0,0,0
-2021-06-03,50,Zaragoza,117,1,9,2
+2021-06-03,50,Zaragoza,116,1,9,2
 2021-06-03,51,Ceuta,6,0,0,0
 2021-06-03,52,Melilla,7,0,0,0
 2021-06-04,00,No consta,32,0,0,0
@@ -27607,9 +27607,9 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-04,45,Toledo,121,1,5,2
 2021-06-04,46,Valencia/València,118,0,6,1
 2021-06-04,47,Valladolid,59,0,5,1
-2021-06-04,48,Bizkaia,171,3,1,0
+2021-06-04,48,Bizkaia,171,3,2,1
 2021-06-04,49,Zamora,15,0,2,0
-2021-06-04,50,Zaragoza,113,1,10,0
+2021-06-04,50,Zaragoza,113,1,8,0
 2021-06-04,51,Ceuta,3,0,0,0
 2021-06-04,52,Melilla,5,0,1,0
 2021-06-05,00,No consta,19,0,4,0
@@ -27658,7 +27658,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-05,43,Tarragona,53,0,0,0
 2021-06-05,44,Teruel,9,1,2,0
 2021-06-05,45,Toledo,37,3,3,1
-2021-06-05,46,Valencia/València,63,1,2,1
+2021-06-05,46,Valencia/València,63,1,4,1
 2021-06-05,47,Valladolid,28,1,1,0
 2021-06-05,48,Bizkaia,99,2,1,0
 2021-06-05,49,Zamora,6,0,1,0
@@ -27713,9 +27713,9 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-06,45,Toledo,12,2,5,2
 2021-06-06,46,Valencia/València,24,0,8,0
 2021-06-06,47,Valladolid,12,0,5,0
-2021-06-06,48,Bizkaia,87,0,0,0
+2021-06-06,48,Bizkaia,87,0,0,1
 2021-06-06,49,Zamora,5,0,1,0
-2021-06-06,50,Zaragoza,15,2,2,0
+2021-06-06,50,Zaragoza,15,2,3,0
 2021-06-06,51,Ceuta,17,0,0,0
 2021-06-06,52,Melilla,4,0,0,0
 2021-06-07,00,No consta,7,0,1,1
@@ -27764,11 +27764,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-07,43,Tarragona,89,0,1,0
 2021-06-07,44,Teruel,7,2,1,0
 2021-06-07,45,Toledo,95,2,6,0
-2021-06-07,46,Valencia/València,116,0,11,0
+2021-06-07,46,Valencia/València,115,0,11,0
 2021-06-07,47,Valladolid,69,2,6,0
 2021-06-07,48,Bizkaia,105,1,2,0
 2021-06-07,49,Zamora,9,0,0,0
-2021-06-07,50,Zaragoza,55,0,6,0
+2021-06-07,50,Zaragoza,54,0,4,0
 2021-06-07,51,Ceuta,0,0,0,0
 2021-06-07,52,Melilla,13,0,1,0
 2021-06-08,00,No consta,8,0,1,0
@@ -27817,11 +27817,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-08,43,Tarragona,82,0,0,0
 2021-06-08,44,Teruel,10,0,0,0
 2021-06-08,45,Toledo,77,0,9,0
-2021-06-08,46,Valencia/València,109,1,6,0
+2021-06-08,46,Valencia/València,108,1,5,0
 2021-06-08,47,Valladolid,41,0,5,0
 2021-06-08,48,Bizkaia,148,4,1,0
 2021-06-08,49,Zamora,26,0,0,0
-2021-06-08,50,Zaragoza,89,1,10,1
+2021-06-08,50,Zaragoza,89,1,9,1
 2021-06-08,51,Ceuta,3,0,0,0
 2021-06-08,52,Melilla,10,0,0,0
 2021-06-09,00,No consta,14,0,1,0
@@ -27832,7 +27832,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-09,05,Ávila,14,0,3,0
 2021-06-09,06,Badajoz,22,0,1,0
 2021-06-09,07,Balears,34,0,1,0
-2021-06-09,08,Barcelona,428,0,8,1
+2021-06-09,08,Barcelona,429,0,8,1
 2021-06-09,09,Burgos,38,1,1,0
 2021-06-09,10,Cáceres,19,0,1,0
 2021-06-09,11,Cádiz,177,3,6,2
@@ -27916,7 +27916,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-10,36,Pontevedra,27,1,1,0
 2021-06-10,37,Salamanca,9,1,0,0
 2021-06-10,38,Santa Cruz de Tenerife,96,1,6,1
-2021-06-10,39,Cantabria,22,0,4,0
+2021-06-10,39,Cantabria,21,0,4,0
 2021-06-10,40,Segovia,6,0,1,0
 2021-06-10,41,Sevilla,435,1,15,1
 2021-06-10,42,Soria,3,0,0,0
@@ -27969,7 +27969,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-11,36,Pontevedra,22,0,0,0
 2021-06-11,37,Salamanca,10,0,1,0
 2021-06-11,38,Santa Cruz de Tenerife,117,0,3,0
-2021-06-11,39,Cantabria,26,0,1,0
+2021-06-11,39,Cantabria,27,0,1,0
 2021-06-11,40,Segovia,9,0,0,0
 2021-06-11,41,Sevilla,318,1,21,5
 2021-06-11,42,Soria,2,0,1,0
@@ -27980,11 +27980,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-11,47,Valladolid,61,1,4,0
 2021-06-11,48,Bizkaia,115,0,1,0
 2021-06-11,49,Zamora,14,0,2,0
-2021-06-11,50,Zaragoza,60,1,11,0
+2021-06-11,50,Zaragoza,61,1,10,0
 2021-06-11,51,Ceuta,10,0,0,0
 2021-06-11,52,Melilla,1,0,1,0
 2021-06-12,00,No consta,9,0,0,0
-2021-06-12,01,Araba/Álava,44,0,1,0
+2021-06-12,01,Araba/Álava,44,0,2,0
 2021-06-12,02,Albacete,10,0,0,0
 2021-06-12,03,Alicante/Alacant,38,0,2,0
 2021-06-12,04,Almería,41,1,2,0
@@ -28043,7 +28043,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-13,04,Almería,29,1,2,0
 2021-06-13,05,Ávila,7,0,1,1
 2021-06-13,06,Badajoz,28,0,2,1
-2021-06-13,07,Balears,15,0,3,0
+2021-06-13,07,Balears,16,0,3,0
 2021-06-13,08,Barcelona,135,0,11,3
 2021-06-13,09,Burgos,7,0,1,0
 2021-06-13,10,Cáceres,3,0,2,0
@@ -28192,11 +28192,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-15,47,Valladolid,40,1,1,1
 2021-06-15,48,Bizkaia,90,1,0,0
 2021-06-15,49,Zamora,11,0,1,0
-2021-06-15,50,Zaragoza,72,1,2,0
+2021-06-15,50,Zaragoza,72,1,3,0
 2021-06-15,51,Ceuta,1,0,0,0
 2021-06-15,52,Melilla,1,0,0,0
 2021-06-16,00,No consta,11,0,1,0
-2021-06-16,01,Araba/Álava,28,1,0,0
+2021-06-16,01,Araba/Álava,28,1,3,0
 2021-06-16,02,Albacete,13,0,0,0
 2021-06-16,03,Alicante/Alacant,62,0,3,0
 2021-06-16,04,Almería,38,0,0,0
@@ -28249,7 +28249,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-16,51,Ceuta,2,0,0,1
 2021-06-16,52,Melilla,3,0,0,0
 2021-06-17,00,No consta,16,0,1,0
-2021-06-17,01,Araba/Álava,19,0,0,0
+2021-06-17,01,Araba/Álava,19,0,0,1
 2021-06-17,02,Albacete,16,0,0,0
 2021-06-17,03,Alicante/Alacant,47,0,1,0
 2021-06-17,04,Almería,36,0,1,0
@@ -28309,7 +28309,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-18,05,Ávila,9,0,0,0
 2021-06-18,06,Badajoz,38,2,2,0
 2021-06-18,07,Balears,34,0,4,0
-2021-06-18,08,Barcelona,536,1,10,1
+2021-06-18,08,Barcelona,537,1,10,1
 2021-06-18,09,Burgos,25,0,0,0
 2021-06-18,10,Cáceres,24,0,1,0
 2021-06-18,11,Cádiz,154,0,5,0
@@ -28457,7 +28457,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-20,47,Valladolid,12,1,2,0
 2021-06-20,48,Bizkaia,65,0,2,0
 2021-06-20,49,Zamora,3,0,0,0
-2021-06-20,50,Zaragoza,18,0,6,1
+2021-06-20,50,Zaragoza,19,0,5,1
 2021-06-20,51,Ceuta,0,0,0,0
 2021-06-20,52,Melilla,1,0,0,0
 2021-06-21,00,No consta,15,0,1,0
@@ -28514,14 +28514,14 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-21,51,Ceuta,2,0,0,0
 2021-06-21,52,Melilla,4,0,0,0
 2021-06-22,00,No consta,16,0,0,0
-2021-06-22,01,Araba/Álava,35,0,1,0
+2021-06-22,01,Araba/Álava,35,0,2,0
 2021-06-22,02,Albacete,8,0,1,0
 2021-06-22,03,Alicante/Alacant,65,0,2,0
 2021-06-22,04,Almería,53,0,1,0
 2021-06-22,05,Ávila,5,0,0,0
 2021-06-22,06,Badajoz,28,0,3,0
 2021-06-22,07,Balears,55,0,2,0
-2021-06-22,08,Barcelona,957,2,10,2
+2021-06-22,08,Barcelona,956,2,10,2
 2021-06-22,09,Burgos,20,0,1,0
 2021-06-22,10,Cáceres,20,0,0,0
 2021-06-22,11,Cádiz,162,2,4,0
@@ -28612,7 +28612,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-23,43,Tarragona,78,0,0,0
 2021-06-23,44,Teruel,7,0,0,0
 2021-06-23,45,Toledo,33,1,0,0
-2021-06-23,46,Valencia/València,533,1,5,0
+2021-06-23,46,Valencia/València,532,1,5,0
 2021-06-23,47,Valladolid,14,0,2,0
 2021-06-23,48,Bizkaia,96,1,3,0
 2021-06-23,49,Zamora,6,0,0,0
@@ -28665,7 +28665,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-24,43,Tarragona,44,1,1,0
 2021-06-24,44,Teruel,4,0,0,0
 2021-06-24,45,Toledo,63,0,2,0
-2021-06-24,46,Valencia/València,142,0,7,0
+2021-06-24,46,Valencia/València,145,0,7,0
 2021-06-24,47,Valladolid,25,0,1,0
 2021-06-24,48,Bizkaia,82,0,1,0
 2021-06-24,49,Zamora,3,1,0,0
@@ -28673,13 +28673,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-24,51,Ceuta,4,0,1,0
 2021-06-24,52,Melilla,19,0,0,0
 2021-06-25,00,No consta,22,0,2,0
-2021-06-25,01,Araba/Álava,21,1,1,0
+2021-06-25,01,Araba/Álava,21,1,2,0
 2021-06-25,02,Albacete,28,0,1,0
 2021-06-25,03,Alicante/Alacant,116,0,3,0
 2021-06-25,04,Almería,64,0,3,0
 2021-06-25,05,Ávila,6,0,0,0
 2021-06-25,06,Badajoz,41,0,1,0
-2021-06-25,07,Balears,90,0,3,0
+2021-06-25,07,Balears,90,0,4,0
 2021-06-25,08,Barcelona,1024,0,7,1
 2021-06-25,09,Burgos,31,0,0,0
 2021-06-25,10,Cáceres,12,0,0,0
@@ -28720,7 +28720,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-25,45,Toledo,66,0,2,1
 2021-06-25,46,Valencia/València,645,0,8,2
 2021-06-25,47,Valladolid,31,0,2,0
-2021-06-25,48,Bizkaia,91,0,1,0
+2021-06-25,48,Bizkaia,91,0,2,0
 2021-06-25,49,Zamora,4,0,0,0
 2021-06-25,50,Zaragoza,73,1,4,0
 2021-06-25,51,Ceuta,1,0,0,0
@@ -28733,7 +28733,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-26,05,Ávila,5,1,0,0
 2021-06-26,06,Badajoz,50,0,3,0
 2021-06-26,07,Balears,115,0,3,0
-2021-06-26,08,Barcelona,608,2,10,4
+2021-06-26,08,Barcelona,609,2,10,4
 2021-06-26,09,Burgos,30,0,1,1
 2021-06-26,10,Cáceres,47,0,0,0
 2021-06-26,11,Cádiz,133,0,4,1
@@ -28832,16 +28832,16 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-27,51,Ceuta,1,0,1,0
 2021-06-27,52,Melilla,1,0,0,0
 2021-06-28,00,No consta,43,0,1,0
-2021-06-28,01,Araba/Álava,22,0,0,0
+2021-06-28,01,Araba/Álava,22,0,2,0
 2021-06-28,02,Albacete,25,0,3,0
 2021-06-28,03,Alicante/Alacant,144,0,1,1
 2021-06-28,04,Almería,39,1,1,2
 2021-06-28,05,Ávila,4,0,0,0
 2021-06-28,06,Badajoz,62,0,2,0
 2021-06-28,07,Balears,231,0,8,1
-2021-06-28,08,Barcelona,2764,0,20,0
+2021-06-28,08,Barcelona,2765,0,20,0
 2021-06-28,09,Burgos,63,0,1,1
-2021-06-28,10,Cáceres,56,0,0,0
+2021-06-28,10,Cáceres,55,0,0,0
 2021-06-28,11,Cádiz,161,0,5,0
 2021-06-28,12,Castellón/Castelló,72,0,2,0
 2021-06-28,13,Ciudad Real,43,0,0,0
@@ -28877,7 +28877,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-28,43,Tarragona,192,0,0,0
 2021-06-28,44,Teruel,14,0,1,0
 2021-06-28,45,Toledo,64,0,1,0
-2021-06-28,46,Valencia/València,766,0,19,1
+2021-06-28,46,Valencia/València,767,0,19,1
 2021-06-28,47,Valladolid,46,1,4,0
 2021-06-28,48,Bizkaia,82,2,0,0
 2021-06-28,49,Zamora,22,0,0,0
@@ -28892,20 +28892,20 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-29,05,Ávila,9,0,1,0
 2021-06-29,06,Badajoz,73,0,1,0
 2021-06-29,07,Balears,244,0,9,2
-2021-06-29,08,Barcelona,3904,1,15,1
+2021-06-29,08,Barcelona,3905,1,15,1
 2021-06-29,09,Burgos,60,0,2,0
 2021-06-29,10,Cáceres,64,0,1,1
-2021-06-29,11,Cádiz,206,0,12,1
+2021-06-29,11,Cádiz,206,0,13,1
 2021-06-29,12,Castellón/Castelló,82,0,0,0
 2021-06-29,13,Ciudad Real,23,0,1,0
 2021-06-29,14,Córdoba,155,0,3,0
 2021-06-29,15,A Coruña,77,0,3,0
 2021-06-29,16,Cuenca,12,0,1,0
-2021-06-29,17,Girona,250,1,0,0
+2021-06-29,17,Girona,251,1,0,0
 2021-06-29,18,Granada,259,1,7,1
 2021-06-29,19,Guadalajara,11,0,0,0
 2021-06-29,20,Gipuzkoa,126,0,0,0
-2021-06-29,21,Huelva,69,0,2,1
+2021-06-29,21,Huelva,70,0,2,1
 2021-06-29,22,Huesca,19,0,1,0
 2021-06-29,23,Jaén,136,0,5,0
 2021-06-29,24,León,152,0,0,0
@@ -28930,21 +28930,21 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-29,43,Tarragona,243,0,1,0
 2021-06-29,44,Teruel,27,0,1,0
 2021-06-29,45,Toledo,74,0,2,1
-2021-06-29,46,Valencia/València,1020,1,22,0
+2021-06-29,46,Valencia/València,1021,1,23,0
 2021-06-29,47,Valladolid,76,0,3,1
 2021-06-29,48,Bizkaia,138,1,1,0
 2021-06-29,49,Zamora,55,0,0,0
 2021-06-29,50,Zaragoza,100,1,6,0
 2021-06-29,51,Ceuta,1,0,0,0
 2021-06-29,52,Melilla,10,0,0,0
-2021-06-30,00,No consta,63,0,0,0
-2021-06-30,01,Araba/Álava,37,0,0,0
+2021-06-30,00,No consta,64,0,0,0
+2021-06-30,01,Araba/Álava,37,0,1,0
 2021-06-30,02,Albacete,34,0,0,0
 2021-06-30,03,Alicante/Alacant,163,0,5,0
 2021-06-30,04,Almería,71,1,0,0
 2021-06-30,05,Ávila,11,0,0,0
 2021-06-30,06,Badajoz,116,0,2,0
-2021-06-30,07,Balears,324,0,3,2
+2021-06-30,07,Balears,324,0,4,2
 2021-06-30,08,Barcelona,4622,0,11,1
 2021-06-30,09,Burgos,104,0,2,0
 2021-06-30,10,Cáceres,68,0,0,0
@@ -28983,14 +28983,14 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-06-30,43,Tarragona,325,0,0,0
 2021-06-30,44,Teruel,31,0,4,0
 2021-06-30,45,Toledo,97,0,1,0
-2021-06-30,46,Valencia/València,1072,1,23,0
+2021-06-30,46,Valencia/València,1083,1,23,0
 2021-06-30,47,Valladolid,151,1,1,0
 2021-06-30,48,Bizkaia,170,1,0,0
 2021-06-30,49,Zamora,80,0,0,0
 2021-06-30,50,Zaragoza,144,0,5,0
 2021-06-30,51,Ceuta,2,0,0,0
 2021-06-30,52,Melilla,3,0,0,0
-2021-07-01,00,No consta,79,0,2,0
+2021-07-01,00,No consta,80,0,2,0
 2021-07-01,01,Araba/Álava,44,0,0,0
 2021-07-01,02,Albacete,34,0,0,0
 2021-07-01,03,Alicante/Alacant,225,0,9,0
@@ -28998,7 +28998,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-01,05,Ávila,15,0,0,0
 2021-07-01,06,Badajoz,111,0,1,0
 2021-07-01,07,Balears,308,0,7,1
-2021-07-01,08,Barcelona,4610,0,10,2
+2021-07-01,08,Barcelona,4611,0,11,3
 2021-07-01,09,Burgos,122,0,1,0
 2021-07-01,10,Cáceres,123,0,1,0
 2021-07-01,11,Cádiz,284,1,5,0
@@ -29015,7 +29015,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-01,22,Huesca,39,0,2,0
 2021-07-01,23,Jaén,150,0,3,0
 2021-07-01,24,León,174,0,1,0
-2021-07-01,25,Lleida,127,0,0,0
+2021-07-01,25,Lleida,128,0,0,0
 2021-07-01,26,La Rioja,51,0,3,0
 2021-07-01,27,Lugo,19,1,0,0
 2021-07-01,28,Madrid,879,3,24,0
@@ -29036,7 +29036,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-01,43,Tarragona,317,0,0,0
 2021-07-01,44,Teruel,21,0,0,0
 2021-07-01,45,Toledo,79,0,2,0
-2021-07-01,46,Valencia/València,1159,1,33,0
+2021-07-01,46,Valencia/València,1171,1,33,0
 2021-07-01,47,Valladolid,205,1,6,0
 2021-07-01,48,Bizkaia,175,0,0,0
 2021-07-01,49,Zamora,186,0,0,0
@@ -29051,7 +29051,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-02,05,Ávila,10,0,0,0
 2021-07-02,06,Badajoz,99,0,2,0
 2021-07-02,07,Balears,292,0,2,0
-2021-07-02,08,Barcelona,4739,0,10,1
+2021-07-02,08,Barcelona,4740,0,10,1
 2021-07-02,09,Burgos,223,0,2,0
 2021-07-02,10,Cáceres,136,0,2,0
 2021-07-02,11,Cádiz,335,0,4,0
@@ -29063,13 +29063,13 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-02,17,Girona,332,0,1,0
 2021-07-02,18,Granada,302,0,7,0
 2021-07-02,19,Guadalajara,19,0,1,0
-2021-07-02,20,Gipuzkoa,251,0,0,0
+2021-07-02,20,Gipuzkoa,252,0,0,0
 2021-07-02,21,Huelva,88,0,4,0
 2021-07-02,22,Huesca,47,0,0,1
 2021-07-02,23,Jaén,127,0,3,0
 2021-07-02,24,León,221,0,4,0
-2021-07-02,25,Lleida,147,0,0,0
-2021-07-02,26,La Rioja,75,0,5,0
+2021-07-02,25,Lleida,148,0,0,0
+2021-07-02,26,La Rioja,74,0,5,0
 2021-07-02,27,Lugo,17,0,1,0
 2021-07-02,28,Madrid,1041,1,41,1
 2021-07-02,29,Málaga,578,0,6,3
@@ -29081,15 +29081,15 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-02,35,Las Palmas,101,0,0,0
 2021-07-02,36,Pontevedra,117,0,2,0
 2021-07-02,37,Salamanca,90,0,4,0
-2021-07-02,38,Santa Cruz de Tenerife,231,1,11,0
+2021-07-02,38,Santa Cruz de Tenerife,231,1,10,0
 2021-07-02,39,Cantabria,240,0,3,0
-2021-07-02,40,Segovia,20,0,0,0
+2021-07-02,40,Segovia,21,0,0,0
 2021-07-02,41,Sevilla,306,0,5,0
 2021-07-02,42,Soria,21,0,0,0
-2021-07-02,43,Tarragona,372,0,0,1
+2021-07-02,43,Tarragona,373,0,0,1
 2021-07-02,44,Teruel,42,1,0,0
 2021-07-02,45,Toledo,120,0,3,0
-2021-07-02,46,Valencia/València,1327,0,20,4
+2021-07-02,46,Valencia/València,1362,0,20,4
 2021-07-02,47,Valladolid,184,0,2,0
 2021-07-02,48,Bizkaia,190,0,0,0
 2021-07-02,49,Zamora,100,0,0,0
@@ -29103,8 +29103,8 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-03,04,Almería,85,0,2,0
 2021-07-03,05,Ávila,12,0,0,0
 2021-07-03,06,Badajoz,65,0,3,0
-2021-07-03,07,Balears,360,0,2,1
-2021-07-03,08,Barcelona,2712,3,15,0
+2021-07-03,07,Balears,361,0,2,1
+2021-07-03,08,Barcelona,2715,3,15,0
 2021-07-03,09,Burgos,195,0,2,0
 2021-07-03,10,Cáceres,85,0,0,0
 2021-07-03,11,Cádiz,163,0,2,0
@@ -29118,7 +29118,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-03,19,Guadalajara,13,0,0,0
 2021-07-03,20,Gipuzkoa,146,1,0,0
 2021-07-03,21,Huelva,57,0,4,1
-2021-07-03,22,Huesca,30,0,0,0
+2021-07-03,22,Huesca,31,0,0,0
 2021-07-03,23,Jaén,70,1,6,1
 2021-07-03,24,León,469,0,3,0
 2021-07-03,25,Lleida,71,0,1,1
@@ -29142,7 +29142,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-03,43,Tarragona,376,0,0,0
 2021-07-03,44,Teruel,34,0,0,0
 2021-07-03,45,Toledo,40,0,2,0
-2021-07-03,46,Valencia/València,844,1,24,2
+2021-07-03,46,Valencia/València,867,1,24,2
 2021-07-03,47,Valladolid,82,0,1,0
 2021-07-03,48,Bizkaia,148,0,0,0
 2021-07-03,49,Zamora,107,0,4,1
@@ -29157,7 +29157,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-04,05,Ávila,7,0,1,0
 2021-07-04,06,Badajoz,64,0,0,0
 2021-07-04,07,Balears,228,0,1,0
-2021-07-04,08,Barcelona,2114,2,12,1
+2021-07-04,08,Barcelona,2115,2,13,1
 2021-07-04,09,Burgos,155,0,2,0
 2021-07-04,10,Cáceres,54,0,1,0
 2021-07-04,11,Cádiz,117,0,5,1
@@ -29195,7 +29195,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-04,43,Tarragona,270,0,2,0
 2021-07-04,44,Teruel,13,0,1,0
 2021-07-04,45,Toledo,16,0,5,0
-2021-07-04,46,Valencia/València,308,1,22,0
+2021-07-04,46,Valencia/València,310,1,22,0
 2021-07-04,47,Valladolid,105,0,1,0
 2021-07-04,48,Bizkaia,172,0,0,0
 2021-07-04,49,Zamora,53,0,1,0
@@ -29209,14 +29209,14 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-05,04,Almería,85,0,4,0
 2021-07-05,05,Ávila,14,0,0,0
 2021-07-05,06,Badajoz,153,0,2,0
-2021-07-05,07,Balears,390,0,4,1
-2021-07-05,08,Barcelona,5739,0,28,1
-2021-07-05,09,Burgos,358,0,5,0
+2021-07-05,07,Balears,391,0,4,1
+2021-07-05,08,Barcelona,5760,0,28,1
+2021-07-05,09,Burgos,359,0,5,0
 2021-07-05,10,Cáceres,91,0,0,0
 2021-07-05,11,Cádiz,282,1,8,0
 2021-07-05,12,Castellón/Castelló,133,0,1,0
 2021-07-05,13,Ciudad Real,44,0,0,0
-2021-07-05,14,Córdoba,213,0,7,0
+2021-07-05,14,Córdoba,213,1,7,0
 2021-07-05,15,A Coruña,82,1,5,1
 2021-07-05,16,Cuenca,26,0,1,0
 2021-07-05,17,Girona,428,0,3,0
@@ -29226,11 +29226,11 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-05,21,Huelva,88,0,1,0
 2021-07-05,22,Huesca,73,0,0,0
 2021-07-05,23,Jaén,103,0,1,0
-2021-07-05,24,León,219,0,1,0
-2021-07-05,25,Lleida,173,0,0,0
+2021-07-05,24,León,220,0,1,0
+2021-07-05,25,Lleida,174,0,0,0
 2021-07-05,26,La Rioja,49,0,1,0
 2021-07-05,27,Lugo,33,0,0,0
-2021-07-05,28,Madrid,1185,2,45,1
+2021-07-05,28,Madrid,1187,2,45,1
 2021-07-05,29,Málaga,604,0,11,0
 2021-07-05,30,Murcia,201,0,5,0
 2021-07-05,31,Navarra,453,0,1,0
@@ -29243,36 +29243,36 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-05,38,Santa Cruz de Tenerife,199,0,10,2
 2021-07-05,39,Cantabria,267,1,8,1
 2021-07-05,40,Segovia,34,0,1,0
-2021-07-05,41,Sevilla,333,1,13,0
+2021-07-05,41,Sevilla,334,1,13,0
 2021-07-05,42,Soria,24,0,0,0
-2021-07-05,43,Tarragona,538,0,0,0
+2021-07-05,43,Tarragona,539,0,0,0
 2021-07-05,44,Teruel,49,0,0,0
 2021-07-05,45,Toledo,97,0,8,0
-2021-07-05,46,Valencia/València,1064,0,33,1
-2021-07-05,47,Valladolid,221,0,0,0
-2021-07-05,48,Bizkaia,188,1,0,0
+2021-07-05,46,Valencia/València,1066,0,33,1
+2021-07-05,47,Valladolid,222,0,0,0
+2021-07-05,48,Bizkaia,189,1,0,0
 2021-07-05,49,Zamora,131,0,1,0
-2021-07-05,50,Zaragoza,230,0,2,0
+2021-07-05,50,Zaragoza,231,0,2,0
 2021-07-05,51,Ceuta,2,0,0,0
 2021-07-05,52,Melilla,2,0,0,0
 2021-07-06,00,No consta,83,0,2,0
 2021-07-06,01,Araba/Álava,65,0,0,0
 2021-07-06,02,Albacete,37,0,0,0
-2021-07-06,03,Alicante/Alacant,278,0,2,0
+2021-07-06,03,Alicante/Alacant,277,0,1,0
 2021-07-06,04,Almería,79,0,4,0
 2021-07-06,05,Ávila,8,0,0,0
 2021-07-06,06,Badajoz,158,0,4,0
-2021-07-06,07,Balears,470,0,2,0
-2021-07-06,08,Barcelona,6588,2,29,3
-2021-07-06,09,Burgos,414,1,0,0
-2021-07-06,10,Cáceres,77,0,1,0
-2021-07-06,11,Cádiz,348,0,4,0
+2021-07-06,07,Balears,474,0,2,0
+2021-07-06,08,Barcelona,6602,2,30,3
+2021-07-06,09,Burgos,415,1,0,0
+2021-07-06,10,Cáceres,76,0,1,0
+2021-07-06,11,Cádiz,348,1,4,0
 2021-07-06,12,Castellón/Castelló,176,0,1,0
 2021-07-06,13,Ciudad Real,37,0,2,0
 2021-07-06,14,Córdoba,205,0,3,0
 2021-07-06,15,A Coruña,131,1,2,0
 2021-07-06,16,Cuenca,30,0,0,0
-2021-07-06,17,Girona,587,1,1,0
+2021-07-06,17,Girona,588,1,1,0
 2021-07-06,18,Granada,260,0,8,2
 2021-07-06,19,Guadalajara,29,0,2,0
 2021-07-06,20,Gipuzkoa,250,0,0,0
@@ -29284,7 +29284,7 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-06,26,La Rioja,75,0,0,0
 2021-07-06,27,Lugo,59,0,2,0
 2021-07-06,28,Madrid,1795,0,48,1
-2021-07-06,29,Málaga,761,0,15,0
+2021-07-06,29,Málaga,762,0,16,0
 2021-07-06,30,Murcia,244,0,6,0
 2021-07-06,31,Navarra,344,0,3,1
 2021-07-06,32,Ourense,90,0,1,0
@@ -29292,36 +29292,36 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-06,34,Palencia,67,0,0,0
 2021-07-06,35,Las Palmas,155,0,5,1
 2021-07-06,36,Pontevedra,191,0,6,0
-2021-07-06,37,Salamanca,251,0,3,0
-2021-07-06,38,Santa Cruz de Tenerife,195,0,11,3
+2021-07-06,37,Salamanca,252,0,3,0
+2021-07-06,38,Santa Cruz de Tenerife,195,0,12,3
 2021-07-06,39,Cantabria,226,0,11,0
 2021-07-06,40,Segovia,50,0,0,0
 2021-07-06,41,Sevilla,387,1,12,0
 2021-07-06,42,Soria,33,0,0,0
-2021-07-06,43,Tarragona,671,0,0,0
+2021-07-06,43,Tarragona,672,0,0,0
 2021-07-06,44,Teruel,30,0,1,0
 2021-07-06,45,Toledo,150,1,1,0
-2021-07-06,46,Valencia/València,1343,0,29,2
+2021-07-06,46,Valencia/València,1347,0,29,2
 2021-07-06,47,Valladolid,264,0,5,1
 2021-07-06,48,Bizkaia,252,0,0,0
 2021-07-06,49,Zamora,141,0,3,0
 2021-07-06,50,Zaragoza,481,0,4,0
 2021-07-06,51,Ceuta,1,0,0,0
 2021-07-06,52,Melilla,7,0,0,0
-2021-07-07,00,No consta,126,0,3,0
+2021-07-07,00,No consta,127,0,3,0
 2021-07-07,01,Araba/Álava,62,0,0,0
-2021-07-07,02,Albacete,72,0,1,0
+2021-07-07,02,Albacete,71,0,1,0
 2021-07-07,03,Alicante/Alacant,367,1,10,0
 2021-07-07,04,Almería,105,0,2,0
 2021-07-07,05,Ávila,35,0,1,0
 2021-07-07,06,Badajoz,207,0,2,0
-2021-07-07,07,Balears,592,0,1,1
-2021-07-07,08,Barcelona,7162,0,35,1
-2021-07-07,09,Burgos,527,0,5,0
-2021-07-07,10,Cáceres,112,0,0,0
-2021-07-07,11,Cádiz,499,0,8,0
+2021-07-07,07,Balears,595,0,1,1
+2021-07-07,08,Barcelona,7184,0,35,1
+2021-07-07,09,Burgos,527,0,6,0
+2021-07-07,10,Cáceres,115,0,0,0
+2021-07-07,11,Cádiz,500,0,8,0
 2021-07-07,12,Castellón/Castelló,185,0,3,0
-2021-07-07,13,Ciudad Real,52,0,0,0
+2021-07-07,13,Ciudad Real,53,0,0,0
 2021-07-07,14,Córdoba,285,0,7,0
 2021-07-07,15,A Coruña,168,0,4,0
 2021-07-07,16,Cuenca,40,0,1,0
@@ -29332,47 +29332,47 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-07,21,Huelva,109,0,7,0
 2021-07-07,22,Huesca,124,0,0,0
 2021-07-07,23,Jaén,162,1,5,0
-2021-07-07,24,León,283,0,1,0
+2021-07-07,24,León,284,0,1,0
 2021-07-07,25,Lleida,232,0,0,0
-2021-07-07,26,La Rioja,74,0,2,0
+2021-07-07,26,La Rioja,73,0,2,0
 2021-07-07,27,Lugo,60,0,0,0
-2021-07-07,28,Madrid,1900,0,42,3
-2021-07-07,29,Málaga,874,1,18,2
-2021-07-07,30,Murcia,279,0,0,0
+2021-07-07,28,Madrid,1902,0,42,3
+2021-07-07,29,Málaga,875,1,18,2
+2021-07-07,30,Murcia,280,0,0,0
 2021-07-07,31,Navarra,269,0,2,0
 2021-07-07,32,Ourense,133,0,1,0
 2021-07-07,33,Asturias,484,0,4,1
-2021-07-07,34,Palencia,174,0,7,1
+2021-07-07,34,Palencia,175,0,7,1
 2021-07-07,35,Las Palmas,176,0,1,0
 2021-07-07,36,Pontevedra,183,0,5,0
 2021-07-07,37,Salamanca,203,0,0,0
 2021-07-07,38,Santa Cruz de Tenerife,339,0,4,2
 2021-07-07,39,Cantabria,217,0,9,3
-2021-07-07,40,Segovia,77,0,0,0
+2021-07-07,40,Segovia,81,0,0,0
 2021-07-07,41,Sevilla,404,0,9,1
 2021-07-07,42,Soria,53,0,1,0
 2021-07-07,43,Tarragona,714,0,0,0
 2021-07-07,44,Teruel,101,0,1,0
 2021-07-07,45,Toledo,128,0,0,0
-2021-07-07,46,Valencia/València,1398,0,42,4
-2021-07-07,47,Valladolid,334,0,5,1
-2021-07-07,48,Bizkaia,281,0,0,0
+2021-07-07,46,Valencia/València,1403,1,43,4
+2021-07-07,47,Valladolid,336,0,5,1
+2021-07-07,48,Bizkaia,282,0,0,0
 2021-07-07,49,Zamora,158,0,4,0
 2021-07-07,50,Zaragoza,494,0,4,0
 2021-07-07,51,Ceuta,5,1,0,0
 2021-07-07,52,Melilla,5,0,0,0
-2021-07-08,00,No consta,120,0,3,0
+2021-07-08,00,No consta,119,0,3,0
 2021-07-08,01,Araba/Álava,92,0,0,0
 2021-07-08,02,Albacete,62,0,2,0
 2021-07-08,03,Alicante/Alacant,347,0,7,1
-2021-07-08,04,Almería,114,0,2,1
+2021-07-08,04,Almería,114,0,3,1
 2021-07-08,05,Ávila,50,0,0,0
 2021-07-08,06,Badajoz,197,0,3,0
 2021-07-08,07,Balears,526,0,1,0
-2021-07-08,08,Barcelona,6678,0,42,4
+2021-07-08,08,Barcelona,6705,0,44,4
 2021-07-08,09,Burgos,452,0,8,1
 2021-07-08,10,Cáceres,115,0,0,0
-2021-07-08,11,Cádiz,409,1,7,0
+2021-07-08,11,Cádiz,410,1,7,0
 2021-07-08,12,Castellón/Castelló,192,0,3,0
 2021-07-08,13,Ciudad Real,75,0,1,0
 2021-07-08,14,Córdoba,243,0,13,0
@@ -29389,8 +29389,8 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-08,25,Lleida,230,0,0,0
 2021-07-08,26,La Rioja,80,0,2,0
 2021-07-08,27,Lugo,58,0,2,0
-2021-07-08,28,Madrid,2121,0,54,4
-2021-07-08,29,Málaga,805,1,19,0
+2021-07-08,28,Madrid,2131,0,55,4
+2021-07-08,29,Málaga,806,1,20,0
 2021-07-08,30,Murcia,270,0,4,0
 2021-07-08,31,Navarra,284,0,2,1
 2021-07-08,32,Ourense,146,0,3,0
@@ -29405,86 +29405,86 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-08,41,Sevilla,408,0,11,0
 2021-07-08,42,Soria,55,0,0,0
 2021-07-08,43,Tarragona,695,0,1,0
-2021-07-08,44,Teruel,82,0,1,0
+2021-07-08,44,Teruel,83,0,1,0
 2021-07-08,45,Toledo,143,0,1,0
-2021-07-08,46,Valencia/València,1308,0,37,0
+2021-07-08,46,Valencia/València,1323,0,40,0
 2021-07-08,47,Valladolid,381,0,4,1
 2021-07-08,48,Bizkaia,297,0,0,0
 2021-07-08,49,Zamora,143,0,0,0
-2021-07-08,50,Zaragoza,531,0,8,0
+2021-07-08,50,Zaragoza,532,0,8,0
 2021-07-08,51,Ceuta,10,0,1,0
 2021-07-08,52,Melilla,9,0,1,0
 2021-07-09,00,No consta,135,0,3,0
 2021-07-09,01,Araba/Álava,85,0,0,0
 2021-07-09,02,Albacete,71,0,2,0
-2021-07-09,03,Alicante/Alacant,414,0,2,0
+2021-07-09,03,Alicante/Alacant,415,0,2,0
 2021-07-09,04,Almería,117,0,0,0
 2021-07-09,05,Ávila,61,1,1,0
 2021-07-09,06,Badajoz,236,1,4,0
-2021-07-09,07,Balears,503,0,5,0
-2021-07-09,08,Barcelona,6797,0,41,3
+2021-07-09,07,Balears,506,0,7,1
+2021-07-09,08,Barcelona,6808,0,41,4
 2021-07-09,09,Burgos,891,0,9,0
 2021-07-09,10,Cáceres,108,0,0,0
-2021-07-09,11,Cádiz,488,0,3,0
-2021-07-09,12,Castellón/Castelló,190,1,6,0
-2021-07-09,13,Ciudad Real,95,0,2,0
-2021-07-09,14,Córdoba,295,0,6,0
+2021-07-09,11,Cádiz,488,0,6,0
+2021-07-09,12,Castellón/Castelló,190,1,7,0
+2021-07-09,13,Ciudad Real,96,0,2,0
+2021-07-09,14,Córdoba,295,1,7,0
 2021-07-09,15,A Coruña,211,0,4,2
 2021-07-09,16,Cuenca,46,0,1,0
 2021-07-09,17,Girona,769,0,1,0
-2021-07-09,18,Granada,381,0,8,0
+2021-07-09,18,Granada,383,0,8,0
 2021-07-09,19,Guadalajara,43,0,1,0
-2021-07-09,20,Gipuzkoa,246,0,0,0
-2021-07-09,21,Huelva,118,0,1,0
+2021-07-09,20,Gipuzkoa,247,0,0,0
+2021-07-09,21,Huelva,118,0,2,0
 2021-07-09,22,Huesca,123,0,0,0
 2021-07-09,23,Jaén,135,0,5,0
-2021-07-09,24,León,236,0,3,0
+2021-07-09,24,León,236,0,4,0
 2021-07-09,25,Lleida,278,0,0,0
 2021-07-09,26,La Rioja,139,0,2,0
 2021-07-09,27,Lugo,46,0,0,0
-2021-07-09,28,Madrid,2443,0,54,3
+2021-07-09,28,Madrid,2456,0,54,3
 2021-07-09,29,Málaga,1097,0,25,0
-2021-07-09,30,Murcia,312,0,3,1
-2021-07-09,31,Navarra,317,0,3,1
+2021-07-09,30,Murcia,313,0,3,1
+2021-07-09,31,Navarra,320,0,3,1
 2021-07-09,32,Ourense,119,0,1,0
 2021-07-09,33,Asturias,515,0,8,0
 2021-07-09,34,Palencia,165,0,0,0
 2021-07-09,35,Las Palmas,166,0,3,0
 2021-07-09,36,Pontevedra,351,0,4,1
-2021-07-09,37,Salamanca,193,0,1,0
-2021-07-09,38,Santa Cruz de Tenerife,316,0,12,0
+2021-07-09,37,Salamanca,194,0,1,0
+2021-07-09,38,Santa Cruz de Tenerife,319,0,12,0
 2021-07-09,39,Cantabria,208,0,4,3
-2021-07-09,40,Segovia,78,0,0,0
-2021-07-09,41,Sevilla,365,1,11,0
+2021-07-09,40,Segovia,78,0,1,0
+2021-07-09,41,Sevilla,369,1,12,0
 2021-07-09,42,Soria,47,0,1,1
-2021-07-09,43,Tarragona,665,0,1,0
+2021-07-09,43,Tarragona,667,0,1,0
 2021-07-09,44,Teruel,85,0,3,0
 2021-07-09,45,Toledo,127,0,2,0
-2021-07-09,46,Valencia/València,1601,1,21,0
-2021-07-09,47,Valladolid,381,0,4,0
+2021-07-09,46,Valencia/València,1616,1,21,0
+2021-07-09,47,Valladolid,381,0,5,0
 2021-07-09,48,Bizkaia,323,1,0,0
-2021-07-09,49,Zamora,160,0,2,0
-2021-07-09,50,Zaragoza,585,0,2,0
+2021-07-09,49,Zamora,161,0,2,0
+2021-07-09,50,Zaragoza,585,0,1,0
 2021-07-09,51,Ceuta,3,0,0,0
 2021-07-09,52,Melilla,6,0,0,0
-2021-07-10,00,No consta,80,0,1,1
+2021-07-10,00,No consta,82,0,1,1
 2021-07-10,01,Araba/Álava,70,0,0,0
 2021-07-10,02,Albacete,41,0,0,0
-2021-07-10,03,Alicante/Alacant,299,0,5,0
+2021-07-10,03,Alicante/Alacant,300,0,5,0
 2021-07-10,04,Almería,115,0,3,0
 2021-07-10,05,Ávila,60,0,2,1
 2021-07-10,06,Badajoz,146,0,2,0
-2021-07-10,07,Balears,458,0,7,0
-2021-07-10,08,Barcelona,3187,1,31,8
-2021-07-10,09,Burgos,221,1,7,0
+2021-07-10,07,Balears,464,0,7,0
+2021-07-10,08,Barcelona,3205,1,34,8
+2021-07-10,09,Burgos,228,1,7,0
 2021-07-10,10,Cáceres,78,0,1,0
-2021-07-10,11,Cádiz,291,1,2,0
+2021-07-10,11,Cádiz,291,1,6,0
 2021-07-10,12,Castellón/Castelló,157,0,3,0
-2021-07-10,13,Ciudad Real,41,0,2,0
-2021-07-10,14,Córdoba,186,0,6,0
+2021-07-10,13,Ciudad Real,43,0,2,0
+2021-07-10,14,Córdoba,186,0,7,0
 2021-07-10,15,A Coruña,181,1,3,1
 2021-07-10,16,Cuenca,33,0,1,0
-2021-07-10,17,Girona,387,0,0,0
+2021-07-10,17,Girona,388,0,0,0
 2021-07-10,18,Granada,160,0,8,3
 2021-07-10,19,Guadalajara,35,0,0,0
 2021-07-10,20,Gipuzkoa,271,0,0,0
@@ -29495,25 +29495,25 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-10,25,Lleida,178,0,1,0
 2021-07-10,26,La Rioja,71,0,2,0
 2021-07-10,27,Lugo,54,0,1,0
-2021-07-10,28,Madrid,1079,1,57,3
-2021-07-10,29,Málaga,826,0,16,1
+2021-07-10,28,Madrid,1096,1,57,3
+2021-07-10,29,Málaga,827,0,16,1
 2021-07-10,30,Murcia,258,0,9,0
-2021-07-10,31,Navarra,335,0,3,1
+2021-07-10,31,Navarra,336,0,3,1
 2021-07-10,32,Ourense,170,0,2,0
 2021-07-10,33,Asturias,423,0,12,0
 2021-07-10,34,Palencia,107,0,2,0
 2021-07-10,35,Las Palmas,203,0,2,0
 2021-07-10,36,Pontevedra,227,0,5,0
 2021-07-10,37,Salamanca,145,0,2,0
-2021-07-10,38,Santa Cruz de Tenerife,259,3,11,1
+2021-07-10,38,Santa Cruz de Tenerife,264,3,11,1
 2021-07-10,39,Cantabria,153,0,3,1
 2021-07-10,40,Segovia,61,0,1,0
-2021-07-10,41,Sevilla,289,0,6,0
+2021-07-10,41,Sevilla,290,0,10,0
 2021-07-10,42,Soria,55,0,0,0
-2021-07-10,43,Tarragona,550,0,2,0
+2021-07-10,43,Tarragona,551,0,2,0
 2021-07-10,44,Teruel,29,0,0,0
 2021-07-10,45,Toledo,40,0,3,0
-2021-07-10,46,Valencia/València,1085,1,26,1
+2021-07-10,46,Valencia/València,1091,1,28,2
 2021-07-10,47,Valladolid,163,0,3,0
 2021-07-10,48,Bizkaia,260,1,0,0
 2021-07-10,49,Zamora,66,0,6,0
@@ -29522,22 +29522,22 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-10,52,Melilla,40,0,1,0
 2021-07-11,00,No consta,74,0,3,0
 2021-07-11,01,Araba/Álava,82,0,0,0
-2021-07-11,02,Albacete,41,0,2,0
+2021-07-11,02,Albacete,41,0,1,0
 2021-07-11,03,Alicante/Alacant,226,0,10,0
 2021-07-11,04,Almería,81,0,2,0
 2021-07-11,05,Ávila,33,0,1,0
 2021-07-11,06,Badajoz,114,0,2,0
-2021-07-11,07,Balears,401,1,0,0
-2021-07-11,08,Barcelona,2503,0,48,7
-2021-07-11,09,Burgos,252,0,6,0
+2021-07-11,07,Balears,407,1,0,0
+2021-07-11,08,Barcelona,2527,0,49,7
+2021-07-11,09,Burgos,262,0,6,0
 2021-07-11,10,Cáceres,77,0,0,0
-2021-07-11,11,Cádiz,216,0,4,0
+2021-07-11,11,Cádiz,216,0,10,0
 2021-07-11,12,Castellón/Castelló,99,0,1,0
-2021-07-11,13,Ciudad Real,41,0,0,0
-2021-07-11,14,Córdoba,155,0,5,0
+2021-07-11,13,Ciudad Real,42,0,0,0
+2021-07-11,14,Córdoba,155,0,6,0
 2021-07-11,15,A Coruña,195,0,1,1
 2021-07-11,16,Cuenca,20,1,0,0
-2021-07-11,17,Girona,423,0,0,0
+2021-07-11,17,Girona,422,0,0,0
 2021-07-11,18,Granada,103,0,8,1
 2021-07-11,19,Guadalajara,15,0,0,0
 2021-07-11,20,Gipuzkoa,272,0,0,0
@@ -29548,452 +29548,505 @@ Fecha,cod_ine,provincia,Casos,Fallecidos,Hospitalizados,UCI
 2021-07-11,25,Lleida,190,0,0,0
 2021-07-11,26,La Rioja,44,0,3,0
 2021-07-11,27,Lugo,20,0,0,0
-2021-07-11,28,Madrid,995,0,55,2
+2021-07-11,28,Madrid,1013,0,56,2
 2021-07-11,29,Málaga,461,0,23,0
-2021-07-11,30,Murcia,139,0,1,3
-2021-07-11,31,Navarra,386,0,3,0
+2021-07-11,30,Murcia,140,0,1,3
+2021-07-11,31,Navarra,387,0,3,0
 2021-07-11,32,Ourense,114,0,1,0
 2021-07-11,33,Asturias,453,1,7,0
 2021-07-11,34,Palencia,151,0,2,0
-2021-07-11,35,Las Palmas,155,0,2,0
+2021-07-11,35,Las Palmas,154,0,2,0
 2021-07-11,36,Pontevedra,235,0,1,0
 2021-07-11,37,Salamanca,256,0,0,0
-2021-07-11,38,Santa Cruz de Tenerife,252,0,11,2
+2021-07-11,38,Santa Cruz de Tenerife,253,0,14,2
 2021-07-11,39,Cantabria,230,0,7,1
 2021-07-11,40,Segovia,35,0,0,0
-2021-07-11,41,Sevilla,159,1,5,0
+2021-07-11,41,Sevilla,168,1,7,0
 2021-07-11,42,Soria,47,0,0,0
-2021-07-11,43,Tarragona,435,0,1,0
+2021-07-11,43,Tarragona,436,0,1,0
 2021-07-11,44,Teruel,45,0,1,1
 2021-07-11,45,Toledo,15,0,1,0
-2021-07-11,46,Valencia/València,470,1,28,2
+2021-07-11,46,Valencia/València,475,1,28,3
 2021-07-11,47,Valladolid,160,0,4,0
 2021-07-11,48,Bizkaia,270,0,0,0
 2021-07-11,49,Zamora,102,0,2,0
 2021-07-11,50,Zaragoza,238,2,10,0
 2021-07-11,51,Ceuta,4,0,1,0
 2021-07-11,52,Melilla,7,0,1,0
-2021-07-12,00,No consta,93,0,3,0
+2021-07-12,00,No consta,94,0,3,0
 2021-07-12,01,Araba/Álava,89,0,0,0
 2021-07-12,02,Albacete,86,0,2,0
-2021-07-12,03,Alicante/Alacant,508,0,10,0
-2021-07-12,04,Almería,133,0,2,0
+2021-07-12,03,Alicante/Alacant,506,0,10,0
+2021-07-12,04,Almería,134,0,2,0
 2021-07-12,05,Ávila,55,0,0,0
 2021-07-12,06,Badajoz,208,1,2,0
-2021-07-12,07,Balears,667,0,8,3
-2021-07-12,08,Barcelona,7997,0,58,6
-2021-07-12,09,Burgos,449,0,17,1
+2021-07-12,07,Balears,718,0,10,4
+2021-07-12,08,Barcelona,8032,0,60,6
+2021-07-12,09,Burgos,454,0,18,1
 2021-07-12,10,Cáceres,88,1,1,0
-2021-07-12,11,Cádiz,425,1,3,0
+2021-07-12,11,Cádiz,425,1,8,0
 2021-07-12,12,Castellón/Castelló,236,0,3,0
-2021-07-12,13,Ciudad Real,86,0,0,1
-2021-07-12,14,Córdoba,249,0,2,0
+2021-07-12,13,Ciudad Real,88,0,0,1
+2021-07-12,14,Córdoba,248,0,7,0
 2021-07-12,15,A Coruña,203,0,5,1
-2021-07-12,16,Cuenca,51,0,0,0
-2021-07-12,17,Girona,776,0,0,0
+2021-07-12,16,Cuenca,52,0,0,0
+2021-07-12,17,Girona,777,0,0,0
 2021-07-12,18,Granada,332,0,10,0
 2021-07-12,19,Guadalajara,50,0,0,0
 2021-07-12,20,Gipuzkoa,243,0,0,0
-2021-07-12,21,Huelva,165,0,2,0
+2021-07-12,21,Huelva,166,0,2,0
 2021-07-12,22,Huesca,127,0,2,0
 2021-07-12,23,Jaén,131,0,7,0
 2021-07-12,24,León,218,0,6,1
-2021-07-12,25,Lleida,328,0,1,0
-2021-07-12,26,La Rioja,154,0,6,0
+2021-07-12,25,Lleida,327,0,1,0
+2021-07-12,26,La Rioja,155,0,6,0
 2021-07-12,27,Lugo,52,0,0,0
-2021-07-12,28,Madrid,2818,0,71,4
-2021-07-12,29,Málaga,831,1,32,1
-2021-07-12,30,Murcia,405,0,6,1
-2021-07-12,31,Navarra,496,0,2,1
+2021-07-12,28,Madrid,2867,0,72,4
+2021-07-12,29,Málaga,833,1,32,2
+2021-07-12,30,Murcia,410,0,6,1
+2021-07-12,31,Navarra,498,0,2,1
 2021-07-12,32,Ourense,172,0,4,0
 2021-07-12,33,Asturias,447,0,12,0
 2021-07-12,34,Palencia,100,0,6,0
-2021-07-12,35,Las Palmas,225,0,4,1
+2021-07-12,35,Las Palmas,226,0,4,1
 2021-07-12,36,Pontevedra,507,0,5,0
-2021-07-12,37,Salamanca,119,0,2,0
+2021-07-12,37,Salamanca,120,0,4,0
 2021-07-12,38,Santa Cruz de Tenerife,286,1,19,3
 2021-07-12,39,Cantabria,251,0,11,1
 2021-07-12,40,Segovia,53,0,0,0
-2021-07-12,41,Sevilla,452,0,11,0
+2021-07-12,41,Sevilla,459,0,16,0
 2021-07-12,42,Soria,47,0,2,0
-2021-07-12,43,Tarragona,699,0,4,0
+2021-07-12,43,Tarragona,707,0,4,0
 2021-07-12,44,Teruel,64,0,0,0
-2021-07-12,45,Toledo,132,0,5,0
-2021-07-12,46,Valencia/València,1361,0,36,2
-2021-07-12,47,Valladolid,350,0,6,1
+2021-07-12,45,Toledo,133,0,5,0
+2021-07-12,46,Valencia/València,1364,0,37,2
+2021-07-12,47,Valladolid,365,0,6,1
 2021-07-12,48,Bizkaia,334,0,0,0
-2021-07-12,49,Zamora,91,0,6,0
+2021-07-12,49,Zamora,92,0,6,0
 2021-07-12,50,Zaragoza,445,1,2,0
 2021-07-12,51,Ceuta,6,0,1,0
 2021-07-12,52,Melilla,16,0,0,0
-2021-07-13,00,No consta,82,0,4,1
-2021-07-13,01,Araba/Álava,93,0,0,0
-2021-07-13,02,Albacete,78,0,2,0
-2021-07-13,03,Alicante/Alacant,634,0,7,1
-2021-07-13,04,Almería,169,0,3,0
+2021-07-13,00,No consta,83,0,4,1
+2021-07-13,01,Araba/Álava,96,0,0,0
+2021-07-13,02,Albacete,77,0,2,0
+2021-07-13,03,Alicante/Alacant,621,0,7,1
+2021-07-13,04,Almería,171,0,3,0
 2021-07-13,05,Ávila,69,0,1,0
 2021-07-13,06,Badajoz,277,0,7,0
-2021-07-13,07,Balears,718,1,5,0
-2021-07-13,08,Barcelona,7095,2,45,1
-2021-07-13,09,Burgos,684,1,10,0
+2021-07-13,07,Balears,786,1,11,0
+2021-07-13,08,Barcelona,7120,2,46,2
+2021-07-13,09,Burgos,692,1,11,1
 2021-07-13,10,Cáceres,117,0,4,1
-2021-07-13,11,Cádiz,623,0,1,0
-2021-07-13,12,Castellón/Castelló,274,0,4,2
-2021-07-13,13,Ciudad Real,88,1,3,0
-2021-07-13,14,Córdoba,324,1,2,1
+2021-07-13,11,Cádiz,623,0,5,0
+2021-07-13,12,Castellón/Castelló,274,0,4,1
+2021-07-13,13,Ciudad Real,90,1,3,0
+2021-07-13,14,Córdoba,324,1,4,1
 2021-07-13,15,A Coruña,295,1,7,1
 2021-07-13,16,Cuenca,47,0,1,0
-2021-07-13,17,Girona,781,0,2,0
-2021-07-13,18,Granada,315,0,15,1
+2021-07-13,17,Girona,784,0,2,0
+2021-07-13,18,Granada,316,0,15,1
 2021-07-13,19,Guadalajara,71,0,0,0
-2021-07-13,20,Gipuzkoa,399,0,0,0
-2021-07-13,21,Huelva,202,0,1,0
+2021-07-13,20,Gipuzkoa,400,0,0,0
+2021-07-13,21,Huelva,200,0,1,0
 2021-07-13,22,Huesca,169,0,0,0
-2021-07-13,23,Jaén,185,0,4,0
+2021-07-13,23,Jaén,186,0,4,0
 2021-07-13,24,León,249,0,10,0
 2021-07-13,25,Lleida,303,0,0,0
-2021-07-13,26,La Rioja,115,0,1,0
+2021-07-13,26,La Rioja,114,0,1,0
 2021-07-13,27,Lugo,79,0,2,0
-2021-07-13,28,Madrid,3495,1,65,3
-2021-07-13,29,Málaga,1092,1,18,1
-2021-07-13,30,Murcia,395,1,6,0
-2021-07-13,31,Navarra,554,0,4,2
+2021-07-13,28,Madrid,3556,1,66,3
+2021-07-13,29,Málaga,1094,2,20,2
+2021-07-13,30,Murcia,393,1,6,0
+2021-07-13,31,Navarra,555,0,4,2
 2021-07-13,32,Ourense,169,0,8,2
 2021-07-13,33,Asturias,569,1,12,0
 2021-07-13,34,Palencia,143,0,0,0
 2021-07-13,35,Las Palmas,286,0,7,0
-2021-07-13,36,Pontevedra,463,0,7,1
-2021-07-13,37,Salamanca,119,0,1,0
-2021-07-13,38,Santa Cruz de Tenerife,324,0,13,4
+2021-07-13,36,Pontevedra,464,0,8,1
+2021-07-13,37,Salamanca,121,0,1,0
+2021-07-13,38,Santa Cruz de Tenerife,324,0,14,4
 2021-07-13,39,Cantabria,224,0,7,2
 2021-07-13,40,Segovia,64,0,0,0
-2021-07-13,41,Sevilla,452,0,6,0
+2021-07-13,41,Sevilla,465,0,11,0
 2021-07-13,42,Soria,70,0,3,0
-2021-07-13,43,Tarragona,739,0,6,1
-2021-07-13,44,Teruel,75,0,4,0
-2021-07-13,45,Toledo,222,0,2,0
-2021-07-13,46,Valencia/València,1541,1,31,1
-2021-07-13,47,Valladolid,386,0,6,0
+2021-07-13,43,Tarragona,744,0,6,1
+2021-07-13,44,Teruel,75,0,3,0
+2021-07-13,45,Toledo,224,0,2,0
+2021-07-13,46,Valencia/València,1561,1,34,1
+2021-07-13,47,Valladolid,391,0,8,0
 2021-07-13,48,Bizkaia,395,0,0,0
 2021-07-13,49,Zamora,114,0,8,0
 2021-07-13,50,Zaragoza,694,0,10,0
 2021-07-13,51,Ceuta,13,0,0,0
 2021-07-13,52,Melilla,17,0,1,1
-2021-07-14,00,No consta,118,0,5,0
+2021-07-14,00,No consta,122,0,5,0
 2021-07-14,01,Araba/Álava,151,0,0,0
-2021-07-14,02,Albacete,137,0,1,0
-2021-07-14,03,Alicante/Alacant,632,0,10,0
-2021-07-14,04,Almería,227,0,4,0
-2021-07-14,05,Ávila,58,0,0,0
-2021-07-14,06,Badajoz,311,0,7,0
-2021-07-14,07,Balears,736,1,7,0
-2021-07-14,08,Barcelona,6425,0,45,3
-2021-07-14,09,Burgos,416,0,17,0
+2021-07-14,02,Albacete,139,0,1,0
+2021-07-14,03,Alicante/Alacant,634,0,9,0
+2021-07-14,04,Almería,231,0,5,0
+2021-07-14,05,Ávila,59,0,0,0
+2021-07-14,06,Badajoz,312,0,7,0
+2021-07-14,07,Balears,772,1,8,1
+2021-07-14,08,Barcelona,6491,0,47,3
+2021-07-14,09,Burgos,416,0,18,0
 2021-07-14,10,Cáceres,158,0,5,1
-2021-07-14,11,Cádiz,535,0,1,0
-2021-07-14,12,Castellón/Castelló,291,0,11,1
-2021-07-14,13,Ciudad Real,131,0,1,0
-2021-07-14,14,Córdoba,309,0,3,0
+2021-07-14,11,Cádiz,548,0,8,0
+2021-07-14,12,Castellón/Castelló,295,0,11,1
+2021-07-14,13,Ciudad Real,130,0,1,0
+2021-07-14,14,Córdoba,309,0,6,0
 2021-07-14,15,A Coruña,437,0,10,0
-2021-07-14,16,Cuenca,63,0,0,0
-2021-07-14,17,Girona,700,0,3,0
+2021-07-14,16,Cuenca,65,0,0,0
+2021-07-14,17,Girona,707,0,3,0
 2021-07-14,18,Granada,360,1,9,0
-2021-07-14,19,Guadalajara,88,0,0,0
+2021-07-14,19,Guadalajara,90,0,0,0
 2021-07-14,20,Gipuzkoa,480,0,0,0
-2021-07-14,21,Huelva,240,0,2,0
+2021-07-14,21,Huelva,243,0,2,0
 2021-07-14,22,Huesca,153,0,4,1
-2021-07-14,23,Jaén,183,0,5,0
-2021-07-14,24,León,242,0,7,0
-2021-07-14,25,Lleida,270,0,0,0
-2021-07-14,26,La Rioja,126,0,2,0
+2021-07-14,23,Jaén,184,0,5,0
+2021-07-14,24,León,243,0,7,0
+2021-07-14,25,Lleida,271,0,0,0
+2021-07-14,26,La Rioja,127,0,2,0
 2021-07-14,27,Lugo,138,0,3,1
-2021-07-14,28,Madrid,3375,1,60,0
-2021-07-14,29,Málaga,1170,1,31,0
-2021-07-14,30,Murcia,501,0,6,0
-2021-07-14,31,Navarra,630,0,5,0
+2021-07-14,28,Madrid,3472,1,65,0
+2021-07-14,29,Málaga,1189,1,34,0
+2021-07-14,30,Murcia,502,0,6,0
+2021-07-14,31,Navarra,653,0,5,0
 2021-07-14,32,Ourense,252,0,6,1
 2021-07-14,33,Asturias,545,1,15,0
 2021-07-14,34,Palencia,166,0,2,0
-2021-07-14,35,Las Palmas,286,1,4,1
-2021-07-14,36,Pontevedra,566,0,16,0
-2021-07-14,37,Salamanca,200,0,1,0
+2021-07-14,35,Las Palmas,287,1,4,1
+2021-07-14,36,Pontevedra,567,0,16,0
+2021-07-14,37,Salamanca,203,0,1,0
 2021-07-14,38,Santa Cruz de Tenerife,391,3,16,3
 2021-07-14,39,Cantabria,295,0,17,1
 2021-07-14,40,Segovia,76,0,1,0
-2021-07-14,41,Sevilla,468,0,11,0
+2021-07-14,41,Sevilla,471,0,17,1
 2021-07-14,42,Soria,53,0,1,0
-2021-07-14,43,Tarragona,667,0,1,0
-2021-07-14,44,Teruel,79,0,0,0
-2021-07-14,45,Toledo,169,0,3,0
-2021-07-14,46,Valencia/València,1726,1,23,2
-2021-07-14,47,Valladolid,357,0,4,0
+2021-07-14,43,Tarragona,670,0,1,0
+2021-07-14,44,Teruel,78,0,0,0
+2021-07-14,45,Toledo,175,0,3,0
+2021-07-14,46,Valencia/València,1762,1,25,2
+2021-07-14,47,Valladolid,361,0,6,0
 2021-07-14,48,Bizkaia,435,0,0,0
 2021-07-14,49,Zamora,120,0,1,0
-2021-07-14,50,Zaragoza,781,1,12,1
+2021-07-14,50,Zaragoza,780,1,13,1
 2021-07-14,51,Ceuta,16,0,0,0
 2021-07-14,52,Melilla,11,0,1,0
-2021-07-15,00,No consta,106,0,4,0
-2021-07-15,01,Araba/Álava,153,0,0,0
-2021-07-15,02,Albacete,124,0,1,0
-2021-07-15,03,Alicante/Alacant,600,0,24,1
-2021-07-15,04,Almería,220,0,3,0
+2021-07-15,00,No consta,113,0,4,0
+2021-07-15,01,Araba/Álava,162,0,0,0
+2021-07-15,02,Albacete,138,0,2,0
+2021-07-15,03,Alicante/Alacant,616,0,19,1
+2021-07-15,04,Almería,222,0,3,0
 2021-07-15,05,Ávila,71,0,0,0
-2021-07-15,06,Badajoz,336,0,8,0
-2021-07-15,07,Balears,705,0,2,0
-2021-07-15,08,Barcelona,5875,1,29,2
-2021-07-15,09,Burgos,431,0,13,2
+2021-07-15,06,Badajoz,338,0,8,0
+2021-07-15,07,Balears,795,0,3,0
+2021-07-15,08,Barcelona,5933,1,39,2
+2021-07-15,09,Burgos,439,0,13,2
 2021-07-15,10,Cáceres,120,0,1,0
-2021-07-15,11,Cádiz,616,0,4,0
-2021-07-15,12,Castellón/Castelló,253,0,5,0
-2021-07-15,13,Ciudad Real,93,0,0,0
-2021-07-15,14,Córdoba,333,0,3,1
+2021-07-15,11,Cádiz,633,0,12,0
+2021-07-15,12,Castellón/Castelló,256,0,6,0
+2021-07-15,13,Ciudad Real,99,0,0,0
+2021-07-15,14,Córdoba,336,0,8,1
 2021-07-15,15,A Coruña,515,0,8,3
-2021-07-15,16,Cuenca,56,0,0,0
-2021-07-15,17,Girona,672,0,1,0
-2021-07-15,18,Granada,300,0,7,0
-2021-07-15,19,Guadalajara,46,0,0,0
-2021-07-15,20,Gipuzkoa,468,0,0,0
-2021-07-15,21,Huelva,201,0,1,0
+2021-07-15,16,Cuenca,61,0,0,0
+2021-07-15,17,Girona,680,1,1,0
+2021-07-15,18,Granada,302,0,13,2
+2021-07-15,19,Guadalajara,48,0,0,0
+2021-07-15,20,Gipuzkoa,474,0,0,0
+2021-07-15,21,Huelva,219,0,1,0
 2021-07-15,22,Huesca,218,0,3,0
-2021-07-15,23,Jaén,130,1,3,0
-2021-07-15,24,León,240,0,5,0
-2021-07-15,25,Lleida,290,0,0,0
-2021-07-15,26,La Rioja,146,0,1,1
+2021-07-15,23,Jaén,132,1,3,0
+2021-07-15,24,León,246,0,6,0
+2021-07-15,25,Lleida,291,0,0,0
+2021-07-15,26,La Rioja,149,0,1,1
 2021-07-15,27,Lugo,129,0,3,0
-2021-07-15,28,Madrid,3090,0,75,1
-2021-07-15,29,Málaga,1149,0,21,6
-2021-07-15,30,Murcia,472,0,9,0
-2021-07-15,31,Navarra,626,0,7,2
+2021-07-15,28,Madrid,3326,2,78,1
+2021-07-15,29,Málaga,1154,0,24,6
+2021-07-15,30,Murcia,480,0,9,0
+2021-07-15,31,Navarra,655,0,8,2
 2021-07-15,32,Ourense,231,1,6,0
-2021-07-15,33,Asturias,579,0,16,0
-2021-07-15,34,Palencia,162,0,3,1
-2021-07-15,35,Las Palmas,305,0,8,3
-2021-07-15,36,Pontevedra,596,0,6,2
-2021-07-15,37,Salamanca,174,1,1,0
-2021-07-15,38,Santa Cruz de Tenerife,411,1,8,2
-2021-07-15,39,Cantabria,290,0,13,1
+2021-07-15,33,Asturias,578,0,15,0
+2021-07-15,34,Palencia,165,0,3,1
+2021-07-15,35,Las Palmas,306,0,7,3
+2021-07-15,36,Pontevedra,606,0,6,2
+2021-07-15,37,Salamanca,178,1,1,0
+2021-07-15,38,Santa Cruz de Tenerife,415,1,9,2
+2021-07-15,39,Cantabria,291,0,13,1
 2021-07-15,40,Segovia,67,0,1,1
-2021-07-15,41,Sevilla,635,0,10,0
+2021-07-15,41,Sevilla,645,0,16,0
 2021-07-15,42,Soria,72,0,1,0
-2021-07-15,43,Tarragona,592,0,2,0
-2021-07-15,44,Teruel,112,0,1,0
-2021-07-15,45,Toledo,175,0,2,0
-2021-07-15,46,Valencia/València,1433,0,29,0
-2021-07-15,47,Valladolid,358,1,8,1
+2021-07-15,43,Tarragona,598,0,2,0
+2021-07-15,44,Teruel,110,0,1,0
+2021-07-15,45,Toledo,200,0,2,0
+2021-07-15,46,Valencia/València,1493,1,25,0
+2021-07-15,47,Valladolid,360,1,10,1
 2021-07-15,48,Bizkaia,568,0,0,0
 2021-07-15,49,Zamora,101,0,3,0
-2021-07-15,50,Zaragoza,647,0,12,0
+2021-07-15,50,Zaragoza,646,0,11,0
 2021-07-15,51,Ceuta,19,0,0,0
 2021-07-15,52,Melilla,10,0,0,1
-2021-07-16,00,No consta,106,0,7,0
-2021-07-16,01,Araba/Álava,127,0,0,0
-2021-07-16,02,Albacete,110,0,0,0
-2021-07-16,03,Alicante/Alacant,597,0,27,0
-2021-07-16,04,Almería,249,0,1,0
-2021-07-16,05,Ávila,75,0,0,0
-2021-07-16,06,Badajoz,243,0,6,2
-2021-07-16,07,Balears,414,0,0,0
-2021-07-16,08,Barcelona,5867,1,17,1
-2021-07-16,09,Burgos,332,0,15,0
-2021-07-16,10,Cáceres,144,0,1,0
-2021-07-16,11,Cádiz,536,0,2,0
-2021-07-16,12,Castellón/Castelló,281,0,14,0
-2021-07-16,13,Ciudad Real,78,0,1,0
-2021-07-16,14,Córdoba,303,0,4,3
-2021-07-16,15,A Coruña,484,0,4,1
-2021-07-16,16,Cuenca,35,0,0,0
-2021-07-16,17,Girona,676,0,1,0
-2021-07-16,18,Granada,260,0,0,0
-2021-07-16,19,Guadalajara,43,0,0,0
-2021-07-16,20,Gipuzkoa,413,0,0,0
-2021-07-16,21,Huelva,209,0,2,0
-2021-07-16,22,Huesca,178,1,1,0
-2021-07-16,23,Jaén,180,0,2,0
-2021-07-16,24,León,229,0,4,0
+2021-07-16,00,No consta,106,0,6,0
+2021-07-16,01,Araba/Álava,130,0,0,0
+2021-07-16,02,Albacete,166,0,1,0
+2021-07-16,03,Alicante/Alacant,717,0,15,0
+2021-07-16,04,Almería,252,0,6,1
+2021-07-16,05,Ávila,76,0,0,0
+2021-07-16,06,Badajoz,247,0,7,2
+2021-07-16,07,Balears,669,0,2,0
+2021-07-16,08,Barcelona,6050,3,37,5
+2021-07-16,09,Burgos,341,0,17,0
+2021-07-16,10,Cáceres,145,0,2,0
+2021-07-16,11,Cádiz,578,0,6,1
+2021-07-16,12,Castellón/Castelló,298,0,13,0
+2021-07-16,13,Ciudad Real,86,0,1,0
+2021-07-16,14,Córdoba,336,0,4,3
+2021-07-16,15,A Coruña,492,1,5,1
+2021-07-16,16,Cuenca,47,0,0,0
+2021-07-16,17,Girona,686,0,2,0
+2021-07-16,18,Granada,263,0,5,1
+2021-07-16,19,Guadalajara,68,0,0,0
+2021-07-16,20,Gipuzkoa,432,0,0,0
+2021-07-16,21,Huelva,221,0,3,0
+2021-07-16,22,Huesca,183,1,1,0
+2021-07-16,23,Jaén,194,0,4,0
+2021-07-16,24,León,241,0,4,0
 2021-07-16,25,Lleida,292,0,0,0
-2021-07-16,26,La Rioja,184,0,2,0
+2021-07-16,26,La Rioja,197,0,3,0
 2021-07-16,27,Lugo,139,0,3,0
-2021-07-16,28,Madrid,3420,0,56,1
-2021-07-16,29,Málaga,1241,4,28,1
-2021-07-16,30,Murcia,391,0,5,0
-2021-07-16,31,Navarra,482,0,13,1
-2021-07-16,32,Ourense,188,0,6,1
-2021-07-16,33,Asturias,628,1,12,1
-2021-07-16,34,Palencia,127,0,2,0
-2021-07-16,35,Las Palmas,237,0,1,0
-2021-07-16,36,Pontevedra,546,0,7,2
-2021-07-16,37,Salamanca,151,1,1,0
-2021-07-16,38,Santa Cruz de Tenerife,390,0,15,1
+2021-07-16,28,Madrid,3654,2,63,3
+2021-07-16,29,Málaga,1279,4,43,5
+2021-07-16,30,Murcia,428,0,12,1
+2021-07-16,31,Navarra,508,0,14,1
+2021-07-16,32,Ourense,197,0,6,1
+2021-07-16,33,Asturias,630,1,13,1
+2021-07-16,34,Palencia,133,0,3,0
+2021-07-16,35,Las Palmas,239,0,3,1
+2021-07-16,36,Pontevedra,553,0,8,2
+2021-07-16,37,Salamanca,155,1,1,0
+2021-07-16,38,Santa Cruz de Tenerife,397,0,17,2
 2021-07-16,39,Cantabria,271,0,8,2
-2021-07-16,40,Segovia,64,0,0,0
-2021-07-16,41,Sevilla,424,0,0,0
-2021-07-16,42,Soria,67,0,0,0
-2021-07-16,43,Tarragona,666,0,1,1
-2021-07-16,44,Teruel,60,0,2,0
-2021-07-16,45,Toledo,83,0,1,0
-2021-07-16,46,Valencia/València,1316,0,45,1
-2021-07-16,47,Valladolid,296,0,12,0
-2021-07-16,48,Bizkaia,455,0,0,0
-2021-07-16,49,Zamora,84,0,0,0
-2021-07-16,50,Zaragoza,676,0,11,0
+2021-07-16,40,Segovia,66,0,0,0
+2021-07-16,41,Sevilla,498,1,3,1
+2021-07-16,42,Soria,69,0,0,0
+2021-07-16,43,Tarragona,670,0,2,1
+2021-07-16,44,Teruel,61,0,2,0
+2021-07-16,45,Toledo,168,0,3,0
+2021-07-16,46,Valencia/València,1446,0,26,1
+2021-07-16,47,Valladolid,306,0,13,0
+2021-07-16,48,Bizkaia,456,0,0,0
+2021-07-16,49,Zamora,86,0,2,0
+2021-07-16,50,Zaragoza,678,0,11,0
 2021-07-16,51,Ceuta,15,0,1,0
 2021-07-16,52,Melilla,9,0,0,0
-2021-07-17,00,No consta,82,0,3,1
-2021-07-17,01,Araba/Álava,130,0,0,0
-2021-07-17,02,Albacete,11,0,0,0
-2021-07-17,03,Alicante/Alacant,214,0,26,0
-2021-07-17,04,Almería,49,0,0,0
+2021-07-17,00,No consta,92,0,4,1
+2021-07-17,01,Araba/Álava,133,0,0,0
+2021-07-17,02,Albacete,35,0,2,0
+2021-07-17,03,Alicante/Alacant,458,0,20,0
+2021-07-17,04,Almería,169,0,4,1
 2021-07-17,05,Ávila,47,0,0,0
-2021-07-17,06,Badajoz,235,0,1,0
-2021-07-17,07,Balears,251,0,0,0
-2021-07-17,08,Barcelona,2528,0,12,0
-2021-07-17,09,Burgos,313,0,15,0
-2021-07-17,10,Cáceres,78,0,0,0
-2021-07-17,11,Cádiz,15,0,3,0
-2021-07-17,12,Castellón/Castelló,106,0,14,0
+2021-07-17,06,Badajoz,237,0,1,0
+2021-07-17,07,Balears,381,1,0,0
+2021-07-17,08,Barcelona,2818,0,31,3
+2021-07-17,09,Burgos,323,0,15,1
+2021-07-17,10,Cáceres,77,0,0,0
+2021-07-17,11,Cádiz,352,0,3,0
+2021-07-17,12,Castellón/Castelló,136,0,7,2
 2021-07-17,13,Ciudad Real,91,0,1,0
-2021-07-17,14,Córdoba,50,1,9,0
-2021-07-17,15,A Coruña,397,0,11,0
-2021-07-17,16,Cuenca,1,0,0,0
-2021-07-17,17,Girona,350,0,2,0
-2021-07-17,18,Granada,6,0,0,0
-2021-07-17,19,Guadalajara,31,0,0,0
-2021-07-17,20,Gipuzkoa,305,0,0,0
-2021-07-17,21,Huelva,54,0,1,0
-2021-07-17,22,Huesca,123,0,7,0
-2021-07-17,23,Jaén,50,0,0,0
-2021-07-17,24,León,130,0,8,0
-2021-07-17,25,Lleida,165,0,0,0
-2021-07-17,26,La Rioja,115,0,1,0
-2021-07-17,27,Lugo,140,0,4,2
-2021-07-17,28,Madrid,1238,0,39,3
-2021-07-17,29,Málaga,188,0,20,0
-2021-07-17,30,Murcia,260,1,3,0
-2021-07-17,31,Navarra,330,0,7,0
+2021-07-17,14,Córdoba,261,1,10,0
+2021-07-17,15,A Coruña,425,0,11,0
+2021-07-17,16,Cuenca,53,0,0,0
+2021-07-17,17,Girona,400,0,2,0
+2021-07-17,18,Granada,106,1,13,0
+2021-07-17,19,Guadalajara,71,0,0,0
+2021-07-17,20,Gipuzkoa,315,0,0,0
+2021-07-17,21,Huelva,87,0,1,0
+2021-07-17,22,Huesca,123,0,7,1
+2021-07-17,23,Jaén,95,0,2,0
+2021-07-17,24,León,141,0,8,0
+2021-07-17,25,Lleida,175,0,0,0
+2021-07-17,26,La Rioja,119,0,1,0
+2021-07-17,27,Lugo,141,0,4,2
+2021-07-17,28,Madrid,1332,0,42,4
+2021-07-17,29,Málaga,749,0,31,1
+2021-07-17,30,Murcia,337,2,9,1
+2021-07-17,31,Navarra,342,0,8,0
 2021-07-17,32,Ourense,161,0,5,0
-2021-07-17,33,Asturias,368,0,15,0
-2021-07-17,34,Palencia,115,0,4,1
-2021-07-17,35,Las Palmas,249,0,6,0
-2021-07-17,36,Pontevedra,423,0,12,0
-2021-07-17,37,Salamanca,74,1,3,1
-2021-07-17,38,Santa Cruz de Tenerife,346,1,14,2
+2021-07-17,33,Asturias,384,0,15,0
+2021-07-17,34,Palencia,116,0,4,1
+2021-07-17,35,Las Palmas,256,0,6,0
+2021-07-17,36,Pontevedra,453,0,12,0
+2021-07-17,37,Salamanca,75,1,4,1
+2021-07-17,38,Santa Cruz de Tenerife,348,1,15,2
 2021-07-17,39,Cantabria,264,0,9,3
-2021-07-17,40,Segovia,51,0,0,0
-2021-07-17,41,Sevilla,116,0,0,0
-2021-07-17,42,Soria,65,0,2,1
-2021-07-17,43,Tarragona,496,0,0,0
-2021-07-17,44,Teruel,51,0,0,0
-2021-07-17,45,Toledo,0,0,0,0
-2021-07-17,46,Valencia/València,734,0,38,0
-2021-07-17,47,Valladolid,168,0,6,0
+2021-07-17,40,Segovia,52,0,0,0
+2021-07-17,41,Sevilla,362,2,5,0
+2021-07-17,42,Soria,66,0,2,1
+2021-07-17,43,Tarragona,517,0,1,0
+2021-07-17,44,Teruel,48,0,0,0
+2021-07-17,45,Toledo,95,0,1,0
+2021-07-17,46,Valencia/València,1054,0,26,0
+2021-07-17,47,Valladolid,177,0,8,0
 2021-07-17,48,Bizkaia,441,0,0,0
-2021-07-17,49,Zamora,23,0,5,0
-2021-07-17,50,Zaragoza,524,0,10,0
+2021-07-17,49,Zamora,25,0,5,0
+2021-07-17,50,Zaragoza,523,0,11,1
 2021-07-17,51,Ceuta,10,0,0,1
 2021-07-17,52,Melilla,9,0,0,0
-2021-07-18,00,No consta,52,0,2,0
+2021-07-18,00,No consta,63,0,4,0
 2021-07-18,01,Araba/Álava,110,0,0,0
-2021-07-18,02,Albacete,0,0,0,0
-2021-07-18,03,Alicante/Alacant,5,0,1,0
-2021-07-18,04,Almería,29,0,0,0
-2021-07-18,05,Ávila,34,0,0,0
-2021-07-18,06,Badajoz,144,0,6,0
-2021-07-18,07,Balears,144,0,0,0
-2021-07-18,08,Barcelona,1548,0,3,0
-2021-07-18,09,Burgos,134,0,9,0
-2021-07-18,10,Cáceres,60,0,1,0
-2021-07-18,11,Cádiz,1,0,0,0
-2021-07-18,12,Castellón/Castelló,10,0,6,0
-2021-07-18,13,Ciudad Real,17,0,0,0
-2021-07-18,14,Córdoba,12,0,2,0
-2021-07-18,15,A Coruña,221,0,6,1
-2021-07-18,16,Cuenca,0,0,0,0
-2021-07-18,17,Girona,273,0,0,0
-2021-07-18,18,Granada,3,0,0,0
-2021-07-18,19,Guadalajara,0,0,0,0
-2021-07-18,20,Gipuzkoa,361,0,0,0
-2021-07-18,21,Huelva,22,0,0,0
-2021-07-18,22,Huesca,142,0,1,0
-2021-07-18,23,Jaén,11,0,0,0
-2021-07-18,24,León,86,0,9,0
-2021-07-18,25,Lleida,95,0,0,0
-2021-07-18,26,La Rioja,84,0,0,0
-2021-07-18,27,Lugo,38,0,1,0
-2021-07-18,28,Madrid,849,0,0,0
-2021-07-18,29,Málaga,125,0,6,0
-2021-07-18,30,Murcia,75,0,0,0
-2021-07-18,31,Navarra,398,0,4,1
-2021-07-18,32,Ourense,43,0,3,0
-2021-07-18,33,Asturias,359,1,13,0
-2021-07-18,34,Palencia,80,0,5,0
-2021-07-18,35,Las Palmas,199,0,6,1
-2021-07-18,36,Pontevedra,131,0,4,0
-2021-07-18,37,Salamanca,65,0,0,0
-2021-07-18,38,Santa Cruz de Tenerife,300,1,18,3
-2021-07-18,39,Cantabria,250,0,14,2
-2021-07-18,40,Segovia,43,0,1,0
-2021-07-18,41,Sevilla,19,0,2,0
-2021-07-18,42,Soria,57,0,1,0
-2021-07-18,43,Tarragona,286,0,0,0
-2021-07-18,44,Teruel,47,0,0,0
-2021-07-18,45,Toledo,0,0,0,0
-2021-07-18,46,Valencia/València,19,0,6,0
-2021-07-18,47,Valladolid,177,0,8,0
+2021-07-18,02,Albacete,10,0,0,0
+2021-07-18,03,Alicante/Alacant,256,0,30,0
+2021-07-18,04,Almería,173,0,5,0
+2021-07-18,05,Ávila,36,0,0,0
+2021-07-18,06,Badajoz,154,0,7,0
+2021-07-18,07,Balears,220,0,1,0
+2021-07-18,08,Barcelona,2168,0,33,0
+2021-07-18,09,Burgos,134,1,12,1
+2021-07-18,10,Cáceres,61,0,1,0
+2021-07-18,11,Cádiz,263,0,5,0
+2021-07-18,12,Castellón/Castelló,79,0,12,0
+2021-07-18,13,Ciudad Real,54,0,0,0
+2021-07-18,14,Córdoba,207,0,2,1
+2021-07-18,15,A Coruña,403,0,6,1
+2021-07-18,16,Cuenca,16,0,0,0
+2021-07-18,17,Girona,344,0,3,1
+2021-07-18,18,Granada,95,0,5,0
+2021-07-18,19,Guadalajara,22,0,0,0
+2021-07-18,20,Gipuzkoa,385,0,0,0
+2021-07-18,21,Huelva,89,0,1,0
+2021-07-18,22,Huesca,142,0,2,0
+2021-07-18,23,Jaén,61,0,2,0
+2021-07-18,24,León,89,0,10,0
+2021-07-18,25,Lleida,168,0,0,0
+2021-07-18,26,La Rioja,83,0,0,0
+2021-07-18,27,Lugo,117,0,1,0
+2021-07-18,28,Madrid,1128,0,4,0
+2021-07-18,29,Málaga,422,1,24,1
+2021-07-18,30,Murcia,213,0,4,2
+2021-07-18,31,Navarra,402,0,6,1
+2021-07-18,32,Ourense,90,0,5,0
+2021-07-18,33,Asturias,371,0,14,1
+2021-07-18,34,Palencia,81,0,5,0
+2021-07-18,35,Las Palmas,209,0,6,2
+2021-07-18,36,Pontevedra,350,0,6,0
+2021-07-18,37,Salamanca,68,0,0,0
+2021-07-18,38,Santa Cruz de Tenerife,309,2,18,3
+2021-07-18,39,Cantabria,250,1,13,2
+2021-07-18,40,Segovia,45,0,1,0
+2021-07-18,41,Sevilla,191,0,9,0
+2021-07-18,42,Soria,62,0,1,0
+2021-07-18,43,Tarragona,423,0,0,0
+2021-07-18,44,Teruel,46,0,0,0
+2021-07-18,45,Toledo,49,0,0,0
+2021-07-18,46,Valencia/València,349,1,28,0
+2021-07-18,47,Valladolid,187,0,8,2
 2021-07-18,48,Bizkaia,429,0,0,0
-2021-07-18,49,Zamora,20,0,2,0
-2021-07-18,50,Zaragoza,360,0,5,0
+2021-07-18,49,Zamora,21,0,2,0
+2021-07-18,50,Zaragoza,356,0,13,0
 2021-07-18,51,Ceuta,9,0,0,0
-2021-07-18,52,Melilla,3,0,0,0
-2021-07-19,00,No consta,0,0,0,0
-2021-07-19,01,Araba/Álava,3,0,0,0
+2021-07-18,52,Melilla,6,0,0,0
+2021-07-19,00,No consta,102,0,1,0
+2021-07-19,01,Araba/Álava,127,0,0,0
 2021-07-19,02,Albacete,0,0,0,0
-2021-07-19,03,Alicante/Alacant,0,0,0,0
-2021-07-19,04,Almería,0,0,0,0
-2021-07-19,05,Ávila,0,0,0,0
-2021-07-19,06,Badajoz,0,0,0,0
-2021-07-19,07,Balears,0,0,0,0
-2021-07-19,08,Barcelona,0,0,0,0
-2021-07-19,09,Burgos,0,0,1,0
-2021-07-19,10,Cáceres,0,0,0,0
-2021-07-19,11,Cádiz,0,0,0,0
-2021-07-19,12,Castellón/Castelló,0,0,0,0
-2021-07-19,13,Ciudad Real,0,0,0,0
-2021-07-19,14,Córdoba,0,0,0,0
-2021-07-19,15,A Coruña,0,0,0,0
+2021-07-19,03,Alicante/Alacant,101,0,7,0
+2021-07-19,04,Almería,33,0,3,0
+2021-07-19,05,Ávila,58,0,0,0
+2021-07-19,06,Badajoz,290,0,4,0
+2021-07-19,07,Balears,304,0,0,0
+2021-07-19,08,Barcelona,4488,0,3,0
+2021-07-19,09,Burgos,380,0,5,0
+2021-07-19,10,Cáceres,113,0,1,0
+2021-07-19,11,Cádiz,36,0,1,0
+2021-07-19,12,Castellón/Castelló,34,0,4,0
+2021-07-19,13,Ciudad Real,17,0,1,0
+2021-07-19,14,Córdoba,35,0,4,1
+2021-07-19,15,A Coruña,260,0,7,2
 2021-07-19,16,Cuenca,0,0,0,0
-2021-07-19,17,Girona,0,0,0,0
-2021-07-19,18,Granada,0,0,0,0
+2021-07-19,17,Girona,450,0,0,0
+2021-07-19,18,Granada,5,0,1,0
 2021-07-19,19,Guadalajara,0,0,0,0
-2021-07-19,20,Gipuzkoa,24,0,0,0
-2021-07-19,21,Huelva,0,0,0,0
-2021-07-19,22,Huesca,0,0,0,0
-2021-07-19,23,Jaén,0,0,0,0
-2021-07-19,24,León,0,0,0,0
-2021-07-19,25,Lleida,0,0,0,0
-2021-07-19,26,La Rioja,10,0,0,0
-2021-07-19,27,Lugo,0,0,0,0
-2021-07-19,28,Madrid,0,0,0,0
-2021-07-19,29,Málaga,0,0,0,0
-2021-07-19,30,Murcia,2,0,0,0
-2021-07-19,31,Navarra,0,0,0,0
-2021-07-19,32,Ourense,0,0,0,0
-2021-07-19,33,Asturias,0,0,0,0
-2021-07-19,34,Palencia,0,0,0,0
-2021-07-19,35,Las Palmas,11,0,0,0
-2021-07-19,36,Pontevedra,0,0,0,0
-2021-07-19,37,Salamanca,0,0,0,0
-2021-07-19,38,Santa Cruz de Tenerife,0,0,0,1
-2021-07-19,39,Cantabria,0,0,0,0
-2021-07-19,40,Segovia,0,0,0,0
-2021-07-19,41,Sevilla,0,0,0,0
-2021-07-19,42,Soria,0,0,0,0
-2021-07-19,43,Tarragona,0,0,0,0
-2021-07-19,44,Teruel,0,0,0,0
+2021-07-19,20,Gipuzkoa,393,0,0,0
+2021-07-19,21,Huelva,26,0,0,0
+2021-07-19,22,Huesca,178,0,5,1
+2021-07-19,23,Jaén,14,0,0,0
+2021-07-19,24,León,157,0,3,0
+2021-07-19,25,Lleida,224,0,0,0
+2021-07-19,26,La Rioja,150,0,1,0
+2021-07-19,27,Lugo,60,0,1,0
+2021-07-19,28,Madrid,2957,1,0,0
+2021-07-19,29,Málaga,204,0,4,0
+2021-07-19,30,Murcia,219,0,2,0
+2021-07-19,31,Navarra,436,0,5,0
+2021-07-19,32,Ourense,61,0,7,0
+2021-07-19,33,Asturias,470,0,10,0
+2021-07-19,34,Palencia,140,1,8,1
+2021-07-19,35,Las Palmas,250,0,6,1
+2021-07-19,36,Pontevedra,339,0,11,1
+2021-07-19,37,Salamanca,51,0,0,0
+2021-07-19,38,Santa Cruz de Tenerife,326,0,13,3
+2021-07-19,39,Cantabria,300,0,15,1
+2021-07-19,40,Segovia,65,0,4,0
+2021-07-19,41,Sevilla,16,0,1,0
+2021-07-19,42,Soria,60,0,3,0
+2021-07-19,43,Tarragona,365,0,0,0
+2021-07-19,44,Teruel,71,0,2,0
 2021-07-19,45,Toledo,0,0,0,0
-2021-07-19,46,Valencia/València,0,0,0,0
-2021-07-19,47,Valladolid,0,0,0,0
-2021-07-19,48,Bizkaia,23,0,0,0
-2021-07-19,49,Zamora,0,0,0,0
-2021-07-19,50,Zaragoza,0,0,0,0
-2021-07-19,51,Ceuta,0,0,0,0
-2021-07-19,52,Melilla,0,0,0,0
+2021-07-19,46,Valencia/València,178,0,7,1
+2021-07-19,47,Valladolid,295,1,7,0
+2021-07-19,48,Bizkaia,559,0,0,0
+2021-07-19,49,Zamora,54,0,3,0
+2021-07-19,50,Zaragoza,492,0,8,0
+2021-07-19,51,Ceuta,11,0,0,0
+2021-07-19,52,Melilla,18,0,0,0
+2021-07-20,00,No consta,1,0,0,0
+2021-07-20,01,Araba/Álava,4,0,0,0
+2021-07-20,02,Albacete,0,0,0,0
+2021-07-20,03,Alicante/Alacant,0,0,0,0
+2021-07-20,04,Almería,0,0,0,0
+2021-07-20,05,Ávila,0,0,0,0
+2021-07-20,06,Badajoz,1,0,0,0
+2021-07-20,07,Balears,0,0,0,0
+2021-07-20,08,Barcelona,0,0,0,0
+2021-07-20,09,Burgos,0,0,0,0
+2021-07-20,10,Cáceres,0,0,1,0
+2021-07-20,11,Cádiz,0,0,0,0
+2021-07-20,12,Castellón/Castelló,0,0,0,0
+2021-07-20,13,Ciudad Real,0,0,0,0
+2021-07-20,14,Córdoba,0,0,0,0
+2021-07-20,15,A Coruña,0,0,0,0
+2021-07-20,16,Cuenca,0,0,0,0
+2021-07-20,17,Girona,0,0,0,0
+2021-07-20,18,Granada,0,0,0,0
+2021-07-20,19,Guadalajara,0,0,0,0
+2021-07-20,20,Gipuzkoa,24,0,0,0
+2021-07-20,21,Huelva,0,0,0,0
+2021-07-20,22,Huesca,0,0,0,0
+2021-07-20,23,Jaén,0,0,0,0
+2021-07-20,24,León,0,0,0,0
+2021-07-20,25,Lleida,0,0,0,0
+2021-07-20,26,La Rioja,0,0,0,0
+2021-07-20,27,Lugo,0,0,0,0
+2021-07-20,28,Madrid,0,0,0,0
+2021-07-20,29,Málaga,0,0,0,0
+2021-07-20,30,Murcia,2,0,0,0
+2021-07-20,31,Navarra,0,0,0,0
+2021-07-20,32,Ourense,0,0,0,0
+2021-07-20,33,Asturias,0,0,0,0
+2021-07-20,34,Palencia,0,0,0,0
+2021-07-20,35,Las Palmas,0,0,0,0
+2021-07-20,36,Pontevedra,0,0,0,0
+2021-07-20,37,Salamanca,0,0,0,0
+2021-07-20,38,Santa Cruz de Tenerife,0,1,1,1
+2021-07-20,39,Cantabria,0,0,0,0
+2021-07-20,40,Segovia,0,0,0,0
+2021-07-20,41,Sevilla,0,0,0,0
+2021-07-20,42,Soria,0,0,0,0
+2021-07-20,43,Tarragona,0,0,0,0
+2021-07-20,44,Teruel,0,0,0,0
+2021-07-20,45,Toledo,0,0,0,0
+2021-07-20,46,Valencia/València,0,0,0,0
+2021-07-20,47,Valladolid,0,0,0,0
+2021-07-20,48,Bizkaia,52,0,0,0
+2021-07-20,49,Zamora,0,0,0,0
+2021-07-20,50,Zaragoza,0,0,0,0
+2021-07-20,51,Ceuta,1,0,0,0
+2021-07-20,52,Melilla,0,0,0,0
