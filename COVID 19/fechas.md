@@ -32,11 +32,11 @@
 | Fri, 19 Nov 2021 18:16:53 +0100  | COVID 19/nacional_covid19_datos_sanidad_nueva_serie.csv |
 | Fri, 19 Nov 2021 18:16:51 +0100  | COVID 19/nacional_covid19_datos_sanidad_nueva_serie_grupos_edad.csv |
 | Tue, 5 May 2020 18:24:41 +0200  | COVID 19/provincia_covid19_ERTE.csv |
-| Tue, 14 Sep 2021 16:25:18 +0200  | COVID 19/provincias_covid19_datos_isciii_nueva_serie.csv |
-| Tue, 14 Sep 2021 16:25:18 +0200  | COVID 19/provincias_covid19_datos_sanidad_nueva_serie.csv |
+| Mon, 22 Nov 2021 19:50:40 +0100  | COVID 19/provincias_covid19_datos_isciii_nueva_serie.csv |
+| Mon, 22 Nov 2021 19:50:40 +0100  | COVID 19/provincias_covid19_datos_sanidad_nueva_serie.csv |
 | Sun, 6 Sep 2020 10:01:24 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_final.csv |
 | Thu, 14 May 2020 10:38:36 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_ronda.csv |
 | Thu, 4 Jun 2020 18:55:56 +0200  | COVID 19/provincias_estudio_prevalencia_anticuerpos_primera_y_segunda_ronda.csv |
-| Tue, 14 Sep 2021 16:25:18 +0200  | COVID 19/provincias_ocupacion_camas_uci.csv |
+| Mon, 22 Nov 2021 19:50:40 +0100  | COVID 19/provincias_ocupacion_camas_uci.csv |
 | Sat, 11 Apr 2020 12:37:03 +0200  | COVID 19/puntos_restauracion_comida_para_llevar.csv |
 | Thu, 30 Apr 2020 13:45:21 +0200  | COVID 19/talleres_reparacion_vehiculos_industriales.csv |
