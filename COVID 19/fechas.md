@@ -21,11 +21,11 @@
 | Tue, 4 Jan 2022 19:37:07 +0100  | COVID 19/ccaa_ia14d.csv |
 | Tue, 4 Jan 2022 19:37:11 +0100  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
 | Sat, 10 Oct 2020 10:19:17 +0200  | COVID 19/ccaa_pcr_realizadas_diarias.csv |
-| Tue, 4 Jan 2022 19:13:57 +0100  | COVID 19/ccaa_vacunas.csv |
-| Tue, 4 Jan 2022 19:14:02 +0100  | COVID 19/ccaa_vacunas_dosis_recuerdo.csv |
-| Tue, 4 Jan 2022 19:13:59 +0100  | COVID 19/ccaa_vacunas_grupos_etarios_1_dosis.csv |
-| Tue, 4 Jan 2022 19:14:00 +0100  | COVID 19/ccaa_vacunas_grupos_etarios_pauta_completa.csv |
-| Tue, 4 Jan 2022 19:14:01 +0100  | COVID 19/ccaa_vacunas_pediatricas_5_11.csv |
+| Wed, 5 Jan 2022 17:32:01 +0100  | COVID 19/ccaa_vacunas.csv |
+| Wed, 5 Jan 2022 17:32:07 +0100  | COVID 19/ccaa_vacunas_dosis_recuerdo.csv |
+| Wed, 5 Jan 2022 17:32:04 +0100  | COVID 19/ccaa_vacunas_grupos_etarios_1_dosis.csv |
+| Wed, 5 Jan 2022 17:32:05 +0100  | COVID 19/ccaa_vacunas_grupos_etarios_pauta_completa.csv |
+| Wed, 5 Jan 2022 17:32:06 +0100  | COVID 19/ccaa_vacunas_pediatricas_5_11.csv |
 | Thu, 3 Jun 2021 19:04:55 +0200  | COVID 19/ccaa_vacunas_personas_institucionalizadas.csv |
 | Wed, 29 Apr 2020 09:58:51 +0200  | COVID 19/contratos_emergencia_sanidad.csv |
 | Tue, 4 Jan 2022 19:37:08 +0100  | COVID 19/grupos_edad_ia14d.csv |
