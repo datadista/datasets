@@ -22,7 +22,7 @@
 | Tue, 11 Jan 2022 20:58:53 +0100  | COVID 19/ccaa_ingresos_camas_convencionales_uci.csv |
 | Sat, 10 Oct 2020 10:19:17 +0200  | COVID 19/ccaa_pcr_realizadas_diarias.csv |
 | Wed, 12 Jan 2022 18:38:44 +0100  | COVID 19/ccaa_vacunas.csv |
-| Wed, 12 Jan 2022 18:38:51 +0100  | COVID 19/ccaa_vacunas_dosis_recuerdo.csv |
+| Wed, 12 Jan 2022 18:58:50 +0100  | COVID 19/ccaa_vacunas_dosis_recuerdo.csv |
 | Wed, 12 Jan 2022 18:38:48 +0100  | COVID 19/ccaa_vacunas_grupos_etarios_1_dosis.csv |
 | Wed, 12 Jan 2022 18:38:50 +0100  | COVID 19/ccaa_vacunas_grupos_etarios_pauta_completa.csv |
 | Wed, 12 Jan 2022 18:38:51 +0100  | COVID 19/ccaa_vacunas_pediatricas_5_11.csv |
